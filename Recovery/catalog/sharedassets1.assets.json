@@ -1,0 +1,6010 @@
+{
+  "externals": [
+    {
+      "label": "",
+      "path": "library/unity default resources",
+      "kind": 0
+    },
+    {
+      "label": "",
+      "path": "sharedassets0.assets",
+      "kind": 0
+    }
+  ],
+  "file": "sharedassets1.assets",
+  "formatVersion": 6,
+  "types": {},
+  "objects": [
+    {
+      "id": 1,
+      "offset": 16,
+      "size": 832,
+      "typeId": 150,
+      "classId": 150
+    },
+    {
+      "id": 2,
+      "offset": 848,
+      "size": 8248,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "1x"
+    },
+    {
+      "id": 3,
+      "offset": 9096,
+      "size": 65604,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "highscore_bg_red"
+    },
+    {
+      "id": 4,
+      "offset": 74704,
+      "size": 65596,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "ex_nhs_a"
+    },
+    {
+      "id": 5,
+      "offset": 140304,
+      "size": 65600,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "ex_secret"
+    },
+    {
+      "id": 6,
+      "offset": 205904,
+      "size": 32836,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "ui_stats_streak"
+    },
+    {
+      "id": 7,
+      "offset": 238744,
+      "size": 524356,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "Quarter00"
+    },
+    {
+      "id": 8,
+      "offset": 763104,
+      "size": 11072,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "biplane_00"
+    },
+    {
+      "id": 9,
+      "offset": 774176,
+      "size": 32840,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "ui_stats_coinleft"
+    },
+    {
+      "id": 10,
+      "offset": 807016,
+      "size": 8252,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "flare"
+    },
+    {
+      "id": 11,
+      "offset": 815272,
+      "size": 8256,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "angle_arrow"
+    },
+    {
+      "id": 12,
+      "offset": 823528,
+      "size": 131144,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "ui_screens_players_3"
+    },
+    {
+      "id": 13,
+      "offset": 954672,
+      "size": 8252,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "hs_01"
+    },
+    {
+      "id": 14,
+      "offset": 962928,
+      "size": 320,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "number_map"
+    },
+    {
+      "id": 15,
+      "offset": 963248,
+      "size": 131140,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "ui_quit_practice"
+    },
+    {
+      "id": 16,
+      "offset": 1094392,
+      "size": 65604,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "button_quit_00"
+    },
+    {
+      "id": 17,
+      "offset": 1160000,
+      "size": 65604,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "ui_replay_grey"
+    },
+    {
+      "id": 18,
+      "offset": 1225608,
+      "size": 8256,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "ui_sound_off"
+    },
+    {
+      "id": 19,
+      "offset": 1233864,
+      "size": 131140,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "ui_shake2shoot"
+    },
+    {
+      "id": 20,
+      "offset": 1365008,
+      "size": 16448,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "font Texture"
+    },
+    {
+      "id": 21,
+      "offset": 1381456,
+      "size": 65596,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "ex_great"
+    },
+    {
+      "id": 22,
+      "offset": 1447056,
+      "size": 11076,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "Icon_R_large_00"
+    },
+    {
+      "id": 23,
+      "offset": 1458136,
+      "size": 174828,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "BottleBlue"
+    },
+    {
+      "id": 24,
+      "offset": 1632968,
+      "size": 8256,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "ui_sound_on"
+    },
+    {
+      "id": 25,
+      "offset": 1641224,
+      "size": 8252,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "hs_09"
+    },
+    {
+      "id": 26,
+      "offset": 1649480,
+      "size": 131136,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "ex_in_a_row"
+    },
+    {
+      "id": 27,
+      "offset": 1780616,
+      "size": 131144,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "ui_screens_players_2"
+    },
+    {
+      "id": 28,
+      "offset": 1911760,
+      "size": 8256,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "lightrays_00"
+    },
+    {
+      "id": 29,
+      "offset": 1920016,
+      "size": 8252,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "ui_help"
+    },
+    {
+      "id": 30,
+      "offset": 1928272,
+      "size": 65604,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "button_done_00"
+    },
+    {
+      "id": 31,
+      "offset": 1993880,
+      "size": 32832,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "lock_anim"
+    },
+    {
+      "id": 32,
+      "offset": 2026712,
+      "size": 32832,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "ui_count_up"
+    },
+    {
+      "id": 33,
+      "offset": 2059544,
+      "size": 65596,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "ex_nhs_c"
+    },
+    {
+      "id": 34,
+      "offset": 2125144,
+      "size": 32836,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "ui_stats_score"
+    },
+    {
+      "id": 35,
+      "offset": 2157984,
+      "size": 8252,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "hs_05"
+    },
+    {
+      "id": 36,
+      "offset": 2166240,
+      "size": 8252,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "hs_07"
+    },
+    {
+      "id": 37,
+      "offset": 2174496,
+      "size": 65608,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "highscore_bg_blue"
+    },
+    {
+      "id": 38,
+      "offset": 2240104,
+      "size": 8252,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "hs_02"
+    },
+    {
+      "id": 39,
+      "offset": 2248360,
+      "size": 65596,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "ui_blank"
+    },
+    {
+      "id": 40,
+      "offset": 2313960,
+      "size": 8252,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "hs_06"
+    },
+    {
+      "id": 41,
+      "offset": 2322216,
+      "size": 131140,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "ui_flick2shoot"
+    },
+    {
+      "id": 42,
+      "offset": 2453360,
+      "size": 32832,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "Icon_R_Exc"
+    },
+    {
+      "id": 43,
+      "offset": 2486192,
+      "size": 524352,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "scene_bar_00"
+    },
+    {
+      "id": 44,
+      "offset": 3010544,
+      "size": 174832,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "DeflAnim_Bird00"
+    },
+    {
+      "id": 45,
+      "offset": 3185376,
+      "size": 1048644,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "ui_in_game_op"
+    },
+    {
+      "id": 46,
+      "offset": 4234024,
+      "size": 43844,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "Defl_Cellphone01"
+    },
+    {
+      "id": 47,
+      "offset": 4277872,
+      "size": 87448,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "round"
+    },
+    {
+      "id": 48,
+      "offset": 4365320,
+      "size": 174836,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "ui_practice_mode_top"
+    },
+    {
+      "id": 49,
+      "offset": 4540160,
+      "size": 8248,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "2x"
+    },
+    {
+      "id": 50,
+      "offset": 4548408,
+      "size": 8252,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "hs_04"
+    },
+    {
+      "id": 51,
+      "offset": 4556664,
+      "size": 65604,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "exciter_bonus"
+    },
+    {
+      "id": 52,
+      "offset": 4622272,
+      "size": 65604,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "high_score_bg"
+    },
+    {
+      "id": 53,
+      "offset": 4687880,
+      "size": 32824,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "lock"
+    },
+    {
+      "id": 54,
+      "offset": 4720704,
+      "size": 131132,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "q_stack"
+    },
+    {
+      "id": 55,
+      "offset": 4851840,
+      "size": 43840,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "bobble_00"
+    },
+    {
+      "id": 56,
+      "offset": 4895680,
+      "size": 11068,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "helo_00"
+    },
+    {
+      "id": 57,
+      "offset": 4906752,
+      "size": 8252,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "hs_00"
+    },
+    {
+      "id": 58,
+      "offset": 4915008,
+      "size": 8252,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "hs_08"
+    },
+    {
+      "id": 59,
+      "offset": 4923264,
+      "size": 43840,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "Shotglass_00"
+    },
+    {
+      "id": 60,
+      "offset": 4967104,
+      "size": 131144,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "ui_screens_players_1"
+    },
+    {
+      "id": 61,
+      "offset": 5098248,
+      "size": 43836,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "hula_00"
+    },
+    {
+      "id": 62,
+      "offset": 5142088,
+      "size": 11068,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "flash_00"
+    },
+    {
+      "id": 63,
+      "offset": 5153160,
+      "size": 43840,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "pendulum_00"
+    },
+    {
+      "id": 64,
+      "offset": 5197000,
+      "size": 87448,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "complete"
+    },
+    {
+      "id": 65,
+      "offset": 5284448,
+      "size": 131144,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "ui_screens_players_4"
+    },
+    {
+      "id": 66,
+      "offset": 5415592,
+      "size": 65604,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "ui_player_header"
+    },
+    {
+      "id": 67,
+      "offset": 5481200,
+      "size": 65596,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "ex_round"
+    },
+    {
+      "id": 68,
+      "offset": 5546800,
+      "size": 32840,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "ui_stats_richochet"
+    },
+    {
+      "id": 69,
+      "offset": 5579640,
+      "size": 65604,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "button_mute_00"
+    },
+    {
+      "id": 70,
+      "offset": 5645248,
+      "size": 65596,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "ui_stats"
+    },
+    {
+      "id": 71,
+      "offset": 5710848,
+      "size": 43844,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "lazy_susan_00"
+    },
+    {
+      "id": 72,
+      "offset": 5754696,
+      "size": 131132,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "table_00"
+    },
+    {
+      "id": 73,
+      "offset": 5885832,
+      "size": 65604,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "button_done_00"
+    },
+    {
+      "id": 74,
+      "offset": 5951440,
+      "size": 10980,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "4x"
+    },
+    {
+      "id": 75,
+      "offset": 5962424,
+      "size": 1572928,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "scene_bar_01"
+    },
+    {
+      "id": 76,
+      "offset": 7535352,
+      "size": 131144,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "ui_name_leaderboard"
+    },
+    {
+      "id": 77,
+      "offset": 7666496,
+      "size": 131136,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "quarter_cup"
+    },
+    {
+      "id": 78,
+      "offset": 7797632,
+      "size": 65608,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "button_shackshot_00"
+    },
+    {
+      "id": 79,
+      "offset": 7863240,
+      "size": 8252,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "hs_03"
+    },
+    {
+      "id": 80,
+      "offset": 7871496,
+      "size": 43844,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "check_holder_00"
+    },
+    {
+      "id": 81,
+      "offset": 7915344,
+      "size": 43844,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "DeflAnim_Zip00"
+    },
+    {
+      "id": 82,
+      "offset": 7959192,
+      "size": 10980,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "3x"
+    },
+    {
+      "id": 83,
+      "offset": 7970176,
+      "size": 65608,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "highscore_bg_orange"
+    },
+    {
+      "id": 84,
+      "offset": 8035784,
+      "size": 2112,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "shadow_00"
+    },
+    {
+      "id": 85,
+      "offset": 8037896,
+      "size": 87456,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "ui_coins_left"
+    },
+    {
+      "id": 86,
+      "offset": 8125352,
+      "size": 65604,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "ui_practice_go"
+    },
+    {
+      "id": 87,
+      "offset": 8190960,
+      "size": 65596,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "ex_nhs_b"
+    },
+    {
+      "id": 88,
+      "offset": 8256560,
+      "size": 65600,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "ex_complete"
+    },
+    {
+      "id": 89,
+      "offset": 8322160,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "score_01"
+    },
+    {
+      "id": 90,
+      "offset": 8322488,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "background01"
+    },
+    {
+      "id": 91,
+      "offset": 8322824,
+      "size": 336,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "logo_quarters_00"
+    },
+    {
+      "id": 92,
+      "offset": 8323160,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "logo_bg_q_00"
+    },
+    {
+      "id": 93,
+      "offset": 8323496,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "flare_01"
+    },
+    {
+      "id": 94,
+      "offset": 8323824,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "flare_03"
+    },
+    {
+      "id": 95,
+      "offset": 8324152,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "coins_01"
+    },
+    {
+      "id": 96,
+      "offset": 8324480,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "coins_02"
+    },
+    {
+      "id": 97,
+      "offset": 8324808,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "stats_done"
+    },
+    {
+      "id": 98,
+      "offset": 8325144,
+      "size": 460,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "dimplane_camera"
+    },
+    {
+      "id": 99,
+      "offset": 8325608,
+      "size": 1376,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_card_01"
+    },
+    {
+      "id": 100,
+      "offset": 8326984,
+      "size": 1376,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_card_02"
+    },
+    {
+      "id": 101,
+      "offset": 8328360,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "flare_04"
+    },
+    {
+      "id": 102,
+      "offset": 8328688,
+      "size": 472,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "stats_bg_p1_c"
+    },
+    {
+      "id": 103,
+      "offset": 8329160,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "flare_02"
+    },
+    {
+      "id": 104,
+      "offset": 8329488,
+      "size": 1376,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_card_03"
+    },
+    {
+      "id": 105,
+      "offset": 8330864,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "stats_logo"
+    },
+    {
+      "id": 106,
+      "offset": 8331200,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "pl1_c"
+    },
+    {
+      "id": 107,
+      "offset": 8331528,
+      "size": 472,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "stats_bg_p2_c"
+    },
+    {
+      "id": 108,
+      "offset": 8332000,
+      "size": 984,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "coin_holder_top"
+    },
+    {
+      "id": 109,
+      "offset": 8332984,
+      "size": 468,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "coins_left"
+    },
+    {
+      "id": 110,
+      "offset": 8333456,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "winners_cup"
+    },
+    {
+      "id": 111,
+      "offset": 8333792,
+      "size": 336,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "coin_holder_base"
+    },
+    {
+      "id": 112,
+      "offset": 8334128,
+      "size": 336,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "button_hs_done"
+    },
+    {
+      "id": 113,
+      "offset": 8334464,
+      "size": 472,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "high_score_bg_05"
+    },
+    {
+      "id": 114,
+      "offset": 8334936,
+      "size": 472,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "high_score_bg_06"
+    },
+    {
+      "id": 115,
+      "offset": 8335408,
+      "size": 472,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "high_score_bg_07"
+    },
+    {
+      "id": 116,
+      "offset": 8335880,
+      "size": 472,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "high_score_bg_08"
+    },
+    {
+      "id": 117,
+      "offset": 8336352,
+      "size": 472,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "high_score_bg_09"
+    },
+    {
+      "id": 118,
+      "offset": 8336824,
+      "size": 472,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "high_score_bg_04"
+    },
+    {
+      "id": 119,
+      "offset": 8337296,
+      "size": 472,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "high_score_bg_03"
+    },
+    {
+      "id": 120,
+      "offset": 8337768,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "score_04"
+    },
+    {
+      "id": 121,
+      "offset": 8338096,
+      "size": 472,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "high_score_bg_02"
+    },
+    {
+      "id": 122,
+      "offset": 8338568,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "score_03"
+    },
+    {
+      "id": 123,
+      "offset": 8338896,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "score_02"
+    },
+    {
+      "id": 124,
+      "offset": 8339224,
+      "size": 472,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "high_score_bg_01"
+    },
+    {
+      "id": 125,
+      "offset": 8339696,
+      "size": 472,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "high_score_bg_00"
+    },
+    {
+      "id": 126,
+      "offset": 8340168,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "richochet_a"
+    },
+    {
+      "id": 127,
+      "offset": 8340504,
+      "size": 340,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "stats_coins_left_c"
+    },
+    {
+      "id": 128,
+      "offset": 8340848,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "in_a_row"
+    },
+    {
+      "id": 129,
+      "offset": 8341176,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "hs_03"
+    },
+    {
+      "id": 130,
+      "offset": 8341504,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "hs_02"
+    },
+    {
+      "id": 131,
+      "offset": 8341832,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "hs_01"
+    },
+    {
+      "id": 132,
+      "offset": 8342160,
+      "size": 336,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "stats_score_c"
+    },
+    {
+      "id": 133,
+      "offset": 8342496,
+      "size": 340,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "stats_coins_left_d"
+    },
+    {
+      "id": 134,
+      "offset": 8342840,
+      "size": 472,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "stats_bg_p2_d"
+    },
+    {
+      "id": 135,
+      "offset": 8343312,
+      "size": 340,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "stats_richochet_d"
+    },
+    {
+      "id": 136,
+      "offset": 8343656,
+      "size": 472,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "stats_bg_p3_d"
+    },
+    {
+      "id": 137,
+      "offset": 8344128,
+      "size": 336,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "stats_streak_d"
+    },
+    {
+      "id": 138,
+      "offset": 8344464,
+      "size": 336,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "stats_score_d"
+    },
+    {
+      "id": 139,
+      "offset": 8344800,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "pl02_d"
+    },
+    {
+      "id": 140,
+      "offset": 8345128,
+      "size": 5284,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "cellphone_lid"
+    },
+    {
+      "id": 141,
+      "offset": 8350416,
+      "size": 18620,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "cellphone"
+    },
+    {
+      "id": 142,
+      "offset": 8369040,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "pl03_d"
+    },
+    {
+      "id": 143,
+      "offset": 8369368,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "pl04_d"
+    },
+    {
+      "id": 144,
+      "offset": 8369696,
+      "size": 472,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "stats_bg_p4_d"
+    },
+    {
+      "id": 145,
+      "offset": 8370168,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "pl01_d"
+    },
+    {
+      "id": 146,
+      "offset": 8370496,
+      "size": 452,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "dimplane"
+    },
+    {
+      "id": 147,
+      "offset": 8370952,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "hs_01"
+    },
+    {
+      "id": 148,
+      "offset": 8371280,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "hs_02"
+    },
+    {
+      "id": 149,
+      "offset": 8371608,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "hs_03"
+    },
+    {
+      "id": 150,
+      "offset": 8371936,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "background01"
+    },
+    {
+      "id": 151,
+      "offset": 8372272,
+      "size": 14828,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "check_holder_00"
+    },
+    {
+      "id": 152,
+      "offset": 8387104,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "bonus"
+    },
+    {
+      "id": 153,
+      "offset": 8387432,
+      "size": 340,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "logo_quarters_stats"
+    },
+    {
+      "id": 154,
+      "offset": 8387776,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "hs_05"
+    },
+    {
+      "id": 155,
+      "offset": 8388104,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "hs_04"
+    },
+    {
+      "id": 156,
+      "offset": 8388432,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "bonus01"
+    },
+    {
+      "id": 157,
+      "offset": 8388760,
+      "size": 1468,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "Box01"
+    },
+    {
+      "id": 158,
+      "offset": 8390232,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "score_1x"
+    },
+    {
+      "id": 159,
+      "offset": 8390560,
+      "size": 336,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "logo_bg_q_stats"
+    },
+    {
+      "id": 160,
+      "offset": 8390896,
+      "size": 472,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "stats_bg_p1_c"
+    },
+    {
+      "id": 161,
+      "offset": 8391368,
+      "size": 68016,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "bobble_body_00"
+    },
+    {
+      "id": 162,
+      "offset": 8459384,
+      "size": 41452,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "bobble_head_00"
+    },
+    {
+      "id": 163,
+      "offset": 8500840,
+      "size": 472,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "stats_bg_p1_d"
+    },
+    {
+      "id": 164,
+      "offset": 8501312,
+      "size": 336,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "stats_streak_c"
+    },
+    {
+      "id": 165,
+      "offset": 8501648,
+      "size": 340,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "stats_richochet_c"
+    },
+    {
+      "id": 166,
+      "offset": 8501992,
+      "size": 1476,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "center_marker"
+    },
+    {
+      "id": 167,
+      "offset": 8503472,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_08"
+    },
+    {
+      "id": 168,
+      "offset": 8503808,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_07"
+    },
+    {
+      "id": 169,
+      "offset": 8504144,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_06"
+    },
+    {
+      "id": 170,
+      "offset": 8504480,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_05"
+    },
+    {
+      "id": 171,
+      "offset": 8504816,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_04"
+    },
+    {
+      "id": 172,
+      "offset": 8505152,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_03"
+    },
+    {
+      "id": 173,
+      "offset": 8505488,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_02"
+    },
+    {
+      "id": 174,
+      "offset": 8505824,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_01"
+    },
+    {
+      "id": 175,
+      "offset": 8506160,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_00"
+    },
+    {
+      "id": 176,
+      "offset": 8506496,
+      "size": 336,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "logo_bg_q_stats"
+    },
+    {
+      "id": 177,
+      "offset": 8506832,
+      "size": 340,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "logo_quarters_stats"
+    },
+    {
+      "id": 178,
+      "offset": 8507176,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "coins_left"
+    },
+    {
+      "id": 179,
+      "offset": 8507512,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "background01"
+    },
+    {
+      "id": 180,
+      "offset": 8507848,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "bonus"
+    },
+    {
+      "id": 181,
+      "offset": 8508176,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "hs_05"
+    },
+    {
+      "id": 182,
+      "offset": 8508504,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "hs_04"
+    },
+    {
+      "id": 183,
+      "offset": 8508832,
+      "size": 1888,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "rich_18"
+    },
+    {
+      "id": 184,
+      "offset": 8510720,
+      "size": 884,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "rich_19"
+    },
+    {
+      "id": 185,
+      "offset": 8511608,
+      "size": 1112,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "rich_20"
+    },
+    {
+      "id": 186,
+      "offset": 8512720,
+      "size": 1888,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "rich_21"
+    },
+    {
+      "id": 187,
+      "offset": 8514608,
+      "size": 1368,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "rich_22"
+    },
+    {
+      "id": 188,
+      "offset": 8515976,
+      "size": 1092,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "rich_23"
+    },
+    {
+      "id": 189,
+      "offset": 8517072,
+      "size": 1496,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "rich_10"
+    },
+    {
+      "id": 190,
+      "offset": 8518568,
+      "size": 884,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "rich_11"
+    },
+    {
+      "id": 191,
+      "offset": 8519456,
+      "size": 1372,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "rich_12"
+    },
+    {
+      "id": 192,
+      "offset": 8520832,
+      "size": 1236,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "rich_13"
+    },
+    {
+      "id": 193,
+      "offset": 8522072,
+      "size": 1504,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "rich_14"
+    },
+    {
+      "id": 194,
+      "offset": 8523576,
+      "size": 1476,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "center_marker"
+    },
+    {
+      "id": 195,
+      "offset": 8525056,
+      "size": 324,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "lock"
+    },
+    {
+      "id": 196,
+      "offset": 8525384,
+      "size": 452,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "dimplane"
+    },
+    {
+      "id": 197,
+      "offset": 8525840,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "hs_01"
+    },
+    {
+      "id": 198,
+      "offset": 8526168,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "hs_02"
+    },
+    {
+      "id": 199,
+      "offset": 8526496,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "hs_03"
+    },
+    {
+      "id": 200,
+      "offset": 8526824,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_35"
+    },
+    {
+      "id": 201,
+      "offset": 8527160,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_34"
+    },
+    {
+      "id": 202,
+      "offset": 8527496,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_33"
+    },
+    {
+      "id": 203,
+      "offset": 8527832,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_32"
+    },
+    {
+      "id": 204,
+      "offset": 8528168,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_31"
+    },
+    {
+      "id": 205,
+      "offset": 8528504,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_30"
+    },
+    {
+      "id": 206,
+      "offset": 8528840,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_29"
+    },
+    {
+      "id": 207,
+      "offset": 8529176,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_28"
+    },
+    {
+      "id": 208,
+      "offset": 8529512,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_27"
+    },
+    {
+      "id": 209,
+      "offset": 8529848,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_26"
+    },
+    {
+      "id": 210,
+      "offset": 8530184,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_25"
+    },
+    {
+      "id": 211,
+      "offset": 8530520,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_24"
+    },
+    {
+      "id": 212,
+      "offset": 8530856,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_23"
+    },
+    {
+      "id": 213,
+      "offset": 8531192,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_22"
+    },
+    {
+      "id": 214,
+      "offset": 8531528,
+      "size": 468,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "coin_amount"
+    },
+    {
+      "id": 215,
+      "offset": 8532000,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "hs_01"
+    },
+    {
+      "id": 216,
+      "offset": 8532328,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "hs_02"
+    },
+    {
+      "id": 217,
+      "offset": 8532656,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_09"
+    },
+    {
+      "id": 218,
+      "offset": 8532992,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_10"
+    },
+    {
+      "id": 219,
+      "offset": 8533328,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_16"
+    },
+    {
+      "id": 220,
+      "offset": 8533664,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_12"
+    },
+    {
+      "id": 221,
+      "offset": 8534000,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_13"
+    },
+    {
+      "id": 222,
+      "offset": 8534336,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_14"
+    },
+    {
+      "id": 223,
+      "offset": 8534672,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_15"
+    },
+    {
+      "id": 224,
+      "offset": 8535008,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_21"
+    },
+    {
+      "id": 225,
+      "offset": 8535344,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_17"
+    },
+    {
+      "id": 226,
+      "offset": 8535680,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_18"
+    },
+    {
+      "id": 227,
+      "offset": 8536016,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_19"
+    },
+    {
+      "id": 228,
+      "offset": 8536352,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_20"
+    },
+    {
+      "id": 229,
+      "offset": 8536688,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_11"
+    },
+    {
+      "id": 230,
+      "offset": 8537024,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_38"
+    },
+    {
+      "id": 231,
+      "offset": 8537360,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_39"
+    },
+    {
+      "id": 232,
+      "offset": 8537696,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_37"
+    },
+    {
+      "id": 233,
+      "offset": 8538032,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_36"
+    },
+    {
+      "id": 234,
+      "offset": 8538368,
+      "size": 21152,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "COL"
+    },
+    {
+      "id": 235,
+      "offset": 8559520,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "hs_04"
+    },
+    {
+      "id": 236,
+      "offset": 8559848,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "hs_05"
+    },
+    {
+      "id": 237,
+      "offset": 8560176,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "hs_06"
+    },
+    {
+      "id": 238,
+      "offset": 8560504,
+      "size": 8300,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "table_00"
+    },
+    {
+      "id": 239,
+      "offset": 8568808,
+      "size": 8932,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "arrow_left"
+    },
+    {
+      "id": 240,
+      "offset": 8577744,
+      "size": 3928,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "Liquid"
+    },
+    {
+      "id": 241,
+      "offset": 8581672,
+      "size": 33252,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "Bird_Anim"
+    },
+    {
+      "id": 242,
+      "offset": 8614928,
+      "size": 19360,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "Root"
+    },
+    {
+      "id": 243,
+      "offset": 8634288,
+      "size": 24096,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "Root"
+    },
+    {
+      "id": 244,
+      "offset": 8658384,
+      "size": 27120,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "COL"
+    },
+    {
+      "id": 245,
+      "offset": 8685504,
+      "size": 3028,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "Inside"
+    },
+    {
+      "id": 246,
+      "offset": 8688536,
+      "size": 33012,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "COL"
+    },
+    {
+      "id": 247,
+      "offset": 8721552,
+      "size": 9236,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "Inside"
+    },
+    {
+      "id": 248,
+      "offset": 8730792,
+      "size": 33012,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "Root"
+    },
+    {
+      "id": 249,
+      "offset": 8763808,
+      "size": 18612,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "secret"
+    },
+    {
+      "id": 250,
+      "offset": 8782424,
+      "size": 336,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "round_graphic"
+    },
+    {
+      "id": 251,
+      "offset": 8782760,
+      "size": 13704,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "06"
+    },
+    {
+      "id": 252,
+      "offset": 8796464,
+      "size": 6652,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "07"
+    },
+    {
+      "id": 253,
+      "offset": 8803120,
+      "size": 15708,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "08"
+    },
+    {
+      "id": 254,
+      "offset": 8818832,
+      "size": 13944,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "09"
+    },
+    {
+      "id": 255,
+      "offset": 8832776,
+      "size": 16640,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "10"
+    },
+    {
+      "id": 256,
+      "offset": 8849416,
+      "size": 16816,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "11"
+    },
+    {
+      "id": 257,
+      "offset": 8866232,
+      "size": 19112,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "12"
+    },
+    {
+      "id": 258,
+      "offset": 8885344,
+      "size": 24428,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "13"
+    },
+    {
+      "id": 259,
+      "offset": 8909776,
+      "size": 21496,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "14"
+    },
+    {
+      "id": 260,
+      "offset": 8931272,
+      "size": 20740,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "15"
+    },
+    {
+      "id": 261,
+      "offset": 8952016,
+      "size": 12520,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "05"
+    },
+    {
+      "id": 262,
+      "offset": 8964536,
+      "size": 7944,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "01"
+    },
+    {
+      "id": 263,
+      "offset": 8972480,
+      "size": 13336,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "04"
+    },
+    {
+      "id": 264,
+      "offset": 8985816,
+      "size": 9188,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "02"
+    },
+    {
+      "id": 265,
+      "offset": 8995008,
+      "size": 14648,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "03"
+    },
+    {
+      "id": 266,
+      "offset": 9009656,
+      "size": 1480,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "round_move_marker"
+    },
+    {
+      "id": 267,
+      "offset": 9011136,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "deg_03"
+    },
+    {
+      "id": 268,
+      "offset": 9011464,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "deg_02"
+    },
+    {
+      "id": 269,
+      "offset": 9011792,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "deg_01"
+    },
+    {
+      "id": 270,
+      "offset": 9012120,
+      "size": 5320,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "Inside"
+    },
+    {
+      "id": 271,
+      "offset": 9017440,
+      "size": 17716,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "Root"
+    },
+    {
+      "id": 272,
+      "offset": 9035160,
+      "size": 6516,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "root"
+    },
+    {
+      "id": 273,
+      "offset": 9041680,
+      "size": 1472,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "collide02"
+    },
+    {
+      "id": 274,
+      "offset": 9043152,
+      "size": 39012,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "pend_pit_00"
+    },
+    {
+      "id": 275,
+      "offset": 9082168,
+      "size": 15432,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "pend_00"
+    },
+    {
+      "id": 276,
+      "offset": 9097600,
+      "size": 1476,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "center_marker"
+    },
+    {
+      "id": 277,
+      "offset": 9099080,
+      "size": 336,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "richochet_score"
+    },
+    {
+      "id": 278,
+      "offset": 9099416,
+      "size": 1476,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "number_parent"
+    },
+    {
+      "id": 279,
+      "offset": 9100896,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "rs_01"
+    },
+    {
+      "id": 280,
+      "offset": 9101224,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "rs_02"
+    },
+    {
+      "id": 281,
+      "offset": 9101552,
+      "size": 1716,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "rich_15"
+    },
+    {
+      "id": 282,
+      "offset": 9103272,
+      "size": 856,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "rich_16"
+    },
+    {
+      "id": 283,
+      "offset": 9104128,
+      "size": 1112,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "rich_17"
+    },
+    {
+      "id": 284,
+      "offset": 9105240,
+      "size": 5220,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "Inside"
+    },
+    {
+      "id": 285,
+      "offset": 9110464,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "player_01"
+    },
+    {
+      "id": 286,
+      "offset": 9110800,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "player_02"
+    },
+    {
+      "id": 287,
+      "offset": 9111136,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "player_03"
+    },
+    {
+      "id": 288,
+      "offset": 9111472,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "player_04"
+    },
+    {
+      "id": 289,
+      "offset": 9111808,
+      "size": 14448,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "Root"
+    },
+    {
+      "id": 290,
+      "offset": 9126256,
+      "size": 14436,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "Root"
+    },
+    {
+      "id": 291,
+      "offset": 9140696,
+      "size": 5276,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "Inside"
+    },
+    {
+      "id": 292,
+      "offset": 9145976,
+      "size": 24272,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "COL"
+    },
+    {
+      "id": 293,
+      "offset": 9170248,
+      "size": 30444,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "COL"
+    },
+    {
+      "id": 294,
+      "offset": 9200696,
+      "size": 1472,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "glass_scaler"
+    },
+    {
+      "id": 295,
+      "offset": 9202168,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "ang_level"
+    },
+    {
+      "id": 296,
+      "offset": 9202504,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "ang_arrow"
+    },
+    {
+      "id": 297,
+      "offset": 9202840,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "ang_pivot"
+    },
+    {
+      "id": 298,
+      "offset": 9203176,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "button_angle"
+    },
+    {
+      "id": 299,
+      "offset": 9203512,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "button_done"
+    },
+    {
+      "id": 300,
+      "offset": 9203848,
+      "size": 1340,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "highscore_dim"
+    },
+    {
+      "id": 301,
+      "offset": 9205192,
+      "size": 1892,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "new_high_04"
+    },
+    {
+      "id": 302,
+      "offset": 9207088,
+      "size": 1372,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "new_high_02"
+    },
+    {
+      "id": 303,
+      "offset": 9208464,
+      "size": 1376,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "new_high_01"
+    },
+    {
+      "id": 304,
+      "offset": 9209840,
+      "size": 560,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "new_high_08"
+    },
+    {
+      "id": 305,
+      "offset": 9210400,
+      "size": 14648,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "03"
+    },
+    {
+      "id": 306,
+      "offset": 9225048,
+      "size": 9188,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "02"
+    },
+    {
+      "id": 307,
+      "offset": 9234240,
+      "size": 13336,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "04"
+    },
+    {
+      "id": 308,
+      "offset": 9247576,
+      "size": 7944,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "01"
+    },
+    {
+      "id": 309,
+      "offset": 9255520,
+      "size": 12520,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "05"
+    },
+    {
+      "id": 310,
+      "offset": 9268040,
+      "size": 20608,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "15"
+    },
+    {
+      "id": 311,
+      "offset": 9288648,
+      "size": 21772,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "14"
+    },
+    {
+      "id": 312,
+      "offset": 9310424,
+      "size": 24304,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "13"
+    },
+    {
+      "id": 313,
+      "offset": 9334728,
+      "size": 19172,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "12"
+    },
+    {
+      "id": 314,
+      "offset": 9353904,
+      "size": 16748,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "11"
+    },
+    {
+      "id": 315,
+      "offset": 9370656,
+      "size": 16668,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "10"
+    },
+    {
+      "id": 316,
+      "offset": 9387328,
+      "size": 13944,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "09"
+    },
+    {
+      "id": 317,
+      "offset": 9401272,
+      "size": 15708,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "08"
+    },
+    {
+      "id": 318,
+      "offset": 9416984,
+      "size": 6652,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "07"
+    },
+    {
+      "id": 319,
+      "offset": 9423640,
+      "size": 13704,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "06"
+    },
+    {
+      "id": 320,
+      "offset": 9437344,
+      "size": 452,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "dimplane"
+    },
+    {
+      "id": 321,
+      "offset": 9437800,
+      "size": 472,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "complete_graphic"
+    },
+    {
+      "id": 322,
+      "offset": 9438272,
+      "size": 472,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "round_graphic"
+    },
+    {
+      "id": 323,
+      "offset": 9438744,
+      "size": 5856,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "helo_tail_rotor"
+    },
+    {
+      "id": 324,
+      "offset": 9444600,
+      "size": 5852,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "helo_rotor"
+    },
+    {
+      "id": 325,
+      "offset": 9450456,
+      "size": 24456,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "helo_body"
+    },
+    {
+      "id": 326,
+      "offset": 9474912,
+      "size": 1124,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "richochet_dock"
+    },
+    {
+      "id": 327,
+      "offset": 9476040,
+      "size": 1476,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "center_marker"
+    },
+    {
+      "id": 328,
+      "offset": 9477520,
+      "size": 1472,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "hide_this"
+    },
+    {
+      "id": 329,
+      "offset": 9478992,
+      "size": 1376,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_card_03"
+    },
+    {
+      "id": 330,
+      "offset": 9480368,
+      "size": 1376,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_card_02"
+    },
+    {
+      "id": 331,
+      "offset": 9481744,
+      "size": 1376,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quarter_card_01"
+    },
+    {
+      "id": 332,
+      "offset": 9483120,
+      "size": 452,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "dimplane"
+    },
+    {
+      "id": 333,
+      "offset": 9483576,
+      "size": 10328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "game_over_a"
+    },
+    {
+      "id": 334,
+      "offset": 9493904,
+      "size": 1372,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "complete07"
+    },
+    {
+      "id": 335,
+      "offset": 9495280,
+      "size": 1116,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "complete00"
+    },
+    {
+      "id": 336,
+      "offset": 9496400,
+      "size": 888,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "complete01"
+    },
+    {
+      "id": 337,
+      "offset": 9497288,
+      "size": 1704,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "complete02"
+    },
+    {
+      "id": 338,
+      "offset": 9498992,
+      "size": 1268,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "complete03"
+    },
+    {
+      "id": 339,
+      "offset": 9500264,
+      "size": 972,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "complete04"
+    },
+    {
+      "id": 340,
+      "offset": 9501240,
+      "size": 1372,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "complete05"
+    },
+    {
+      "id": 341,
+      "offset": 9502616,
+      "size": 1096,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "complete06"
+    },
+    {
+      "id": 342,
+      "offset": 9503712,
+      "size": 10328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "game_over_b"
+    },
+    {
+      "id": 343,
+      "offset": 9514040,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "hs_05"
+    },
+    {
+      "id": 344,
+      "offset": 9514368,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "hs_04"
+    },
+    {
+      "id": 345,
+      "offset": 9514696,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "hs_03"
+    },
+    {
+      "id": 346,
+      "offset": 9515024,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "hs_02"
+    },
+    {
+      "id": 347,
+      "offset": 9515352,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "hs_01"
+    },
+    {
+      "id": 348,
+      "offset": 9515680,
+      "size": 1616,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "new_high_03"
+    },
+    {
+      "id": 349,
+      "offset": 9517296,
+      "size": 1892,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "new_high_07"
+    },
+    {
+      "id": 350,
+      "offset": 9519192,
+      "size": 1168,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "new_high_06"
+    },
+    {
+      "id": 351,
+      "offset": 9520360,
+      "size": 860,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "new_high_05"
+    },
+    {
+      "id": 352,
+      "offset": 9521224,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "select_left"
+    },
+    {
+      "id": 353,
+      "offset": 9521560,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "dimplane"
+    },
+    {
+      "id": 354,
+      "offset": 9521888,
+      "size": 8984,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "biplane_prop"
+    },
+    {
+      "id": 355,
+      "offset": 9530872,
+      "size": 40784,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "biplane"
+    },
+    {
+      "id": 356,
+      "offset": 9571656,
+      "size": 1708,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "biplane_base"
+    },
+    {
+      "id": 357,
+      "offset": 9573368,
+      "size": 392,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "Plane01"
+    },
+    {
+      "id": 358,
+      "offset": 9573760,
+      "size": 392,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "Object01"
+    },
+    {
+      "id": 359,
+      "offset": 9574152,
+      "size": 1448,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "Plane02"
+    },
+    {
+      "id": 360,
+      "offset": 9575600,
+      "size": 1448,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "round_01"
+    },
+    {
+      "id": 361,
+      "offset": 9577048,
+      "size": 1448,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "complete"
+    },
+    {
+      "id": 362,
+      "offset": 9578496,
+      "size": 1452,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "round_center"
+    },
+    {
+      "id": 363,
+      "offset": 9579952,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "background01"
+    },
+    {
+      "id": 364,
+      "offset": 9580288,
+      "size": 324,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "help"
+    },
+    {
+      "id": 365,
+      "offset": 9580616,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "help_text"
+    },
+    {
+      "id": 366,
+      "offset": 9580952,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "dimplane"
+    },
+    {
+      "id": 367,
+      "offset": 9581280,
+      "size": 30708,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "hula_00"
+    },
+    {
+      "id": 368,
+      "offset": 9611992,
+      "size": 125692,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "hula_top_00"
+    },
+    {
+      "id": 369,
+      "offset": 9737688,
+      "size": 5324,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "lazy_susan_00"
+    },
+    {
+      "id": 370,
+      "offset": 9743016,
+      "size": 1464,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "root"
+    },
+    {
+      "id": 371,
+      "offset": 9744480,
+      "size": 52376,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "ballista_base_00"
+    },
+    {
+      "id": 372,
+      "offset": 9796856,
+      "size": 10428,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "ballista_arm_00"
+    },
+    {
+      "id": 373,
+      "offset": 9807288,
+      "size": 22156,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "COL"
+    },
+    {
+      "id": 374,
+      "offset": 9829448,
+      "size": 5220,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "Inside"
+    },
+    {
+      "id": 375,
+      "offset": 9834672,
+      "size": 14436,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "Root"
+    },
+    {
+      "id": 376,
+      "offset": 9849112,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "flick2shoot"
+    },
+    {
+      "id": 377,
+      "offset": 9849448,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "shake2shoot"
+    },
+    {
+      "id": 378,
+      "offset": 9849784,
+      "size": 692,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "helo_connector"
+    },
+    {
+      "id": 379,
+      "offset": 9850480,
+      "size": 7784,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "helo_ball_pivot"
+    },
+    {
+      "id": 380,
+      "offset": 9858264,
+      "size": 11064,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "helo_base"
+    },
+    {
+      "id": 381,
+      "offset": 9869328,
+      "size": 3008,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "out01"
+    },
+    {
+      "id": 382,
+      "offset": 9872336,
+      "size": 2008,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "of"
+    },
+    {
+      "id": 383,
+      "offset": 9874344,
+      "size": 1504,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "shots00"
+    },
+    {
+      "id": 384,
+      "offset": 9875848,
+      "size": 1888,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "shots01"
+    },
+    {
+      "id": 385,
+      "offset": 9877736,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "sound_off"
+    },
+    {
+      "id": 386,
+      "offset": 9878072,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "hall_of_fame"
+    },
+    {
+      "id": 387,
+      "offset": 9878408,
+      "size": 472,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "button_replay"
+    },
+    {
+      "id": 388,
+      "offset": 9878880,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "background01"
+    },
+    {
+      "id": 389,
+      "offset": 9879216,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "button_quit"
+    },
+    {
+      "id": 390,
+      "offset": 9879552,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "button_done"
+    },
+    {
+      "id": 391,
+      "offset": 9879888,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "button_flick"
+    },
+    {
+      "id": 392,
+      "offset": 9880224,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "button_shake"
+    },
+    {
+      "id": 393,
+      "offset": 9880560,
+      "size": 336,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "logo_quarters_00"
+    },
+    {
+      "id": 394,
+      "offset": 9880896,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "logo_bg_q_00"
+    },
+    {
+      "id": 395,
+      "offset": 9881232,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "cover_coin"
+    },
+    {
+      "id": 396,
+      "offset": 9881568,
+      "size": 884,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "shots02"
+    },
+    {
+      "id": 397,
+      "offset": 9882456,
+      "size": 1092,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "shots03"
+    },
+    {
+      "id": 398,
+      "offset": 9883552,
+      "size": 1504,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "shots04"
+    },
+    {
+      "id": 399,
+      "offset": 9885056,
+      "size": 324,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "quit"
+    },
+    {
+      "id": 400,
+      "offset": 9885384,
+      "size": 1236,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "highscore_dim"
+    },
+    {
+      "id": 401,
+      "offset": 9886624,
+      "size": 324,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "go"
+    },
+    {
+      "id": 402,
+      "offset": 9886952,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "practic_mode"
+    },
+    {
+      "id": 403,
+      "offset": 9887288,
+      "size": 332,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "select_right"
+    },
+    {
+      "id": 404,
+      "offset": 9887624,
+      "size": 1580,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "scene_bar_00"
+    },
+    {
+      "id": 405,
+      "offset": 9889208,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "pl02_b"
+    },
+    {
+      "id": 406,
+      "offset": 9889536,
+      "size": 560,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "button_pause"
+    },
+    {
+      "id": 407,
+      "offset": 9890096,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "pl01_b"
+    },
+    {
+      "id": 408,
+      "offset": 9890424,
+      "size": 6868,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "beer_yard_stand_00"
+    },
+    {
+      "id": 409,
+      "offset": 9897296,
+      "size": 1468,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "Box01"
+    },
+    {
+      "id": 410,
+      "offset": 9898768,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "pl2_c"
+    },
+    {
+      "id": 411,
+      "offset": 9899096,
+      "size": 22748,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "beer_yard_00"
+    },
+    {
+      "id": 412,
+      "offset": 9921848,
+      "size": 472,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "stats_bg_p2_b"
+    },
+    {
+      "id": 413,
+      "offset": 9922320,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "pl3_c"
+    },
+    {
+      "id": 414,
+      "offset": 9922648,
+      "size": 336,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "stats_score_b"
+    },
+    {
+      "id": 415,
+      "offset": 9922984,
+      "size": 472,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "stats_bg_p1_b"
+    },
+    {
+      "id": 416,
+      "offset": 9923456,
+      "size": 564,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "name_leaderboard"
+    },
+    {
+      "id": 417,
+      "offset": 9924024,
+      "size": 340,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "stats_coins_left_b"
+    },
+    {
+      "id": 418,
+      "offset": 9924368,
+      "size": 1468,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "center"
+    },
+    {
+      "id": 419,
+      "offset": 9925840,
+      "size": 328,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "pl01_a"
+    },
+    {
+      "id": 420,
+      "offset": 9926168,
+      "size": 472,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "stats_bg_p1_a"
+    },
+    {
+      "id": 421,
+      "offset": 9926640,
+      "size": 336,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "stats_streak_a"
+    },
+    {
+      "id": 422,
+      "offset": 9926976,
+      "size": 340,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "stats_richochet_b"
+    },
+    {
+      "id": 423,
+      "offset": 9927320,
+      "size": 8348,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "COL"
+    },
+    {
+      "id": 424,
+      "offset": 9935672,
+      "size": 10124,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "ZipTop"
+    },
+    {
+      "id": 425,
+      "offset": 9945800,
+      "size": 12324,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "Root"
+    },
+    {
+      "id": 426,
+      "offset": 9958128,
+      "size": 1276,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "lightrays_01"
+    },
+    {
+      "id": 427,
+      "offset": 9959408,
+      "size": 1276,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "lightrays_00"
+    },
+    {
+      "id": 428,
+      "offset": 9960688,
+      "size": 340,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "stats_richochet_a"
+    },
+    {
+      "id": 429,
+      "offset": 9961032,
+      "size": 340,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "stats_coins_left_a"
+    },
+    {
+      "id": 430,
+      "offset": 9961376,
+      "size": 340,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "button_save_replay"
+    },
+    {
+      "id": 431,
+      "offset": 9961720,
+      "size": 336,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "button_hs_done"
+    },
+    {
+      "id": 432,
+      "offset": 9962056,
+      "size": 336,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "stats_streak_b"
+    },
+    {
+      "id": 433,
+      "offset": 9962392,
+      "size": 336,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "stats_score_a"
+    },
+    {
+      "id": 434,
+      "offset": 9962728,
+      "size": 30356,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft38"
+    },
+    {
+      "id": 435,
+      "offset": 9993088,
+      "size": 1036,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "player1"
+    },
+    {
+      "id": 436,
+      "offset": 9994128,
+      "size": 1076,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "player2"
+    },
+    {
+      "id": 437,
+      "offset": 9995208,
+      "size": 1076,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "player3"
+    },
+    {
+      "id": 438,
+      "offset": 9996288,
+      "size": 1076,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "player4"
+    },
+    {
+      "id": 439,
+      "offset": 9997368,
+      "size": 800,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "player1in"
+    },
+    {
+      "id": 440,
+      "offset": 9998168,
+      "size": 800,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "player1out"
+    },
+    {
+      "id": 441,
+      "offset": 9998968,
+      "size": 840,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "player2in"
+    },
+    {
+      "id": 442,
+      "offset": 9999808,
+      "size": 800,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "player2out"
+    },
+    {
+      "id": 443,
+      "offset": 10000608,
+      "size": 840,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "player3in"
+    },
+    {
+      "id": 444,
+      "offset": 10001448,
+      "size": 800,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "player3out"
+    },
+    {
+      "id": 445,
+      "offset": 10002248,
+      "size": 840,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "player4in"
+    },
+    {
+      "id": 446,
+      "offset": 10003088,
+      "size": 800,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "player4out"
+    },
+    {
+      "id": 447,
+      "offset": 10003888,
+      "size": 2536,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "onscreen"
+    },
+    {
+      "id": 448,
+      "offset": 10006424,
+      "size": 2540,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "offscreen"
+    },
+    {
+      "id": 449,
+      "offset": 10008968,
+      "size": 484,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "Take 001"
+    },
+    {
+      "id": 450,
+      "offset": 10009456,
+      "size": 30844,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft39"
+    },
+    {
+      "id": 451,
+      "offset": 10040304,
+      "size": 7012,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "done_click_2"
+    },
+    {
+      "id": 452,
+      "offset": 10047320,
+      "size": 3480,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "Take 001"
+    },
+    {
+      "id": 453,
+      "offset": 10050800,
+      "size": 988,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "shake"
+    },
+    {
+      "id": 454,
+      "offset": 10051792,
+      "size": 760,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "lockin"
+    },
+    {
+      "id": 455,
+      "offset": 10052552,
+      "size": 6484,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "done_click_1"
+    },
+    {
+      "id": 456,
+      "offset": 10059040,
+      "size": 2044,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "Take 001"
+    },
+    {
+      "id": 457,
+      "offset": 10061088,
+      "size": 12264,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "ui_in_4"
+    },
+    {
+      "id": 458,
+      "offset": 10073352,
+      "size": 8220,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "Take 001"
+    },
+    {
+      "id": 459,
+      "offset": 10081576,
+      "size": 29756,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft34"
+    },
+    {
+      "id": 460,
+      "offset": 10111336,
+      "size": 29956,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft35"
+    },
+    {
+      "id": 461,
+      "offset": 10141296,
+      "size": 30116,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft36"
+    },
+    {
+      "id": 462,
+      "offset": 10171416,
+      "size": 11096,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "ui_in_3"
+    },
+    {
+      "id": 463,
+      "offset": 10182512,
+      "size": 30236,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft37"
+    },
+    {
+      "id": 464,
+      "offset": 10212752,
+      "size": 10248,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "ui_in_2"
+    },
+    {
+      "id": 465,
+      "offset": 10223000,
+      "size": 636,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "SlideIn"
+    },
+    {
+      "id": 466,
+      "offset": 10223640,
+      "size": 764,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "Take 001"
+    },
+    {
+      "id": 467,
+      "offset": 10224408,
+      "size": 9320,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "ui_in_1"
+    },
+    {
+      "id": 468,
+      "offset": 10233728,
+      "size": 12704,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "outofshots"
+    },
+    {
+      "id": 469,
+      "offset": 10246432,
+      "size": 13464,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "gamecomplete"
+    },
+    {
+      "id": 470,
+      "offset": 10259896,
+      "size": 2624,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "lockin"
+    },
+    {
+      "id": 471,
+      "offset": 10262520,
+      "size": 3580,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "Take 001"
+    },
+    {
+      "id": 472,
+      "offset": 10266104,
+      "size": 4416,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "Take 001"
+    },
+    {
+      "id": 473,
+      "offset": 10270520,
+      "size": 1076,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "Take 001"
+    },
+    {
+      "id": 474,
+      "offset": 10271600,
+      "size": 1168,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "SlideOut"
+    },
+    {
+      "id": 475,
+      "offset": 10272768,
+      "size": 2424,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "lockout"
+    },
+    {
+      "id": 476,
+      "offset": 10275192,
+      "size": 3660,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "hofclick"
+    },
+    {
+      "id": 477,
+      "offset": 10278856,
+      "size": 892,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "ClickSave"
+    },
+    {
+      "id": 478,
+      "offset": 10279752,
+      "size": 892,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "ClickDone"
+    },
+    {
+      "id": 479,
+      "offset": 10280648,
+      "size": 1368,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "SlideIn"
+    },
+    {
+      "id": 480,
+      "offset": 10282016,
+      "size": 2544,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "goclick"
+    },
+    {
+      "id": 481,
+      "offset": 10284560,
+      "size": 3704,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "replayclick"
+    },
+    {
+      "id": 482,
+      "offset": 10288264,
+      "size": 788,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "Take 001"
+    },
+    {
+      "id": 483,
+      "offset": 10289056,
+      "size": 836,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "Take 001"
+    },
+    {
+      "id": 484,
+      "offset": 10289896,
+      "size": 3744,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "soundclick"
+    },
+    {
+      "id": 485,
+      "offset": 10293640,
+      "size": 3748,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "SlideOut"
+    },
+    {
+      "id": 486,
+      "offset": 10297392,
+      "size": 4508,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "SlideIn"
+    },
+    {
+      "id": 487,
+      "offset": 10301904,
+      "size": 2548,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "quitclick"
+    },
+    {
+      "id": 488,
+      "offset": 10304456,
+      "size": 800,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "Take 001"
+    },
+    {
+      "id": 489,
+      "offset": 10305256,
+      "size": 2776,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "click"
+    },
+    {
+      "id": 490,
+      "offset": 10308032,
+      "size": 2796,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "reminder"
+    },
+    {
+      "id": 491,
+      "offset": 10310832,
+      "size": 6340,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "scalereminder"
+    },
+    {
+      "id": 492,
+      "offset": 10317176,
+      "size": 1772,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "hold"
+    },
+    {
+      "id": 493,
+      "offset": 10318952,
+      "size": 1228,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "Take 001"
+    },
+    {
+      "id": 494,
+      "offset": 10320184,
+      "size": 7780,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "animin"
+    },
+    {
+      "id": 495,
+      "offset": 10327968,
+      "size": 3704,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "doneclick"
+    },
+    {
+      "id": 496,
+      "offset": 10331672,
+      "size": 6660,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "animout"
+    },
+    {
+      "id": 497,
+      "offset": 10338336,
+      "size": 3664,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "quitclick"
+    },
+    {
+      "id": 498,
+      "offset": 10342000,
+      "size": 4380,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "Take 001"
+    },
+    {
+      "id": 499,
+      "offset": 10346384,
+      "size": 380,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "Take 001"
+    },
+    {
+      "id": 500,
+      "offset": 10346768,
+      "size": 31004,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft40"
+    },
+    {
+      "id": 501,
+      "offset": 10377776,
+      "size": 8068,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "done_click_4"
+    },
+    {
+      "id": 502,
+      "offset": 10385848,
+      "size": 732,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "Take 001"
+    },
+    {
+      "id": 503,
+      "offset": 10386584,
+      "size": 3664,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "flickclick"
+    },
+    {
+      "id": 504,
+      "offset": 10390248,
+      "size": 484,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "InfoClick"
+    },
+    {
+      "id": 505,
+      "offset": 10390736,
+      "size": 3664,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "shakeclick"
+    },
+    {
+      "id": 506,
+      "offset": 10394400,
+      "size": 1516,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "Take 001"
+    },
+    {
+      "id": 507,
+      "offset": 10395920,
+      "size": 21436,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft17"
+    },
+    {
+      "id": 508,
+      "offset": 10417360,
+      "size": 21196,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft16"
+    },
+    {
+      "id": 509,
+      "offset": 10438560,
+      "size": 4944,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "slidein"
+    },
+    {
+      "id": 510,
+      "offset": 10443504,
+      "size": 10824,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "barsin"
+    },
+    {
+      "id": 511,
+      "offset": 10454328,
+      "size": 7744,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "barsout"
+    },
+    {
+      "id": 512,
+      "offset": 10462072,
+      "size": 4828,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "doneclick"
+    },
+    {
+      "id": 513,
+      "offset": 10466904,
+      "size": 20956,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft15"
+    },
+    {
+      "id": 514,
+      "offset": 10487864,
+      "size": 1092,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "Take 001"
+    },
+    {
+      "id": 515,
+      "offset": 10488960,
+      "size": 20348,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft14"
+    },
+    {
+      "id": 516,
+      "offset": 10509312,
+      "size": 20108,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft13"
+    },
+    {
+      "id": 517,
+      "offset": 10529424,
+      "size": 19868,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft12"
+    },
+    {
+      "id": 518,
+      "offset": 10549296,
+      "size": 19628,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft11"
+    },
+    {
+      "id": 519,
+      "offset": 10568928,
+      "size": 29356,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft32"
+    },
+    {
+      "id": 520,
+      "offset": 10598288,
+      "size": 19348,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft10"
+    },
+    {
+      "id": 521,
+      "offset": 10617640,
+      "size": 19068,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft9"
+    },
+    {
+      "id": 522,
+      "offset": 10636712,
+      "size": 11384,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "ui_out_4"
+    },
+    {
+      "id": 523,
+      "offset": 10648096,
+      "size": 17812,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "newroundhigh"
+    },
+    {
+      "id": 524,
+      "offset": 10665912,
+      "size": 6716,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "idle"
+    },
+    {
+      "id": 525,
+      "offset": 10672632,
+      "size": 28956,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft30"
+    },
+    {
+      "id": 526,
+      "offset": 10701592,
+      "size": 28716,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft29"
+    },
+    {
+      "id": 527,
+      "offset": 10730312,
+      "size": 28476,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft28"
+    },
+    {
+      "id": 528,
+      "offset": 10758792,
+      "size": 2548,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "rightclick"
+    },
+    {
+      "id": 529,
+      "offset": 10761344,
+      "size": 3668,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "Take 001"
+    },
+    {
+      "id": 530,
+      "offset": 10765016,
+      "size": 2548,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "leftclick"
+    },
+    {
+      "id": 531,
+      "offset": 10767568,
+      "size": 28236,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft27"
+    },
+    {
+      "id": 532,
+      "offset": 10795808,
+      "size": 27956,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft26"
+    },
+    {
+      "id": 533,
+      "offset": 10823768,
+      "size": 27716,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft25"
+    },
+    {
+      "id": 534,
+      "offset": 10851488,
+      "size": 29156,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft31"
+    },
+    {
+      "id": 535,
+      "offset": 10880648,
+      "size": 7540,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "done_click_3"
+    },
+    {
+      "id": 536,
+      "offset": 10888192,
+      "size": 27396,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft24"
+    },
+    {
+      "id": 537,
+      "offset": 10915592,
+      "size": 27156,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft23"
+    },
+    {
+      "id": 538,
+      "offset": 10942752,
+      "size": 26916,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft22"
+    },
+    {
+      "id": 539,
+      "offset": 10969672,
+      "size": 3984,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "slideout"
+    },
+    {
+      "id": 540,
+      "offset": 10973656,
+      "size": 26676,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft21"
+    },
+    {
+      "id": 541,
+      "offset": 11000336,
+      "size": 22196,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft20"
+    },
+    {
+      "id": 542,
+      "offset": 11022536,
+      "size": 21916,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft19"
+    },
+    {
+      "id": 543,
+      "offset": 11044456,
+      "size": 21676,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft18"
+    },
+    {
+      "id": 544,
+      "offset": 11066136,
+      "size": 18788,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft8"
+    },
+    {
+      "id": 545,
+      "offset": 11084928,
+      "size": 18548,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft7"
+    },
+    {
+      "id": 546,
+      "offset": 11103480,
+      "size": 9488,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "ui_out_2"
+    },
+    {
+      "id": 547,
+      "offset": 11112968,
+      "size": 18308,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft6"
+    },
+    {
+      "id": 548,
+      "offset": 11131280,
+      "size": 8560,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "ui_out_1"
+    },
+    {
+      "id": 549,
+      "offset": 11139840,
+      "size": 18068,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft5"
+    },
+    {
+      "id": 550,
+      "offset": 11157912,
+      "size": 17828,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft4"
+    },
+    {
+      "id": 551,
+      "offset": 11175744,
+      "size": 17588,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft3"
+    },
+    {
+      "id": 552,
+      "offset": 11193336,
+      "size": 17308,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft2"
+    },
+    {
+      "id": 553,
+      "offset": 11210648,
+      "size": 17068,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft1"
+    },
+    {
+      "id": 554,
+      "offset": 11227720,
+      "size": 584,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "Take 001"
+    },
+    {
+      "id": 555,
+      "offset": 11228304,
+      "size": 840,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "Take 001"
+    },
+    {
+      "id": 556,
+      "offset": 11229144,
+      "size": 3568,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "Take 001"
+    },
+    {
+      "id": 557,
+      "offset": 11232712,
+      "size": 812,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "Take 001"
+    },
+    {
+      "id": 558,
+      "offset": 11233528,
+      "size": 29556,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "CoinsLeft33"
+    },
+    {
+      "id": 559,
+      "offset": 11263088,
+      "size": 520,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "lockout"
+    },
+    {
+      "id": 560,
+      "offset": 11263608,
+      "size": 988,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "flick"
+    },
+    {
+      "id": 561,
+      "offset": 11264600,
+      "size": 11800,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "rnd15"
+    },
+    {
+      "id": 562,
+      "offset": 11276400,
+      "size": 11296,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "rnd14"
+    },
+    {
+      "id": 563,
+      "offset": 11287696,
+      "size": 11800,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "rnd13"
+    },
+    {
+      "id": 564,
+      "offset": 11299496,
+      "size": 11800,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "rnd12"
+    },
+    {
+      "id": 565,
+      "offset": 11311296,
+      "size": 11376,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "rnd11"
+    },
+    {
+      "id": 566,
+      "offset": 11322672,
+      "size": 11760,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "rnd10"
+    },
+    {
+      "id": 567,
+      "offset": 11334432,
+      "size": 11760,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "rnd09"
+    },
+    {
+      "id": 568,
+      "offset": 11346192,
+      "size": 11680,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "rnd08"
+    },
+    {
+      "id": 569,
+      "offset": 11357872,
+      "size": 11520,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "rnd07"
+    },
+    {
+      "id": 570,
+      "offset": 11369392,
+      "size": 11800,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "rnd06"
+    },
+    {
+      "id": 571,
+      "offset": 11381192,
+      "size": 11800,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "rnd05"
+    },
+    {
+      "id": 572,
+      "offset": 11392992,
+      "size": 11760,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "rnd04"
+    },
+    {
+      "id": 573,
+      "offset": 11404752,
+      "size": 11800,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "rnd03"
+    },
+    {
+      "id": 574,
+      "offset": 11416552,
+      "size": 11800,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "rnd02"
+    },
+    {
+      "id": 575,
+      "offset": 11428352,
+      "size": 11480,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "rnd01"
+    },
+    {
+      "id": 576,
+      "offset": 11439832,
+      "size": 10376,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "ui_out_3"
+    },
+    {
+      "id": 577,
+      "offset": 11450208,
+      "size": 1060,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "Take 001"
+    },
+    {
+      "id": 578,
+      "offset": 11451272,
+      "size": 12740,
+      "typeId": 74,
+      "classId": 74,
+      "candidateName": "Take 001"
+    },
+    {
+      "id": 579,
+      "offset": 11464016,
+      "size": 5616,
+      "typeId": 83,
+      "classId": 83,
+      "candidateName": "cell_flip"
+    },
+    {
+      "id": 580,
+      "offset": 11469632,
+      "size": 17488,
+      "typeId": 83,
+      "classId": 83,
+      "candidateName": "coin_flip"
+    },
+    {
+      "id": 581,
+      "offset": 11487120,
+      "size": 22272,
+      "typeId": 83,
+      "classId": 83,
+      "candidateName": "coin_glass_martini1"
+    },
+    {
+      "id": 582,
+      "offset": 11509392,
+      "size": 11056,
+      "typeId": 83,
+      "classId": 83,
+      "candidateName": "coin_plane"
+    },
+    {
+      "id": 583,
+      "offset": 11520448,
+      "size": 17748,
+      "typeId": 83,
+      "classId": 83,
+      "candidateName": "coin_glass_med3"
+    },
+    {
+      "id": 584,
+      "offset": 11538200,
+      "size": 32156,
+      "typeId": 83,
+      "classId": 83,
+      "candidateName": "coin_glass_tall1"
+    },
+    {
+      "id": 585,
+      "offset": 11570360,
+      "size": 11612,
+      "typeId": 83,
+      "classId": 83,
+      "candidateName": "coin_table_hit1"
+    },
+    {
+      "id": 586,
+      "offset": 11581976,
+      "size": 8560,
+      "typeId": 83,
+      "classId": 83,
+      "candidateName": "coin_glass_shot1"
+    },
+    {
+      "id": 587,
+      "offset": 11590536,
+      "size": 51040,
+      "typeId": 83,
+      "classId": 83,
+      "candidateName": "stab_music03"
+    },
+    {
+      "id": 588,
+      "offset": 11641576,
+      "size": 10544,
+      "typeId": 83,
+      "classId": 83,
+      "candidateName": "coin_bobblehead"
+    },
+    {
+      "id": 589,
+      "offset": 11652120,
+      "size": 33588,
+      "typeId": 83,
+      "classId": 83,
+      "candidateName": "coin_glass_tall3"
+    },
+    {
+      "id": 590,
+      "offset": 11685712,
+      "size": 27776,
+      "typeId": 83,
+      "classId": 83,
+      "candidateName": "coinstack1"
+    },
+    {
+      "id": 591,
+      "offset": 11713488,
+      "size": 7568,
+      "typeId": 83,
+      "classId": 83,
+      "candidateName": "coin_glass_shot2"
+    },
+    {
+      "id": 592,
+      "offset": 11721056,
+      "size": 9000,
+      "typeId": 83,
+      "classId": 83,
+      "candidateName": "catapult_flip"
+    },
+    {
+      "id": 593,
+      "offset": 11730056,
+      "size": 28036,
+      "typeId": 83,
+      "classId": 83,
+      "candidateName": "coin_floor1a"
+    },
+    {
+      "id": 594,
+      "offset": 11758096,
+      "size": 13340,
+      "typeId": 83,
+      "classId": 83,
+      "candidateName": "coin_catapult"
+    },
+    {
+      "id": 595,
+      "offset": 11771440,
+      "size": 9992,
+      "typeId": 83,
+      "classId": 83,
+      "candidateName": "coin_table_hit3"
+    },
+    {
+      "id": 596,
+      "offset": 11781432,
+      "size": 74120,
+      "typeId": 83,
+      "classId": 83,
+      "candidateName": "stab_music02"
+    },
+    {
+      "id": 597,
+      "offset": 11855552,
+      "size": 117556,
+      "typeId": 83,
+      "classId": 83,
+      "candidateName": "applause6"
+    },
+    {
+      "id": 598,
+      "offset": 11973112,
+      "size": 16492,
+      "typeId": 83,
+      "classId": 83,
+      "candidateName": "rico01"
+    },
+    {
+      "id": 599,
+      "offset": 11989608,
+      "size": 20432,
+      "typeId": 83,
+      "classId": 83,
+      "candidateName": "coin_glass_med1"
+    },
+    {
+      "id": 600,
+      "offset": 12010040,
+      "size": 11904,
+      "typeId": 83,
+      "classId": 83,
+      "candidateName": "coin_bottle_pop"
+    },
+    {
+      "id": 601,
+      "offset": 12021944,
+      "size": 30164,
+      "typeId": 83,
+      "classId": 83,
+      "candidateName": "stab_music01"
+    },
+    {
+      "id": 602,
+      "offset": 12052112,
+      "size": 19588,
+      "typeId": 83,
+      "classId": 83,
+      "candidateName": "coin_glass_martini2"
+    },
+    {
+      "id": 603,
+      "offset": 12071704,
+      "size": 13336,
+      "typeId": 83,
+      "classId": 83,
+      "candidateName": "coin_lighter"
+    },
+    {
+      "id": 604,
+      "offset": 12085040,
+      "size": 16388,
+      "typeId": 83,
+      "classId": 83,
+      "candidateName": "coin_glass_big1"
+    },
+    {
+      "id": 605,
+      "offset": 12101432,
+      "size": 13228,
+      "typeId": 83,
+      "classId": 83,
+      "candidateName": "coin_glass_big3"
+    },
+    {
+      "id": 606,
+      "offset": 12114664,
+      "size": 10504,
+      "typeId": 83,
+      "classId": 83,
+      "candidateName": "coin_book"
+    },
+    {
+      "id": 607,
+      "offset": 12125168,
+      "size": 604,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "iPhone Detail"
+    },
+    {
+      "id": 608,
+      "offset": 12125776,
+      "size": 980,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "iPhone Particles Additive Culled"
+    },
+    {
+      "id": 609,
+      "offset": 12126760,
+      "size": 204,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "deflanim_bird00"
+    },
+    {
+      "id": 610,
+      "offset": 12126968,
+      "size": 196,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "exciter_in_a_row-hs_01"
+    },
+    {
+      "id": 611,
+      "offset": 12127168,
+      "size": 96,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "helo_00"
+    },
+    {
+      "id": 612,
+      "offset": 12127264,
+      "size": 188,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "button_done_00"
+    },
+    {
+      "id": 613,
+      "offset": 12127456,
+      "size": 184,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "lock_anim"
+    },
+    {
+      "id": 614,
+      "offset": 12127640,
+      "size": 200,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_highscore-high_score_bg"
+    },
+    {
+      "id": 615,
+      "offset": 12127840,
+      "size": 180,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_blank"
+    },
+    {
+      "id": 616,
+      "offset": 12128024,
+      "size": 196,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_stats-bg_glass_wood"
+    },
+    {
+      "id": 617,
+      "offset": 12128224,
+      "size": 180,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "q_stack"
+    },
+    {
+      "id": 618,
+      "offset": 12128408,
+      "size": 104,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "lazy_susan_00"
+    },
+    {
+      "id": 619,
+      "offset": 12128512,
+      "size": 188,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "button_mute_00"
+    },
+    {
+      "id": 620,
+      "offset": 12128704,
+      "size": 104,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_pause-no name"
+    },
+    {
+      "id": 621,
+      "offset": 12128808,
+      "size": 112,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_stack-bg_glass_wood"
+    },
+    {
+      "id": 622,
+      "offset": 12128920,
+      "size": 188,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "exciter_bonus"
+    },
+    {
+      "id": 623,
+      "offset": 12129112,
+      "size": 184,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_save_rt"
+    },
+    {
+      "id": 624,
+      "offset": 12129296,
+      "size": 268,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "lightrays_00-01 - default"
+    },
+    {
+      "id": 625,
+      "offset": 12129568,
+      "size": 188,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_coins_left"
+    },
+    {
+      "id": 626,
+      "offset": 12129760,
+      "size": 180,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "round"
+    },
+    {
+      "id": 627,
+      "offset": 12129944,
+      "size": 204,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_highscore-logo_quarters_00"
+    },
+    {
+      "id": 628,
+      "offset": 12130152,
+      "size": 180,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_stats"
+    },
+    {
+      "id": 629,
+      "offset": 12130336,
+      "size": 188,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_stack-hs_01"
+    },
+    {
+      "id": 630,
+      "offset": 12130528,
+      "size": 188,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_quit_practice"
+    },
+    {
+      "id": 631,
+      "offset": 12130720,
+      "size": 180,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ex_nhs_c"
+    },
+    {
+      "id": 632,
+      "offset": 12130904,
+      "size": 184,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "bottleblue"
+    },
+    {
+      "id": 633,
+      "offset": 12131088,
+      "size": 184,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_count_up"
+    },
+    {
+      "id": 634,
+      "offset": 12131272,
+      "size": 192,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_screens_players_3"
+    },
+    {
+      "id": 635,
+      "offset": 12131464,
+      "size": 200,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "exciters_bonus_score-hs_01"
+    },
+    {
+      "id": 636,
+      "offset": 12131664,
+      "size": 188,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_stats_streak"
+    },
+    {
+      "id": 637,
+      "offset": 12131856,
+      "size": 188,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_game_rules"
+    },
+    {
+      "id": 638,
+      "offset": 12132048,
+      "size": 184,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "scene_bar_01"
+    },
+    {
+      "id": 639,
+      "offset": 12132232,
+      "size": 184,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_sound_on"
+    },
+    {
+      "id": 640,
+      "offset": 12132416,
+      "size": 120,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_richochet_score-glass_test"
+    },
+    {
+      "id": 641,
+      "offset": 12132536,
+      "size": 196,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "exciter_in_a_row-hs_02"
+    },
+    {
+      "id": 642,
+      "offset": 12132736,
+      "size": 196,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_stats-button_hs_done"
+    },
+    {
+      "id": 643,
+      "offset": 12132936,
+      "size": 124,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_ingame_3coin_hold-quarter_card"
+    },
+    {
+      "id": 644,
+      "offset": 12133064,
+      "size": 184,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ex_complete"
+    },
+    {
+      "id": 645,
+      "offset": 12133248,
+      "size": 196,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_backend_00-standard_8"
+    },
+    {
+      "id": 646,
+      "offset": 12133448,
+      "size": 192,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_screens_players_1"
+    },
+    {
+      "id": 647,
+      "offset": 12133640,
+      "size": 188,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "deflanim_zip00"
+    },
+    {
+      "id": 648,
+      "offset": 12133832,
+      "size": 116,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_backend_00-bg_glass_wood"
+    },
+    {
+      "id": 649,
+      "offset": 12133952,
+      "size": 184,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "quarter_cup"
+    },
+    {
+      "id": 650,
+      "offset": 12134136,
+      "size": 180,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "hs_01"
+    },
+    {
+      "id": 651,
+      "offset": 12134320,
+      "size": 112,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_ingame_3coin-no name"
+    },
+    {
+      "id": 652,
+      "offset": 12134432,
+      "size": 200,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_highscore-logo_bg_q_00"
+    },
+    {
+      "id": 653,
+      "offset": 12134632,
+      "size": 188,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_flick2shoot"
+    },
+    {
+      "id": 654,
+      "offset": 12134824,
+      "size": 188,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_practice_go"
+    },
+    {
+      "id": 655,
+      "offset": 12135016,
+      "size": 188,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_in_game_op"
+    },
+    {
+      "id": 656,
+      "offset": 12135208,
+      "size": 204,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "exciter_game_over-material_dim"
+    },
+    {
+      "id": 657,
+      "offset": 12135416,
+      "size": 196,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_stats-logo_bg_q_00"
+    },
+    {
+      "id": 658,
+      "offset": 12135616,
+      "size": 116,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_richochet_coin-no name"
+    },
+    {
+      "id": 659,
+      "offset": 12135736,
+      "size": 116,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_name_leaderboard-no name"
+    },
+    {
+      "id": 660,
+      "offset": 12135856,
+      "size": 192,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_screens_players_4"
+    },
+    {
+      "id": 661,
+      "offset": 12136048,
+      "size": 196,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_practice_lock-lockup"
+    },
+    {
+      "id": 662,
+      "offset": 12136248,
+      "size": 184,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ex_in_a_row"
+    },
+    {
+      "id": 663,
+      "offset": 12136432,
+      "size": 204,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "table_00"
+    },
+    {
+      "id": 664,
+      "offset": 12136640,
+      "size": 192,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ex_great_score-score"
+    },
+    {
+      "id": 665,
+      "offset": 12136832,
+      "size": 104,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "defl_cellphone01"
+    },
+    {
+      "id": 666,
+      "offset": 12136936,
+      "size": 180,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "complete"
+    },
+    {
+      "id": 667,
+      "offset": 12137120,
+      "size": 204,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_backend_00-logo_quarters_00"
+    },
+    {
+      "id": 668,
+      "offset": 12137328,
+      "size": 192,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_help-material_dim"
+    },
+    {
+      "id": 669,
+      "offset": 12137520,
+      "size": 200,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_backend_00-logo_bg_q_00"
+    },
+    {
+      "id": 670,
+      "offset": 12137720,
+      "size": 184,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "icon_r_exc"
+    },
+    {
+      "id": 671,
+      "offset": 12137904,
+      "size": 200,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_winners_cup-material_dim"
+    },
+    {
+      "id": 672,
+      "offset": 12138104,
+      "size": 196,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_stack-logo_bg_q_00"
+    },
+    {
+      "id": 673,
+      "offset": 12138304,
+      "size": 184,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "number_map"
+    },
+    {
+      "id": 674,
+      "offset": 12138488,
+      "size": 216,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "flare"
+    },
+    {
+      "id": 675,
+      "offset": 12138704,
+      "size": 116,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_richochet_holder-no name"
+    },
+    {
+      "id": 676,
+      "offset": 12138824,
+      "size": 112,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ex_round_mon-glass_test"
+    },
+    {
+      "id": 677,
+      "offset": 12138936,
+      "size": 184,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ex_secret"
+    },
+    {
+      "id": 678,
+      "offset": 12139120,
+      "size": 116,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_ingame_3coin-quarter_card"
+    },
+    {
+      "id": 679,
+      "offset": 12139240,
+      "size": 188,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "button_shake_00"
+    },
+    {
+      "id": 680,
+      "offset": 12139432,
+      "size": 192,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_stats_richochet"
+    },
+    {
+      "id": 681,
+      "offset": 12139624,
+      "size": 188,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "highscore_bg_red"
+    },
+    {
+      "id": 682,
+      "offset": 12139816,
+      "size": 196,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "exciter_in_a_row-hs_03"
+    },
+    {
+      "id": 683,
+      "offset": 12140016,
+      "size": 192,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ex_great_score-hs_03"
+    },
+    {
+      "id": 684,
+      "offset": 12140208,
+      "size": 188,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "button_quit_00"
+    },
+    {
+      "id": 685,
+      "offset": 12140400,
+      "size": 108,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_power_x-no name"
+    },
+    {
+      "id": 686,
+      "offset": 12140512,
+      "size": 200,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_stats-logo_quarters_00"
+    },
+    {
+      "id": 687,
+      "offset": 12140712,
+      "size": 180,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "hs_02"
+    },
+    {
+      "id": 688,
+      "offset": 12140896,
+      "size": 236,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "shadow_00"
+    },
+    {
+      "id": 689,
+      "offset": 12141136,
+      "size": 180,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ex_round"
+    },
+    {
+      "id": 690,
+      "offset": 12141320,
+      "size": 184,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "biplane_00"
+    },
+    {
+      "id": 691,
+      "offset": 12141504,
+      "size": 184,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_hall_fame"
+    },
+    {
+      "id": 692,
+      "offset": 12141688,
+      "size": 192,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "highscore_bg_orange"
+    },
+    {
+      "id": 693,
+      "offset": 12141880,
+      "size": 108,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ex_scaler-no name"
+    },
+    {
+      "id": 694,
+      "offset": 12141992,
+      "size": 192,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "highscore_bg_blue"
+    },
+    {
+      "id": 695,
+      "offset": 12142184,
+      "size": 112,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "lazy_susan_00-no name"
+    },
+    {
+      "id": 696,
+      "offset": 12142296,
+      "size": 188,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_stack-hs_02"
+    },
+    {
+      "id": 697,
+      "offset": 12142488,
+      "size": 180,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "dimplane"
+    },
+    {
+      "id": 698,
+      "offset": 12142672,
+      "size": 200,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ex_great_score-material_dim"
+    },
+    {
+      "id": 699,
+      "offset": 12142872,
+      "size": 188,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_stats_score"
+    },
+    {
+      "id": 700,
+      "offset": 12143064,
+      "size": 112,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_help-bg_glass_wood"
+    },
+    {
+      "id": 701,
+      "offset": 12143176,
+      "size": 188,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "icon_r_large_00"
+    },
+    {
+      "id": 702,
+      "offset": 12143368,
+      "size": 188,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_player_header"
+    },
+    {
+      "id": 703,
+      "offset": 12143560,
+      "size": 200,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_highscore-button_hs_done"
+    },
+    {
+      "id": 704,
+      "offset": 12143760,
+      "size": 204,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_save_replay-button_hs_done"
+    },
+    {
+      "id": 705,
+      "offset": 12143968,
+      "size": 200,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_highscore-bg_glass_wood"
+    },
+    {
+      "id": 706,
+      "offset": 12144168,
+      "size": 184,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "scene_bar_00"
+    },
+    {
+      "id": 707,
+      "offset": 12144352,
+      "size": 200,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "exciters_bonus_score-hs_02"
+    },
+    {
+      "id": 708,
+      "offset": 12144552,
+      "size": 196,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_richochet_score-hs_02"
+    },
+    {
+      "id": 709,
+      "offset": 12144752,
+      "size": 180,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ex_nhs_a"
+    },
+    {
+      "id": 710,
+      "offset": 12144936,
+      "size": 180,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_help"
+    },
+    {
+      "id": 711,
+      "offset": 12145120,
+      "size": 316,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "quarter00"
+    },
+    {
+      "id": 712,
+      "offset": 12145440,
+      "size": 136,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "pendulum_00"
+    },
+    {
+      "id": 713,
+      "offset": 12145576,
+      "size": 192,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "button_flickshot_00"
+    },
+    {
+      "id": 714,
+      "offset": 12145768,
+      "size": 104,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "font material"
+    },
+    {
+      "id": 715,
+      "offset": 12145872,
+      "size": 104,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "deflanim_bird01"
+    },
+    {
+      "id": 716,
+      "offset": 12145976,
+      "size": 204,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_practice_mode-material_dim"
+    },
+    {
+      "id": 717,
+      "offset": 12146184,
+      "size": 192,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_screens_players_2"
+    },
+    {
+      "id": 718,
+      "offset": 12146376,
+      "size": 188,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "check_holder_00"
+    },
+    {
+      "id": 719,
+      "offset": 12146568,
+      "size": 200,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "exciter_game_over-glass_test"
+    },
+    {
+      "id": 720,
+      "offset": 12146768,
+      "size": 104,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "quarter5-no name"
+    },
+    {
+      "id": 721,
+      "offset": 12146872,
+      "size": 196,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_richochet_score-hs_01"
+    },
+    {
+      "id": 722,
+      "offset": 12147072,
+      "size": 188,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "high_score_bg"
+    },
+    {
+      "id": 723,
+      "offset": 12147264,
+      "size": 192,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_practice_mode_top"
+    },
+    {
+      "id": 724,
+      "offset": 12147456,
+      "size": 188,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_shake2shoot"
+    },
+    {
+      "id": 725,
+      "offset": 12147648,
+      "size": 184,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "shotglass_00"
+    },
+    {
+      "id": 726,
+      "offset": 12147832,
+      "size": 184,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "angle_arrow"
+    },
+    {
+      "id": 727,
+      "offset": 12148016,
+      "size": 208,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "exciters_bonus_score-material_dim"
+    },
+    {
+      "id": 728,
+      "offset": 12148224,
+      "size": 200,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_richochet_score-no name"
+    },
+    {
+      "id": 729,
+      "offset": 12148424,
+      "size": 180,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "hula_00"
+    },
+    {
+      "id": 730,
+      "offset": 12148608,
+      "size": 180,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "hs_03"
+    },
+    {
+      "id": 731,
+      "offset": 12148792,
+      "size": 100,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "bobble_00"
+    },
+    {
+      "id": 732,
+      "offset": 12148896,
+      "size": 192,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ex_great_score-great"
+    },
+    {
+      "id": 733,
+      "offset": 12149088,
+      "size": 192,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ex_great_score-hs_01"
+    },
+    {
+      "id": 734,
+      "offset": 12149280,
+      "size": 108,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ex_round_mon-no name"
+    },
+    {
+      "id": 735,
+      "offset": 12149392,
+      "size": 112,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_practice_lock-no name"
+    },
+    {
+      "id": 736,
+      "offset": 12149504,
+      "size": 188,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_power_x-1x"
+    },
+    {
+      "id": 737,
+      "offset": 12149696,
+      "size": 128,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "flash_00"
+    },
+    {
+      "id": 738,
+      "offset": 12149824,
+      "size": 200,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "exciters_bonus_score-hs_03"
+    },
+    {
+      "id": 739,
+      "offset": 12150024,
+      "size": 200,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_stack-logo_quarters_00"
+    },
+    {
+      "id": 740,
+      "offset": 12150224,
+      "size": 180,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ex_nhs_b"
+    },
+    {
+      "id": 741,
+      "offset": 12150408,
+      "size": 192,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_name_leaderboard"
+    },
+    {
+      "id": 742,
+      "offset": 12150600,
+      "size": 192,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ex_great_score-hs_02"
+    },
+    {
+      "id": 743,
+      "offset": 12150792,
+      "size": 192,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "ui_stats_coinleft"
+    },
+    {
+      "id": 744,
+      "offset": 12150984,
+      "size": 64,
+      "typeId": 134,
+      "classId": 134
+    },
+    {
+      "id": 745,
+      "offset": 12151048,
+      "size": 60,
+      "typeId": 134,
+      "classId": 134
+    },
+    {
+      "id": 746,
+      "offset": 12151112,
+      "size": 60,
+      "typeId": 134,
+      "classId": 134
+    },
+    {
+      "id": 747,
+      "offset": 12151176,
+      "size": 4157,
+      "typeId": 128,
+      "classId": 128,
+      "candidateName": "bnkgothmUI"
+    },
+    {
+      "id": 748,
+      "offset": 12155336,
+      "size": 13068,
+      "typeId": -1,
+      "classId": 114
+    }
+  ],
+  "classCounts": {
+    "150": 1,
+    "28": 87,
+    "43": 345,
+    "74": 145,
+    "83": 28,
+    "48": 2,
+    "21": 135,
+    "134": 3,
+    "128": 1,
+    "114": 1
+  }
+}

@@ -1,0 +1,1651 @@
+[
+  {
+    "script": "Assets/Scripts/About.cs",
+    "sha256": "1d6ad27d4fdb22ba787f9f1f88a6c8a33804bb9576c7c90acd46c1954b5d2fb9",
+    "attachments": [
+      "mainData:347"
+    ],
+    "referencesFrom": [
+      "mainmenu"
+    ],
+    "methods": [
+      "Start",
+      "Update",
+      "OnGUI",
+      "DrawAboutText",
+      "Main"
+    ],
+    "coverage": "Menu assets/animations implemented in MainMenuController; selected text/dialogs use UIKit. Complete native branch parity not audited.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/AngleAdjustScript.cs",
+    "sha256": "c2f5cd1f693a5fe32ae58586ce16f82d4d04678d507b062671833f44d4391905",
+    "attachments": [
+      "level0:2851"
+    ],
+    "referencesFrom": [],
+    "methods": [
+      "Start",
+      "Update",
+      "OnGUI",
+      "Main"
+    ],
+    "coverage": "Angle input/range implemented; separate angle adjustment graphic not restored.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/AnnouncerScript.cs",
+    "sha256": "81f28eb75e7965aba27598f479d5a840c415fc7e6588e6fef96a136f80d751e6",
+    "attachments": [
+      "level0:2835"
+    ],
+    "referencesFrom": [
+      "GameManagerScript",
+      "InGameAngleIcon",
+      "InGameHiScore",
+      "PauseButtonScript",
+      "PauseMenu",
+      "PracticeUI",
+      "QuarterTrigger",
+      "ReplayController",
+      "StatsScreen"
+    ],
+    "methods": [
+      "Update",
+      "Main"
+    ],
+    "coverage": "Recovered clips preloaded; 0.7 native stinger gate corrected. Audio mixing/device timing still unverified.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/AreYouSure.cs",
+    "sha256": "6f627ca824c4780420dfc6f624889ad2d7303ebf5d0e0526ff555f40e3778e43",
+    "attachments": [
+      "mainData:352"
+    ],
+    "referencesFrom": [],
+    "methods": [
+      "TriggerAreYouSureMessage",
+      "Start",
+      "CheckButtons",
+      "OnGUI",
+      "Main"
+    ],
+    "coverage": "Menu assets/animations implemented in MainMenuController; selected text/dialogs use UIKit. Complete native branch parity not audited.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/BackClearButtons.cs",
+    "sha256": "6854bd5f6153dda853fa70cc3c7ba03709e10eb268cc56594660eacce40f8a90",
+    "attachments": [
+      "mainData:348"
+    ],
+    "referencesFrom": [
+      "mainmenu"
+    ],
+    "methods": [
+      "Start",
+      "Update",
+      "OnGUI",
+      "Main"
+    ],
+    "coverage": "Menu assets/animations implemented in MainMenuController; selected text/dialogs use UIKit. Complete native branch parity not audited.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/BirdScript.cs",
+    "sha256": "dd3cd3638705b112bbbd0545eb226f45fc677b0a7e00dffcaf36b33fb317aa80",
+    "attachments": [
+      "level0:2860",
+      "level0:2875",
+      "level0:2886",
+      "level0:2890",
+      "level0:2894"
+    ],
+    "referencesFrom": [],
+    "methods": [
+      "Start",
+      "OnDisable",
+      "AnimationPresent",
+      "RewindAnim",
+      "ChecktoRewindAnim",
+      "SaveAnimationData",
+      "LoadAnimationData",
+      "FixedUpdate",
+      "Main"
+    ],
+    "coverage": "Recovered geometry, animation and reaction values loaded; replay uses recorded poses. Original engine simulation equivalence not guaranteed.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/Boundary.cs",
+    "sha256": "da4e9bea95e315116377dfde68ecd750c17c3d50c6fabeb3737515bbd998e335",
+    "attachments": [],
+    "referencesFrom": [
+      "Joystick"
+    ],
+    "methods": [],
+    "coverage": "No component attached in either shipped scene. Referenced by supplied scripts; reachability/native behavior not fully established.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/ButtonDownScript.cs",
+    "sha256": "df4aa1360bbb1e2bbacd18ee7b1f4be25721f5d1f552945eeb0289378966c1ef",
+    "attachments": [],
+    "referencesFrom": [],
+    "methods": [
+      "Update",
+      "Main"
+    ],
+    "coverage": "No component attached in either shipped scene. No name reference in other supplied scripts; not activated by this port.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/CameraRelativeControl.cs",
+    "sha256": "047c9a32440d82e16e02cc4314bcc9c80088191def0c5f532420984a49cff29a",
+    "attachments": [],
+    "referencesFrom": [],
+    "methods": [
+      "Start",
+      "FaceMovementDirection",
+      "OnEndGame",
+      "Update",
+      "Main"
+    ],
+    "coverage": "No component attached in either shipped scene. No name reference in other supplied scripts; not activated by this port.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/CellPhoneScript.cs",
+    "sha256": "5fdbc150c12e76e7561e9089bb0d403bf369f7eadb0cdbcc748ee0699d31407f",
+    "attachments": [],
+    "referencesFrom": [],
+    "methods": [
+      "OnCollisionEnter",
+      "Main"
+    ],
+    "coverage": "No component attached in either shipped scene. No name reference in other supplied scripts; not activated by this port.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/ChipBounceBounceScript.cs",
+    "sha256": "31d48a89472868a1b63ed3bcfa730cedb01d0e34963a520d96c100a7fcc2bf15",
+    "attachments": [],
+    "referencesFrom": [],
+    "methods": [
+      "MoveChipInit",
+      "MoveChip",
+      "Update",
+      "TriggerBounceToChipStack",
+      "ResetVariables",
+      "Start",
+      "Main"
+    ],
+    "coverage": "No component attached in either shipped scene. No name reference in other supplied scripts; not activated by this port.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/ChipBounceScript.cs",
+    "sha256": "5046b277ec0dab8823a60b01a8675fbb1c30f5ebca40723aab3fad1cd1b45d76",
+    "attachments": [],
+    "referencesFrom": [
+      "ChipBounceBounceScript"
+    ],
+    "methods": [
+      "Update",
+      "Start",
+      "SetCurTexture",
+      "Main"
+    ],
+    "coverage": "No component attached in either shipped scene. Referenced by supplied scripts; reachability/native behavior not fully established.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/ChipRackupScript.cs",
+    "sha256": "360554505c92645f893c967c6158604560ca4229e439f0f36c50e41d74a34851",
+    "attachments": [],
+    "referencesFrom": [],
+    "methods": [
+      "MoveChipInit",
+      "MoveChip",
+      "Update",
+      "ResetVariables",
+      "Start",
+      "TriggerRackup",
+      "SetRicochetScore",
+      "Main"
+    ],
+    "coverage": "No component attached in either shipped scene. No name reference in other supplied scripts; not activated by this port.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/ChipRackupTextScript.cs",
+    "sha256": "4e0b9ad33e43c9572e9b46f36acafd764e129893e07230f8e3fa77fd0c2f570b",
+    "attachments": [],
+    "referencesFrom": [],
+    "methods": [
+      "Update",
+      "Main"
+    ],
+    "coverage": "No component attached in either shipped scene. No name reference in other supplied scripts; not activated by this port.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/ChipRicochetBounce00Script.cs",
+    "sha256": "b9a3f1c32d9fb7d597795151e6661b8b2b89465a7c908ab7c88cc905453abaa1",
+    "attachments": [],
+    "referencesFrom": [],
+    "methods": [
+      "MoveChipInit",
+      "MoveChip",
+      "Update",
+      "TriggerBounceToChipStack",
+      "ResetVariables",
+      "Start",
+      "Main"
+    ],
+    "coverage": "No component attached in either shipped scene. No name reference in other supplied scripts; not activated by this port.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/ChipRicochetScript.cs",
+    "sha256": "7ad0368c73d8d5970c672864684793ee2077b1a9df9cd8ac208db4668beb979d",
+    "attachments": [],
+    "referencesFrom": [
+      "ChipRicochetBounce00Script"
+    ],
+    "methods": [
+      "Update",
+      "Start",
+      "SetCurTexture",
+      "Main"
+    ],
+    "coverage": "No component attached in either shipped scene. Referenced by supplied scripts; reachability/native behavior not fully established.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/CoinHolder.cs",
+    "sha256": "e590a0eefdb2386da22c8caea672e60518802339bfee13846de0115afa6f98a1",
+    "attachments": [
+      "level0:2877"
+    ],
+    "referencesFrom": [
+      "InGameAngleIcon",
+      "PauseButtonScript",
+      "PauseMenu",
+      "QuarterTrigger"
+    ],
+    "methods": [
+      "Start",
+      "DisplayDigit",
+      "HandleTextures",
+      "DisplayQuarters",
+      "QuarterFlyIn",
+      "Update",
+      "TriggerCoinIn",
+      "Main",
+      "LoadMesh"
+    ],
+    "coverage": "Score/coin HUD and original fly clips implemented; 0.7 restores visibility beneath helper parent. Holder transition state details not all reproduced.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/CoinsLeft.cs",
+    "sha256": "42680f0bdc7bc3d71d1389552bccf69d91ee6ec26471f9e6a5451abe98e9abdf",
+    "attachments": [
+      "level0:2863"
+    ],
+    "referencesFrom": [
+      "QuarterTrigger"
+    ],
+    "methods": [
+      "Start",
+      "Update",
+      "OnGUI",
+      "HandleCoinsLeftTextures",
+      "TriggerAnim",
+      "IsDonePlaying",
+      "HandleTextures",
+      "DisableAllDigitRenders",
+      "Main"
+    ],
+    "coverage": "Counter works; original particle/coin-stack presentation incomplete.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/CoinsLeftController.cs",
+    "sha256": "ebdd20323ab2553228d975070e1d156cf4cc1ba3f4109dae52fb73550a3042c6",
+    "attachments": [],
+    "referencesFrom": [],
+    "methods": [
+      "TriggerCoinsLeft",
+      "Update",
+      "Main"
+    ],
+    "coverage": "No component attached in either shipped scene. No name reference in other supplied scripts; not activated by this port.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/ColliderGameObjectClass.cs",
+    "sha256": "20abb59c23c0cae33060459a51d13b9d5f05582503f1ff01aa14ed8dafd77efd",
+    "attachments": [],
+    "referencesFrom": [
+      "QuarterTrigger"
+    ],
+    "methods": [],
+    "coverage": "Data role replaced by CollisionShape/CollisionChain; core trajectory regression preserved.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/ColliderInfoClass.cs",
+    "sha256": "64b96654998ef70234b57f34aa8fda68c85f73692011eb2430d5353548994368",
+    "attachments": [],
+    "referencesFrom": [
+      "QuarterTrigger"
+    ],
+    "methods": [],
+    "coverage": "Data role replaced by CollisionShape/CollisionChain; core trajectory regression preserved.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/ConstraintAxis.cs",
+    "sha256": "b3f83dc7b2177b537d89d933a3324684814d9453d2b2fdf0d5c45890f20b00a9",
+    "attachments": [],
+    "referencesFrom": [
+      "RotationConstraint"
+    ],
+    "methods": [],
+    "coverage": "No component attached in either shipped scene. Referenced by supplied scripts; reachability/native behavior not fully established.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/ControlState.cs",
+    "sha256": "8c8145c8d41ed7dedf52ceaeb9656fdd59b7cbb521e64753278051d1971c31d1",
+    "attachments": [],
+    "referencesFrom": [
+      "TapControl"
+    ],
+    "methods": [],
+    "coverage": "No component attached in either shipped scene. Referenced by supplied scripts; reachability/native behavior not fully established.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/CrowdScript.cs",
+    "sha256": "28317f01b05262443b16fe0df10452c3a5d60704ed1357007725ad9bc04f8fa5",
+    "attachments": [
+      "level0:2861"
+    ],
+    "referencesFrom": [
+      "QuarterTrigger"
+    ],
+    "methods": [
+      "ApplauseSound",
+      "FixedUpdate",
+      "Main"
+    ],
+    "coverage": "Recovered clips preloaded; 0.7 native stinger gate corrected. Audio mixing/device timing still unverified.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/Entry.cs",
+    "sha256": "655ad1358a2dc6d90443ce9055409ed7e77f74ab2968924dd6fe818b93632f59",
+    "attachments": [],
+    "referencesFrom": [
+      "HiScorePracticeScript",
+      "HiScoreRoundScript",
+      "HiScoreScript",
+      "InGameHiScore",
+      "mainmenu"
+    ],
+    "methods": [],
+    "coverage": "Scores persisted through GameStorage; exact original presentation/preference format not retained.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/FirstPersonControl.cs",
+    "sha256": "40b173bbb4b25a434f76ab36d8d6ca1cd1ba56d5ebc874f6417bebef26ff8cfe",
+    "attachments": [],
+    "referencesFrom": [],
+    "methods": [
+      "Start",
+      "OnEndGame",
+      "Update",
+      "Main"
+    ],
+    "coverage": "No component attached in either shipped scene. No name reference in other supplied scripts; not activated by this port.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/FollowTransform.cs",
+    "sha256": "a52b2e53aeb8b0971ba0bccde97b4fba1811e075c026bd454dbb0b87cd3f9d6b",
+    "attachments": [],
+    "referencesFrom": [],
+    "methods": [
+      "Start",
+      "Update",
+      "Main"
+    ],
+    "coverage": "No component attached in either shipped scene. No name reference in other supplied scripts; not activated by this port.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/GameHighScreen.cs",
+    "sha256": "129acdf274681516e32c7da1f3a6c9e3f060e54c534837c1d6d02934dcbe7c4a",
+    "attachments": [
+      "mainData:349"
+    ],
+    "referencesFrom": [
+      "mainmenu"
+    ],
+    "methods": [
+      "Start",
+      "DisplayOddFinger",
+      "Update",
+      "OnGUI",
+      "Main"
+    ],
+    "coverage": "Menu assets/animations implemented in MainMenuController; selected text/dialogs use UIKit. Complete native branch parity not audited.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/GameManagerScript.cs",
+    "sha256": "4b6f09b99931688a473f9f40385b3f2506c6b9e5b2f579dd7926220c4acbdb11",
+    "attachments": [
+      "level0:2849"
+    ],
+    "referencesFrom": [
+      "About",
+      "AngleAdjustScript",
+      "AreYouSure",
+      "CoinHolder",
+      "Help",
+      "HiScorePracticeScript",
+      "HiScoreRoundScript",
+      "InGameAngleIcon",
+      "InGameHiScore",
+      "MainCameraScript",
+      "PauseButtonScript",
+      "PauseMenu",
+      "PracticeUI",
+      "QuarterTrigger",
+      "ReplayController",
+      "RicochetExciter",
+      "RoundHighScreen",
+      "RoundIndicator",
+      "SaveReplayButtons",
+      "ShadowQuarterScript",
+      "ShotTypeHelper",
+      "StatsScreen",
+      "UIPlayer",
+      "lightray",
+      "mainmenu"
+    ],
+    "methods": [
+      "Start",
+      "is_iPad",
+      "StoreSecretRoundUnlockCode",
+      "ResetUserSecretCodes",
+      "IsLastActivePlayer",
+      "ResetShotAngleToDefault",
+      "GetCurrentRoundScore",
+      "SetCurrentRoundScore",
+      "UpdateCurRicochet",
+      "AddRoundScore",
+      "AddScore",
+      "IncrementCurrentStreak",
+      "SetCurrentStreak",
+      "ClearAllScores",
+      "ResetGameManagerVars",
+      "UpdateRound",
+      "GetNextCurrentPlayer",
+      "UpdateShotCount",
+      "ClearAllGameOverFlags",
+      "SetCurrentGameOverFlag",
+      "AllPlayersGameOver",
+      "ClearAllPlayedThisRoundFlags",
+      "SetCurrentPlayedThisRound",
+      "GetCurrentPlayedThisRound",
+      "GetPlayedThisRound",
+      "SetAllShotsLeft",
+      "AllPlayersOutOfShots",
+      "SetCurrentInputType",
+      "GetCurrentInputType",
+      "SetCurrentShotsLeft",
+      "GetCurrentShotsLeft",
+      "GetPlayerShotsLeft",
+      "DecrementCurrentShotsLeft",
+      "GetCurrentShotsLeft",
+      "ClearScores",
+      "AddPlayerScore",
+      "SetCurrentScore",
+      "GetCurrentScore",
+      "GetPlayerScore",
+      "ClearRoundStreaks",
+      "SetCurrentRoundStreak",
+      "GetPlayerMaxStreak",
+      "GetPlayerMaxRicochet",
+      "GetCurrentRoundStreak",
+      "SetCurrentTotalStreak",
+      "ClearTotalStreaks",
+      "GetCurrentTotalStreak",
+      "SetName",
+      "GetName",
+      "GetNameEnteredFlag",
+      "SetNameEnteredFlag",
+      "ResetPlayerData",
+      "Awake",
+      "OnApplicationQuit",
+      "GetiPadRect",
+      "GetiPhoneRect",
+      "IsValidPlayer",
+      "PlayerAt",
+      "Main"
+    ],
+    "coverage": "C# session/player rules retained and tested; original platform input/preferences adapted to UIKit/storage.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/GameOrRoundButtons.cs",
+    "sha256": "223b054a5bc4ee107a2369b20abc1ee8754288dcf5225d693312349948c738dd",
+    "attachments": [
+      "mainData:351"
+    ],
+    "referencesFrom": [
+      "HiScoreScript",
+      "mainmenu"
+    ],
+    "methods": [
+      "Start",
+      "Update",
+      "OnGUI",
+      "HandleButtonTextures",
+      "Main"
+    ],
+    "coverage": "Menu assets/animations implemented in MainMenuController; selected text/dialogs use UIKit. Complete native branch parity not audited.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/GameOver.cs",
+    "sha256": "1aeb7ac7a18d29a59accc8a3631df4310ad592dc0aaa3e9aadc6b7babc428bea",
+    "attachments": [
+      "level0:2897"
+    ],
+    "referencesFrom": [
+      "QuarterTrigger"
+    ],
+    "methods": [
+      "Start",
+      "Update",
+      "Main"
+    ],
+    "coverage": "Original meshes/clips and event wiring implemented; complete frame-by-frame parity not verified.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/GlassScaleController.cs",
+    "sha256": "fee22a96bbadf2e9348defa576caf6d80c2b83b7c01a88b173699aeb6d07162b",
+    "attachments": [
+      "level0:2874"
+    ],
+    "referencesFrom": [
+      "QuarterTrigger"
+    ],
+    "methods": [
+      "Start",
+      "Update",
+      "Main"
+    ],
+    "coverage": "Original sampled pulse with 1.05 speed, 0.75 scale weighting; no device parity measurement.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/Help.cs",
+    "sha256": "7fe4c1f8fe67275d61fc2eb756bd140f1c0bffca46493130e8a44941602c025b",
+    "attachments": [
+      "level0:2872"
+    ],
+    "referencesFrom": [],
+    "methods": [
+      "Start",
+      "Main"
+    ],
+    "coverage": "Functional host UI/selected original clips; text, help, statistics and some transitions use host substitutes.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/HiScorePracticeScript.cs",
+    "sha256": "e559e55e2f34ff240c38d81f42c367aae13293b6a87121deb8ab45d57848ddb6",
+    "attachments": [],
+    "referencesFrom": [],
+    "methods": [
+      "Awake",
+      "GetArray",
+      "AddPracticeHiScore",
+      "SaveEntries",
+      "LoadEntries",
+      "GetName",
+      "GetScore",
+      "WipeoutPrefs",
+      "Main"
+    ],
+    "coverage": "No component attached in either shipped scene. No name reference in other supplied scripts; not activated by this port.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/HiScoreRoundScript.cs",
+    "sha256": "45b6fc36d2c727a6f6365c621c310f5e23d586d06636799622c43b19762b4bce",
+    "attachments": [
+      "level0:2895"
+    ],
+    "referencesFrom": [
+      "HiScoreScript",
+      "PracticeUI",
+      "QuarterTrigger",
+      "mainmenu"
+    ],
+    "methods": [
+      "Awake",
+      "GetArray",
+      "AddRoundHiScore",
+      "SaveEntries",
+      "LoadEntries",
+      "GetName",
+      "GetScore",
+      "WipeoutPrefs",
+      "Main"
+    ],
+    "coverage": "Scores persisted through GameStorage; exact original presentation/preference format not retained.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/HiScoreScript.cs",
+    "sha256": "b7db9e5d5fb65ee8b652bce42dd7a10bcde1536eb63a0d25ccd75318a3aa2cbe",
+    "attachments": [
+      "level0:2902"
+    ],
+    "referencesFrom": [
+      "GameHighScreen",
+      "InGameHiScore",
+      "PracticeUI",
+      "QuarterTrigger",
+      "mainmenu"
+    ],
+    "methods": [
+      "GetArray",
+      "SetPrefStringPrefix",
+      "Awake",
+      "LoadEntries",
+      "SaveEntries",
+      "SetHiScoreName",
+      "GetHighScorePosition",
+      "InsertHiScore",
+      "LoadLocks",
+      "UpdateLockedRoundIndex",
+      "WipeoutPrefs",
+      "WipeoutAllPrefs",
+      "Main"
+    ],
+    "coverage": "Scores persisted through GameStorage; exact original presentation/preference format not retained.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/InGameAngleIcon.cs",
+    "sha256": "cc5966b692e59864fb7bf01c8e4e1b5c2e6a29186e58c3fb9e989659cc8e0a51",
+    "attachments": [
+      "level0:2898"
+    ],
+    "referencesFrom": [
+      "PauseButtonScript",
+      "PauseMenu",
+      "QuarterTrigger"
+    ],
+    "methods": [
+      "Start",
+      "Update",
+      "DisplayDoneButton",
+      "OnGUI",
+      "HandleTextures",
+      "Main"
+    ],
+    "coverage": "0.7 restores helper children and resting hold pose; root slide offset retained. Reminder animation/state detail remains incomplete.",
+    "nativeDisassemblies": [
+      "native/InGameAngleIcon.Start.asm",
+      "native/InGameAngleIcon.Update.asm"
+    ]
+  },
+  {
+    "script": "Assets/Scripts/InGameHiScore.cs",
+    "sha256": "c03a51ab913768cd94f34e3a63b7284979c0b61d55bf2e8ecf19c10e3e34c557",
+    "attachments": [
+      "level0:2883"
+    ],
+    "referencesFrom": [
+      "QuarterTrigger"
+    ],
+    "methods": [
+      "Start",
+      "ScoresText",
+      "OnGUI",
+      "Update",
+      "Main"
+    ],
+    "coverage": "Scores persisted through GameStorage; exact original presentation/preference format not retained.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/IntroCamScript.cs",
+    "sha256": "310d96c748d673f79acfc54ab5551f2a6306247f7021e6d0d60de7b479ebd37a",
+    "attachments": [
+      "level0:2844"
+    ],
+    "referencesFrom": [],
+    "methods": [
+      "LateUpdate",
+      "Main"
+    ],
+    "coverage": "Serialized camera preserved; original intro camera flow not restored.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/Joystick.cs",
+    "sha256": "64478ef27160e45edc8fbc639ef53a036442189c87d73c3ae1c737e435b8439f",
+    "attachments": [],
+    "referencesFrom": [
+      "CameraRelativeControl",
+      "FirstPersonControl",
+      "PlayerRelativeControl",
+      "SidescrollControl"
+    ],
+    "methods": [
+      "Start",
+      "Disable",
+      "ResetJoystick",
+      "IsFingerDown",
+      "LatchedFinger",
+      "Update",
+      "Main"
+    ],
+    "coverage": "No component attached in either shipped scene. Referenced by supplied scripts; reachability/native behavior not fully established.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/LauncherScript.cs",
+    "sha256": "7b0d48089645403f2d605506ac311bea4a5c717a016c797b3497e47ee9324281",
+    "attachments": [
+      "level0:2841",
+      "level0:2842",
+      "level0:2843",
+      "level0:2846",
+      "level0:2847",
+      "level0:2848",
+      "level0:2859",
+      "level0:2870",
+      "level0:2892",
+      "level0:2899",
+      "level0:2901"
+    ],
+    "referencesFrom": [],
+    "methods": [
+      "OnCollisionEnter",
+      "Start",
+      "Update",
+      "Main"
+    ],
+    "coverage": "Recovered geometry, animation and reaction values loaded; replay uses recorded poses. Original engine simulation equivalence not guaranteed.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/LazySusanGlassShadow.cs",
+    "sha256": "b5535d418337210ab92713057a3978e7457f778aa9d5ac74b5c1b4e2e04073af",
+    "attachments": [
+      "level0:2882"
+    ],
+    "referencesFrom": [],
+    "methods": [
+      "Update",
+      "IsLazySusanActive",
+      "Main"
+    ],
+    "coverage": "Recovered follow/shadow values implemented; aspect adaptation is a deliberate modern-device change.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/LighterScript.cs",
+    "sha256": "960ee7853926485f7568784168f64584967f60450d233bd6455303306807ead4",
+    "attachments": [
+      "level0:2838",
+      "level0:2839",
+      "level0:2845",
+      "level0:2862",
+      "level0:2864",
+      "level0:2868",
+      "level0:2869",
+      "level0:2876",
+      "level0:2887",
+      "level0:2888",
+      "level0:2889",
+      "level0:2896",
+      "level0:2900"
+    ],
+    "referencesFrom": [],
+    "methods": [
+      "OnCollisionEnter",
+      "Start",
+      "Update",
+      "Main"
+    ],
+    "coverage": "Recovered geometry, animation and reaction values loaded; replay uses recorded poses. Original engine simulation equivalence not guaranteed.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/Logo.cs",
+    "sha256": "5ada1783510b22364d83611f7a5c77d5bcfaba14cdfda01a77f168d3e2346ceb",
+    "attachments": [
+      "mainData:345"
+    ],
+    "referencesFrom": [
+      "mainmenu"
+    ],
+    "methods": [
+      "Start",
+      "Update",
+      "OnGUI",
+      "Main"
+    ],
+    "coverage": "Menu assets/animations implemented in MainMenuController; selected text/dialogs use UIKit. Complete native branch parity not audited.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/MainCameraScript.cs",
+    "sha256": "6baee8d5f69fa86d715ac2c0dc60dd3034f63bbddc8de6916ae9723b5b849084",
+    "attachments": [
+      "level0:2867"
+    ],
+    "referencesFrom": [],
+    "methods": [
+      "Start",
+      "LateUpdate",
+      "Main"
+    ],
+    "coverage": "Recovered follow/shadow values implemented; aspect adaptation is a deliberate modern-device change.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/NewtonsCradleScript.cs",
+    "sha256": "53c13b71219c4798440f0c496b6e8255786d909e1ff4f7c6be8096f6a6911ccb",
+    "attachments": [],
+    "referencesFrom": [],
+    "methods": [
+      "Start",
+      "FixedUpdate",
+      "OnCollisionEnter",
+      "Main"
+    ],
+    "coverage": "No component attached in either shipped scene. No name reference in other supplied scripts; not activated by this port.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/ObliqueNear.cs",
+    "sha256": "1318fc0f8d5e2d88731400e7dd2aa0b06308cdc15924cb1232e59e77c5df001e",
+    "attachments": [],
+    "referencesFrom": [
+      "RenderWater"
+    ],
+    "methods": [
+      "CalculateObliqueMatrix",
+      "OnPreCull",
+      "Main"
+    ],
+    "coverage": "No component attached in either shipped scene. Referenced by supplied scripts; reachability/native behavior not fully established.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/PauseButtonScript.cs",
+    "sha256": "bff456a6e946b97404019952ddff5b960faeea36a95365c58dacaf91f9faed51",
+    "attachments": [
+      "level0:2850"
+    ],
+    "referencesFrom": [],
+    "methods": [
+      "Awake",
+      "Start",
+      "OnGUI",
+      "CheckToDisableHOFButton",
+      "Main"
+    ],
+    "coverage": "Functional host UI/selected original clips; text, help, statistics and some transitions use host substitutes.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/PauseMenu.cs",
+    "sha256": "d37f05c5f0895412783e13efa80e6e6542dabaadfc0d762dd9bf6b2692c7dbb0",
+    "attachments": [
+      "level0:2891"
+    ],
+    "referencesFrom": [
+      "PauseButtonScript",
+      "QuarterTrigger",
+      "ReplayController"
+    ],
+    "methods": [
+      "Start",
+      "HandleButtonMaterials",
+      "isFlickShot",
+      "DrawHelpText",
+      "HandleHelpScreen",
+      "HandlePauseMenu",
+      "ReturnToGame",
+      "PlayAnimatingObjects",
+      "Update",
+      "HideHelpButton",
+      "DisplayHelpButton",
+      "DisplayHelpScreen",
+      "OnGUI",
+      "Main"
+    ],
+    "coverage": "Functional host UI/selected original clips; text, help, statistics and some transitions use host substitutes.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/PlayerInfoClass.cs",
+    "sha256": "337958656dfb472101eb6a2ead50002619ee8686a311365d9ff5f9b9c6d22ac9",
+    "attachments": [],
+    "referencesFrom": [
+      "GameManagerScript",
+      "mainmenu"
+    ],
+    "methods": [],
+    "coverage": "C# session/player rules retained and tested; original platform input/preferences adapted to UIKit/storage.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/PlayerRelativeControl.cs",
+    "sha256": "477fb776ec7728ce1dc866e524baa30cae4c22fbdf73cf6c2a7ada34520f4125",
+    "attachments": [],
+    "referencesFrom": [],
+    "methods": [
+      "Start",
+      "OnEndGame",
+      "Update",
+      "Main"
+    ],
+    "coverage": "No component attached in either shipped scene. No name reference in other supplied scripts; not activated by this port.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/PowerX.cs",
+    "sha256": "e901290f52b597935ce84dc2d8b8b2e819258da132edd1a7477c6dc74eff52ad",
+    "attachments": [
+      "level0:2837"
+    ],
+    "referencesFrom": [
+      "QuarterTrigger"
+    ],
+    "methods": [
+      "Start",
+      "DisplayPowerUp",
+      "GetStartPosition",
+      "SetTexture",
+      "Update",
+      "Main"
+    ],
+    "coverage": "Original meshes/clips and event wiring implemented; complete frame-by-frame parity not verified.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/PracticeGreatScore.cs",
+    "sha256": "f8335e3e9554b6ab2f017ded20be9b1cc8759c466a8beed0426c8c92cea69b9e",
+    "attachments": [
+      "level0:2879"
+    ],
+    "referencesFrom": [
+      "QuarterTrigger"
+    ],
+    "methods": [
+      "Start",
+      "HandleGreatScoreTextures",
+      "Update",
+      "Main"
+    ],
+    "coverage": "Original meshes/clips and event wiring implemented; complete frame-by-frame parity not verified.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/PracticeUI.cs",
+    "sha256": "c3d3896ed8675967484bb53b187d9a6d540f4a2e3fb0b8d2f564ae2e30bfbf55",
+    "attachments": [
+      "level0:2840"
+    ],
+    "referencesFrom": [
+      "QuarterTrigger"
+    ],
+    "methods": [
+      "Start",
+      "Update",
+      "ChecktoTriggerLockAnimation",
+      "IsGoButtonDisabled",
+      "OnGUI",
+      "Main"
+    ],
+    "coverage": "Functional host UI/selected original clips; text, help, statistics and some transitions use host substitutes.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/Properties/AssemblyInfo.cs",
+    "sha256": "163dc6c723e8f95b47a6e9d6b189b14eb245e18d9746045f2612da6b48b62fe9",
+    "attachments": [],
+    "referencesFrom": [],
+    "methods": [],
+    "coverage": "Assembly metadata; no gameplay behavior.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/QuarterTrigger.cs",
+    "sha256": "d17a8d106fbfc86e5f36a488d254e1c89bbca63ff48a1a6eadff4012f4308851",
+    "attachments": [
+      "level0:2856"
+    ],
+    "referencesFrom": [
+      "AngleAdjustScript",
+      "AnnouncerScript",
+      "BirdScript",
+      "ButtonDownScript",
+      "CellPhoneScript",
+      "ChipRackupScript",
+      "CoinHolder",
+      "CoinsLeft",
+      "CrowdScript",
+      "HiScoreScript",
+      "InGameAngleIcon",
+      "LauncherScript",
+      "LighterScript",
+      "MainCameraScript",
+      "NewtonsCradleScript",
+      "PauseButtonScript",
+      "PauseMenu",
+      "PracticeUI",
+      "ReplayController",
+      "ReplayExciter",
+      "RicochetExciter"
+    ],
+    "methods": [
+      "InitQuarterData",
+      "ResetQuarterData",
+      "AddQuarterData",
+      "RestoreQuarterData",
+      "LoadMutePref",
+      "DisplayQuarterAndShadow",
+      "SaveMutePref",
+      "LoadPlayerNamesFromPrefs",
+      "SavePlayerNameToPrefs",
+      "DisplayBackDrop",
+      "Start",
+      "ResetQuarter",
+      "ComputeQuarterVel",
+      "CheckQuarterVel",
+      "GlassEmitterFlash",
+      "AddCollisionToList",
+      "OnCollisionEnter",
+      "OnCollisionStay",
+      "fUpdate",
+      "AddtoShotTime",
+      "isInGlass",
+      "SetSelectLevelState",
+      "SetRoundDisplayState",
+      "SetBounceFlyCountState",
+      "SetShotResultState",
+      "SetRackupState",
+      "SetShotOverState",
+      "SetGameOverState",
+      "ExitInputNameState",
+      "SetInputNameState",
+      "SetHiScoresTableState",
+      "StateRoundDisplayRules",
+      "ResetAndExitLevel",
+      "ProcessTouchforAngle",
+      "ProcessTouchforAngleDeprecated",
+      "SetPlayerRoundFinishedPracticeOutofShots",
+      "SetPlayerRoundFinishedState",
+      "SetGameOverExciterState",
+      "ExitShotOverState",
+      "CheckForAngleReminder",
+      "FixedUpdate",
+      "RestoreFromReplay",
+      "gameOverExciterRules",
+      "GetPlayerName",
+      "DisableAllCams",
+      "GetValidReplayCamera",
+      "toggleCamera",
+      "SetGlassShadow",
+      "SetGlasses",
+      "ResetColliderInfo",
+      "ResetColliderSoundArray",
+      "AddColliderSound",
+      "PlayColliderSound",
+      "AddColliderToList",
+      "ResetColliderGameObjectInfo",
+      "AddColliderToGameObjectList",
+      "BuildCollisionChain",
+      "TurnBuzzingSoundOff",
+      "Main",
+      "SetColliderDebugField",
+      "SetGameObjectDebugField"
+    ],
+    "coverage": "Core physics/input/scoring ported; native flick/contact/stinger/replay selection checked. New solver is not original PhysX; complete native state-machine parity remains unverified.",
+    "nativeDisassemblies": [
+      "native/QuarterTrigger.FixedUpdate.asm",
+      "native/QuarterTrigger.GetValidReplayCamera.asm",
+      "native/QuarterTrigger.OnCollisionStay.asm",
+      "native/QuarterTrigger.SetPlayerRoundFinishedState.asm",
+      "native/QuarterTrigger.ctor.asm",
+      "native/QuarterTrigger.fUpdate.asm",
+      "native/QuarterTrigger.isInGlass.asm"
+    ]
+  },
+  {
+    "script": "Assets/Scripts/RenderWater.cs",
+    "sha256": "19d69831bfdea392fbb6297a99acada6a8456e66505d9f2926366e65ecacadb3",
+    "attachments": [],
+    "referencesFrom": [
+      "iPhoneWater"
+    ],
+    "methods": [
+      "Start",
+      "OnPreCull",
+      "Main"
+    ],
+    "coverage": "No component attached in either shipped scene. Referenced by supplied scripts; reachability/native behavior not fully established.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/ReplayCameraScript.cs",
+    "sha256": "d5cc3fc76cdf42bc63cf384863b82dd5b4fc5471346c95b6ffe59d2af8508f22",
+    "attachments": [
+      "level0:2836",
+      "level0:2857",
+      "level0:2858"
+    ],
+    "referencesFrom": [],
+    "methods": [
+      "LateUpdate",
+      "Start",
+      "Main"
+    ],
+    "coverage": "0.7 uses all three recovered transforms/FOVs/damping; native round exclusions checked. Device comparison pending.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/ReplayController.cs",
+    "sha256": "7cf84854e96c79659aa22aedac31f32eb0021fccfa17d926a2e17ae9a50f88f6",
+    "attachments": [
+      "level0:2873"
+    ],
+    "referencesFrom": [
+      "BirdScript",
+      "PauseButtonScript",
+      "PauseMenu",
+      "QuarterTrigger"
+    ],
+    "methods": [
+      "InitReplayData",
+      "LoadAllReplays",
+      "ClearAllReplays",
+      "SaveReplay",
+      "GetReplayNameString",
+      "GetReplayRoundString",
+      "GetReplayDateString",
+      "GetReplayRoundNumber",
+      "Start",
+      "SetShotParameters",
+      "GetMaxSlots",
+      "IsSlotUsed",
+      "GetSavedReplaysRound",
+      "GetNumSavedSlots",
+      "IsReplayDataValid",
+      "RequestReplay",
+      "RequestHallOfFameReplay",
+      "SaveAnimationData",
+      "SaveShotTick",
+      "RestoreShotTick",
+      "storeReplayData",
+      "RestoreReplayData",
+      "TriggerSlideIn",
+      "OnGUI",
+      "Main",
+      "ValidSlot",
+      "ValidUsedSlot"
+    ],
+    "coverage": "Current-shot automatic/manual replay implemented; six-slot persistent replay gallery/save workflow missing.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/ReplayExciter.cs",
+    "sha256": "2da02226ecc63fcdf40ccec8bac4bae954686311e3178dceebb08ae52c5160de",
+    "attachments": [],
+    "referencesFrom": [],
+    "methods": [
+      "TriggerOn",
+      "TriggerOff",
+      "Update",
+      "OnGUI",
+      "Main"
+    ],
+    "coverage": "No component attached in either shipped scene. No name reference in other supplied scripts; not activated by this port.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/RicochetExciter.cs",
+    "sha256": "e33298c663546531693204107829b851687b11c8020b7fe300b015d6532d74cb",
+    "attachments": [
+      "level0:2884"
+    ],
+    "referencesFrom": [
+      "QuarterTrigger"
+    ],
+    "methods": [
+      "Start",
+      "DisableInstantReplayExciter",
+      "Update",
+      "OnGUI",
+      "Main"
+    ],
+    "coverage": "Original holder/coin clips and scoring textures; 0.7 restores 45-frame score and 15\u201320-frame exit. Replay skipping remains incomplete.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/RollABall.cs",
+    "sha256": "96eff27e6ab9f41d23a4cd46feed8404cb9fc828ecd43e402f5152a79dd75093",
+    "attachments": [],
+    "referencesFrom": [],
+    "methods": [
+      "Start",
+      "Update",
+      "LateUpdate",
+      "Main"
+    ],
+    "coverage": "No component attached in either shipped scene. No name reference in other supplied scripts; not activated by this port.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/RotationConstraint.cs",
+    "sha256": "f65e70084816e7884b52458ba03ff6f50a544d22f912ef5aa969e11ac8f9dc86",
+    "attachments": [],
+    "referencesFrom": [],
+    "methods": [
+      "Start",
+      "LateUpdate",
+      "Main"
+    ],
+    "coverage": "No component attached in either shipped scene. No name reference in other supplied scripts; not activated by this port.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/RoundComplete.cs",
+    "sha256": "e2194a3bed89d341df2967d583310a3064496e1df0a0a12b451a4e1209504f65",
+    "attachments": [
+      "level0:2855"
+    ],
+    "referencesFrom": [
+      "QuarterTrigger"
+    ],
+    "methods": [
+      "Start",
+      "playAnimation",
+      "HandleTextures",
+      "DisableAllDigitRenders",
+      "Update",
+      "Main"
+    ],
+    "coverage": "Original clips and digit selection retained; 0.7 restores dim material alpha 0.5. UI 3D lighting still differs.",
+    "nativeDisassemblies": [
+      "native/RoundComplete.Update.asm"
+    ]
+  },
+  {
+    "script": "Assets/Scripts/RoundHighScreen.cs",
+    "sha256": "f3e0bab90cc3ffa3f9423fbcfd8a878722c18b37a3c4512371ad80228f55ef50",
+    "attachments": [
+      "mainData:346"
+    ],
+    "referencesFrom": [
+      "GameOrRoundButtons",
+      "mainmenu"
+    ],
+    "methods": [
+      "Start",
+      "Update",
+      "OnGUI",
+      "Main"
+    ],
+    "coverage": "Menu assets/animations implemented in MainMenuController; selected text/dialogs use UIKit. Complete native branch parity not audited.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/RoundIndicator.cs",
+    "sha256": "898c82baa919149c572ac73b13b7eaed3da79e7c25b0590395ac47ea89abfbf0",
+    "attachments": [
+      "level0:2878"
+    ],
+    "referencesFrom": [
+      "PauseButtonScript",
+      "PauseMenu",
+      "QuarterTrigger"
+    ],
+    "methods": [
+      "Start",
+      "UpdateCurRoundNumberPosition",
+      "UpdateCurRoundNumberRotation",
+      "Update",
+      "Main"
+    ],
+    "coverage": "Original meshes/clips and event wiring implemented; complete frame-by-frame parity not verified.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/SaveGameScript.cs",
+    "sha256": "be55272f5f081388d3d00e342003bf8988b62e95d12dddd005d19edae4080b22",
+    "attachments": [],
+    "referencesFrom": [],
+    "methods": [
+      "OnGUI",
+      "Update",
+      "Main"
+    ],
+    "coverage": "No component attached in either shipped scene. No name reference in other supplied scripts; not activated by this port.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/SaveReplayButtons.cs",
+    "sha256": "eb05196a97a4f7e2dafa4f899862872b0032abed020a4ec2ac091b305f878d65",
+    "attachments": [
+      "level0:2854"
+    ],
+    "referencesFrom": [],
+    "methods": [
+      "Start",
+      "Update",
+      "Main"
+    ],
+    "coverage": "Current-shot automatic/manual replay implemented; six-slot persistent replay gallery/save workflow missing.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/SecretRound.cs",
+    "sha256": "d08d360bbdcdf659a20284513a1023c35199f0e718a94e4a40eb175d36ad683b",
+    "attachments": [
+      "level0:2893"
+    ],
+    "referencesFrom": [
+      "QuarterTrigger"
+    ],
+    "methods": [
+      "Start",
+      "Update",
+      "Main"
+    ],
+    "coverage": "Round content available; original secret intro/outro presentation not fully connected.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/ShadowQuarterScript.cs",
+    "sha256": "5ef4e29cd2c33bf964f0ab8fb37f7a1728764a261149994f8e901b1669fd66b0",
+    "attachments": [
+      "level0:2881"
+    ],
+    "referencesFrom": [],
+    "methods": [
+      "Update",
+      "Main"
+    ],
+    "coverage": "Recovered follow/shadow values implemented; aspect adaptation is a deliberate modern-device change.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/ShotTypeHelper.cs",
+    "sha256": "7c2595036f0a75793ee9536a27b26c5353493d830727b314062f2cb9aad9b441",
+    "attachments": [
+      "level0:2871"
+    ],
+    "referencesFrom": [
+      "QuarterTrigger"
+    ],
+    "methods": [
+      "isFlickShot",
+      "Update",
+      "Main"
+    ],
+    "coverage": "Functional host UI/selected original clips; text, help, statistics and some transitions use host substitutes.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/SidescrollControl.cs",
+    "sha256": "8953a45a66bdde180f285fae04d337e243cb68f98dd3c46517d61152ae82f904",
+    "attachments": [],
+    "referencesFrom": [],
+    "methods": [
+      "Start",
+      "OnEndGame",
+      "Update",
+      "Main"
+    ],
+    "coverage": "No component attached in either shipped scene. No name reference in other supplied scripts; not activated by this port.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/SmoothFollow2D.cs",
+    "sha256": "819ecd2a2bb41f99f4343c09102ef329a34718b01e4184d2012a0518905355e6",
+    "attachments": [],
+    "referencesFrom": [],
+    "methods": [
+      "Start",
+      "Update",
+      "Main"
+    ],
+    "coverage": "No component attached in either shipped scene. No name reference in other supplied scripts; not activated by this port.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/SpotlightScript.cs",
+    "sha256": "8f50504c890d887d3ebcb1fa5063f141b8dad4dec73bc0b5405c0a5c288ae8fa",
+    "attachments": [
+      "level0:2853"
+    ],
+    "referencesFrom": [],
+    "methods": [
+      "LateUpdate",
+      "Start",
+      "Main"
+    ],
+    "coverage": "Original static lighting recovered; animated spotlight/rotation behavior not reproduced.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/StatsScreen.cs",
+    "sha256": "9df4f6f9fc2506bfd14e5860419537af99c2ab521c29db8191060cceeb70d9b0",
+    "attachments": [
+      "level0:2865"
+    ],
+    "referencesFrom": [
+      "QuarterTrigger"
+    ],
+    "methods": [
+      "Start",
+      "StatsText",
+      "OnGUI",
+      "DisplayFingers",
+      "Update",
+      "Main"
+    ],
+    "coverage": "Functional host UI/selected original clips; text, help, statistics and some transitions use host substitutes.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/Streak.cs",
+    "sha256": "0c143e536e40bcb2b63d0482ba0b109c78cbe8264e2dbc1f62c3de6754e5fdf0",
+    "attachments": [
+      "level0:2885"
+    ],
+    "referencesFrom": [
+      "QuarterTrigger"
+    ],
+    "methods": [
+      "Trigger",
+      "Update",
+      "HandleTextures",
+      "DisableAllDigitRenders",
+      "Main"
+    ],
+    "coverage": "Original meshes/clips and event wiring implemented; complete frame-by-frame parity not verified.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/TapControl.cs",
+    "sha256": "13b5e3e02c64cb4b33a6485847fc31c91949bab10253eeb7970540615181263c",
+    "attachments": [],
+    "referencesFrom": [],
+    "methods": [
+      "Start",
+      "OnEndGame",
+      "FaceMovementDirection",
+      "CameraControl",
+      "CharacterControl",
+      "ResetControlState",
+      "Update",
+      "LateUpdate",
+      "Main"
+    ],
+    "coverage": "No component attached in either shipped scene. No name reference in other supplied scripts; not activated by this port.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/UIPlayer.cs",
+    "sha256": "4df7842d51ee82c67338a01a052099f7b8c430e2bd4864ace910f8722c5faf9f",
+    "attachments": [
+      "level0:2880"
+    ],
+    "referencesFrom": [
+      "QuarterTrigger"
+    ],
+    "methods": [
+      "Update",
+      "PlayerAnimationName",
+      "Main"
+    ],
+    "coverage": "Original meshes/clips and event wiring implemented; complete frame-by-frame parity not verified.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/ZoomCamera.cs",
+    "sha256": "448ba89fb6d38b90367e00ea59824f4ddd298f13d4a54498c8666f386200df0e",
+    "attachments": [],
+    "referencesFrom": [
+      "TapControl"
+    ],
+    "methods": [
+      "Start",
+      "Update",
+      "Main"
+    ],
+    "coverage": "No component attached in either shipped scene. Referenced by supplied scripts; reachability/native behavior not fully established.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/iPhoneWater.cs",
+    "sha256": "399c0ddc7815a488c18ef42767415f41be2e0a0401da7defdfb8bdda83726102",
+    "attachments": [],
+    "referencesFrom": [],
+    "methods": [
+      "Awake",
+      "Main"
+    ],
+    "coverage": "No component attached in either shipped scene. No name reference in other supplied scripts; not activated by this port.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/lightray.cs",
+    "sha256": "beda1164507fc5a20c9ff5b825720a62e74f359314ee675db972de071ebe79be",
+    "attachments": [
+      "level0:2866"
+    ],
+    "referencesFrom": [
+      "QuarterTrigger"
+    ],
+    "methods": [
+      "TintMesh",
+      "PositionOffScreen",
+      "Start",
+      "Update",
+      "Main"
+    ],
+    "coverage": "0.7 restores meshes, vertex alpha, additive tint, double-speed clip and Y minus 0.12 from native code; dynamic original side-by-side comparison pending.",
+    "nativeDisassemblies": [
+      "native/lightray.TintMesh.asm",
+      "native/lightray.Update.asm"
+    ]
+  },
+  {
+    "script": "Assets/Scripts/mainmenu.cs",
+    "sha256": "f2600dbe3259c5420a6038856f56837d4fc3a586c4355ff2dac499ef196d67ea",
+    "attachments": [
+      "mainData:350"
+    ],
+    "referencesFrom": [
+      "AnnouncerScript",
+      "GameManagerScript",
+      "PauseMenu",
+      "QuarterTrigger",
+      "ReplayController"
+    ],
+    "methods": [
+      "isPracticeLocked",
+      "SetPracticeTexture",
+      "Start",
+      "DeleteLastGame",
+      "DoesLastGameExist",
+      "LoadLastGame",
+      "SaveLastGame",
+      "PlayClickSound",
+      "PlayIntroSound",
+      "DisplayGameScoreRecords",
+      "DisplayRoundScoreRecords",
+      "CheckforBgndScale",
+      "OnGUI",
+      "DisplayMainLogo",
+      "DisplayLoadingMessage",
+      "GameTypeNextState",
+      "LevelLoad",
+      "Main"
+    ],
+    "coverage": "Menu assets/animations implemented in MainMenuController; selected text/dialogs use UIKit. Complete native branch parity not audited.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/qstack.cs",
+    "sha256": "71e60fae7f99d8c227a24ac21c5a2dfc98fdba50f87eccff1efe6ff99f0df7d0",
+    "attachments": [],
+    "referencesFrom": [],
+    "methods": [
+      "Start",
+      "Update",
+      "Main"
+    ],
+    "coverage": "No component attached in either shipped scene. No name reference in other supplied scripts; not activated by this port.",
+    "nativeDisassemblies": []
+  },
+  {
+    "script": "Assets/Scripts/spotdirScript.cs",
+    "sha256": "6bff108675401f4b75f19af3c0874dd7f32d8526cfdb5e393fd4173b6b574cfe",
+    "attachments": [
+      "level0:2852"
+    ],
+    "referencesFrom": [],
+    "methods": [
+      "LateUpdate",
+      "Start",
+      "Main"
+    ],
+    "coverage": "Original static lighting recovered; animated spotlight/rotation behavior not reproduced.",
+    "nativeDisassemblies": []
+  }
+]

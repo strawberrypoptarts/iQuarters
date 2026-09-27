@@ -1,0 +1,82 @@
+{
+  "reports": [
+    {
+      "sourceFilename": "iquarters-ipad-crash.ips",
+      "version": "0.4.0",
+      "uuid": "317bc841-0ff4-3168-98eb-535a415a6568",
+      "model": "iPad12,1",
+      "os": {
+        "isEmbedded": true,
+        "train": "iPhone OS 26.0",
+        "releaseType": "User",
+        "build": "23A341"
+      },
+      "exception": {
+        "codes": "0x0000000000000002, 0x0000000103488018",
+        "rawCodes": [
+          2,
+          4350050328
+        ],
+        "type": "EXC_BAD_ACCESS",
+        "signal": "SIGSEGV",
+        "subtype": "KERN_PROTECTION_FAILURE at 0x0000000103488018"
+      },
+      "termination": {
+        "flags": 0,
+        "code": 11,
+        "namespace": "SIGNAL",
+        "indicator": "Segmentation fault: 11",
+        "byProc": "IQuarters.iOS",
+        "byPid": 4098
+      },
+      "vmRegionInfo": "0x103488018 is in 0x103488000-0x10348c000;  bytes after start: 24  bytes before end: 16359\n      REGION TYPE                 START - END      [ VSIZE] PRT/MAX SHRMOD  REGION DETAIL\n      VM_ALLOCATE              103484000-103488000 [   16K] rw-/rwx SM=PRV  \n--->  mapped file              103488000-10348c000 [   16K] r--/r-- SM=COW  Object_id=6c022c8\n      GAP OF 0x158000 BYTES\n      __TEXT                   1035e4000-103690000 [  688K] r-x/r-x SM=COW  /private/preboot/FA0AA9F18998ABA0C90810ECF0118C68FAC90A463954BACEE64B615AB4BB4AD6840D19D3044CB34ED786DB44DEEB54F4/dopamine-5k2huy/procursus/basebin/gen/dyld"
+    },
+    {
+      "sourceFilename": "iquarters-ipad-crash-06.ips",
+      "version": "0.6.0",
+      "uuid": "12cce6b0-fe21-3033-a5e2-27c94e2a3968",
+      "model": "iPad12,1",
+      "os": {
+        "isEmbedded": true,
+        "train": "iPhone OS 26.0",
+        "releaseType": "User",
+        "build": "23A341"
+      },
+      "exception": {
+        "codes": "0x0000000000000002, 0x00000001056a0018",
+        "rawCodes": [
+          2,
+          4385800216
+        ],
+        "type": "EXC_BAD_ACCESS",
+        "signal": "SIGSEGV",
+        "subtype": "KERN_PROTECTION_FAILURE at 0x00000001056a0018"
+      },
+      "termination": {
+        "flags": 0,
+        "code": 11,
+        "namespace": "SIGNAL",
+        "indicator": "Segmentation fault: 11",
+        "byProc": "IQuarters.iOS",
+        "byPid": 4214
+      },
+      "vmRegionInfo": "0x1056a0018 is in 0x1056a0000-0x1056a4000;  bytes after start: 24  bytes before end: 16359\n      REGION TYPE                 START - END      [ VSIZE] PRT/MAX SHRMOD  REGION DETAIL\n      VM_ALLOCATE              10569c000-1056a0000 [   16K] rw-/rwx SM=PRV  \n--->  mapped file              1056a0000-1056a4000 [   16K] r--/r-- SM=COW  Object_id=d784c1c4\n      GAP OF 0x284000 BYTES\n      __TEXT                   105928000-1059d4000 [  688K] r-x/r-x SM=COW  /private/preboot/FA0AA9F18998ABA0C90810ECF0118C68FAC90A463954BACEE64B615AB4BB4AD6840D19D3044CB34ED786DB44DEEB54F4/dopamine-5k2huy/procursus/basebin/gen/dyld"
+    }
+  ],
+  "symbolicatedVersion": "0.6.0",
+  "stack": [
+    "System.AppContext.Setup",
+    "mono_jit_runtime_invoke",
+    "mono_runtime_invoke_checked",
+    "mono_runtime_install_appctx_properties",
+    "mono_runtime_init_checked",
+    "mini_init",
+    "mono_jit_init",
+    "xamarin_bridge_initialize",
+    "xamarin_main",
+    "main"
+  ],
+  "inference": "Execution of a remapped AOT trampoline page failed; exact cause unconfirmed.",
+  "mitigation": "nopagetrampolines: precompiled static pools in signed executable.",
+  "deviceRetestRequired": true
+}

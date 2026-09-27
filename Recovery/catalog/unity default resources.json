@@ -1,0 +1,992 @@
+{
+  "externals": [],
+  "file": "unity default resources",
+  "formatVersion": 6,
+  "types": {},
+  "objects": [
+    {
+      "id": 1,
+      "offset": 16,
+      "size": 7940,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Normal-DiffuseFast"
+    },
+    {
+      "id": 2,
+      "offset": 7960,
+      "size": 80696,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Normal-Bumped"
+    },
+    {
+      "id": 3,
+      "offset": 88656,
+      "size": 88612,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Normal-Glossy"
+    },
+    {
+      "id": 4,
+      "offset": 177272,
+      "size": 104784,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Normal-BumpSpec"
+    },
+    {
+      "id": 5,
+      "offset": 282056,
+      "size": 67536,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Normal-DiffuseDetail"
+    },
+    {
+      "id": 6,
+      "offset": 349592,
+      "size": 8364,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Normal-VertexLit"
+    },
+    {
+      "id": 7,
+      "offset": 357960,
+      "size": 68256,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Normal-Diffuse"
+    },
+    {
+      "id": 8,
+      "offset": 426216,
+      "size": 89736,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Normal-Parallax"
+    },
+    {
+      "id": 9,
+      "offset": 515952,
+      "size": 101792,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Normal-ParallaxSpec"
+    },
+    {
+      "id": 10,
+      "offset": 617744,
+      "size": 504,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Illumin-Diffuse"
+    },
+    {
+      "id": 11,
+      "offset": 618248,
+      "size": 528,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Illumin-Bumped"
+    },
+    {
+      "id": 12,
+      "offset": 618776,
+      "size": 672,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Illumin-Glossy"
+    },
+    {
+      "id": 13,
+      "offset": 619448,
+      "size": 696,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Illumin-BumpSpec"
+    },
+    {
+      "id": 14,
+      "offset": 620144,
+      "size": 1436,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Illumin-VertexLit"
+    },
+    {
+      "id": 15,
+      "offset": 621584,
+      "size": 612,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Illumin-Parallax"
+    },
+    {
+      "id": 16,
+      "offset": 622200,
+      "size": 788,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Illumin-ParallaxSpec"
+    },
+    {
+      "id": 20,
+      "offset": 622992,
+      "size": 632,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Reflect-Diffuse"
+    },
+    {
+      "id": 21,
+      "offset": 623624,
+      "size": 1132,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Reflect-Bumped"
+    },
+    {
+      "id": 22,
+      "offset": 624760,
+      "size": 788,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Reflect-Glossy"
+    },
+    {
+      "id": 23,
+      "offset": 625552,
+      "size": 1364,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Reflect-BumpSpec"
+    },
+    {
+      "id": 24,
+      "offset": 626920,
+      "size": 7576,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Reflect-VertexLit"
+    },
+    {
+      "id": 25,
+      "offset": 634496,
+      "size": 8840,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Reflect-BumpNolight"
+    },
+    {
+      "id": 26,
+      "offset": 643336,
+      "size": 1176,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Reflect-BumpVertexLit"
+    },
+    {
+      "id": 27,
+      "offset": 644512,
+      "size": 1096,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Reflect-Parallax"
+    },
+    {
+      "id": 28,
+      "offset": 645608,
+      "size": 1340,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Reflect-ParallaxSpec"
+    },
+    {
+      "id": 30,
+      "offset": 646952,
+      "size": 26336,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Alpha-Diffuse"
+    },
+    {
+      "id": 31,
+      "offset": 673288,
+      "size": 29988,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Alpha-Bumped"
+    },
+    {
+      "id": 32,
+      "offset": 703280,
+      "size": 35684,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Alpha-Glossy"
+    },
+    {
+      "id": 33,
+      "offset": 738968,
+      "size": 41544,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Alpha-BumpSpec"
+    },
+    {
+      "id": 34,
+      "offset": 780512,
+      "size": 944,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Alpha-VertexLit"
+    },
+    {
+      "id": 35,
+      "offset": 781456,
+      "size": 27032,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Alpha-Parallax"
+    },
+    {
+      "id": 36,
+      "offset": 808488,
+      "size": 31332,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Alpha-ParallaxSpec"
+    },
+    {
+      "id": 40,
+      "offset": 839824,
+      "size": 3752,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Lightmap-VertexLit"
+    },
+    {
+      "id": 41,
+      "offset": 843576,
+      "size": 516,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Lightmap-Diffuse"
+    },
+    {
+      "id": 42,
+      "offset": 844096,
+      "size": 608,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Lightmap-Bumped"
+    },
+    {
+      "id": 43,
+      "offset": 844704,
+      "size": 696,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Lightmap-Glossy"
+    },
+    {
+      "id": 44,
+      "offset": 845400,
+      "size": 792,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Lightmap-BumpSpec"
+    },
+    {
+      "id": 50,
+      "offset": 846192,
+      "size": 10408,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "AlphaTest-VertexLit"
+    },
+    {
+      "id": 51,
+      "offset": 856600,
+      "size": 68956,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "AlphaTest-Diffuse"
+    },
+    {
+      "id": 52,
+      "offset": 925560,
+      "size": 81200,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "AlphaTest-Bumped"
+    },
+    {
+      "id": 53,
+      "offset": 1006760,
+      "size": 89064,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "AlphaTest-Glossy"
+    },
+    {
+      "id": 54,
+      "offset": 1095824,
+      "size": 105228,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "AlphaTest-BumpSpec"
+    },
+    {
+      "id": 60,
+      "offset": 1201056,
+      "size": 5184,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Shadow-ScreenBlur"
+    },
+    {
+      "id": 100,
+      "offset": 1206240,
+      "size": 1008,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Decal"
+    },
+    {
+      "id": 101,
+      "offset": 1207248,
+      "size": 436,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Flare"
+    },
+    {
+      "id": 103,
+      "offset": 1207688,
+      "size": 436,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "skybox cubed"
+    },
+    {
+      "id": 104,
+      "offset": 1208128,
+      "size": 1308,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Skybox"
+    },
+    {
+      "id": 200,
+      "offset": 1209440,
+      "size": 944,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Particle Add"
+    },
+    {
+      "id": 201,
+      "offset": 1210384,
+      "size": 1032,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Particle AddMultiply"
+    },
+    {
+      "id": 202,
+      "offset": 1211416,
+      "size": 856,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Particle AddSmooth"
+    },
+    {
+      "id": 203,
+      "offset": 1212272,
+      "size": 972,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Particle Alpha Blend"
+    },
+    {
+      "id": 205,
+      "offset": 1213248,
+      "size": 880,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Particle Multiply"
+    },
+    {
+      "id": 206,
+      "offset": 1214128,
+      "size": 956,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Particle MultiplyDouble"
+    },
+    {
+      "id": 207,
+      "offset": 1215088,
+      "size": 844,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Particle Premultiply Blend"
+    },
+    {
+      "id": 208,
+      "offset": 1215936,
+      "size": 632,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Particle VertexLit Blended"
+    },
+    {
+      "id": 10001,
+      "offset": 1216568,
+      "size": 21904,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "Soft"
+    },
+    {
+      "id": 10100,
+      "offset": 1238472,
+      "size": 136,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "font material"
+    },
+    {
+      "id": 10101,
+      "offset": 1238608,
+      "size": 528,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Font"
+    },
+    {
+      "id": 10102,
+      "offset": 1239136,
+      "size": 9797,
+      "typeId": 128,
+      "classId": 128,
+      "candidateName": "Arial Rounded Bold"
+    },
+    {
+      "id": 10103,
+      "offset": 1248936,
+      "size": 32832,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "font Texture"
+    },
+    {
+      "id": 10200,
+      "offset": 1281768,
+      "size": 31976,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "pSphere1"
+    },
+    {
+      "id": 10202,
+      "offset": 1313744,
+      "size": 1464,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "Cube"
+    },
+    {
+      "id": 10203,
+      "offset": 1315208,
+      "size": 7584,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "pCylinder1"
+    },
+    {
+      "id": 10204,
+      "offset": 1322792,
+      "size": 8792,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "pPlane1"
+    },
+    {
+      "id": 10205,
+      "offset": 1331584,
+      "size": 28456,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "polySurface2"
+    },
+    {
+      "id": 10206,
+      "offset": 1360040,
+      "size": 7580,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "Cylinder"
+    },
+    {
+      "id": 10207,
+      "offset": 1367624,
+      "size": 31976,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "Sphere"
+    },
+    {
+      "id": 10208,
+      "offset": 1399600,
+      "size": 28452,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "Capsule"
+    },
+    {
+      "id": 10209,
+      "offset": 1428056,
+      "size": 8792,
+      "typeId": 43,
+      "classId": 43,
+      "candidateName": "Plane"
+    },
+    {
+      "id": 10300,
+      "offset": 1436848,
+      "size": 21912,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "Default-Particle"
+    },
+    {
+      "id": 10301,
+      "offset": 1458760,
+      "size": 156,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "Default-Particle"
+    },
+    {
+      "id": 10302,
+      "offset": 1458920,
+      "size": 140,
+      "typeId": 21,
+      "classId": 21,
+      "candidateName": "Default-Diffuse"
+    },
+    {
+      "id": 10400,
+      "offset": 1459064,
+      "size": 29768,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "UnityWatermark-small"
+    },
+    {
+      "id": 10401,
+      "offset": 1488832,
+      "size": 21084,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "EscToExit_back"
+    },
+    {
+      "id": 10402,
+      "offset": 1509920,
+      "size": 10748,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "EscToExit_Text"
+    },
+    {
+      "id": 10407,
+      "offset": 1520672,
+      "size": 2880,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "UnityWatermark-trial"
+    },
+    {
+      "id": 10500,
+      "offset": 1523552,
+      "size": 404,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "VertexLit"
+    },
+    {
+      "id": 10501,
+      "offset": 1523960,
+      "size": 10876,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "WavingGrass"
+    },
+    {
+      "id": 10502,
+      "offset": 1534840,
+      "size": 11820,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "WavingGrassBillboard"
+    },
+    {
+      "id": 10503,
+      "offset": 1546664,
+      "size": 4952,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "AddPassLightmap"
+    },
+    {
+      "id": 10504,
+      "offset": 1551616,
+      "size": 8172,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "AddPassVertexLit"
+    },
+    {
+      "id": 10505,
+      "offset": 1559792,
+      "size": 4892,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "FirstPassLightmap"
+    },
+    {
+      "id": 10506,
+      "offset": 1564688,
+      "size": 8124,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "FirstPassVertexLit"
+    },
+    {
+      "id": 10507,
+      "offset": 1572816,
+      "size": 2248,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "BillboardTree"
+    },
+    {
+      "id": 10508,
+      "offset": 1575064,
+      "size": 3720,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "SH-Tree Bark rendertex"
+    },
+    {
+      "id": 10509,
+      "offset": 1578784,
+      "size": 10776,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "SH-Tree Bark"
+    },
+    {
+      "id": 10510,
+      "offset": 1589560,
+      "size": 8160,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "SH-Tree Leaves rendertex"
+    },
+    {
+      "id": 10511,
+      "offset": 1597720,
+      "size": 18376,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "SH-Tree Leaves"
+    },
+    {
+      "id": 10512,
+      "offset": 1616096,
+      "size": 1460,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "Vegetation-TwoPassUnlit"
+    },
+    {
+      "id": 10515,
+      "offset": 1617560,
+      "size": 1236,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "BaseMapLightmap"
+    },
+    {
+      "id": 10516,
+      "offset": 1618800,
+      "size": 616,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "BaseMapVertexLit"
+    },
+    {
+      "id": 10517,
+      "offset": 1619416,
+      "size": 98672,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "AddPassRealtime"
+    },
+    {
+      "id": 10518,
+      "offset": 1718088,
+      "size": 98764,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "FirstPassRealtime"
+    },
+    {
+      "id": 10519,
+      "offset": 1816856,
+      "size": 1236,
+      "typeId": 48,
+      "classId": 48,
+      "candidateName": "BaseMapRealtime"
+    },
+    {
+      "id": 11000,
+      "offset": 1818096,
+      "size": 13056,
+      "typeId": -1,
+      "classId": 114
+    },
+    {
+      "id": 11001,
+      "offset": 1831152,
+      "size": 344,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "box"
+    },
+    {
+      "id": 11002,
+      "offset": 1831496,
+      "size": 644,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "button active"
+    },
+    {
+      "id": 11003,
+      "offset": 1832144,
+      "size": 352,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "button hover"
+    },
+    {
+      "id": 11004,
+      "offset": 1832496,
+      "size": 356,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "button on hover"
+    },
+    {
+      "id": 11005,
+      "offset": 1832856,
+      "size": 352,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "button on"
+    },
+    {
+      "id": 11006,
+      "offset": 1833208,
+      "size": 348,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "button"
+    },
+    {
+      "id": 11007,
+      "offset": 1833560,
+      "size": 368,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "horizontal scrollbar thumb"
+    },
+    {
+      "id": 11008,
+      "offset": 1833928,
+      "size": 612,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "horizontal scrollbar"
+    },
+    {
+      "id": 11009,
+      "offset": 1834544,
+      "size": 180,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "horizontalslider"
+    },
+    {
+      "id": 11010,
+      "offset": 1834728,
+      "size": 264,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "slider thumb active"
+    },
+    {
+      "id": 11011,
+      "offset": 1834992,
+      "size": 256,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "slider thumb"
+    },
+    {
+      "id": 11012,
+      "offset": 1835248,
+      "size": 264,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "slidert humb hover"
+    },
+    {
+      "id": 11013,
+      "offset": 1835512,
+      "size": 460,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "toggle active"
+    },
+    {
+      "id": 11014,
+      "offset": 1835976,
+      "size": 456,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "toggle hover"
+    },
+    {
+      "id": 11015,
+      "offset": 1836432,
+      "size": 460,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "toggle on hover"
+    },
+    {
+      "id": 11016,
+      "offset": 1836896,
+      "size": 456,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "toggle on"
+    },
+    {
+      "id": 11017,
+      "offset": 1837352,
+      "size": 460,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "toggle on active"
+    },
+    {
+      "id": 11018,
+      "offset": 1837816,
+      "size": 452,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "toggle"
+    },
+    {
+      "id": 11019,
+      "offset": 1838272,
+      "size": 364,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "vertical scrollbar thumb"
+    },
+    {
+      "id": 11020,
+      "offset": 1838640,
+      "size": 612,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "vertical scrollbar"
+    },
+    {
+      "id": 11021,
+      "offset": 1839256,
+      "size": 180,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "verticalslider"
+    },
+    {
+      "id": 11022,
+      "offset": 1839440,
+      "size": 984,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "window on"
+    },
+    {
+      "id": 11023,
+      "offset": 1840424,
+      "size": 980,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "window"
+    },
+    {
+      "id": 11024,
+      "offset": 1841408,
+      "size": 352,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "textfield"
+    },
+    {
+      "id": 11025,
+      "offset": 1841760,
+      "size": 352,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "textfield on"
+    },
+    {
+      "id": 11026,
+      "offset": 1842112,
+      "size": 356,
+      "typeId": 28,
+      "classId": 28,
+      "candidateName": "textfield hover"
+    },
+    {
+      "id": 12001,
+      "offset": 1842472,
+      "size": 61,
+      "typeId": 115,
+      "classId": 115,
+      "candidateName": "GUISkin"
+    }
+  ],
+  "classCounts": {
+    "48": 74,
+    "28": 33,
+    "21": 3,
+    "128": 1,
+    "43": 9,
+    "114": 1,
+    "115": 1
+  }
+}

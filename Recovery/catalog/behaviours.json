@@ -1,0 +1,2562 @@
+{
+  "decoded": [
+    {
+      "id": 2835,
+      "owner": [
+        0,
+        1917
+      ],
+      "script": "AnnouncerScript",
+      "fields": {
+        "floorSound": [
+          1,
+          593
+        ],
+        "perfectRoundVO": [
+          3,
+          130
+        ],
+        "clickSound": [
+          3,
+          131
+        ],
+        "unlockSound": [
+          1,
+          580
+        ]
+      }
+    },
+    {
+      "id": 2836,
+      "owner": [
+        0,
+        2385
+      ],
+      "script": "ReplayCameraScript",
+      "fields": {
+        "target": [
+          0,
+          1573
+        ],
+        "damping": 2.0,
+        "smooth": true
+      }
+    },
+    {
+      "id": 2837,
+      "owner": [
+        0,
+        677
+      ],
+      "script": "PowerX",
+      "fields": {
+        "scaleX": 0.0,
+        "scaleY": 0.0,
+        "quarterObject": [
+          0,
+          965
+        ],
+        "PowerXObject": [
+          0,
+          677
+        ],
+        "scaleControllerObject": [
+          0,
+          668
+        ],
+        "pUpMaterial": [
+          1,
+          736
+        ],
+        "power1UpTexture": [
+          1,
+          2
+        ],
+        "power2UpTexture": [
+          1,
+          49
+        ],
+        "power3UpTexture": [
+          1,
+          82
+        ],
+        "power4UpTexture": [
+          1,
+          74
+        ],
+        "startColor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "startPositionX": 0.5,
+        "startPositionY": 0.5
+      }
+    },
+    {
+      "id": 2838,
+      "owner": [
+        0,
+        441
+      ],
+      "script": "LighterScript",
+      "fields": {
+        "curBody": [
+          0,
+          0
+        ],
+        "contNorm": 0.0,
+        "xVel": -7.0,
+        "yVel": 12.0,
+        "zVel": 2.5,
+        "hingeObject": [
+          0,
+          435
+        ]
+      }
+    },
+    {
+      "id": 2839,
+      "owner": [
+        0,
+        1557
+      ],
+      "script": "LighterScript",
+      "fields": {
+        "curBody": [
+          0,
+          0
+        ],
+        "contNorm": 0.0,
+        "xVel": 2.5,
+        "yVel": 14.0,
+        "zVel": -2.5,
+        "hingeObject": [
+          0,
+          2034
+        ]
+      }
+    },
+    {
+      "id": 2840,
+      "owner": [
+        0,
+        1106
+      ],
+      "script": "PracticeUI",
+      "fields": {
+        "lockUIObject": [
+          0,
+          1254
+        ],
+        "PracticeUIObject": [
+          0,
+          1106
+        ],
+        "enableButtonView": false,
+        "dummySkin": [
+          3,
+          253
+        ],
+        "fontSkin": [
+          3,
+          251
+        ],
+        "fontSkin_iPad": [
+          3,
+          252
+        ]
+      }
+    },
+    {
+      "id": 2841,
+      "owner": [
+        0,
+        2465
+      ],
+      "script": "LauncherScript",
+      "fields": {
+        "xVel": -2.0,
+        "yVel": 14.0,
+        "zVel": 0.800000011920929,
+        "hingeObject": [
+          0,
+          2462
+        ],
+        "contactAngle": 0.7070000171661377,
+        "shotTimeAdd": 3.0
+      }
+    },
+    {
+      "id": 2842,
+      "owner": [
+        0,
+        1484
+      ],
+      "script": "LauncherScript",
+      "fields": {
+        "xVel": 2.799999952316284,
+        "yVel": 10.0,
+        "zVel": 0.0,
+        "hingeObject": [
+          0,
+          1481
+        ],
+        "contactAngle": 0.7070000171661377,
+        "shotTimeAdd": 1.7999999523162842
+      }
+    },
+    {
+      "id": 2843,
+      "owner": [
+        0,
+        1776
+      ],
+      "script": "LauncherScript",
+      "fields": {
+        "xVel": -2.0,
+        "yVel": 20.0,
+        "zVel": 0.0,
+        "hingeObject": [
+          0,
+          1729
+        ],
+        "contactAngle": 0.7070000171661377,
+        "shotTimeAdd": 2.25
+      }
+    },
+    {
+      "id": 2844,
+      "owner": [
+        0,
+        2378
+      ],
+      "script": "IntroCamScript",
+      "fields": {
+        "target": [
+          0,
+          2379
+        ],
+        "distance": 0.43299999833106995,
+        "height": 0.25,
+        "heightDamping": 2.0,
+        "rotationDamping": 2.0
+      }
+    },
+    {
+      "id": 2845,
+      "owner": [
+        0,
+        375
+      ],
+      "script": "LighterScript",
+      "fields": {
+        "curBody": [
+          0,
+          0
+        ],
+        "contNorm": 0.0,
+        "xVel": 6.25,
+        "yVel": 12.0,
+        "zVel": 0.0,
+        "hingeObject": [
+          0,
+          369
+        ]
+      }
+    },
+    {
+      "id": 2846,
+      "owner": [
+        0,
+        2677
+      ],
+      "script": "LauncherScript",
+      "fields": {
+        "xVel": 4.0,
+        "yVel": 14.0,
+        "zVel": 4.0,
+        "hingeObject": [
+          0,
+          2674
+        ],
+        "contactAngle": 0.7070000171661377,
+        "shotTimeAdd": 2.0
+      }
+    },
+    {
+      "id": 2847,
+      "owner": [
+        0,
+        2495
+      ],
+      "script": "LauncherScript",
+      "fields": {
+        "xVel": 3.0,
+        "yVel": 10.0,
+        "zVel": 0.5,
+        "hingeObject": [
+          0,
+          2492
+        ],
+        "contactAngle": 0.675000011920929,
+        "shotTimeAdd": 2.0
+      }
+    },
+    {
+      "id": 2848,
+      "owner": [
+        0,
+        1769
+      ],
+      "script": "LauncherScript",
+      "fields": {
+        "xVel": 5.0,
+        "yVel": 14.0,
+        "zVel": 2.0,
+        "hingeObject": [
+          0,
+          1766
+        ],
+        "contactAngle": 0.7070000171661377,
+        "shotTimeAdd": 3.0
+      }
+    },
+    {
+      "id": 2849,
+      "owner": [
+        0,
+        2017
+      ],
+      "script": "GameManagerScript",
+      "fields": {}
+    },
+    {
+      "id": 2850,
+      "owner": [
+        0,
+        1835
+      ],
+      "script": "PauseButtonScript",
+      "fields": {
+        "debugState": -1,
+        "pauseButtonRenderer": [
+          0,
+          1836
+        ],
+        "enableButtonView": false,
+        "dummySkin": [
+          3,
+          253
+        ],
+        "pauseMenuObject": [
+          0,
+          1882
+        ]
+      }
+    },
+    {
+      "id": 2851,
+      "owner": [
+        0,
+        1907
+      ],
+      "script": "AngleAdjustScript",
+      "fields": {
+        "displayButtons": false,
+        "adjustObject": [
+          0,
+          1907
+        ],
+        "adjustRenderer": [
+          0,
+          1909
+        ],
+        "minScaleY": -8.0,
+        "maxScaleY": 30.0,
+        "minScaleZ": -3.0,
+        "maxScaleZ": -8.0
+      }
+    },
+    {
+      "id": 2852,
+      "owner": [
+        0,
+        968
+      ],
+      "script": "spotdirScript",
+      "fields": {
+        "target": [
+          0,
+          0
+        ],
+        "damping": 2.0,
+        "smooth": true
+      }
+    },
+    {
+      "id": 2853,
+      "owner": [
+        0,
+        968
+      ],
+      "script": "SpotlightScript",
+      "fields": {
+        "target": [
+          0,
+          1573
+        ],
+        "damping": 2.0,
+        "smooth": false
+      }
+    },
+    {
+      "id": 2854,
+      "owner": [
+        0,
+        1243
+      ],
+      "script": "SaveReplayButtons",
+      "fields": {}
+    },
+    {
+      "id": 2855,
+      "owner": [
+        0,
+        236
+      ],
+      "script": "RoundComplete",
+      "fields": {
+        "RoundCompleteObject": [
+          0,
+          236
+        ],
+        "digitsRendererArray": [
+          [
+            0,
+            326
+          ],
+          [
+            0,
+            329
+          ],
+          [
+            0,
+            332
+          ],
+          [
+            0,
+            285
+          ],
+          [
+            0,
+            323
+          ]
+        ],
+        "digitsMaterialArray": [
+          [
+            1,
+            730
+          ],
+          [
+            1,
+            687
+          ],
+          [
+            1,
+            650
+          ],
+          [
+            1,
+            687
+          ],
+          [
+            1,
+            650
+          ]
+        ],
+        "digitsTextureArray": [
+          [
+            1,
+            57
+          ],
+          [
+            1,
+            13
+          ],
+          [
+            1,
+            38
+          ],
+          [
+            1,
+            79
+          ],
+          [
+            1,
+            50
+          ],
+          [
+            1,
+            35
+          ],
+          [
+            1,
+            40
+          ],
+          [
+            1,
+            36
+          ],
+          [
+            1,
+            58
+          ],
+          [
+            1,
+            25
+          ]
+        ]
+      }
+    },
+    {
+      "id": 2856,
+      "owner": [
+        0,
+        965
+      ],
+      "script": "QuarterTrigger",
+      "fields": {
+        "inAirTicks": 0,
+        "shotTick": 0,
+        "qdTimeInterval": 10,
+        "curQuarterDataIndex": 0,
+        "quarterDataTicks": 0,
+        "replayQTick": [],
+        "replayQPosition": [],
+        "replayQRotation": [],
+        "replayQVelocity": [],
+        "replayQAngVel": [],
+        "quarterVelThreshold": 1.0,
+        "quarterCountThresh": 45,
+        "debugAngleTouchy": 0,
+        "lightRayObject": [
+          0,
+          957
+        ],
+        "GlassFlashEmitter": [
+          0,
+          920
+        ],
+        "DebugXAdd": 0.0,
+        "DebugZAdd": 0.0,
+        "debugint": -1,
+        "shotOverFlags": 0,
+        "ricochetBonusSFX": [
+          3,
+          130
+        ],
+        "secretRoundSFX": [
+          1,
+          596
+        ],
+        "coinInGlassSFX": [
+          [
+            1,
+            596
+          ],
+          [
+            1,
+            596
+          ],
+          [
+            1,
+            596
+          ]
+        ],
+        "numCoinInGlassSFXs": 3,
+        "defaultAudioClip": [
+          1,
+          580
+        ],
+        "glassBigSounds": [
+          [
+            1,
+            604
+          ],
+          [
+            1,
+            604
+          ],
+          [
+            1,
+            604
+          ],
+          [
+            1,
+            605
+          ],
+          [
+            1,
+            605
+          ],
+          [
+            1,
+            605
+          ]
+        ],
+        "glassMartiniSounds": [
+          [
+            1,
+            581
+          ],
+          [
+            1,
+            581
+          ],
+          [
+            1,
+            602
+          ]
+        ],
+        "glassMediumSounds": [
+          [
+            1,
+            599
+          ],
+          [
+            1,
+            599
+          ],
+          [
+            1,
+            583
+          ],
+          [
+            1,
+            583
+          ],
+          [
+            1,
+            583
+          ]
+        ],
+        "glassSmallSounds": [
+          [
+            1,
+            586
+          ],
+          [
+            1,
+            586
+          ],
+          [
+            1,
+            591
+          ]
+        ],
+        "glassTallSounds": [
+          [
+            1,
+            584
+          ],
+          [
+            1,
+            584
+          ],
+          [
+            1,
+            584
+          ],
+          [
+            1,
+            589
+          ],
+          [
+            1,
+            589
+          ],
+          [
+            1,
+            589
+          ]
+        ],
+        "lazySusanSounds": [
+          [
+            1,
+            585
+          ],
+          [
+            1,
+            595
+          ],
+          [
+            1,
+            595
+          ]
+        ],
+        "tableTopSounds": [
+          [
+            1,
+            585
+          ],
+          [
+            1,
+            585
+          ],
+          [
+            1,
+            585
+          ],
+          [
+            1,
+            595
+          ],
+          [
+            1,
+            595
+          ],
+          [
+            1,
+            595
+          ]
+        ],
+        "whiskeyBottleSounds": [
+          [
+            1,
+            600
+          ]
+        ],
+        "popBottleSounds": [
+          [
+            1,
+            600
+          ]
+        ],
+        "drinkingBirdSounds": [
+          [
+            1,
+            582
+          ]
+        ],
+        "checkBookSounds": [
+          [
+            1,
+            606
+          ]
+        ],
+        "bobbleHeadSounds": [
+          [
+            1,
+            588
+          ]
+        ],
+        "planeSounds": [
+          [
+            1,
+            582
+          ]
+        ],
+        "lighterSounds": [
+          [
+            1,
+            603
+          ]
+        ],
+        "phoneSounds": [
+          [
+            1,
+            603
+          ]
+        ],
+        "pendulumSounds": [
+          [
+            1,
+            603
+          ]
+        ],
+        "catapultSounds": [
+          [
+            1,
+            594
+          ]
+        ],
+        "enterNameObject": [
+          0,
+          915
+        ],
+        "secretRoundObject": [
+          0,
+          948
+        ],
+        "roundIndicatorObject": [
+          0,
+          1051
+        ],
+        "ricochetParentObject": [
+          0,
+          1019
+        ],
+        "streakExciterObject": [
+          0,
+          1319
+        ],
+        "coinsLeftObject": [
+          0,
+          1338
+        ],
+        "PracticeUIObject": [
+          0,
+          1106
+        ],
+        "QuarterDrawObject": [
+          0,
+          962
+        ],
+        "ReplaySaveDoneButtonsObject": [
+          0,
+          1243
+        ],
+        "shotTypeHelperObject": [
+          0,
+          1187
+        ],
+        "ReplayRicochetIndex": 0,
+        "replayLaunchTime": 0.0,
+        "lastPlayerNumber": 0,
+        "lastRoundScore": 0,
+        "PracticeGreatScoreObject": [
+          0,
+          1176
+        ],
+        "RoundCompleteObject": [
+          0,
+          236
+        ],
+        "GameOverExciterObject": [
+          0,
+          282
+        ],
+        "InGameHSObject": [
+          0,
+          19
+        ],
+        "StatsScreenObject": [
+          0,
+          128
+        ],
+        "PowerXObject": [
+          0,
+          677
+        ],
+        "shotDownZMag": 30.0,
+        "Startpos": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Startrot": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Startquat": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "inGlassCollider": [
+          0,
+          0
+        ],
+        "DEBUG_ColliderGameObjects": [],
+        "curColliderIndex": 0,
+        "LastHitCollider": [
+          0,
+          0
+        ],
+        "LastHitCollider0": [
+          0,
+          0
+        ],
+        "LastHitCollider1": [
+          0,
+          0
+        ],
+        "LastHitCollider2": [
+          0,
+          0
+        ],
+        "LastHitCollider3": [
+          0,
+          0
+        ],
+        "LastHitCollider4": [
+          0,
+          0
+        ],
+        "LastHitCollider5": [
+          0,
+          0
+        ],
+        "LastHitCollider6": [
+          0,
+          0
+        ],
+        "LastHitCollider7": [
+          0,
+          0
+        ],
+        "LastHitCollider8": [
+          0,
+          0
+        ],
+        "LastHitCollider9": [
+          0,
+          0
+        ],
+        "LastHitCollider10": [
+          0,
+          0
+        ],
+        "LastHitCollider11": [
+          0,
+          0
+        ],
+        "LastHitCollider12": [
+          0,
+          0
+        ],
+        "LastHitCollider13": [
+          0,
+          0
+        ],
+        "LastHitCollider14": [
+          0,
+          0
+        ],
+        "curColliderGameObjectIndex": 0,
+        "gameObjectCollider0": [
+          0,
+          665
+        ],
+        "gameObjectCollider1": [
+          0,
+          418
+        ],
+        "gameObjectCollider2": [
+          0,
+          441
+        ],
+        "gameObjectCollider3": [
+          0,
+          375
+        ],
+        "gameObjectCollider4": [
+          0,
+          397
+        ],
+        "gameObjectCollider5": [
+          0,
+          509
+        ],
+        "gameObjectCollider6": [
+          0,
+          532
+        ],
+        "gameObjectCollider7": [
+          0,
+          465
+        ],
+        "gameObjectCollider8": [
+          0,
+          0
+        ],
+        "gameObjectCollider9": [
+          0,
+          0
+        ],
+        "gameObjectCollider10": [
+          0,
+          0
+        ],
+        "gameObjectCollider11": [
+          0,
+          0
+        ],
+        "gameObjectCollider12": [
+          0,
+          0
+        ],
+        "gameObjectCollider13": [
+          0,
+          0
+        ],
+        "gameObjectCollider14": [
+          0,
+          0
+        ],
+        "gameObjectTime0": 0.0,
+        "gameObjectTime1": 0.0,
+        "gameObjectTime2": 0.0,
+        "gameObjectTime3": 0.0,
+        "gameObjectTime4": 0.0,
+        "gameObjectTime5": 0.0,
+        "gameObjectTime6": 0.0,
+        "gameObjectTime7": 0.0,
+        "gameObjectTime8": 0.0,
+        "gameObjectTime9": 0.0,
+        "gameObjectTime10": 0.0,
+        "gameObjectTime11": 0.0,
+        "gameObjectTime12": 0.0,
+        "gameObjectTime13": 0.0,
+        "gameObjectTime14": 0.0,
+        "count": 0,
+        "waitCount": 10,
+        "waitTime": 0.0,
+        "mag": 0.0,
+        "xvel": 0.0,
+        "xVelThresh": 2.0,
+        "xvelScale": 1.25,
+        "mainCamObject": [
+          0,
+          487
+        ],
+        "replayCamObject": [
+          0,
+          481
+        ],
+        "replayCamObject2": [
+          0,
+          2391
+        ],
+        "replayCamObject3": [
+          0,
+          2385
+        ],
+        "introCamObject": [
+          0,
+          2378
+        ],
+        "curAng": 0.7070000171661377,
+        "doingRequestedReplay": false,
+        "waitForFirstBounceCount": 3,
+        "shotLaunchTime": 0.0,
+        "shotTimeMax": 4.0,
+        "gameShouldEndFlag": false,
+        "stringPlayerName1": "Hello2",
+        "playerName1": "PLR1",
+        "playerName2": "PLR2",
+        "playerName3": "PLR3",
+        "playerName4": "PLR4",
+        "savedCurrentScore": 0,
+        "RoundOneGlass00": [
+          0,
+          2375
+        ],
+        "RoundOneGlass01": [
+          0,
+          2397
+        ],
+        "RoundOneGlass02": [
+          0,
+          2331
+        ],
+        "RoundOneGlass03": [
+          0,
+          2354
+        ],
+        "RoundOneGlass04": [
+          0,
+          2465
+        ],
+        "RoundOneGlass05": [
+          0,
+          2495
+        ],
+        "RoundThreeGlass00": [
+          0,
+          2433
+        ],
+        "RoundThreeGlass01": [
+          0,
+          2455
+        ],
+        "RoundThreeGlass02": [
+          0,
+          2212
+        ],
+        "RoundFourGlass00": [
+          0,
+          2232
+        ],
+        "RoundFourGlass01": [
+          0,
+          2160
+        ],
+        "RoundFourGlass02": [
+          0,
+          2182
+        ],
+        "RoundFourGlass03": [
+          0,
+          2289
+        ],
+        "RoundFourGlass04": [
+          0,
+          2321
+        ],
+        "RoundSixGlass00": [
+          0,
+          2255
+        ],
+        "RoundSixGlass01": [
+          0,
+          2278
+        ],
+        "RoundSixGlass02": [
+          0,
+          2744
+        ],
+        "RoundSixGlass03": [
+          0,
+          2763
+        ],
+        "RoundSixGlass04": [
+          0,
+          2695
+        ],
+        "RoundEightGlass00": [
+          0,
+          2718
+        ],
+        "RoundEightGlass01": [
+          0,
+          2823
+        ],
+        "RoundEightGlass02": [
+          0,
+          2787
+        ],
+        "RoundEightGlass03": [
+          0,
+          2769
+        ],
+        "RoundEightGlass04": [
+          0,
+          2568
+        ],
+        "RoundNineGlass00": [
+          0,
+          2255
+        ],
+        "RoundNineGlass01": [
+          0,
+          2551
+        ],
+        "RoundNineGlass02": [
+          0,
+          2590
+        ],
+        "RoundNineGlass03": [
+          0,
+          2572
+        ],
+        "RoundTenGlass00": [
+          0,
+          2506
+        ],
+        "RoundTenGlass01": [
+          0,
+          2433
+        ],
+        "RoundTenGlass02": [
+          0,
+          2657
+        ],
+        "RoundTenGlass03": [
+          0,
+          2677
+        ],
+        "RoundElevenGlass00": [
+          0,
+          2664
+        ],
+        "RoundElevenGlass01": [
+          0,
+          2598
+        ],
+        "RoundElevenGlass02": [
+          0,
+          1705
+        ],
+        "RoundTwelveGlass00": [
+          0,
+          1640
+        ],
+        "RoundTwelveGlass01": [
+          0,
+          2664
+        ],
+        "RoundTwelveGlass02": [
+          0,
+          1662
+        ],
+        "RoundTwelveGlass03": [
+          0,
+          1769
+        ],
+        "RoundTwelveGlass04": [
+          0,
+          1755
+        ],
+        "RoundThirteenGlass00": [
+          0,
+          1776
+        ],
+        "RoundThirteenGlass01": [
+          0,
+          2823
+        ],
+        "RoundThirteenGlass02": [
+          0,
+          1720
+        ],
+        "RoundFourteenGlass00": [
+          0,
+          2664
+        ],
+        "RoundFourteenGlass01": [
+          0,
+          1745
+        ],
+        "RoundFourteenGlass02": [
+          0,
+          1500
+        ],
+        "RoundFourteenGlass03": [
+          0,
+          1521
+        ],
+        "RoundFourteenGlass04": [
+          0,
+          1769
+        ],
+        "RoundFourteenGlass05": [
+          0,
+          1755
+        ],
+        "RoundFifteenGlass00": [
+          0,
+          979
+        ],
+        "RoundFifteenGlass01": [
+          0,
+          1484
+        ],
+        "RoundFifteenGlass02": [
+          0,
+          1468
+        ],
+        "RoundBonusGlass00": [
+          0,
+          665
+        ],
+        "RoundBonusGlass01": [
+          0,
+          418
+        ],
+        "RoundBonusGlass02": [
+          0,
+          441
+        ],
+        "RoundBonusGlass03": [
+          0,
+          375
+        ],
+        "RoundBonusGlass04": [
+          0,
+          397
+        ],
+        "RoundBonusGlass05": [
+          0,
+          509
+        ],
+        "RoundBonusGlass06": [
+          0,
+          532
+        ],
+        "RoundBonusGlass07": [
+          0,
+          465
+        ],
+        "RoundBonusGlass08": [
+          0,
+          1587
+        ],
+        "glassShadow": [
+          0,
+          1609
+        ],
+        "glassShadow2": [
+          0,
+          1605
+        ],
+        "glassShadow3": [
+          0,
+          1601
+        ],
+        "glassShadow4": [
+          0,
+          1597
+        ],
+        "glassShadow5": [
+          0,
+          1549
+        ],
+        "glassShadow6": [
+          0,
+          1545
+        ],
+        "glassShadow7": [
+          0,
+          1541
+        ],
+        "glassShadow8": [
+          0,
+          1537
+        ],
+        "debugTotTouchLength": [
+          0.0,
+          0.0
+        ],
+        "debugTotTouchTime": 0.0,
+        "debugFlickPower": 0.10000000149011612,
+        "touchYScale": 0.019999999552965164,
+        "debugTargetRange": 1.7999999523162842,
+        "magThreshFlick": 0.8999999761581421,
+        "shotPowerPower": 0.8999999761581421,
+        "shakeYScale": 1.0,
+        "debugTargetRangeShake": 1.975000023841858,
+        "magThresh": 0.800000011920929,
+        "debugInputMag": 0.0,
+        "debugScaleMag": 0.0,
+        "debugScalePowMag": 0.0,
+        "bounceFlyCount": 0,
+        "bounceFlyTime": 0.0
+      }
+    },
+    {
+      "id": 2857,
+      "owner": [
+        0,
+        2391
+      ],
+      "script": "ReplayCameraScript",
+      "fields": {
+        "target": [
+          0,
+          1573
+        ],
+        "damping": 3.0,
+        "smooth": true
+      }
+    },
+    {
+      "id": 2858,
+      "owner": [
+        0,
+        481
+      ],
+      "script": "ReplayCameraScript",
+      "fields": {
+        "target": [
+          0,
+          1573
+        ],
+        "damping": 3.0,
+        "smooth": true
+      }
+    },
+    {
+      "id": 2859,
+      "owner": [
+        0,
+        2568
+      ],
+      "script": "LauncherScript",
+      "fields": {
+        "xVel": 2.0,
+        "yVel": 14.0,
+        "zVel": -2.0,
+        "hingeObject": [
+          0,
+          2565
+        ],
+        "contactAngle": 0.7070000171661377,
+        "shotTimeAdd": 3.0
+      }
+    },
+    {
+      "id": 2860,
+      "owner": [
+        0,
+        1662
+      ],
+      "script": "BirdScript",
+      "fields": {
+        "ltime": 0.0,
+        "lspeed": 0.0,
+        "lnormalizedSpeed": 0.0,
+        "lweight": 0.0,
+        "lwrapMode": 0,
+        "lntime": 0.0,
+        "llength": 0.0,
+        "llayer": 0,
+        "lclip": 0.0,
+        "lblendMode": 0
+      }
+    },
+    {
+      "id": 2861,
+      "owner": [
+        0,
+        1912
+      ],
+      "script": "CrowdScript",
+      "fields": {
+        "applause1": [
+          1,
+          597
+        ],
+        "applause3": [
+          1,
+          597
+        ]
+      }
+    },
+    {
+      "id": 2862,
+      "owner": [
+        0,
+        1755
+      ],
+      "script": "LighterScript",
+      "fields": {
+        "curBody": [
+          0,
+          0
+        ],
+        "contNorm": 0.0,
+        "xVel": -1.399999976158142,
+        "yVel": 14.0,
+        "zVel": -2.0,
+        "hingeObject": [
+          0,
+          1794
+        ]
+      }
+    },
+    {
+      "id": 2863,
+      "owner": [
+        0,
+        1338
+      ],
+      "script": "CoinsLeft",
+      "fields": {
+        "coinsLeftBonusObect": [
+          0,
+          1103
+        ],
+        "coinsLeftBarGraphic": [
+          0,
+          1382
+        ],
+        "stackingSFX": [
+          1,
+          590
+        ],
+        "scoreSFX": [
+          1,
+          601
+        ],
+        "UISkin": [
+          1,
+          748
+        ],
+        "coinArray": [],
+        "clDigitsRendererArray": [
+          [
+            0,
+            1090
+          ],
+          [
+            0,
+            1087
+          ],
+          [
+            0,
+            1084
+          ],
+          [
+            0,
+            1096
+          ],
+          [
+            0,
+            1093
+          ]
+        ],
+        "clDigitsMaterialArray": [
+          [
+            1,
+            738
+          ],
+          [
+            1,
+            707
+          ],
+          [
+            1,
+            635
+          ],
+          [
+            1,
+            707
+          ],
+          [
+            1,
+            635
+          ]
+        ],
+        "clDigitsTextureArray": [
+          [
+            1,
+            57
+          ],
+          [
+            1,
+            13
+          ],
+          [
+            1,
+            38
+          ],
+          [
+            1,
+            79
+          ],
+          [
+            1,
+            50
+          ],
+          [
+            1,
+            35
+          ],
+          [
+            1,
+            40
+          ],
+          [
+            1,
+            36
+          ],
+          [
+            1,
+            58
+          ],
+          [
+            1,
+            25
+          ]
+        ]
+      }
+    },
+    {
+      "id": 2864,
+      "owner": [
+        0,
+        1500
+      ],
+      "script": "LighterScript",
+      "fields": {
+        "curBody": [
+          0,
+          0
+        ],
+        "contNorm": 0.0,
+        "xVel": -4.099999904632568,
+        "yVel": 14.0,
+        "zVel": 1.25,
+        "hingeObject": [
+          0,
+          1494
+        ]
+      }
+    },
+    {
+      "id": 2865,
+      "owner": [
+        0,
+        128
+      ],
+      "script": "StatsScreen",
+      "fields": {
+        "StatsScreenObject": [
+          0,
+          128
+        ],
+        "enableButtonView": false,
+        "dummySkin": [
+          3,
+          253
+        ],
+        "fontSkin": [
+          3,
+          251
+        ],
+        "fontSkin_iPad": [
+          3,
+          252
+        ]
+      }
+    },
+    {
+      "id": 2866,
+      "owner": [
+        0,
+        957
+      ],
+      "script": "lightray",
+      "fields": {
+        "lightRayObject": [
+          0,
+          957
+        ],
+        "quarterObject": [
+          0,
+          965
+        ],
+        "lazySusanGlassObject": [
+          0,
+          990
+        ],
+        "thisFilter": [
+          0,
+          956
+        ],
+        "thisFilter2": [
+          0,
+          950
+        ]
+      }
+    },
+    {
+      "id": 2867,
+      "owner": [
+        0,
+        487
+      ],
+      "script": "MainCameraScript",
+      "fields": {
+        "target": [
+          0,
+          1573
+        ],
+        "damping": 3.0,
+        "smooth": true,
+        "yOffset": 1.0,
+        "deltaV": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "id": 2868,
+      "owner": [
+        0,
+        2695
+      ],
+      "script": "LighterScript",
+      "fields": {
+        "curBody": [
+          0,
+          0
+        ],
+        "contNorm": 0.0,
+        "xVel": -3.5,
+        "yVel": 12.0,
+        "zVel": 1.2000000476837158,
+        "hingeObject": [
+          0,
+          2689
+        ]
+      }
+    },
+    {
+      "id": 2869,
+      "owner": [
+        0,
+        418
+      ],
+      "script": "LighterScript",
+      "fields": {
+        "curBody": [
+          0,
+          0
+        ],
+        "contNorm": 0.0,
+        "xVel": 4.5,
+        "yVel": 10.0,
+        "zVel": 0.0,
+        "hingeObject": [
+          0,
+          412
+        ]
+      }
+    },
+    {
+      "id": 2870,
+      "owner": [
+        0,
+        2289
+      ],
+      "script": "LauncherScript",
+      "fields": {
+        "xVel": -1.0,
+        "yVel": 15.0,
+        "zVel": -4.0,
+        "hingeObject": [
+          0,
+          2286
+        ],
+        "contactAngle": 0.7070000171661377,
+        "shotTimeAdd": 2.0
+      }
+    },
+    {
+      "id": 2871,
+      "owner": [
+        0,
+        1187
+      ],
+      "script": "ShotTypeHelper",
+      "fields": {
+        "shotTypeHelperObject": [
+          0,
+          1187
+        ]
+      }
+    },
+    {
+      "id": 2872,
+      "owner": [
+        0,
+        1857
+      ],
+      "script": "Help",
+      "fields": {}
+    },
+    {
+      "id": 2873,
+      "owner": [
+        0,
+        1955
+      ],
+      "script": "ReplayController",
+      "fields": {
+        "ReplaySaveDoneButtonsObject": [
+          0,
+          1243
+        ],
+        "dummySkin": [
+          3,
+          253
+        ],
+        "enableButtonView": false
+      }
+    },
+    {
+      "id": 2874,
+      "owner": [
+        0,
+        1983
+      ],
+      "script": "GlassScaleController",
+      "fields": {}
+    },
+    {
+      "id": 2875,
+      "owner": [
+        0,
+        1521
+      ],
+      "script": "BirdScript",
+      "fields": {
+        "ltime": 0.0,
+        "lspeed": 0.0,
+        "lnormalizedSpeed": 0.0,
+        "lweight": 0.0,
+        "lwrapMode": 0,
+        "lntime": 0.0,
+        "llength": 0.0,
+        "llayer": 0,
+        "lclip": 0.0,
+        "lblendMode": 0
+      }
+    },
+    {
+      "id": 2876,
+      "owner": [
+        0,
+        532
+      ],
+      "script": "LighterScript",
+      "fields": {
+        "curBody": [
+          0,
+          0
+        ],
+        "contNorm": 0.0,
+        "xVel": -6.0,
+        "yVel": 12.0,
+        "zVel": 0.0,
+        "hingeObject": [
+          0,
+          526
+        ]
+      }
+    },
+    {
+      "id": 2877,
+      "owner": [
+        0,
+        2108
+      ],
+      "script": "CoinHolder",
+      "fields": {
+        "UISkin": [
+          1,
+          748
+        ]
+      }
+    },
+    {
+      "id": 2878,
+      "owner": [
+        0,
+        1051
+      ],
+      "script": "RoundIndicator",
+      "fields": {
+        "roundIndicatorObject": [
+          0,
+          1051
+        ]
+      }
+    },
+    {
+      "id": 2879,
+      "owner": [
+        0,
+        1176
+      ],
+      "script": "PracticeGreatScore",
+      "fields": {
+        "practiceGreatScoreObject": [
+          0,
+          1176
+        ],
+        "gsMaterialArray": [
+          [
+            1,
+            683
+          ],
+          [
+            1,
+            742
+          ],
+          [
+            1,
+            733
+          ],
+          [
+            1,
+            742
+          ],
+          [
+            1,
+            733
+          ]
+        ],
+        "gsTextureArray": [
+          [
+            1,
+            57
+          ],
+          [
+            1,
+            13
+          ],
+          [
+            1,
+            38
+          ],
+          [
+            1,
+            79
+          ],
+          [
+            1,
+            50
+          ],
+          [
+            1,
+            35
+          ],
+          [
+            1,
+            40
+          ],
+          [
+            1,
+            36
+          ],
+          [
+            1,
+            58
+          ],
+          [
+            1,
+            25
+          ]
+        ]
+      }
+    },
+    {
+      "id": 2880,
+      "owner": [
+        0,
+        1820
+      ],
+      "script": "UIPlayer",
+      "fields": {}
+    },
+    {
+      "id": 2881,
+      "owner": [
+        0,
+        1962
+      ],
+      "script": "ShadowQuarterScript",
+      "fields": {
+        "ThisObject": [
+          0,
+          1962
+        ],
+        "QuarterObject": [
+          0,
+          965
+        ],
+        "baseScale": 0.10000000149011612,
+        "shadowScaleFactor": 0.019999999552965164,
+        "zScale": 0.0,
+        "xScale": 0.0,
+        "tableDistFromCenterX": 4.199999809265137,
+        "tableDistFromCenterZ": 4.0,
+        "radiusThresh": 3.0,
+        "lazySusanHeight": 0.17000000178813934
+      }
+    },
+    {
+      "id": 2882,
+      "owner": [
+        0,
+        1609
+      ],
+      "script": "LazySusanGlassShadow",
+      "fields": {
+        "lazySusanObject": [
+          0,
+          979
+        ],
+        "lazySusanGlassObject": [
+          0,
+          990
+        ],
+        "glassShadowObject": [
+          0,
+          1609
+        ]
+      }
+    },
+    {
+      "id": 2883,
+      "owner": [
+        0,
+        19
+      ],
+      "script": "InGameHiScore",
+      "fields": {
+        "newHighScoreObject": [
+          0,
+          181
+        ],
+        "InGameHSObject": [
+          0,
+          19
+        ],
+        "TrophyObject": [
+          0,
+          110
+        ],
+        "enableButtonView": false,
+        "dummySkin": [
+          3,
+          253
+        ],
+        "fontSkin": [
+          3,
+          251
+        ],
+        "fontSkin_iPad": [
+          3,
+          252
+        ]
+      }
+    },
+    {
+      "id": 2884,
+      "owner": [
+        0,
+        1019
+      ],
+      "script": "RicochetExciter",
+      "fields": {
+        "ricochetParentObject": [
+          0,
+          1019
+        ],
+        "ricochetScoreObject": [
+          0,
+          861
+        ],
+        "digitsTextureArray": [
+          [
+            1,
+            57
+          ],
+          [
+            1,
+            13
+          ],
+          [
+            1,
+            38
+          ],
+          [
+            1,
+            79
+          ],
+          [
+            1,
+            50
+          ],
+          [
+            1,
+            35
+          ],
+          [
+            1,
+            40
+          ],
+          [
+            1,
+            36
+          ],
+          [
+            1,
+            58
+          ],
+          [
+            1,
+            25
+          ]
+        ],
+        "dummySkin": [
+          3,
+          253
+        ]
+      }
+    },
+    {
+      "id": 2885,
+      "owner": [
+        0,
+        1319
+      ],
+      "script": "Streak",
+      "fields": {
+        "streakExciterObject": [
+          0,
+          1319
+        ],
+        "streakDigitsRendererArray": [
+          [
+            0,
+            1311
+          ],
+          [
+            0,
+            1314
+          ],
+          [
+            0,
+            1308
+          ]
+        ],
+        "streakDigitsMaterialArray": [
+          [
+            1,
+            641
+          ],
+          [
+            1,
+            610
+          ],
+          [
+            1,
+            682
+          ]
+        ],
+        "streakDigitsTextureArray": [
+          [
+            1,
+            57
+          ],
+          [
+            1,
+            13
+          ],
+          [
+            1,
+            38
+          ],
+          [
+            1,
+            79
+          ],
+          [
+            1,
+            50
+          ],
+          [
+            1,
+            35
+          ],
+          [
+            1,
+            40
+          ],
+          [
+            1,
+            36
+          ],
+          [
+            1,
+            58
+          ],
+          [
+            1,
+            25
+          ]
+        ]
+      }
+    },
+    {
+      "id": 2886,
+      "owner": [
+        0,
+        2232
+      ],
+      "script": "BirdScript",
+      "fields": {
+        "ltime": 0.0,
+        "lspeed": 0.0,
+        "lnormalizedSpeed": 0.0,
+        "lweight": 0.0,
+        "lwrapMode": 0,
+        "lntime": 0.0,
+        "llength": 0.0,
+        "llayer": 0,
+        "lclip": 0.0,
+        "lblendMode": 0
+      }
+    },
+    {
+      "id": 2887,
+      "owner": [
+        0,
+        1705
+      ],
+      "script": "LighterScript",
+      "fields": {
+        "curBody": [
+          0,
+          0
+        ],
+        "contNorm": 0.0,
+        "xVel": -1.0,
+        "yVel": 10.0,
+        "zVel": -2.0,
+        "hingeObject": [
+          0,
+          1699
+        ]
+      }
+    },
+    {
+      "id": 2888,
+      "owner": [
+        0,
+        397
+      ],
+      "script": "LighterScript",
+      "fields": {
+        "curBody": [
+          0,
+          0
+        ],
+        "contNorm": 0.0,
+        "xVel": -7.0,
+        "yVel": 11.0,
+        "zVel": -3.0,
+        "hingeObject": [
+          0,
+          391
+        ]
+      }
+    },
+    {
+      "id": 2889,
+      "owner": [
+        0,
+        2657
+      ],
+      "script": "LighterScript",
+      "fields": {
+        "curBody": [
+          0,
+          0
+        ],
+        "contNorm": 0.0,
+        "xVel": -2.0,
+        "yVel": 12.0,
+        "zVel": -3.5999999046325684,
+        "hingeObject": [
+          0,
+          2651
+        ]
+      }
+    },
+    {
+      "id": 2890,
+      "owner": [
+        0,
+        979
+      ],
+      "script": "BirdScript",
+      "fields": {
+        "ltime": 0.0,
+        "lspeed": 0.0,
+        "lnormalizedSpeed": 0.0,
+        "lweight": 0.0,
+        "lwrapMode": 0,
+        "lntime": 0.0,
+        "llength": 0.0,
+        "llayer": 0,
+        "lclip": 0.0,
+        "lblendMode": 0
+      }
+    },
+    {
+      "id": 2891,
+      "owner": [
+        0,
+        1882
+      ],
+      "script": "PauseMenu",
+      "fields": {
+        "roundIndicatorObject": [
+          0,
+          1051
+        ],
+        "helpGameObject": [
+          0,
+          1857
+        ],
+        "PauseMenuObject": [
+          0,
+          1882
+        ],
+        "PauseMenuBgndObject": [
+          0,
+          1811
+        ],
+        "FlickFingerObject": [
+          0,
+          1864
+        ],
+        "enableButtonView": false,
+        "dummySkin": [
+          3,
+          253
+        ],
+        "fontSkin": [
+          1,
+          748
+        ],
+        "fontSkin_iPad": [
+          3,
+          252
+        ],
+        "replayMaterial": [
+          1,
+          713
+        ],
+        "replayOnTexture": [
+          1,
+          69
+        ],
+        "replayGreyTexture": [
+          1,
+          17
+        ],
+        "soundMaterial": [
+          1,
+          639
+        ],
+        "soundOnTexture": [
+          1,
+          24
+        ],
+        "soundGreyTexture": [
+          1,
+          18
+        ]
+      }
+    },
+    {
+      "id": 2892,
+      "owner": [
+        0,
+        1468
+      ],
+      "script": "LauncherScript",
+      "fields": {
+        "xVel": -4.849999904632568,
+        "yVel": 14.0,
+        "zVel": 0.0,
+        "hingeObject": [
+          0,
+          1465
+        ],
+        "contactAngle": 0.7070000171661377,
+        "shotTimeAdd": 1.0
+      }
+    },
+    {
+      "id": 2893,
+      "owner": [
+        0,
+        948
+      ],
+      "script": "SecretRound",
+      "fields": {
+        "secretRoundObject": [
+          0,
+          948
+        ]
+      }
+    },
+    {
+      "id": 2894,
+      "owner": [
+        0,
+        2598
+      ],
+      "script": "BirdScript",
+      "fields": {
+        "ltime": 0.0,
+        "lspeed": 0.0,
+        "lnormalizedSpeed": 0.0,
+        "lweight": 0.0,
+        "lwrapMode": 0,
+        "lntime": 0.0,
+        "llength": 0.0,
+        "llayer": 0,
+        "lclip": 0.0,
+        "lblendMode": 0
+      }
+    },
+    {
+      "id": 2895,
+      "owner": [
+        0,
+        1898
+      ],
+      "script": "HiScoreRoundScript",
+      "fields": {
+        "maxNameLength": 10
+      }
+    },
+    {
+      "id": 2896,
+      "owner": [
+        0,
+        465
+      ],
+      "script": "LighterScript",
+      "fields": {
+        "curBody": [
+          0,
+          0
+        ],
+        "contNorm": 0.0,
+        "xVel": 3.0,
+        "yVel": 12.0,
+        "zVel": 6.0,
+        "hingeObject": [
+          0,
+          459
+        ]
+      }
+    },
+    {
+      "id": 2897,
+      "owner": [
+        0,
+        282
+      ],
+      "script": "GameOver",
+      "fields": {
+        "GameOverExciterObject": [
+          0,
+          282
+        ]
+      }
+    },
+    {
+      "id": 2898,
+      "owner": [
+        0,
+        2029
+      ],
+      "script": "InGameAngleIcon",
+      "fields": {
+        "enableButtonView": false,
+        "dummySkin": [
+          3,
+          253
+        ],
+        "UISkin": [
+          1,
+          748
+        ],
+        "DoneButtonEnabled": true
+      }
+    },
+    {
+      "id": 2899,
+      "owner": [
+        0,
+        2763
+      ],
+      "script": "LauncherScript",
+      "fields": {
+        "xVel": 8.0,
+        "yVel": 11.5,
+        "zVel": 0.0,
+        "hingeObject": [
+          0,
+          2760
+        ],
+        "contactAngle": 0.7070000171661377,
+        "shotTimeAdd": 2.0
+      }
+    },
+    {
+      "id": 2900,
+      "owner": [
+        0,
+        509
+      ],
+      "script": "LighterScript",
+      "fields": {
+        "curBody": [
+          0,
+          0
+        ],
+        "contNorm": 0.0,
+        "xVel": 5.5,
+        "yVel": 14.0,
+        "zVel": -3.5,
+        "hingeObject": [
+          0,
+          503
+        ]
+      }
+    },
+    {
+      "id": 2901,
+      "owner": [
+        0,
+        2590
+      ],
+      "script": "LauncherScript",
+      "fields": {
+        "xVel": -2.5,
+        "yVel": 10.0,
+        "zVel": 0.800000011920929,
+        "hingeObject": [
+          0,
+          0
+        ],
+        "contactAngle": 0.800000011920929,
+        "shotTimeAdd": 2.0
+      }
+    },
+    {
+      "id": 2902,
+      "owner": [
+        0,
+        2116
+      ],
+      "script": "HiScoreScript",
+      "fields": {
+        "maxNameLength": 10,
+        "newName": "Hello",
+        "newScore": 0,
+        "BoldSkin": [
+          0,
+          0
+        ],
+        "CoasterSkin": [
+          0,
+          0
+        ],
+        "backDropSkin": [
+          0,
+          0
+        ]
+      }
+    }
+  ],
+  "unresolved": []
+}

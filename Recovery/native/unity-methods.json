@@ -1,0 +1,6194 @@
+[
+  {
+    "rid": 1,
+    "type": "AddComponentMenu",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.AddComponentMenu::.ctor(System.String)"
+  },
+  {
+    "rid": 2,
+    "type": "Animation",
+    "name": "get_clip",
+    "signature": "UnityEngine.AnimationClip UnityEngine.Animation::get_clip()"
+  },
+  {
+    "rid": 3,
+    "type": "Animation",
+    "name": "set_playAutomatically",
+    "signature": "System.Void UnityEngine.Animation::set_playAutomatically(System.Boolean)"
+  },
+  {
+    "rid": 4,
+    "type": "Animation",
+    "name": "Stop",
+    "signature": "System.Void UnityEngine.Animation::Stop()"
+  },
+  {
+    "rid": 5,
+    "type": "Animation",
+    "name": "INTERNAL_CALL_Stop",
+    "signature": "System.Void UnityEngine.Animation::INTERNAL_CALL_Stop(UnityEngine.Animation)"
+  },
+  {
+    "rid": 6,
+    "type": "Animation",
+    "name": "get_isPlaying",
+    "signature": "System.Boolean UnityEngine.Animation::get_isPlaying()"
+  },
+  {
+    "rid": 7,
+    "type": "Animation",
+    "name": "IsPlaying",
+    "signature": "System.Boolean UnityEngine.Animation::IsPlaying(System.String)"
+  },
+  {
+    "rid": 8,
+    "type": "Animation",
+    "name": "INTERNAL_CALL_IsPlaying",
+    "signature": "System.Boolean UnityEngine.Animation::INTERNAL_CALL_IsPlaying(UnityEngine.Animation,System.String)"
+  },
+  {
+    "rid": 9,
+    "type": "Animation",
+    "name": "get_Item",
+    "signature": "UnityEngine.AnimationState UnityEngine.Animation::get_Item(System.String)"
+  },
+  {
+    "rid": 10,
+    "type": "Animation",
+    "name": "Play",
+    "signature": "System.Boolean UnityEngine.Animation::Play()"
+  },
+  {
+    "rid": 11,
+    "type": "Animation",
+    "name": "Play",
+    "signature": "System.Boolean UnityEngine.Animation::Play(UnityEngine.PlayMode)"
+  },
+  {
+    "rid": 12,
+    "type": "Animation",
+    "name": "Play",
+    "signature": "System.Boolean UnityEngine.Animation::Play(System.String)"
+  },
+  {
+    "rid": 13,
+    "type": "Animation",
+    "name": "INTERNAL_CALL_Play",
+    "signature": "System.Boolean UnityEngine.Animation::INTERNAL_CALL_Play(UnityEngine.Animation,System.String,UnityEngine.PlayMode)"
+  },
+  {
+    "rid": 14,
+    "type": "Animation",
+    "name": "PlayQueued",
+    "signature": "UnityEngine.AnimationState UnityEngine.Animation::PlayQueued(System.String)"
+  },
+  {
+    "rid": 15,
+    "type": "Animation",
+    "name": "INTERNAL_CALL_PlayQueued",
+    "signature": "UnityEngine.AnimationState UnityEngine.Animation::INTERNAL_CALL_PlayQueued(UnityEngine.Animation,System.String,UnityEngine.QueueMode,UnityEngine.PlayMode)"
+  },
+  {
+    "rid": 16,
+    "type": "Animation",
+    "name": "AddClip",
+    "signature": "System.Void UnityEngine.Animation::AddClip(UnityEngine.AnimationClip,System.String,System.Int32,System.Int32)"
+  },
+  {
+    "rid": 17,
+    "type": "Animation",
+    "name": "INTERNAL_CALL_AddClip",
+    "signature": "System.Void UnityEngine.Animation::INTERNAL_CALL_AddClip(UnityEngine.Animation,UnityEngine.AnimationClip,System.String,System.Int32,System.Int32,System.Boolean)"
+  },
+  {
+    "rid": 18,
+    "type": "Animation",
+    "name": "GetClipCount",
+    "signature": "System.Int32 UnityEngine.Animation::GetClipCount()"
+  },
+  {
+    "rid": 19,
+    "type": "Animation",
+    "name": "INTERNAL_CALL_GetClipCount",
+    "signature": "System.Int32 UnityEngine.Animation::INTERNAL_CALL_GetClipCount(UnityEngine.Animation)"
+  },
+  {
+    "rid": 20,
+    "type": "Animation",
+    "name": "PlayDefaultAnimation",
+    "signature": "System.Boolean UnityEngine.Animation::PlayDefaultAnimation(UnityEngine.PlayMode)"
+  },
+  {
+    "rid": 21,
+    "type": "Animation",
+    "name": "INTERNAL_CALL_PlayDefaultAnimation",
+    "signature": "System.Boolean UnityEngine.Animation::INTERNAL_CALL_PlayDefaultAnimation(UnityEngine.Animation,UnityEngine.PlayMode)"
+  },
+  {
+    "rid": 22,
+    "type": "Animation",
+    "name": "GetEnumerator",
+    "signature": "System.Collections.IEnumerator UnityEngine.Animation::GetEnumerator()"
+  },
+  {
+    "rid": 23,
+    "type": "Animation",
+    "name": "GetState",
+    "signature": "UnityEngine.AnimationState UnityEngine.Animation::GetState(System.String)"
+  },
+  {
+    "rid": 24,
+    "type": "Animation",
+    "name": "INTERNAL_CALL_GetState",
+    "signature": "UnityEngine.AnimationState UnityEngine.Animation::INTERNAL_CALL_GetState(UnityEngine.Animation,System.String)"
+  },
+  {
+    "rid": 25,
+    "type": "Animation",
+    "name": "GetStateAtIndex",
+    "signature": "UnityEngine.AnimationState UnityEngine.Animation::GetStateAtIndex(System.Int32)"
+  },
+  {
+    "rid": 26,
+    "type": "Animation",
+    "name": "INTERNAL_CALL_GetStateAtIndex",
+    "signature": "UnityEngine.AnimationState UnityEngine.Animation::INTERNAL_CALL_GetStateAtIndex(UnityEngine.Animation,System.Int32)"
+  },
+  {
+    "rid": 27,
+    "type": "Animation",
+    "name": "GetStateCount",
+    "signature": "System.Int32 UnityEngine.Animation::GetStateCount()"
+  },
+  {
+    "rid": 28,
+    "type": "Animation",
+    "name": "INTERNAL_CALL_GetStateCount",
+    "signature": "System.Int32 UnityEngine.Animation::INTERNAL_CALL_GetStateCount(UnityEngine.Animation)"
+  },
+  {
+    "rid": 33,
+    "type": "AnimationCurve",
+    "name": "Cleanup",
+    "signature": "System.Void UnityEngine.AnimationCurve::Cleanup()"
+  },
+  {
+    "rid": 34,
+    "type": "AnimationCurve",
+    "name": "INTERNAL_CALL_Cleanup",
+    "signature": "System.Void UnityEngine.AnimationCurve::INTERNAL_CALL_Cleanup(UnityEngine.AnimationCurve)"
+  },
+  {
+    "rid": 35,
+    "type": "AnimationCurve",
+    "name": "Finalize",
+    "signature": "System.Void UnityEngine.AnimationCurve::Finalize()"
+  },
+  {
+    "rid": 36,
+    "type": "AnimationEvent",
+    "name": "Finalize",
+    "signature": "System.Void UnityEngine.AnimationEvent::Finalize()"
+  },
+  {
+    "rid": 37,
+    "type": "AnimationEvent",
+    "name": "Destroy",
+    "signature": "System.Void UnityEngine.AnimationEvent::Destroy()"
+  },
+  {
+    "rid": 38,
+    "type": "AnimationEvent",
+    "name": "INTERNAL_CALL_Destroy",
+    "signature": "System.Void UnityEngine.AnimationEvent::INTERNAL_CALL_Destroy(UnityEngine.AnimationEvent)"
+  },
+  {
+    "rid": 39,
+    "type": "AnimationState",
+    "name": "get_weight",
+    "signature": "System.Single UnityEngine.AnimationState::get_weight()"
+  },
+  {
+    "rid": 40,
+    "type": "AnimationState",
+    "name": "get_wrapMode",
+    "signature": "UnityEngine.WrapMode UnityEngine.AnimationState::get_wrapMode()"
+  },
+  {
+    "rid": 41,
+    "type": "AnimationState",
+    "name": "get_time",
+    "signature": "System.Single UnityEngine.AnimationState::get_time()"
+  },
+  {
+    "rid": 42,
+    "type": "AnimationState",
+    "name": "set_time",
+    "signature": "System.Void UnityEngine.AnimationState::set_time(System.Single)"
+  },
+  {
+    "rid": 43,
+    "type": "AnimationState",
+    "name": "get_normalizedTime",
+    "signature": "System.Single UnityEngine.AnimationState::get_normalizedTime()"
+  },
+  {
+    "rid": 44,
+    "type": "AnimationState",
+    "name": "get_speed",
+    "signature": "System.Single UnityEngine.AnimationState::get_speed()"
+  },
+  {
+    "rid": 45,
+    "type": "AnimationState",
+    "name": "set_speed",
+    "signature": "System.Void UnityEngine.AnimationState::set_speed(System.Single)"
+  },
+  {
+    "rid": 46,
+    "type": "AnimationState",
+    "name": "get_normalizedSpeed",
+    "signature": "System.Single UnityEngine.AnimationState::get_normalizedSpeed()"
+  },
+  {
+    "rid": 47,
+    "type": "AnimationState",
+    "name": "set_normalizedSpeed",
+    "signature": "System.Void UnityEngine.AnimationState::set_normalizedSpeed(System.Single)"
+  },
+  {
+    "rid": 48,
+    "type": "AnimationState",
+    "name": "get_length",
+    "signature": "System.Single UnityEngine.AnimationState::get_length()"
+  },
+  {
+    "rid": 49,
+    "type": "AnimationState",
+    "name": "get_layer",
+    "signature": "System.Int32 UnityEngine.AnimationState::get_layer()"
+  },
+  {
+    "rid": 50,
+    "type": "AnimationState",
+    "name": "get_blendMode",
+    "signature": "UnityEngine.AnimationBlendMode UnityEngine.AnimationState::get_blendMode()"
+  },
+  {
+    "rid": 51,
+    "type": "Application",
+    "name": "LoadLevel",
+    "signature": "System.Void UnityEngine.Application::LoadLevel(System.String)"
+  },
+  {
+    "rid": 52,
+    "type": "Application",
+    "name": "LoadLevelName",
+    "signature": "System.Void UnityEngine.Application::LoadLevelName(System.String,System.Boolean)"
+  },
+  {
+    "rid": 53,
+    "type": "Application",
+    "name": "INTERNAL_CALL_LoadLevelName",
+    "signature": "System.Void UnityEngine.Application::INTERNAL_CALL_LoadLevelName(System.String,System.Boolean)"
+  },
+  {
+    "rid": 54,
+    "type": "Application",
+    "name": "get_isEditor",
+    "signature": "System.Boolean UnityEngine.Application::get_isEditor()"
+  },
+  {
+    "rid": 55,
+    "type": "Application",
+    "name": "get_platform",
+    "signature": "UnityEngine.RuntimePlatform UnityEngine.Application::get_platform()"
+  },
+  {
+    "rid": 56,
+    "type": "Application",
+    "name": "get_isPlayer",
+    "signature": "System.Boolean UnityEngine.Application::get_isPlayer()"
+  },
+  {
+    "rid": 57,
+    "type": "Application",
+    "name": "OpenURL",
+    "signature": "System.Void UnityEngine.Application::OpenURL(System.String)"
+  },
+  {
+    "rid": 58,
+    "type": "Application",
+    "name": "INTERNAL_CALL_OpenURL",
+    "signature": "System.Void UnityEngine.Application::INTERNAL_CALL_OpenURL(System.String)"
+  },
+  {
+    "rid": 59,
+    "type": "AttributeHelperEngine",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.AttributeHelperEngine::.ctor()"
+  },
+  {
+    "rid": 60,
+    "type": "AttributeHelperEngine",
+    "name": "GetRequiredComponents",
+    "signature": "System.Type[] UnityEngine.AttributeHelperEngine::GetRequiredComponents(System.Type)"
+  },
+  {
+    "rid": 61,
+    "type": "AttributeHelperEngine",
+    "name": "CheckIsEditorScript",
+    "signature": "System.Boolean UnityEngine.AttributeHelperEngine::CheckIsEditorScript(System.Type)"
+  },
+  {
+    "rid": 62,
+    "type": "AudioSource",
+    "name": "set_volume",
+    "signature": "System.Void UnityEngine.AudioSource::set_volume(System.Single)"
+  },
+  {
+    "rid": 63,
+    "type": "AudioSource",
+    "name": "set_clip",
+    "signature": "System.Void UnityEngine.AudioSource::set_clip(UnityEngine.AudioClip)"
+  },
+  {
+    "rid": 64,
+    "type": "AudioSource",
+    "name": "Play",
+    "signature": "System.Void UnityEngine.AudioSource::Play()"
+  },
+  {
+    "rid": 65,
+    "type": "AudioSource",
+    "name": "INTERNAL_CALL_Play",
+    "signature": "System.Void UnityEngine.AudioSource::INTERNAL_CALL_Play(UnityEngine.AudioSource)"
+  },
+  {
+    "rid": 66,
+    "type": "AudioSource",
+    "name": "Stop",
+    "signature": "System.Void UnityEngine.AudioSource::Stop()"
+  },
+  {
+    "rid": 67,
+    "type": "AudioSource",
+    "name": "INTERNAL_CALL_Stop",
+    "signature": "System.Void UnityEngine.AudioSource::INTERNAL_CALL_Stop(UnityEngine.AudioSource)"
+  },
+  {
+    "rid": 68,
+    "type": "AudioSource",
+    "name": "PlayOneShot",
+    "signature": "System.Void UnityEngine.AudioSource::PlayOneShot(UnityEngine.AudioClip)"
+  },
+  {
+    "rid": 69,
+    "type": "AudioSource",
+    "name": "INTERNAL_CALL_PlayOneShot",
+    "signature": "System.Void UnityEngine.AudioSource::INTERNAL_CALL_PlayOneShot(UnityEngine.AudioSource,UnityEngine.AudioClip,System.Single)"
+  },
+  {
+    "rid": 70,
+    "type": "Behaviour",
+    "name": "get_enabled",
+    "signature": "System.Boolean UnityEngine.Behaviour::get_enabled()"
+  },
+  {
+    "rid": 71,
+    "type": "Behaviour",
+    "name": "set_enabled",
+    "signature": "System.Void UnityEngine.Behaviour::set_enabled(System.Boolean)"
+  },
+  {
+    "rid": 72,
+    "type": "Bounds",
+    "name": "get_center",
+    "signature": "UnityEngine.Vector3 UnityEngine.Bounds::get_center()"
+  },
+  {
+    "rid": 73,
+    "type": "Bounds",
+    "name": "get_extents",
+    "signature": "UnityEngine.Vector3 UnityEngine.Bounds::get_extents()"
+  },
+  {
+    "rid": 74,
+    "type": "Bounds",
+    "name": "ToString",
+    "signature": "System.String UnityEngine.Bounds::ToString()"
+  },
+  {
+    "rid": 75,
+    "type": "Camera",
+    "name": "set_fieldOfView",
+    "signature": "System.Void UnityEngine.Camera::set_fieldOfView(System.Single)"
+  },
+  {
+    "rid": 76,
+    "type": "Camera",
+    "name": "get_cullingMask",
+    "signature": "System.Int32 UnityEngine.Camera::get_cullingMask()"
+  },
+  {
+    "rid": 77,
+    "type": "Camera",
+    "name": "set_cullingMask",
+    "signature": "System.Void UnityEngine.Camera::set_cullingMask(System.Int32)"
+  },
+  {
+    "rid": 78,
+    "type": "Camera",
+    "name": "get_backgroundColor",
+    "signature": "UnityEngine.Color UnityEngine.Camera::get_backgroundColor()"
+  },
+  {
+    "rid": 79,
+    "type": "Camera",
+    "name": "get_worldToCameraMatrix",
+    "signature": "UnityEngine.Matrix4x4 UnityEngine.Camera::get_worldToCameraMatrix()"
+  },
+  {
+    "rid": 80,
+    "type": "Camera",
+    "name": "get_projectionMatrix",
+    "signature": "UnityEngine.Matrix4x4 UnityEngine.Camera::get_projectionMatrix()"
+  },
+  {
+    "rid": 81,
+    "type": "Camera",
+    "name": "set_projectionMatrix",
+    "signature": "System.Void UnityEngine.Camera::set_projectionMatrix(UnityEngine.Matrix4x4)"
+  },
+  {
+    "rid": 82,
+    "type": "Camera",
+    "name": "set_clearFlags",
+    "signature": "System.Void UnityEngine.Camera::set_clearFlags(UnityEngine.CameraClearFlags)"
+  },
+  {
+    "rid": 83,
+    "type": "Camera",
+    "name": "WorldToViewportPoint",
+    "signature": "UnityEngine.Vector3 UnityEngine.Camera::WorldToViewportPoint(UnityEngine.Vector3)"
+  },
+  {
+    "rid": 84,
+    "type": "Camera",
+    "name": "INTERNAL_CALL_WorldToViewportPoint",
+    "signature": "UnityEngine.Vector3 UnityEngine.Camera::INTERNAL_CALL_WorldToViewportPoint(UnityEngine.Camera,UnityEngine.Vector3\u0026)"
+  },
+  {
+    "rid": 85,
+    "type": "Camera",
+    "name": "ScreenPointToRay",
+    "signature": "UnityEngine.Ray UnityEngine.Camera::ScreenPointToRay(UnityEngine.Vector3)"
+  },
+  {
+    "rid": 86,
+    "type": "Camera",
+    "name": "INTERNAL_CALL_ScreenPointToRay",
+    "signature": "UnityEngine.Ray UnityEngine.Camera::INTERNAL_CALL_ScreenPointToRay(UnityEngine.Camera,UnityEngine.Vector3\u0026)"
+  },
+  {
+    "rid": 87,
+    "type": "Camera",
+    "name": "get_main",
+    "signature": "UnityEngine.Camera UnityEngine.Camera::get_main()"
+  },
+  {
+    "rid": 88,
+    "type": "Camera",
+    "name": "get_allCameras",
+    "signature": "UnityEngine.Camera[] UnityEngine.Camera::get_allCameras()"
+  },
+  {
+    "rid": 89,
+    "type": "Camera",
+    "name": "Render",
+    "signature": "System.Void UnityEngine.Camera::Render()"
+  },
+  {
+    "rid": 90,
+    "type": "Camera",
+    "name": "INTERNAL_CALL_Render",
+    "signature": "System.Void UnityEngine.Camera::INTERNAL_CALL_Render(UnityEngine.Camera)"
+  },
+  {
+    "rid": 91,
+    "type": "Camera",
+    "name": "RenderWithShader",
+    "signature": "System.Void UnityEngine.Camera::RenderWithShader(UnityEngine.Shader,System.String)"
+  },
+  {
+    "rid": 92,
+    "type": "Camera",
+    "name": "INTERNAL_CALL_RenderWithShader",
+    "signature": "System.Void UnityEngine.Camera::INTERNAL_CALL_RenderWithShader(UnityEngine.Camera,UnityEngine.Shader,System.String)"
+  },
+  {
+    "rid": 93,
+    "type": "Camera",
+    "name": "CopyFrom",
+    "signature": "System.Void UnityEngine.Camera::CopyFrom(UnityEngine.Camera)"
+  },
+  {
+    "rid": 94,
+    "type": "Camera",
+    "name": "INTERNAL_CALL_CopyFrom",
+    "signature": "System.Void UnityEngine.Camera::INTERNAL_CALL_CopyFrom(UnityEngine.Camera,UnityEngine.Camera)"
+  },
+  {
+    "rid": 95,
+    "type": "CharacterController",
+    "name": "Move",
+    "signature": "UnityEngine.CollisionFlags UnityEngine.CharacterController::Move(UnityEngine.Vector3)"
+  },
+  {
+    "rid": 96,
+    "type": "CharacterController",
+    "name": "INTERNAL_CALL_Move",
+    "signature": "UnityEngine.CollisionFlags UnityEngine.CharacterController::INTERNAL_CALL_Move(UnityEngine.CharacterController,UnityEngine.Vector3\u0026)"
+  },
+  {
+    "rid": 97,
+    "type": "CharacterController",
+    "name": "get_isGrounded",
+    "signature": "System.Boolean UnityEngine.CharacterController::get_isGrounded()"
+  },
+  {
+    "rid": 98,
+    "type": "CharacterController",
+    "name": "get_velocity",
+    "signature": "UnityEngine.Vector3 UnityEngine.CharacterController::get_velocity()"
+  },
+  {
+    "rid": 99,
+    "type": "Collider",
+    "name": "get_attachedRigidbody",
+    "signature": "UnityEngine.Rigidbody UnityEngine.Collider::get_attachedRigidbody()"
+  },
+  {
+    "rid": 100,
+    "type": "Collider",
+    "name": "get_bounds",
+    "signature": "UnityEngine.Bounds UnityEngine.Collider::get_bounds()"
+  },
+  {
+    "rid": 101,
+    "type": "Collision",
+    "name": "get_contacts",
+    "signature": "UnityEngine.ContactPoint[] UnityEngine.Collision::get_contacts()"
+  },
+  {
+    "rid": 102,
+    "type": "Collision",
+    "name": "GetEnumerator",
+    "signature": "System.Collections.IEnumerator UnityEngine.Collision::GetEnumerator()"
+  },
+  {
+    "rid": 103,
+    "type": "Color",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.Color::.ctor(System.Single,System.Single,System.Single,System.Single)"
+  },
+  {
+    "rid": 104,
+    "type": "Color",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.Color::.ctor(System.Single,System.Single,System.Single)"
+  },
+  {
+    "rid": 105,
+    "type": "Color",
+    "name": "ToString",
+    "signature": "System.String UnityEngine.Color::ToString()"
+  },
+  {
+    "rid": 106,
+    "type": "Color",
+    "name": "get_red",
+    "signature": "UnityEngine.Color UnityEngine.Color::get_red()"
+  },
+  {
+    "rid": 107,
+    "type": "Color",
+    "name": "get_white",
+    "signature": "UnityEngine.Color UnityEngine.Color::get_white()"
+  },
+  {
+    "rid": 108,
+    "type": "Color",
+    "name": "get_black",
+    "signature": "UnityEngine.Color UnityEngine.Color::get_black()"
+  },
+  {
+    "rid": 109,
+    "type": "Color",
+    "name": "get_clear",
+    "signature": "UnityEngine.Color UnityEngine.Color::get_clear()"
+  },
+  {
+    "rid": 110,
+    "type": "Component",
+    "name": "get_transform",
+    "signature": "UnityEngine.Transform UnityEngine.Component::get_transform()"
+  },
+  {
+    "rid": 111,
+    "type": "Component",
+    "name": "get_rigidbody",
+    "signature": "UnityEngine.Rigidbody UnityEngine.Component::get_rigidbody()"
+  },
+  {
+    "rid": 112,
+    "type": "Component",
+    "name": "get_camera",
+    "signature": "UnityEngine.Camera UnityEngine.Component::get_camera()"
+  },
+  {
+    "rid": 113,
+    "type": "Component",
+    "name": "get_animation",
+    "signature": "UnityEngine.Animation UnityEngine.Component::get_animation()"
+  },
+  {
+    "rid": 114,
+    "type": "Component",
+    "name": "get_audio",
+    "signature": "UnityEngine.AudioSource UnityEngine.Component::get_audio()"
+  },
+  {
+    "rid": 115,
+    "type": "Component",
+    "name": "get_guiTexture",
+    "signature": "UnityEngine.GUITexture UnityEngine.Component::get_guiTexture()"
+  },
+  {
+    "rid": 116,
+    "type": "Component",
+    "name": "get_collider",
+    "signature": "UnityEngine.Collider UnityEngine.Component::get_collider()"
+  },
+  {
+    "rid": 117,
+    "type": "Component",
+    "name": "get_gameObject",
+    "signature": "UnityEngine.GameObject UnityEngine.Component::get_gameObject()"
+  },
+  {
+    "rid": 118,
+    "type": "Component",
+    "name": "GetComponent",
+    "signature": "UnityEngine.Component UnityEngine.Component::GetComponent(System.Type)"
+  },
+  {
+    "rid": 119,
+    "type": "Component",
+    "name": "INTERNAL_CALL_GetComponent",
+    "signature": "UnityEngine.Component UnityEngine.Component::INTERNAL_CALL_GetComponent(UnityEngine.Component,System.Type)"
+  },
+  {
+    "rid": 120,
+    "type": "ContactPoint",
+    "name": "get_point",
+    "signature": "UnityEngine.Vector3 UnityEngine.ContactPoint::get_point()"
+  },
+  {
+    "rid": 121,
+    "type": "ContactPoint",
+    "name": "get_normal",
+    "signature": "UnityEngine.Vector3 UnityEngine.ContactPoint::get_normal()"
+  },
+  {
+    "rid": 122,
+    "type": "ContactPoint",
+    "name": "get_otherCollider",
+    "signature": "UnityEngine.Collider UnityEngine.ContactPoint::get_otherCollider()"
+  },
+  {
+    "rid": 123,
+    "type": "Coroutine",
+    "name": "ReleaseCoroutine",
+    "signature": "System.Void UnityEngine.Coroutine::ReleaseCoroutine()"
+  },
+  {
+    "rid": 124,
+    "type": "Coroutine",
+    "name": "INTERNAL_CALL_ReleaseCoroutine",
+    "signature": "System.Void UnityEngine.Coroutine::INTERNAL_CALL_ReleaseCoroutine(UnityEngine.Coroutine)"
+  },
+  {
+    "rid": 125,
+    "type": "Coroutine",
+    "name": "Finalize",
+    "signature": "System.Void UnityEngine.Coroutine::Finalize()"
+  },
+  {
+    "rid": 126,
+    "type": "Debug",
+    "name": "Internal_Log",
+    "signature": "System.Void UnityEngine.Debug::Internal_Log(System.Int32,System.String,UnityEngine.Object)"
+  },
+  {
+    "rid": 127,
+    "type": "Debug",
+    "name": "INTERNAL_CALL_Internal_Log",
+    "signature": "System.Void UnityEngine.Debug::INTERNAL_CALL_Internal_Log(System.Int32,System.String,UnityEngine.Object)"
+  },
+  {
+    "rid": 128,
+    "type": "Debug",
+    "name": "Log",
+    "signature": "System.Void UnityEngine.Debug::Log(System.Object)"
+  },
+  {
+    "rid": 129,
+    "type": "Debug",
+    "name": "LogError",
+    "signature": "System.Void UnityEngine.Debug::LogError(System.Object)"
+  },
+  {
+    "rid": 130,
+    "type": "Debug",
+    "name": "LogError",
+    "signature": "System.Void UnityEngine.Debug::LogError(System.Object,UnityEngine.Object)"
+  },
+  {
+    "rid": 131,
+    "type": "Debug",
+    "name": "LogWarning",
+    "signature": "System.Void UnityEngine.Debug::LogWarning(System.Object)"
+  },
+  {
+    "rid": 132,
+    "type": "Debug",
+    "name": "LogWarning",
+    "signature": "System.Void UnityEngine.Debug::LogWarning(System.Object,UnityEngine.Object)"
+  },
+  {
+    "rid": 133,
+    "type": "DisplayBuiltinGUI",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.DisplayBuiltinGUI::.ctor()"
+  },
+  {
+    "rid": 134,
+    "type": "DisplayBuiltinGUI",
+    "name": "DrawPressEscapeGUI",
+    "signature": "System.Void UnityEngine.DisplayBuiltinGUI::DrawPressEscapeGUI(System.Single)"
+  },
+  {
+    "rid": 135,
+    "type": "DisplayBuiltinGUI",
+    "name": "DrawWatermarkGUI",
+    "signature": "System.Void UnityEngine.DisplayBuiltinGUI::DrawWatermarkGUI()"
+  },
+  {
+    "rid": 136,
+    "type": "Event",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.Event::.ctor()"
+  },
+  {
+    "rid": 137,
+    "type": "Event",
+    "name": "set_type",
+    "signature": "System.Void UnityEngine.Event::set_type(UnityEngine.EventType)"
+  },
+  {
+    "rid": 138,
+    "type": "Event",
+    "name": "get_type",
+    "signature": "UnityEngine.EventType UnityEngine.Event::get_type()"
+  },
+  {
+    "rid": 139,
+    "type": "Event",
+    "name": "GetTypeForControl",
+    "signature": "UnityEngine.EventType UnityEngine.Event::GetTypeForControl(System.Int32)"
+  },
+  {
+    "rid": 140,
+    "type": "Event",
+    "name": "get_mousePosition",
+    "signature": "UnityEngine.Vector2 UnityEngine.Event::get_mousePosition()"
+  },
+  {
+    "rid": 141,
+    "type": "Event",
+    "name": "get_delta",
+    "signature": "UnityEngine.Vector2 UnityEngine.Event::get_delta()"
+  },
+  {
+    "rid": 142,
+    "type": "Event",
+    "name": "get_modifiers",
+    "signature": "UnityEngine.Event/Modifiers UnityEngine.Event::get_modifiers()"
+  },
+  {
+    "rid": 143,
+    "type": "Event",
+    "name": "set_modifiers",
+    "signature": "System.Void UnityEngine.Event::set_modifiers(UnityEngine.Event/Modifiers)"
+  },
+  {
+    "rid": 144,
+    "type": "Event",
+    "name": "get_clickCount",
+    "signature": "System.Int32 UnityEngine.Event::get_clickCount()"
+  },
+  {
+    "rid": 145,
+    "type": "Event",
+    "name": "get_character",
+    "signature": "System.Char UnityEngine.Event::get_character()"
+  },
+  {
+    "rid": 146,
+    "type": "Event",
+    "name": "set_character",
+    "signature": "System.Void UnityEngine.Event::set_character(System.Char)"
+  },
+  {
+    "rid": 147,
+    "type": "Event",
+    "name": "get_keyCode",
+    "signature": "UnityEngine.KeyCode UnityEngine.Event::get_keyCode()"
+  },
+  {
+    "rid": 148,
+    "type": "Event",
+    "name": "set_keyCode",
+    "signature": "System.Void UnityEngine.Event::set_keyCode(UnityEngine.KeyCode)"
+  },
+  {
+    "rid": 149,
+    "type": "Event",
+    "name": "get_shift",
+    "signature": "System.Boolean UnityEngine.Event::get_shift()"
+  },
+  {
+    "rid": 150,
+    "type": "Event",
+    "name": "get_current",
+    "signature": "UnityEngine.Event UnityEngine.Event::get_current()"
+  },
+  {
+    "rid": 151,
+    "type": "Event",
+    "name": "set_current",
+    "signature": "System.Void UnityEngine.Event::set_current(UnityEngine.Event)"
+  },
+  {
+    "rid": 152,
+    "type": "Event",
+    "name": "Use",
+    "signature": "System.Void UnityEngine.Event::Use()"
+  },
+  {
+    "rid": 153,
+    "type": "Event",
+    "name": "get_isKey",
+    "signature": "System.Boolean UnityEngine.Event::get_isKey()"
+  },
+  {
+    "rid": 154,
+    "type": "Event",
+    "name": "get_isMouse",
+    "signature": "System.Boolean UnityEngine.Event::get_isMouse()"
+  },
+  {
+    "rid": 155,
+    "type": "Event",
+    "name": "KeyboardEvent",
+    "signature": "UnityEngine.Event UnityEngine.Event::KeyboardEvent(System.String)"
+  },
+  {
+    "rid": 156,
+    "type": "Event",
+    "name": "GetHashCode",
+    "signature": "System.Int32 UnityEngine.Event::GetHashCode()"
+  },
+  {
+    "rid": 157,
+    "type": "Event",
+    "name": "Equals",
+    "signature": "System.Boolean UnityEngine.Event::Equals(System.Object)"
+  },
+  {
+    "rid": 158,
+    "type": "Event",
+    "name": "ToString",
+    "signature": "System.String UnityEngine.Event::ToString()"
+  },
+  {
+    "rid": 159,
+    "type": "ExecuteInEditMode",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.ExecuteInEditMode::.ctor()"
+  },
+  {
+    "rid": 160,
+    "type": "ExitGUIException",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.ExitGUIException::.ctor()"
+  },
+  {
+    "rid": 161,
+    "type": "Font",
+    "name": "HasCharacter",
+    "signature": "System.Boolean UnityEngine.Font::HasCharacter(System.Char)"
+  },
+  {
+    "rid": 162,
+    "type": "Font",
+    "name": "INTERNAL_CALL_HasCharacter",
+    "signature": "System.Boolean UnityEngine.Font::INTERNAL_CALL_HasCharacter(UnityEngine.Font,System.Char)"
+  },
+  {
+    "rid": 163,
+    "type": "GameObject",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.GameObject::.ctor(System.String)"
+  },
+  {
+    "rid": 164,
+    "type": "GameObject",
+    "name": "GetComponent",
+    "signature": "UnityEngine.Component UnityEngine.GameObject::GetComponent(System.Type)"
+  },
+  {
+    "rid": 165,
+    "type": "GameObject",
+    "name": "INTERNAL_CALL_GetComponent",
+    "signature": "UnityEngine.Component UnityEngine.GameObject::INTERNAL_CALL_GetComponent(UnityEngine.GameObject,System.Type)"
+  },
+  {
+    "rid": 166,
+    "type": "GameObject",
+    "name": "GetComponentInChildren",
+    "signature": "UnityEngine.Component UnityEngine.GameObject::GetComponentInChildren(System.Type)"
+  },
+  {
+    "rid": 167,
+    "type": "GameObject",
+    "name": "get_transform",
+    "signature": "UnityEngine.Transform UnityEngine.GameObject::get_transform()"
+  },
+  {
+    "rid": 168,
+    "type": "GameObject",
+    "name": "get_rigidbody",
+    "signature": "UnityEngine.Rigidbody UnityEngine.GameObject::get_rigidbody()"
+  },
+  {
+    "rid": 169,
+    "type": "GameObject",
+    "name": "get_camera",
+    "signature": "UnityEngine.Camera UnityEngine.GameObject::get_camera()"
+  },
+  {
+    "rid": 170,
+    "type": "GameObject",
+    "name": "get_animation",
+    "signature": "UnityEngine.Animation UnityEngine.GameObject::get_animation()"
+  },
+  {
+    "rid": 171,
+    "type": "GameObject",
+    "name": "get_renderer",
+    "signature": "UnityEngine.Renderer UnityEngine.GameObject::get_renderer()"
+  },
+  {
+    "rid": 172,
+    "type": "GameObject",
+    "name": "get_audio",
+    "signature": "UnityEngine.AudioSource UnityEngine.GameObject::get_audio()"
+  },
+  {
+    "rid": 173,
+    "type": "GameObject",
+    "name": "get_layer",
+    "signature": "System.Int32 UnityEngine.GameObject::get_layer()"
+  },
+  {
+    "rid": 174,
+    "type": "GameObject",
+    "name": "get_active",
+    "signature": "System.Boolean UnityEngine.GameObject::get_active()"
+  },
+  {
+    "rid": 175,
+    "type": "GameObject",
+    "name": "set_active",
+    "signature": "System.Void UnityEngine.GameObject::set_active(System.Boolean)"
+  },
+  {
+    "rid": 176,
+    "type": "GameObject",
+    "name": "SetActiveRecursively",
+    "signature": "System.Void UnityEngine.GameObject::SetActiveRecursively(System.Boolean)"
+  },
+  {
+    "rid": 177,
+    "type": "GameObject",
+    "name": "get_tag",
+    "signature": "System.String UnityEngine.GameObject::get_tag()"
+  },
+  {
+    "rid": 178,
+    "type": "GameObject",
+    "name": "FindGameObjectsWithTag",
+    "signature": "UnityEngine.GameObject[] UnityEngine.GameObject::FindGameObjectsWithTag(System.String)"
+  },
+  {
+    "rid": 179,
+    "type": "GameObject",
+    "name": "INTERNAL_CALL_FindGameObjectsWithTag",
+    "signature": "UnityEngine.GameObject[] UnityEngine.GameObject::INTERNAL_CALL_FindGameObjectsWithTag(System.String)"
+  },
+  {
+    "rid": 180,
+    "type": "GameObject",
+    "name": "AddComponent",
+    "signature": "UnityEngine.Component UnityEngine.GameObject::AddComponent(System.String)"
+  },
+  {
+    "rid": 181,
+    "type": "GameObject",
+    "name": "INTERNAL_CALL_AddComponent",
+    "signature": "UnityEngine.Component UnityEngine.GameObject::INTERNAL_CALL_AddComponent(UnityEngine.GameObject,System.String)"
+  },
+  {
+    "rid": 182,
+    "type": "GameObject",
+    "name": "AddComponent",
+    "signature": "UnityEngine.Component UnityEngine.GameObject::AddComponent(System.Type)"
+  },
+  {
+    "rid": 183,
+    "type": "GameObject",
+    "name": "Internal_CreateGameObject",
+    "signature": "System.Void UnityEngine.GameObject::Internal_CreateGameObject(UnityEngine.GameObject,System.String)"
+  },
+  {
+    "rid": 184,
+    "type": "GameObject",
+    "name": "INTERNAL_CALL_Internal_CreateGameObject",
+    "signature": "System.Void UnityEngine.GameObject::INTERNAL_CALL_Internal_CreateGameObject(UnityEngine.GameObject,System.String)"
+  },
+  {
+    "rid": 185,
+    "type": "GameObject",
+    "name": "Find",
+    "signature": "UnityEngine.GameObject UnityEngine.GameObject::Find(System.String)"
+  },
+  {
+    "rid": 186,
+    "type": "GameObject",
+    "name": "INTERNAL_CALL_Find",
+    "signature": "UnityEngine.GameObject UnityEngine.GameObject::INTERNAL_CALL_Find(System.String)"
+  },
+  {
+    "rid": 187,
+    "type": "GeometryUtility",
+    "name": "CalculateFrustumPlanes",
+    "signature": "UnityEngine.Plane[] UnityEngine.GeometryUtility::CalculateFrustumPlanes(UnityEngine.Camera)"
+  },
+  {
+    "rid": 188,
+    "type": "GeometryUtility",
+    "name": "CalculateFrustumPlanes",
+    "signature": "UnityEngine.Plane[] UnityEngine.GeometryUtility::CalculateFrustumPlanes(UnityEngine.Matrix4x4)"
+  },
+  {
+    "rid": 189,
+    "type": "GeometryUtility",
+    "name": "Internal_ExtractPlanes",
+    "signature": "System.Void UnityEngine.GeometryUtility::Internal_ExtractPlanes(UnityEngine.Plane[],UnityEngine.Matrix4x4)"
+  },
+  {
+    "rid": 190,
+    "type": "GeometryUtility",
+    "name": "INTERNAL_CALL_Internal_ExtractPlanes",
+    "signature": "System.Void UnityEngine.GeometryUtility::INTERNAL_CALL_Internal_ExtractPlanes(UnityEngine.Plane[],UnityEngine.Matrix4x4\u0026)"
+  },
+  {
+    "rid": 191,
+    "type": "GeometryUtility",
+    "name": "TestPlanesAABB",
+    "signature": "System.Boolean UnityEngine.GeometryUtility::TestPlanesAABB(UnityEngine.Plane[],UnityEngine.Bounds)"
+  },
+  {
+    "rid": 192,
+    "type": "GeometryUtility",
+    "name": "INTERNAL_CALL_TestPlanesAABB",
+    "signature": "System.Boolean UnityEngine.GeometryUtility::INTERNAL_CALL_TestPlanesAABB(UnityEngine.Plane[],UnityEngine.Bounds\u0026)"
+  },
+  {
+    "rid": 193,
+    "type": "GL",
+    "name": "SetRevertBackfacing",
+    "signature": "System.Void UnityEngine.GL::SetRevertBackfacing(System.Boolean)"
+  },
+  {
+    "rid": 194,
+    "type": "GL",
+    "name": "INTERNAL_CALL_SetRevertBackfacing",
+    "signature": "System.Void UnityEngine.GL::INTERNAL_CALL_SetRevertBackfacing(System.Boolean)"
+  },
+  {
+    "rid": 195,
+    "type": "GL",
+    "name": "Clear",
+    "signature": "System.Void UnityEngine.GL::Clear(System.Boolean,System.Boolean,UnityEngine.Color)"
+  },
+  {
+    "rid": 196,
+    "type": "GL",
+    "name": "INTERNAL_CALL_Clear",
+    "signature": "System.Void UnityEngine.GL::INTERNAL_CALL_Clear(System.Boolean,System.Boolean,UnityEngine.Color\u0026)"
+  },
+  {
+    "rid": 197,
+    "type": "Graphics",
+    "name": "DrawTexture",
+    "signature": "System.Void UnityEngine.Graphics::DrawTexture(UnityEngine.Rect,UnityEngine.Texture,UnityEngine.Rect,System.Int32,System.Int32,System.Int32,System.Int32,UnityEngine.Color,UnityEngine.Material)"
+  },
+  {
+    "rid": 198,
+    "type": "Graphics",
+    "name": "INTERNAL_CALL_DrawTexture",
+    "signature": "System.Void UnityEngine.Graphics::INTERNAL_CALL_DrawTexture(UnityEngine.Rect\u0026,UnityEngine.Texture,UnityEngine.Rect\u0026,System.Int32,System.Int32,System.Int32,System.Int32,UnityEngine.Color\u0026,UnityEngine.Material)"
+  },
+  {
+    "rid": 199,
+    "type": "GUI",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.GUI::.ctor()"
+  },
+  {
+    "rid": 200,
+    "type": "GUI",
+    "name": ".cctor",
+    "signature": "System.Void UnityEngine.GUI::.cctor()"
+  },
+  {
+    "rid": 201,
+    "type": "GUI",
+    "name": "set_skin",
+    "signature": "System.Void UnityEngine.GUI::set_skin(UnityEngine.GUISkin)"
+  },
+  {
+    "rid": 202,
+    "type": "GUI",
+    "name": "get_skin",
+    "signature": "UnityEngine.GUISkin UnityEngine.GUI::get_skin()"
+  },
+  {
+    "rid": 203,
+    "type": "GUI",
+    "name": "get_color",
+    "signature": "UnityEngine.Color UnityEngine.GUI::get_color()"
+  },
+  {
+    "rid": 204,
+    "type": "GUI",
+    "name": "set_color",
+    "signature": "System.Void UnityEngine.GUI::set_color(UnityEngine.Color)"
+  },
+  {
+    "rid": 205,
+    "type": "GUI",
+    "name": "get_backgroundColor",
+    "signature": "UnityEngine.Color UnityEngine.GUI::get_backgroundColor()"
+  },
+  {
+    "rid": 206,
+    "type": "GUI",
+    "name": "set_backgroundColor",
+    "signature": "System.Void UnityEngine.GUI::set_backgroundColor(UnityEngine.Color)"
+  },
+  {
+    "rid": 207,
+    "type": "GUI",
+    "name": "get_contentColor",
+    "signature": "UnityEngine.Color UnityEngine.GUI::get_contentColor()"
+  },
+  {
+    "rid": 208,
+    "type": "GUI",
+    "name": "set_contentColor",
+    "signature": "System.Void UnityEngine.GUI::set_contentColor(UnityEngine.Color)"
+  },
+  {
+    "rid": 209,
+    "type": "GUI",
+    "name": "get_changed",
+    "signature": "System.Boolean UnityEngine.GUI::get_changed()"
+  },
+  {
+    "rid": 210,
+    "type": "GUI",
+    "name": "set_changed",
+    "signature": "System.Void UnityEngine.GUI::set_changed(System.Boolean)"
+  },
+  {
+    "rid": 211,
+    "type": "GUI",
+    "name": "ResetSettings",
+    "signature": "System.Void UnityEngine.GUI::ResetSettings()"
+  },
+  {
+    "rid": 212,
+    "type": "GUI",
+    "name": "UpdateColors",
+    "signature": "System.Void UnityEngine.GUI::UpdateColors()"
+  },
+  {
+    "rid": 213,
+    "type": "GUI",
+    "name": "Internal_UpdateColors",
+    "signature": "System.Void UnityEngine.GUI::Internal_UpdateColors(UnityEngine.Color,UnityEngine.Color,UnityEngine.Color)"
+  },
+  {
+    "rid": 214,
+    "type": "GUI",
+    "name": "INTERNAL_CALL_Internal_UpdateColors",
+    "signature": "System.Void UnityEngine.GUI::INTERNAL_CALL_Internal_UpdateColors(UnityEngine.Color\u0026,UnityEngine.Color\u0026,UnityEngine.Color\u0026)"
+  },
+  {
+    "rid": 215,
+    "type": "GUI",
+    "name": "get_enabled",
+    "signature": "System.Boolean UnityEngine.GUI::get_enabled()"
+  },
+  {
+    "rid": 216,
+    "type": "GUI",
+    "name": "set_enabled",
+    "signature": "System.Void UnityEngine.GUI::set_enabled(System.Boolean)"
+  },
+  {
+    "rid": 217,
+    "type": "GUI",
+    "name": "Internal_SetEnabled",
+    "signature": "System.Void UnityEngine.GUI::Internal_SetEnabled(System.Boolean)"
+  },
+  {
+    "rid": 218,
+    "type": "GUI",
+    "name": "INTERNAL_CALL_Internal_SetEnabled",
+    "signature": "System.Void UnityEngine.GUI::INTERNAL_CALL_Internal_SetEnabled(System.Boolean)"
+  },
+  {
+    "rid": 219,
+    "type": "GUI",
+    "name": "get_matrix",
+    "signature": "UnityEngine.Matrix4x4 UnityEngine.GUI::get_matrix()"
+  },
+  {
+    "rid": 220,
+    "type": "GUI",
+    "name": "set_matrix",
+    "signature": "System.Void UnityEngine.GUI::set_matrix(UnityEngine.Matrix4x4)"
+  },
+  {
+    "rid": 221,
+    "type": "GUI",
+    "name": "get_tooltip",
+    "signature": "System.String UnityEngine.GUI::get_tooltip()"
+  },
+  {
+    "rid": 222,
+    "type": "GUI",
+    "name": "get_depth",
+    "signature": "System.Int32 UnityEngine.GUI::get_depth()"
+  },
+  {
+    "rid": 223,
+    "type": "GUI",
+    "name": "set_depth",
+    "signature": "System.Void UnityEngine.GUI::set_depth(System.Int32)"
+  },
+  {
+    "rid": 224,
+    "type": "GUI",
+    "name": "Label",
+    "signature": "System.Void UnityEngine.GUI::Label(UnityEngine.Rect,System.String)"
+  },
+  {
+    "rid": 225,
+    "type": "GUI",
+    "name": "Label",
+    "signature": "System.Void UnityEngine.GUI::Label(UnityEngine.Rect,UnityEngine.Texture)"
+  },
+  {
+    "rid": 226,
+    "type": "GUI",
+    "name": "Label",
+    "signature": "System.Void UnityEngine.GUI::Label(UnityEngine.Rect,UnityEngine.GUIContent)"
+  },
+  {
+    "rid": 227,
+    "type": "GUI",
+    "name": "Label",
+    "signature": "System.Void UnityEngine.GUI::Label(UnityEngine.Rect,System.String,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 228,
+    "type": "GUI",
+    "name": "Label",
+    "signature": "System.Void UnityEngine.GUI::Label(UnityEngine.Rect,UnityEngine.Texture,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 229,
+    "type": "GUI",
+    "name": "Label",
+    "signature": "System.Void UnityEngine.GUI::Label(UnityEngine.Rect,UnityEngine.GUIContent,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 230,
+    "type": "GUI",
+    "name": "DrawTexture",
+    "signature": "System.Void UnityEngine.GUI::DrawTexture(UnityEngine.Rect,UnityEngine.Texture,UnityEngine.ScaleMode,System.Boolean)"
+  },
+  {
+    "rid": 231,
+    "type": "GUI",
+    "name": "DrawTexture",
+    "signature": "System.Void UnityEngine.GUI::DrawTexture(UnityEngine.Rect,UnityEngine.Texture,UnityEngine.ScaleMode)"
+  },
+  {
+    "rid": 232,
+    "type": "GUI",
+    "name": "DrawTexture",
+    "signature": "System.Void UnityEngine.GUI::DrawTexture(UnityEngine.Rect,UnityEngine.Texture)"
+  },
+  {
+    "rid": 233,
+    "type": "GUI",
+    "name": "DrawTexture",
+    "signature": "System.Void UnityEngine.GUI::DrawTexture(UnityEngine.Rect,UnityEngine.Texture,UnityEngine.ScaleMode,System.Boolean,System.Single)"
+  },
+  {
+    "rid": 234,
+    "type": "GUI",
+    "name": "get_blendMaterial",
+    "signature": "UnityEngine.Material UnityEngine.GUI::get_blendMaterial()"
+  },
+  {
+    "rid": 235,
+    "type": "GUI",
+    "name": "get_blitMaterial",
+    "signature": "UnityEngine.Material UnityEngine.GUI::get_blitMaterial()"
+  },
+  {
+    "rid": 236,
+    "type": "GUI",
+    "name": "Box",
+    "signature": "System.Void UnityEngine.GUI::Box(UnityEngine.Rect,System.String)"
+  },
+  {
+    "rid": 237,
+    "type": "GUI",
+    "name": "Box",
+    "signature": "System.Void UnityEngine.GUI::Box(UnityEngine.Rect,UnityEngine.Texture)"
+  },
+  {
+    "rid": 238,
+    "type": "GUI",
+    "name": "Box",
+    "signature": "System.Void UnityEngine.GUI::Box(UnityEngine.Rect,UnityEngine.GUIContent)"
+  },
+  {
+    "rid": 239,
+    "type": "GUI",
+    "name": "Box",
+    "signature": "System.Void UnityEngine.GUI::Box(UnityEngine.Rect,System.String,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 240,
+    "type": "GUI",
+    "name": "Box",
+    "signature": "System.Void UnityEngine.GUI::Box(UnityEngine.Rect,UnityEngine.Texture,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 241,
+    "type": "GUI",
+    "name": "Box",
+    "signature": "System.Void UnityEngine.GUI::Box(UnityEngine.Rect,UnityEngine.GUIContent,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 242,
+    "type": "GUI",
+    "name": "Button",
+    "signature": "System.Boolean UnityEngine.GUI::Button(UnityEngine.Rect,System.String)"
+  },
+  {
+    "rid": 243,
+    "type": "GUI",
+    "name": "Button",
+    "signature": "System.Boolean UnityEngine.GUI::Button(UnityEngine.Rect,UnityEngine.Texture)"
+  },
+  {
+    "rid": 244,
+    "type": "GUI",
+    "name": "Button",
+    "signature": "System.Boolean UnityEngine.GUI::Button(UnityEngine.Rect,UnityEngine.GUIContent)"
+  },
+  {
+    "rid": 245,
+    "type": "GUI",
+    "name": "Button",
+    "signature": "System.Boolean UnityEngine.GUI::Button(UnityEngine.Rect,System.String,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 246,
+    "type": "GUI",
+    "name": "Button",
+    "signature": "System.Boolean UnityEngine.GUI::Button(UnityEngine.Rect,UnityEngine.Texture,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 247,
+    "type": "GUI",
+    "name": "Button",
+    "signature": "System.Boolean UnityEngine.GUI::Button(UnityEngine.Rect,UnityEngine.GUIContent,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 248,
+    "type": "GUI",
+    "name": "RepeatButton",
+    "signature": "System.Boolean UnityEngine.GUI::RepeatButton(UnityEngine.Rect,System.String)"
+  },
+  {
+    "rid": 249,
+    "type": "GUI",
+    "name": "RepeatButton",
+    "signature": "System.Boolean UnityEngine.GUI::RepeatButton(UnityEngine.Rect,UnityEngine.Texture)"
+  },
+  {
+    "rid": 250,
+    "type": "GUI",
+    "name": "RepeatButton",
+    "signature": "System.Boolean UnityEngine.GUI::RepeatButton(UnityEngine.Rect,UnityEngine.GUIContent)"
+  },
+  {
+    "rid": 251,
+    "type": "GUI",
+    "name": "RepeatButton",
+    "signature": "System.Boolean UnityEngine.GUI::RepeatButton(UnityEngine.Rect,System.String,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 252,
+    "type": "GUI",
+    "name": "RepeatButton",
+    "signature": "System.Boolean UnityEngine.GUI::RepeatButton(UnityEngine.Rect,UnityEngine.Texture,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 253,
+    "type": "GUI",
+    "name": "RepeatButton",
+    "signature": "System.Boolean UnityEngine.GUI::RepeatButton(UnityEngine.Rect,UnityEngine.GUIContent,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 254,
+    "type": "GUI",
+    "name": "DoRepeatButton",
+    "signature": "System.Boolean UnityEngine.GUI::DoRepeatButton(UnityEngine.Rect,UnityEngine.GUIContent,UnityEngine.GUIStyle,UnityEngine.FocusType)"
+  },
+  {
+    "rid": 255,
+    "type": "GUI",
+    "name": "TextField",
+    "signature": "System.String UnityEngine.GUI::TextField(UnityEngine.Rect,System.String)"
+  },
+  {
+    "rid": 256,
+    "type": "GUI",
+    "name": "TextField",
+    "signature": "System.String UnityEngine.GUI::TextField(UnityEngine.Rect,System.String,System.Int32)"
+  },
+  {
+    "rid": 257,
+    "type": "GUI",
+    "name": "TextField",
+    "signature": "System.String UnityEngine.GUI::TextField(UnityEngine.Rect,System.String,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 258,
+    "type": "GUI",
+    "name": "TextField",
+    "signature": "System.String UnityEngine.GUI::TextField(UnityEngine.Rect,System.String,System.Int32,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 259,
+    "type": "GUI",
+    "name": "PasswordField",
+    "signature": "System.String UnityEngine.GUI::PasswordField(UnityEngine.Rect,System.String,System.Char)"
+  },
+  {
+    "rid": 260,
+    "type": "GUI",
+    "name": "PasswordField",
+    "signature": "System.String UnityEngine.GUI::PasswordField(UnityEngine.Rect,System.String,System.Char,System.Int32)"
+  },
+  {
+    "rid": 261,
+    "type": "GUI",
+    "name": "PasswordField",
+    "signature": "System.String UnityEngine.GUI::PasswordField(UnityEngine.Rect,System.String,System.Char,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 262,
+    "type": "GUI",
+    "name": "PasswordField",
+    "signature": "System.String UnityEngine.GUI::PasswordField(UnityEngine.Rect,System.String,System.Char,System.Int32,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 263,
+    "type": "GUI",
+    "name": "PasswordFieldGetStrToShow",
+    "signature": "System.String UnityEngine.GUI::PasswordFieldGetStrToShow(System.String,System.Char)"
+  },
+  {
+    "rid": 264,
+    "type": "GUI",
+    "name": "TextArea",
+    "signature": "System.String UnityEngine.GUI::TextArea(UnityEngine.Rect,System.String)"
+  },
+  {
+    "rid": 265,
+    "type": "GUI",
+    "name": "TextArea",
+    "signature": "System.String UnityEngine.GUI::TextArea(UnityEngine.Rect,System.String,System.Int32)"
+  },
+  {
+    "rid": 266,
+    "type": "GUI",
+    "name": "TextArea",
+    "signature": "System.String UnityEngine.GUI::TextArea(UnityEngine.Rect,System.String,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 267,
+    "type": "GUI",
+    "name": "TextArea",
+    "signature": "System.String UnityEngine.GUI::TextArea(UnityEngine.Rect,System.String,System.Int32,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 268,
+    "type": "GUI",
+    "name": "TextArea",
+    "signature": "System.String UnityEngine.GUI::TextArea(UnityEngine.Rect,UnityEngine.GUIContent,System.Int32,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 269,
+    "type": "GUI",
+    "name": "DoTextField",
+    "signature": "System.Void UnityEngine.GUI::DoTextField(UnityEngine.Rect,System.Int32,UnityEngine.GUIContent,System.Boolean,System.Int32,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 270,
+    "type": "GUI",
+    "name": "DoTextField",
+    "signature": "System.Void UnityEngine.GUI::DoTextField(UnityEngine.Rect,System.Int32,UnityEngine.GUIContent,System.Boolean,System.Int32,UnityEngine.GUIStyle,System.String)"
+  },
+  {
+    "rid": 271,
+    "type": "GUI",
+    "name": "SetNextControlName",
+    "signature": "System.Void UnityEngine.GUI::SetNextControlName(System.String)"
+  },
+  {
+    "rid": 272,
+    "type": "GUI",
+    "name": "FocusControl",
+    "signature": "System.Void UnityEngine.GUI::FocusControl(System.String)"
+  },
+  {
+    "rid": 273,
+    "type": "GUI",
+    "name": "Toggle",
+    "signature": "System.Boolean UnityEngine.GUI::Toggle(UnityEngine.Rect,System.Boolean,System.String)"
+  },
+  {
+    "rid": 274,
+    "type": "GUI",
+    "name": "Toggle",
+    "signature": "System.Boolean UnityEngine.GUI::Toggle(UnityEngine.Rect,System.Boolean,UnityEngine.Texture)"
+  },
+  {
+    "rid": 275,
+    "type": "GUI",
+    "name": "Toggle",
+    "signature": "System.Boolean UnityEngine.GUI::Toggle(UnityEngine.Rect,System.Boolean,UnityEngine.GUIContent)"
+  },
+  {
+    "rid": 276,
+    "type": "GUI",
+    "name": "Toggle",
+    "signature": "System.Boolean UnityEngine.GUI::Toggle(UnityEngine.Rect,System.Boolean,System.String,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 277,
+    "type": "GUI",
+    "name": "Toggle",
+    "signature": "System.Boolean UnityEngine.GUI::Toggle(UnityEngine.Rect,System.Boolean,UnityEngine.Texture,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 278,
+    "type": "GUI",
+    "name": "Toggle",
+    "signature": "System.Boolean UnityEngine.GUI::Toggle(UnityEngine.Rect,System.Boolean,UnityEngine.GUIContent,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 279,
+    "type": "GUI",
+    "name": "Toolbar",
+    "signature": "System.Int32 UnityEngine.GUI::Toolbar(UnityEngine.Rect,System.Int32,System.String[])"
+  },
+  {
+    "rid": 280,
+    "type": "GUI",
+    "name": "Toolbar",
+    "signature": "System.Int32 UnityEngine.GUI::Toolbar(UnityEngine.Rect,System.Int32,UnityEngine.Texture[])"
+  },
+  {
+    "rid": 281,
+    "type": "GUI",
+    "name": "Toolbar",
+    "signature": "System.Int32 UnityEngine.GUI::Toolbar(UnityEngine.Rect,System.Int32,UnityEngine.GUIContent[])"
+  },
+  {
+    "rid": 282,
+    "type": "GUI",
+    "name": "Toolbar",
+    "signature": "System.Int32 UnityEngine.GUI::Toolbar(UnityEngine.Rect,System.Int32,System.String[],UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 283,
+    "type": "GUI",
+    "name": "Toolbar",
+    "signature": "System.Int32 UnityEngine.GUI::Toolbar(UnityEngine.Rect,System.Int32,UnityEngine.Texture[],UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 284,
+    "type": "GUI",
+    "name": "Toolbar",
+    "signature": "System.Int32 UnityEngine.GUI::Toolbar(UnityEngine.Rect,System.Int32,UnityEngine.GUIContent[],UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 285,
+    "type": "GUI",
+    "name": "SelectionGrid",
+    "signature": "System.Int32 UnityEngine.GUI::SelectionGrid(UnityEngine.Rect,System.Int32,System.String[],System.Int32)"
+  },
+  {
+    "rid": 286,
+    "type": "GUI",
+    "name": "SelectionGrid",
+    "signature": "System.Int32 UnityEngine.GUI::SelectionGrid(UnityEngine.Rect,System.Int32,UnityEngine.Texture[],System.Int32)"
+  },
+  {
+    "rid": 287,
+    "type": "GUI",
+    "name": "SelectionGrid",
+    "signature": "System.Int32 UnityEngine.GUI::SelectionGrid(UnityEngine.Rect,System.Int32,UnityEngine.GUIContent[],System.Int32)"
+  },
+  {
+    "rid": 288,
+    "type": "GUI",
+    "name": "SelectionGrid",
+    "signature": "System.Int32 UnityEngine.GUI::SelectionGrid(UnityEngine.Rect,System.Int32,System.String[],System.Int32,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 289,
+    "type": "GUI",
+    "name": "SelectionGrid",
+    "signature": "System.Int32 UnityEngine.GUI::SelectionGrid(UnityEngine.Rect,System.Int32,UnityEngine.Texture[],System.Int32,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 290,
+    "type": "GUI",
+    "name": "SelectionGrid",
+    "signature": "System.Int32 UnityEngine.GUI::SelectionGrid(UnityEngine.Rect,System.Int32,UnityEngine.GUIContent[],System.Int32,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 291,
+    "type": "GUI",
+    "name": "FindStyles",
+    "signature": "System.Void UnityEngine.GUI::FindStyles(UnityEngine.GUIStyle\u0026,UnityEngine.GUIStyle\u0026,UnityEngine.GUIStyle\u0026,UnityEngine.GUIStyle\u0026,System.String,System.String,System.String)"
+  },
+  {
+    "rid": 292,
+    "type": "GUI",
+    "name": "CalcTotalHorizSpacing",
+    "signature": "System.Int32 UnityEngine.GUI::CalcTotalHorizSpacing(System.Int32,UnityEngine.GUIStyle,UnityEngine.GUIStyle,UnityEngine.GUIStyle,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 293,
+    "type": "GUI",
+    "name": "DoButtonGrid",
+    "signature": "System.Int32 UnityEngine.GUI::DoButtonGrid(UnityEngine.Rect,System.Int32,UnityEngine.GUIContent[],System.Int32,UnityEngine.GUIStyle,UnityEngine.GUIStyle,UnityEngine.GUIStyle,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 294,
+    "type": "GUI",
+    "name": "CalcMouseRects",
+    "signature": "UnityEngine.Rect[] UnityEngine.GUI::CalcMouseRects(UnityEngine.Rect,System.Int32,System.Int32,System.Single,System.Single,UnityEngine.GUIStyle,UnityEngine.GUIStyle,UnityEngine.GUIStyle,UnityEngine.GUIStyle,System.Boolean)"
+  },
+  {
+    "rid": 295,
+    "type": "GUI",
+    "name": "GetButtonGridMouseSelection",
+    "signature": "System.Int32 UnityEngine.GUI::GetButtonGridMouseSelection(UnityEngine.Rect[],UnityEngine.Vector2,System.Boolean)"
+  },
+  {
+    "rid": 296,
+    "type": "GUI",
+    "name": "HorizontalSlider",
+    "signature": "System.Single UnityEngine.GUI::HorizontalSlider(UnityEngine.Rect,System.Single,System.Single,System.Single)"
+  },
+  {
+    "rid": 297,
+    "type": "GUI",
+    "name": "HorizontalSlider",
+    "signature": "System.Single UnityEngine.GUI::HorizontalSlider(UnityEngine.Rect,System.Single,System.Single,System.Single,UnityEngine.GUIStyle,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 298,
+    "type": "GUI",
+    "name": "VerticalSlider",
+    "signature": "System.Single UnityEngine.GUI::VerticalSlider(UnityEngine.Rect,System.Single,System.Single,System.Single)"
+  },
+  {
+    "rid": 299,
+    "type": "GUI",
+    "name": "VerticalSlider",
+    "signature": "System.Single UnityEngine.GUI::VerticalSlider(UnityEngine.Rect,System.Single,System.Single,System.Single,UnityEngine.GUIStyle,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 300,
+    "type": "GUI",
+    "name": "Slider",
+    "signature": "System.Single UnityEngine.GUI::Slider(UnityEngine.Rect,System.Single,System.Single,System.Single,System.Single,UnityEngine.GUIStyle,UnityEngine.GUIStyle,System.Boolean,UnityEngine.FocusType)"
+  },
+  {
+    "rid": 301,
+    "type": "GUI",
+    "name": "HorizontalScrollbar",
+    "signature": "System.Single UnityEngine.GUI::HorizontalScrollbar(UnityEngine.Rect,System.Single,System.Single,System.Single,System.Single)"
+  },
+  {
+    "rid": 302,
+    "type": "GUI",
+    "name": "HorizontalScrollbar",
+    "signature": "System.Single UnityEngine.GUI::HorizontalScrollbar(UnityEngine.Rect,System.Single,System.Single,System.Single,System.Single,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 303,
+    "type": "GUI",
+    "name": "VerticalScrollbar",
+    "signature": "System.Single UnityEngine.GUI::VerticalScrollbar(UnityEngine.Rect,System.Single,System.Single,System.Single,System.Single)"
+  },
+  {
+    "rid": 304,
+    "type": "GUI",
+    "name": "VerticalScrollbar",
+    "signature": "System.Single UnityEngine.GUI::VerticalScrollbar(UnityEngine.Rect,System.Single,System.Single,System.Single,System.Single,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 305,
+    "type": "GUI",
+    "name": "Scroller",
+    "signature": "System.Single UnityEngine.GUI::Scroller(UnityEngine.Rect,System.Single,System.Single,System.Single,System.Single,UnityEngine.GUIStyle,UnityEngine.GUIStyle,UnityEngine.GUIStyle,UnityEngine.GUIStyle,System.Boolean)"
+  },
+  {
+    "rid": 306,
+    "type": "GUI",
+    "name": "BeginGroup",
+    "signature": "System.Void UnityEngine.GUI::BeginGroup(UnityEngine.Rect)"
+  },
+  {
+    "rid": 307,
+    "type": "GUI",
+    "name": "BeginGroup",
+    "signature": "System.Void UnityEngine.GUI::BeginGroup(UnityEngine.Rect,System.String)"
+  },
+  {
+    "rid": 308,
+    "type": "GUI",
+    "name": "BeginGroup",
+    "signature": "System.Void UnityEngine.GUI::BeginGroup(UnityEngine.Rect,UnityEngine.Texture)"
+  },
+  {
+    "rid": 309,
+    "type": "GUI",
+    "name": "BeginGroup",
+    "signature": "System.Void UnityEngine.GUI::BeginGroup(UnityEngine.Rect,UnityEngine.GUIContent)"
+  },
+  {
+    "rid": 310,
+    "type": "GUI",
+    "name": "BeginGroup",
+    "signature": "System.Void UnityEngine.GUI::BeginGroup(UnityEngine.Rect,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 311,
+    "type": "GUI",
+    "name": "BeginGroup",
+    "signature": "System.Void UnityEngine.GUI::BeginGroup(UnityEngine.Rect,System.String,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 312,
+    "type": "GUI",
+    "name": "BeginGroup",
+    "signature": "System.Void UnityEngine.GUI::BeginGroup(UnityEngine.Rect,UnityEngine.Texture,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 313,
+    "type": "GUI",
+    "name": "BeginGroup",
+    "signature": "System.Void UnityEngine.GUI::BeginGroup(UnityEngine.Rect,UnityEngine.GUIContent,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 314,
+    "type": "GUI",
+    "name": "EndGroup",
+    "signature": "System.Void UnityEngine.GUI::EndGroup()"
+  },
+  {
+    "rid": 315,
+    "type": "GUI",
+    "name": "BeginScrollView",
+    "signature": "UnityEngine.Vector2 UnityEngine.GUI::BeginScrollView(UnityEngine.Rect,UnityEngine.Vector2,UnityEngine.Rect)"
+  },
+  {
+    "rid": 316,
+    "type": "GUI",
+    "name": "BeginScrollView",
+    "signature": "UnityEngine.Vector2 UnityEngine.GUI::BeginScrollView(UnityEngine.Rect,UnityEngine.Vector2,UnityEngine.Rect,System.Boolean,System.Boolean)"
+  },
+  {
+    "rid": 317,
+    "type": "GUI",
+    "name": "BeginScrollView",
+    "signature": "UnityEngine.Vector2 UnityEngine.GUI::BeginScrollView(UnityEngine.Rect,UnityEngine.Vector2,UnityEngine.Rect,UnityEngine.GUIStyle,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 318,
+    "type": "GUI",
+    "name": "BeginScrollView",
+    "signature": "UnityEngine.Vector2 UnityEngine.GUI::BeginScrollView(UnityEngine.Rect,UnityEngine.Vector2,UnityEngine.Rect,System.Boolean,System.Boolean,UnityEngine.GUIStyle,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 319,
+    "type": "GUI",
+    "name": "BeginScrollView",
+    "signature": "UnityEngine.Vector2 UnityEngine.GUI::BeginScrollView(UnityEngine.Rect,UnityEngine.Vector2,UnityEngine.Rect,System.Boolean,System.Boolean,UnityEngine.GUIStyle,UnityEngine.GUIStyle,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 320,
+    "type": "GUI",
+    "name": "EndScrollView",
+    "signature": "System.Void UnityEngine.GUI::EndScrollView()"
+  },
+  {
+    "rid": 321,
+    "type": "GUI",
+    "name": "ScrollTo",
+    "signature": "System.Void UnityEngine.GUI::ScrollTo(UnityEngine.Rect)"
+  },
+  {
+    "rid": 322,
+    "type": "GUI",
+    "name": "GetSortedWindowList",
+    "signature": "System.Collections.ArrayList UnityEngine.GUI::GetSortedWindowList()"
+  },
+  {
+    "rid": 323,
+    "type": "GUI",
+    "name": "Window",
+    "signature": "UnityEngine.Rect UnityEngine.GUI::Window(System.Int32,UnityEngine.Rect,UnityEngine.GUI/WindowFunction,System.String)"
+  },
+  {
+    "rid": 324,
+    "type": "GUI",
+    "name": "Window",
+    "signature": "UnityEngine.Rect UnityEngine.GUI::Window(System.Int32,UnityEngine.Rect,UnityEngine.GUI/WindowFunction,UnityEngine.Texture)"
+  },
+  {
+    "rid": 325,
+    "type": "GUI",
+    "name": "Window",
+    "signature": "UnityEngine.Rect UnityEngine.GUI::Window(System.Int32,UnityEngine.Rect,UnityEngine.GUI/WindowFunction,UnityEngine.GUIContent)"
+  },
+  {
+    "rid": 326,
+    "type": "GUI",
+    "name": "Window",
+    "signature": "UnityEngine.Rect UnityEngine.GUI::Window(System.Int32,UnityEngine.Rect,UnityEngine.GUI/WindowFunction,System.String,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 327,
+    "type": "GUI",
+    "name": "Window",
+    "signature": "UnityEngine.Rect UnityEngine.GUI::Window(System.Int32,UnityEngine.Rect,UnityEngine.GUI/WindowFunction,UnityEngine.Texture,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 328,
+    "type": "GUI",
+    "name": "Window",
+    "signature": "UnityEngine.Rect UnityEngine.GUI::Window(System.Int32,UnityEngine.Rect,UnityEngine.GUI/WindowFunction,UnityEngine.GUIContent,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 329,
+    "type": "GUI",
+    "name": "DoWindow",
+    "signature": "UnityEngine.Rect UnityEngine.GUI::DoWindow(System.Int32,UnityEngine.Rect,UnityEngine.GUI/WindowFunction,UnityEngine.GUIContent,UnityEngine.GUIStyle,System.Boolean)"
+  },
+  {
+    "rid": 330,
+    "type": "GUI",
+    "name": "DragWindow",
+    "signature": "System.Void UnityEngine.GUI::DragWindow(UnityEngine.Rect)"
+  },
+  {
+    "rid": 331,
+    "type": "GUI",
+    "name": "DragWindow",
+    "signature": "System.Void UnityEngine.GUI::DragWindow()"
+  },
+  {
+    "rid": 332,
+    "type": "GUI",
+    "name": "BringWindowToFront",
+    "signature": "System.Void UnityEngine.GUI::BringWindowToFront(System.Int32)"
+  },
+  {
+    "rid": 333,
+    "type": "GUI",
+    "name": "BringWindowToBack",
+    "signature": "System.Void UnityEngine.GUI::BringWindowToBack(System.Int32)"
+  },
+  {
+    "rid": 334,
+    "type": "GUI",
+    "name": "FocusWindow",
+    "signature": "System.Void UnityEngine.GUI::FocusWindow(System.Int32)"
+  },
+  {
+    "rid": 335,
+    "type": "GUI",
+    "name": "UnfocusWindow",
+    "signature": "System.Void UnityEngine.GUI::UnfocusWindow()"
+  },
+  {
+    "rid": 336,
+    "type": "GUI",
+    "name": "FindWindowUnderMouse",
+    "signature": "UnityEngine.GUI/_Window UnityEngine.GUI::FindWindowUnderMouse()"
+  },
+  {
+    "rid": 337,
+    "type": "GUI",
+    "name": "BeginWindows",
+    "signature": "System.Void UnityEngine.GUI::BeginWindows(UnityEngine.Event,System.Int32)"
+  },
+  {
+    "rid": 338,
+    "type": "GUI",
+    "name": "EndWindows",
+    "signature": "System.Void UnityEngine.GUI::EndWindows()"
+  },
+  {
+    "rid": 355,
+    "type": "GUIClip",
+    "name": "Push",
+    "signature": "System.Void UnityEngine.GUIClip::Push(UnityEngine.Rect)"
+  },
+  {
+    "rid": 356,
+    "type": "GUIClip",
+    "name": "Push",
+    "signature": "System.Void UnityEngine.GUIClip::Push(UnityEngine.Rect,UnityEngine.Vector2)"
+  },
+  {
+    "rid": 357,
+    "type": "GUIClip",
+    "name": "Push",
+    "signature": "System.Void UnityEngine.GUIClip::Push(UnityEngine.Event,UnityEngine.EventType,UnityEngine.Rect,UnityEngine.Vector2,UnityEngine.Vector2,System.Boolean)"
+  },
+  {
+    "rid": 358,
+    "type": "GUIClip",
+    "name": "INTERNAL_CALL_Push",
+    "signature": "System.Void UnityEngine.GUIClip::INTERNAL_CALL_Push(UnityEngine.Event,UnityEngine.EventType,UnityEngine.Rect\u0026,UnityEngine.Vector2\u0026,UnityEngine.Vector2\u0026,System.Boolean)"
+  },
+  {
+    "rid": 359,
+    "type": "GUIClip",
+    "name": "Pop",
+    "signature": "System.Void UnityEngine.GUIClip::Pop(UnityEngine.Event,UnityEngine.EventType)"
+  },
+  {
+    "rid": 360,
+    "type": "GUIClip",
+    "name": "INTERNAL_CALL_Pop",
+    "signature": "System.Void UnityEngine.GUIClip::INTERNAL_CALL_Pop(UnityEngine.Event,UnityEngine.EventType)"
+  },
+  {
+    "rid": 361,
+    "type": "GUIClip",
+    "name": "get_enabled",
+    "signature": "System.Boolean UnityEngine.GUIClip::get_enabled()"
+  },
+  {
+    "rid": 362,
+    "type": "GUIClip",
+    "name": "Unclip",
+    "signature": "UnityEngine.Vector2 UnityEngine.GUIClip::Unclip(UnityEngine.Vector2)"
+  },
+  {
+    "rid": 363,
+    "type": "GUIClip",
+    "name": "INTERNAL_CALL_Unclip",
+    "signature": "UnityEngine.Vector2 UnityEngine.GUIClip::INTERNAL_CALL_Unclip(UnityEngine.Vector2\u0026)"
+  },
+  {
+    "rid": 364,
+    "type": "GUIClip",
+    "name": "Clip",
+    "signature": "UnityEngine.Vector2 UnityEngine.GUIClip::Clip(UnityEngine.Vector2)"
+  },
+  {
+    "rid": 365,
+    "type": "GUIClip",
+    "name": "INTERNAL_CALL_Clip",
+    "signature": "UnityEngine.Vector2 UnityEngine.GUIClip::INTERNAL_CALL_Clip(UnityEngine.Vector2\u0026)"
+  },
+  {
+    "rid": 366,
+    "type": "GUIClip",
+    "name": "GetMatrix",
+    "signature": "UnityEngine.Matrix4x4 UnityEngine.GUIClip::GetMatrix()"
+  },
+  {
+    "rid": 367,
+    "type": "GUIClip",
+    "name": "INTERNAL_CALL_GetMatrix",
+    "signature": "UnityEngine.Matrix4x4 UnityEngine.GUIClip::INTERNAL_CALL_GetMatrix()"
+  },
+  {
+    "rid": 368,
+    "type": "GUIClip",
+    "name": "SetMatrix",
+    "signature": "System.Void UnityEngine.GUIClip::SetMatrix(UnityEngine.Event,UnityEngine.EventType,UnityEngine.Matrix4x4)"
+  },
+  {
+    "rid": 369,
+    "type": "GUIClip",
+    "name": "INTERNAL_CALL_SetMatrix",
+    "signature": "System.Void UnityEngine.GUIClip::INTERNAL_CALL_SetMatrix(UnityEngine.Event,UnityEngine.EventType,UnityEngine.Matrix4x4\u0026)"
+  },
+  {
+    "rid": 370,
+    "type": "GUIClip",
+    "name": "Begin",
+    "signature": "System.Void UnityEngine.GUIClip::Begin(UnityEngine.Event,UnityEngine.EventType)"
+  },
+  {
+    "rid": 371,
+    "type": "GUIClip",
+    "name": "INTERNAL_CALL_Begin",
+    "signature": "System.Void UnityEngine.GUIClip::INTERNAL_CALL_Begin(UnityEngine.Event,UnityEngine.EventType)"
+  },
+  {
+    "rid": 372,
+    "type": "GUIClip",
+    "name": "GetAbsoluteMousePosition",
+    "signature": "UnityEngine.Vector2 UnityEngine.GUIClip::GetAbsoluteMousePosition()"
+  },
+  {
+    "rid": 373,
+    "type": "GUIClip",
+    "name": "INTERNAL_CALL_GetAbsoluteMousePosition",
+    "signature": "UnityEngine.Vector2 UnityEngine.GUIClip::INTERNAL_CALL_GetAbsoluteMousePosition()"
+  },
+  {
+    "rid": 374,
+    "type": "GUIClip",
+    "name": "End",
+    "signature": "System.Void UnityEngine.GUIClip::End(UnityEngine.EventType)"
+  },
+  {
+    "rid": 375,
+    "type": "GUIClip",
+    "name": "INTERNAL_CALL_End",
+    "signature": "System.Void UnityEngine.GUIClip::INTERNAL_CALL_End(UnityEngine.EventType)"
+  },
+  {
+    "rid": 376,
+    "type": "GUIClip",
+    "name": "EndThroughException",
+    "signature": "System.Void UnityEngine.GUIClip::EndThroughException()"
+  },
+  {
+    "rid": 377,
+    "type": "GUIClip",
+    "name": "INTERNAL_CALL_EndThroughException",
+    "signature": "System.Void UnityEngine.GUIClip::INTERNAL_CALL_EndThroughException()"
+  },
+  {
+    "rid": 378,
+    "type": "GUIContent",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.GUIContent::.ctor()"
+  },
+  {
+    "rid": 379,
+    "type": "GUIContent",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.GUIContent::.ctor(System.String)"
+  },
+  {
+    "rid": 380,
+    "type": "GUIContent",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.GUIContent::.ctor(UnityEngine.Texture)"
+  },
+  {
+    "rid": 381,
+    "type": "GUIContent",
+    "name": ".cctor",
+    "signature": "System.Void UnityEngine.GUIContent::.cctor()"
+  },
+  {
+    "rid": 382,
+    "type": "GUIContent",
+    "name": "get_text",
+    "signature": "System.String UnityEngine.GUIContent::get_text()"
+  },
+  {
+    "rid": 383,
+    "type": "GUIContent",
+    "name": "set_text",
+    "signature": "System.Void UnityEngine.GUIContent::set_text(System.String)"
+  },
+  {
+    "rid": 384,
+    "type": "GUIContent",
+    "name": "get_image",
+    "signature": "UnityEngine.Texture UnityEngine.GUIContent::get_image()"
+  },
+  {
+    "rid": 385,
+    "type": "GUIContent",
+    "name": "set_image",
+    "signature": "System.Void UnityEngine.GUIContent::set_image(UnityEngine.Texture)"
+  },
+  {
+    "rid": 386,
+    "type": "GUIContent",
+    "name": "get_tooltip",
+    "signature": "System.String UnityEngine.GUIContent::get_tooltip()"
+  },
+  {
+    "rid": 387,
+    "type": "GUIContent",
+    "name": "set_tooltip",
+    "signature": "System.Void UnityEngine.GUIContent::set_tooltip(System.String)"
+  },
+  {
+    "rid": 388,
+    "type": "GUIContent",
+    "name": "get_hash",
+    "signature": "System.Int32 UnityEngine.GUIContent::get_hash()"
+  },
+  {
+    "rid": 389,
+    "type": "GUIContent",
+    "name": "Temp",
+    "signature": "UnityEngine.GUIContent UnityEngine.GUIContent::Temp(System.String)"
+  },
+  {
+    "rid": 390,
+    "type": "GUIContent",
+    "name": "Temp",
+    "signature": "UnityEngine.GUIContent UnityEngine.GUIContent::Temp(UnityEngine.Texture)"
+  },
+  {
+    "rid": 391,
+    "type": "GUIContent",
+    "name": "Temp",
+    "signature": "UnityEngine.GUIContent UnityEngine.GUIContent::Temp(System.String,UnityEngine.Texture)"
+  },
+  {
+    "rid": 392,
+    "type": "GUIContent",
+    "name": "Temp",
+    "signature": "UnityEngine.GUIContent[] UnityEngine.GUIContent::Temp(System.String[])"
+  },
+  {
+    "rid": 393,
+    "type": "GUIContent",
+    "name": "Temp",
+    "signature": "UnityEngine.GUIContent[] UnityEngine.GUIContent::Temp(UnityEngine.Texture[])"
+  },
+  {
+    "rid": 394,
+    "type": "GUIElement",
+    "name": "HitTest",
+    "signature": "System.Boolean UnityEngine.GUIElement::HitTest(UnityEngine.Vector3)"
+  },
+  {
+    "rid": 395,
+    "type": "GUIElement",
+    "name": "INTERNAL_CALL_HitTest",
+    "signature": "System.Boolean UnityEngine.GUIElement::INTERNAL_CALL_HitTest(UnityEngine.GUIElement,UnityEngine.Vector3\u0026,UnityEngine.Camera)"
+  },
+  {
+    "rid": 396,
+    "type": "GUILayout",
+    "name": "Width",
+    "signature": "UnityEngine.GUILayoutOption UnityEngine.GUILayout::Width(System.Single)"
+  },
+  {
+    "rid": 397,
+    "type": "GUILayout",
+    "name": "Height",
+    "signature": "UnityEngine.GUILayoutOption UnityEngine.GUILayout::Height(System.Single)"
+  },
+  {
+    "rid": 398,
+    "type": "GUILayoutEntry",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.GUILayoutEntry::.ctor(System.Single,System.Single,System.Single,System.Single,UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 399,
+    "type": "GUILayoutEntry",
+    "name": ".cctor",
+    "signature": "System.Void UnityEngine.GUILayoutEntry::.cctor()"
+  },
+  {
+    "rid": 400,
+    "type": "GUILayoutEntry",
+    "name": "get_style",
+    "signature": "UnityEngine.GUIStyle UnityEngine.GUILayoutEntry::get_style()"
+  },
+  {
+    "rid": 401,
+    "type": "GUILayoutEntry",
+    "name": "set_style",
+    "signature": "System.Void UnityEngine.GUILayoutEntry::set_style(UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 402,
+    "type": "GUILayoutEntry",
+    "name": "get_margin",
+    "signature": "UnityEngine.RectOffset UnityEngine.GUILayoutEntry::get_margin()"
+  },
+  {
+    "rid": 403,
+    "type": "GUILayoutEntry",
+    "name": "CalcWidth",
+    "signature": "System.Void UnityEngine.GUILayoutEntry::CalcWidth()"
+  },
+  {
+    "rid": 404,
+    "type": "GUILayoutEntry",
+    "name": "CalcHeight",
+    "signature": "System.Void UnityEngine.GUILayoutEntry::CalcHeight()"
+  },
+  {
+    "rid": 405,
+    "type": "GUILayoutEntry",
+    "name": "SetHorizontal",
+    "signature": "System.Void UnityEngine.GUILayoutEntry::SetHorizontal(System.Single,System.Single)"
+  },
+  {
+    "rid": 406,
+    "type": "GUILayoutEntry",
+    "name": "SetVertical",
+    "signature": "System.Void UnityEngine.GUILayoutEntry::SetVertical(System.Single,System.Single)"
+  },
+  {
+    "rid": 407,
+    "type": "GUILayoutEntry",
+    "name": "ApplyStyleSettings",
+    "signature": "System.Void UnityEngine.GUILayoutEntry::ApplyStyleSettings(UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 408,
+    "type": "GUILayoutEntry",
+    "name": "ApplyOptions",
+    "signature": "System.Void UnityEngine.GUILayoutEntry::ApplyOptions(UnityEngine.GUILayoutOption[])"
+  },
+  {
+    "rid": 409,
+    "type": "GUILayoutEntry",
+    "name": "ToString",
+    "signature": "System.String UnityEngine.GUILayoutEntry::ToString()"
+  },
+  {
+    "rid": 410,
+    "type": "GUILayoutGroup",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.GUILayoutGroup::.ctor()"
+  },
+  {
+    "rid": 411,
+    "type": "GUILayoutGroup",
+    "name": "get_margin",
+    "signature": "UnityEngine.RectOffset UnityEngine.GUILayoutGroup::get_margin()"
+  },
+  {
+    "rid": 412,
+    "type": "GUILayoutGroup",
+    "name": "ApplyOptions",
+    "signature": "System.Void UnityEngine.GUILayoutGroup::ApplyOptions(UnityEngine.GUILayoutOption[])"
+  },
+  {
+    "rid": 413,
+    "type": "GUILayoutGroup",
+    "name": "ApplyStyleSettings",
+    "signature": "System.Void UnityEngine.GUILayoutGroup::ApplyStyleSettings(UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 414,
+    "type": "GUILayoutGroup",
+    "name": "ResetCursor",
+    "signature": "System.Void UnityEngine.GUILayoutGroup::ResetCursor()"
+  },
+  {
+    "rid": 415,
+    "type": "GUILayoutGroup",
+    "name": "CalcWidth",
+    "signature": "System.Void UnityEngine.GUILayoutGroup::CalcWidth()"
+  },
+  {
+    "rid": 416,
+    "type": "GUILayoutGroup",
+    "name": "SetHorizontal",
+    "signature": "System.Void UnityEngine.GUILayoutGroup::SetHorizontal(System.Single,System.Single)"
+  },
+  {
+    "rid": 417,
+    "type": "GUILayoutGroup",
+    "name": "CalcHeight",
+    "signature": "System.Void UnityEngine.GUILayoutGroup::CalcHeight()"
+  },
+  {
+    "rid": 418,
+    "type": "GUILayoutGroup",
+    "name": "SetVertical",
+    "signature": "System.Void UnityEngine.GUILayoutGroup::SetVertical(System.Single,System.Single)"
+  },
+  {
+    "rid": 419,
+    "type": "GUILayoutGroup",
+    "name": "ToString",
+    "signature": "System.String UnityEngine.GUILayoutGroup::ToString()"
+  },
+  {
+    "rid": 420,
+    "type": "GUILayoutOption",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.GUILayoutOption::.ctor(UnityEngine.GUILayoutOption/Type,System.Object)"
+  },
+  {
+    "rid": 421,
+    "type": "GUILayoutUtility",
+    "name": ".cctor",
+    "signature": "System.Void UnityEngine.GUILayoutUtility::.cctor()"
+  },
+  {
+    "rid": 422,
+    "type": "GUILayoutUtility",
+    "name": "SelectIDList",
+    "signature": "UnityEngine.GUILayoutUtility/LayoutCache UnityEngine.GUILayoutUtility::SelectIDList(System.Int32,System.Boolean)"
+  },
+  {
+    "rid": 423,
+    "type": "GUILayoutUtility",
+    "name": "Begin",
+    "signature": "System.Void UnityEngine.GUILayoutUtility::Begin(System.Int32)"
+  },
+  {
+    "rid": 424,
+    "type": "GUILayoutUtility",
+    "name": "BeginWindow",
+    "signature": "System.Void UnityEngine.GUILayoutUtility::BeginWindow(System.Int32,UnityEngine.GUIStyle,UnityEngine.GUILayoutOption[])"
+  },
+  {
+    "rid": 425,
+    "type": "GUILayoutUtility",
+    "name": "End",
+    "signature": "System.Void UnityEngine.GUILayoutUtility::End()"
+  },
+  {
+    "rid": 426,
+    "type": "GUILayoutUtility",
+    "name": "Layout",
+    "signature": "System.Void UnityEngine.GUILayoutUtility::Layout()"
+  },
+  {
+    "rid": 427,
+    "type": "GUILayoutUtility",
+    "name": "LayoutFreeGroup",
+    "signature": "System.Void UnityEngine.GUILayoutUtility::LayoutFreeGroup(UnityEngine.GUILayoutGroup)"
+  },
+  {
+    "rid": 428,
+    "type": "GUILayoutUtility",
+    "name": "LayoutSingleGroup",
+    "signature": "System.Void UnityEngine.GUILayoutUtility::LayoutSingleGroup(UnityEngine.GUILayoutGroup)"
+  },
+  {
+    "rid": 429,
+    "type": "GUILayoutUtility",
+    "name": "get_spaceStyle",
+    "signature": "UnityEngine.GUIStyle UnityEngine.GUILayoutUtility::get_spaceStyle()"
+  },
+  {
+    "rid": 431,
+    "type": "GUIScrollGroup",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.GUIScrollGroup::.ctor()"
+  },
+  {
+    "rid": 432,
+    "type": "GUIScrollGroup",
+    "name": "CalcWidth",
+    "signature": "System.Void UnityEngine.GUIScrollGroup::CalcWidth()"
+  },
+  {
+    "rid": 433,
+    "type": "GUIScrollGroup",
+    "name": "SetHorizontal",
+    "signature": "System.Void UnityEngine.GUIScrollGroup::SetHorizontal(System.Single,System.Single)"
+  },
+  {
+    "rid": 434,
+    "type": "GUIScrollGroup",
+    "name": "CalcHeight",
+    "signature": "System.Void UnityEngine.GUIScrollGroup::CalcHeight()"
+  },
+  {
+    "rid": 435,
+    "type": "GUIScrollGroup",
+    "name": "SetVertical",
+    "signature": "System.Void UnityEngine.GUIScrollGroup::SetVertical(System.Single,System.Single)"
+  },
+  {
+    "rid": 436,
+    "type": "GUISettings",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.GUISettings::.ctor()"
+  },
+  {
+    "rid": 437,
+    "type": "GUISettings",
+    "name": "get_doubleClickSelectsWord",
+    "signature": "System.Boolean UnityEngine.GUISettings::get_doubleClickSelectsWord()"
+  },
+  {
+    "rid": 438,
+    "type": "GUISettings",
+    "name": "get_tripleClickSelectsLine",
+    "signature": "System.Boolean UnityEngine.GUISettings::get_tripleClickSelectsLine()"
+  },
+  {
+    "rid": 439,
+    "type": "GUISettings",
+    "name": "get_cursorColor",
+    "signature": "UnityEngine.Color UnityEngine.GUISettings::get_cursorColor()"
+  },
+  {
+    "rid": 440,
+    "type": "GUISettings",
+    "name": "Internal_GetCursorFlashSpeed",
+    "signature": "System.Single UnityEngine.GUISettings::Internal_GetCursorFlashSpeed()"
+  },
+  {
+    "rid": 441,
+    "type": "GUISettings",
+    "name": "INTERNAL_CALL_Internal_GetCursorFlashSpeed",
+    "signature": "System.Single UnityEngine.GUISettings::INTERNAL_CALL_Internal_GetCursorFlashSpeed()"
+  },
+  {
+    "rid": 442,
+    "type": "GUISettings",
+    "name": "get_cursorFlashSpeed",
+    "signature": "System.Single UnityEngine.GUISettings::get_cursorFlashSpeed()"
+  },
+  {
+    "rid": 443,
+    "type": "GUISettings",
+    "name": "get_selectionColor",
+    "signature": "UnityEngine.Color UnityEngine.GUISettings::get_selectionColor()"
+  },
+  {
+    "rid": 444,
+    "type": "GUISkin",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.GUISkin::.ctor()"
+  },
+  {
+    "rid": 445,
+    "type": "GUISkin",
+    "name": ".cctor",
+    "signature": "System.Void UnityEngine.GUISkin::.cctor()"
+  },
+  {
+    "rid": 446,
+    "type": "GUISkin",
+    "name": "get_font",
+    "signature": "UnityEngine.Font UnityEngine.GUISkin::get_font()"
+  },
+  {
+    "rid": 447,
+    "type": "GUISkin",
+    "name": "get_box",
+    "signature": "UnityEngine.GUIStyle UnityEngine.GUISkin::get_box()"
+  },
+  {
+    "rid": 448,
+    "type": "GUISkin",
+    "name": "get_label",
+    "signature": "UnityEngine.GUIStyle UnityEngine.GUISkin::get_label()"
+  },
+  {
+    "rid": 449,
+    "type": "GUISkin",
+    "name": "get_textField",
+    "signature": "UnityEngine.GUIStyle UnityEngine.GUISkin::get_textField()"
+  },
+  {
+    "rid": 450,
+    "type": "GUISkin",
+    "name": "get_textArea",
+    "signature": "UnityEngine.GUIStyle UnityEngine.GUISkin::get_textArea()"
+  },
+  {
+    "rid": 451,
+    "type": "GUISkin",
+    "name": "get_button",
+    "signature": "UnityEngine.GUIStyle UnityEngine.GUISkin::get_button()"
+  },
+  {
+    "rid": 452,
+    "type": "GUISkin",
+    "name": "get_toggle",
+    "signature": "UnityEngine.GUIStyle UnityEngine.GUISkin::get_toggle()"
+  },
+  {
+    "rid": 453,
+    "type": "GUISkin",
+    "name": "get_window",
+    "signature": "UnityEngine.GUIStyle UnityEngine.GUISkin::get_window()"
+  },
+  {
+    "rid": 454,
+    "type": "GUISkin",
+    "name": "get_horizontalSlider",
+    "signature": "UnityEngine.GUIStyle UnityEngine.GUISkin::get_horizontalSlider()"
+  },
+  {
+    "rid": 455,
+    "type": "GUISkin",
+    "name": "get_horizontalSliderThumb",
+    "signature": "UnityEngine.GUIStyle UnityEngine.GUISkin::get_horizontalSliderThumb()"
+  },
+  {
+    "rid": 456,
+    "type": "GUISkin",
+    "name": "get_verticalSlider",
+    "signature": "UnityEngine.GUIStyle UnityEngine.GUISkin::get_verticalSlider()"
+  },
+  {
+    "rid": 457,
+    "type": "GUISkin",
+    "name": "get_verticalSliderThumb",
+    "signature": "UnityEngine.GUIStyle UnityEngine.GUISkin::get_verticalSliderThumb()"
+  },
+  {
+    "rid": 458,
+    "type": "GUISkin",
+    "name": "get_horizontalScrollbar",
+    "signature": "UnityEngine.GUIStyle UnityEngine.GUISkin::get_horizontalScrollbar()"
+  },
+  {
+    "rid": 459,
+    "type": "GUISkin",
+    "name": "get_horizontalScrollbarThumb",
+    "signature": "UnityEngine.GUIStyle UnityEngine.GUISkin::get_horizontalScrollbarThumb()"
+  },
+  {
+    "rid": 460,
+    "type": "GUISkin",
+    "name": "get_horizontalScrollbarLeftButton",
+    "signature": "UnityEngine.GUIStyle UnityEngine.GUISkin::get_horizontalScrollbarLeftButton()"
+  },
+  {
+    "rid": 461,
+    "type": "GUISkin",
+    "name": "get_horizontalScrollbarRightButton",
+    "signature": "UnityEngine.GUIStyle UnityEngine.GUISkin::get_horizontalScrollbarRightButton()"
+  },
+  {
+    "rid": 462,
+    "type": "GUISkin",
+    "name": "get_verticalScrollbar",
+    "signature": "UnityEngine.GUIStyle UnityEngine.GUISkin::get_verticalScrollbar()"
+  },
+  {
+    "rid": 463,
+    "type": "GUISkin",
+    "name": "get_verticalScrollbarThumb",
+    "signature": "UnityEngine.GUIStyle UnityEngine.GUISkin::get_verticalScrollbarThumb()"
+  },
+  {
+    "rid": 464,
+    "type": "GUISkin",
+    "name": "get_verticalScrollbarUpButton",
+    "signature": "UnityEngine.GUIStyle UnityEngine.GUISkin::get_verticalScrollbarUpButton()"
+  },
+  {
+    "rid": 465,
+    "type": "GUISkin",
+    "name": "get_verticalScrollbarDownButton",
+    "signature": "UnityEngine.GUIStyle UnityEngine.GUISkin::get_verticalScrollbarDownButton()"
+  },
+  {
+    "rid": 466,
+    "type": "GUISkin",
+    "name": "get_scrollView",
+    "signature": "UnityEngine.GUIStyle UnityEngine.GUISkin::get_scrollView()"
+  },
+  {
+    "rid": 467,
+    "type": "GUISkin",
+    "name": "get_settings",
+    "signature": "UnityEngine.GUISettings UnityEngine.GUISkin::get_settings()"
+  },
+  {
+    "rid": 468,
+    "type": "GUISkin",
+    "name": "BuildStyleCache",
+    "signature": "System.Void UnityEngine.GUISkin::BuildStyleCache()"
+  },
+  {
+    "rid": 469,
+    "type": "GUISkin",
+    "name": "GetStyle",
+    "signature": "UnityEngine.GUIStyle UnityEngine.GUISkin::GetStyle(System.String)"
+  },
+  {
+    "rid": 470,
+    "type": "GUISkin",
+    "name": "FindStyle",
+    "signature": "UnityEngine.GUIStyle UnityEngine.GUISkin::FindStyle(System.String)"
+  },
+  {
+    "rid": 471,
+    "type": "GUISkin",
+    "name": "MakeCurrent",
+    "signature": "System.Void UnityEngine.GUISkin::MakeCurrent()"
+  },
+  {
+    "rid": 472,
+    "type": "GUISkin",
+    "name": "GetEnumerator",
+    "signature": "System.Collections.IEnumerator UnityEngine.GUISkin::GetEnumerator()"
+  },
+  {
+    "rid": 473,
+    "type": "GUIStyle",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.GUIStyle::.ctor()"
+  },
+  {
+    "rid": 474,
+    "type": "GUIStyle",
+    "name": ".cctor",
+    "signature": "System.Void UnityEngine.GUIStyle::.cctor()"
+  },
+  {
+    "rid": 475,
+    "type": "GUIStyle",
+    "name": "GrabChildrenObjects",
+    "signature": "System.Void UnityEngine.GUIStyle::GrabChildrenObjects()"
+  },
+  {
+    "rid": 476,
+    "type": "GUIStyle",
+    "name": "Finalize",
+    "signature": "System.Void UnityEngine.GUIStyle::Finalize()"
+  },
+  {
+    "rid": 477,
+    "type": "GUIStyle",
+    "name": "Init",
+    "signature": "System.Void UnityEngine.GUIStyle::Init()"
+  },
+  {
+    "rid": 478,
+    "type": "GUIStyle",
+    "name": "INTERNAL_CALL_Init",
+    "signature": "System.Void UnityEngine.GUIStyle::INTERNAL_CALL_Init(UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 479,
+    "type": "GUIStyle",
+    "name": "Cleanup",
+    "signature": "System.Void UnityEngine.GUIStyle::Cleanup()"
+  },
+  {
+    "rid": 480,
+    "type": "GUIStyle",
+    "name": "INTERNAL_CALL_Cleanup",
+    "signature": "System.Void UnityEngine.GUIStyle::INTERNAL_CALL_Cleanup(UnityEngine.GUIStyle)"
+  },
+  {
+    "rid": 481,
+    "type": "GUIStyle",
+    "name": "get_name",
+    "signature": "System.String UnityEngine.GUIStyle::get_name()"
+  },
+  {
+    "rid": 482,
+    "type": "GUIStyle",
+    "name": "set_name",
+    "signature": "System.Void UnityEngine.GUIStyle::set_name(System.String)"
+  },
+  {
+    "rid": 483,
+    "type": "GUIStyle",
+    "name": "get_normal",
+    "signature": "UnityEngine.GUIStyleState UnityEngine.GUIStyle::get_normal()"
+  },
+  {
+    "rid": 484,
+    "type": "GUIStyle",
+    "name": "get_border",
+    "signature": "UnityEngine.RectOffset UnityEngine.GUIStyle::get_border()"
+  },
+  {
+    "rid": 485,
+    "type": "GUIStyle",
+    "name": "get_margin",
+    "signature": "UnityEngine.RectOffset UnityEngine.GUIStyle::get_margin()"
+  },
+  {
+    "rid": 486,
+    "type": "GUIStyle",
+    "name": "get_padding",
+    "signature": "UnityEngine.RectOffset UnityEngine.GUIStyle::get_padding()"
+  },
+  {
+    "rid": 487,
+    "type": "GUIStyle",
+    "name": "get_font",
+    "signature": "UnityEngine.Font UnityEngine.GUIStyle::get_font()"
+  },
+  {
+    "rid": 488,
+    "type": "GUIStyle",
+    "name": "get_alignment",
+    "signature": "UnityEngine.TextAnchor UnityEngine.GUIStyle::get_alignment()"
+  },
+  {
+    "rid": 489,
+    "type": "GUIStyle",
+    "name": "set_alignment",
+    "signature": "System.Void UnityEngine.GUIStyle::set_alignment(UnityEngine.TextAnchor)"
+  },
+  {
+    "rid": 490,
+    "type": "GUIStyle",
+    "name": "get_fixedWidth",
+    "signature": "System.Single UnityEngine.GUIStyle::get_fixedWidth()"
+  },
+  {
+    "rid": 491,
+    "type": "GUIStyle",
+    "name": "get_fixedHeight",
+    "signature": "System.Single UnityEngine.GUIStyle::get_fixedHeight()"
+  },
+  {
+    "rid": 492,
+    "type": "GUIStyle",
+    "name": "get_stretchWidth",
+    "signature": "System.Boolean UnityEngine.GUIStyle::get_stretchWidth()"
+  },
+  {
+    "rid": 493,
+    "type": "GUIStyle",
+    "name": "set_stretchWidth",
+    "signature": "System.Void UnityEngine.GUIStyle::set_stretchWidth(System.Boolean)"
+  },
+  {
+    "rid": 494,
+    "type": "GUIStyle",
+    "name": "get_stretchHeight",
+    "signature": "System.Boolean UnityEngine.GUIStyle::get_stretchHeight()"
+  },
+  {
+    "rid": 495,
+    "type": "GUIStyle",
+    "name": "set_stretchHeight",
+    "signature": "System.Void UnityEngine.GUIStyle::set_stretchHeight(System.Boolean)"
+  },
+  {
+    "rid": 496,
+    "type": "GUIStyle",
+    "name": "Apply",
+    "signature": "System.Void UnityEngine.GUIStyle::Apply()"
+  },
+  {
+    "rid": 497,
+    "type": "GUIStyle",
+    "name": "Internal_GetLineHeight",
+    "signature": "System.Single UnityEngine.GUIStyle::Internal_GetLineHeight(System.IntPtr)"
+  },
+  {
+    "rid": 498,
+    "type": "GUIStyle",
+    "name": "INTERNAL_CALL_Internal_GetLineHeight",
+    "signature": "System.Single UnityEngine.GUIStyle::INTERNAL_CALL_Internal_GetLineHeight(System.IntPtr)"
+  },
+  {
+    "rid": 499,
+    "type": "GUIStyle",
+    "name": "get_lineHeight",
+    "signature": "System.Single UnityEngine.GUIStyle::get_lineHeight()"
+  },
+  {
+    "rid": 500,
+    "type": "GUIStyle",
+    "name": "Internal_ApplyToCache",
+    "signature": "System.Void UnityEngine.GUIStyle::Internal_ApplyToCache(System.IntPtr,UnityEngine.Font,UnityEngine.GUIStyleState,UnityEngine.GUIStyleState,UnityEngine.GUIStyleState,UnityEngine.GUIStyleState,UnityEngine.GUIStyleState,UnityEngine.GUIStyleState,UnityEngine.GUIStyleState,UnityEngine.GUIStyleState,UnityEngine.RectOffset,UnityEngine.RectOffset,UnityEngine.RectOffset,UnityEngine.RectOffset,System.Boolean,UnityEngine.TextAnchor,UnityEngine.TextClipping,UnityEngine.Vector2,System.Int32,System.Single,System.Single)"
+  },
+  {
+    "rid": 501,
+    "type": "GUIStyle",
+    "name": "INTERNAL_CALL_Internal_ApplyToCache",
+    "signature": "System.Void UnityEngine.GUIStyle::INTERNAL_CALL_Internal_ApplyToCache(System.IntPtr,UnityEngine.Font,UnityEngine.GUIStyleState,UnityEngine.GUIStyleState,UnityEngine.GUIStyleState,UnityEngine.GUIStyleState,UnityEngine.GUIStyleState,UnityEngine.GUIStyleState,UnityEngine.GUIStyleState,UnityEngine.GUIStyleState,UnityEngine.RectOffset,UnityEngine.RectOffset,UnityEngine.RectOffset,UnityEngine.RectOffset,System.Boolean,UnityEngine.TextAnchor,UnityEngine.TextClipping,UnityEngine.Vector2\u0026,System.Int32,System.Single,System.Single)"
+  },
+  {
+    "rid": 502,
+    "type": "GUIStyle",
+    "name": "Internal_Draw",
+    "signature": "System.Void UnityEngine.GUIStyle::Internal_Draw(System.IntPtr,UnityEngine.Rect,System.String,UnityEngine.Texture,System.Boolean,System.Boolean,System.Boolean,System.Boolean)"
+  },
+  {
+    "rid": 503,
+    "type": "GUIStyle",
+    "name": "INTERNAL_CALL_Internal_Draw",
+    "signature": "System.Void UnityEngine.GUIStyle::INTERNAL_CALL_Internal_Draw(System.IntPtr,UnityEngine.Rect\u0026,System.String,UnityEngine.Texture,System.Boolean,System.Boolean,System.Boolean,System.Boolean)"
+  },
+  {
+    "rid": 504,
+    "type": "GUIStyle",
+    "name": "Draw",
+    "signature": "System.Void UnityEngine.GUIStyle::Draw(UnityEngine.Rect,System.Boolean,System.Boolean,System.Boolean,System.Boolean)"
+  },
+  {
+    "rid": 505,
+    "type": "GUIStyle",
+    "name": "Draw",
+    "signature": "System.Void UnityEngine.GUIStyle::Draw(UnityEngine.Rect,UnityEngine.GUIContent,System.Boolean,System.Boolean,System.Boolean,System.Boolean)"
+  },
+  {
+    "rid": 506,
+    "type": "GUIStyle",
+    "name": "Draw",
+    "signature": "System.Void UnityEngine.GUIStyle::Draw(UnityEngine.Rect,UnityEngine.GUIContent,System.Int32)"
+  },
+  {
+    "rid": 507,
+    "type": "GUIStyle",
+    "name": "Draw",
+    "signature": "System.Void UnityEngine.GUIStyle::Draw(UnityEngine.Rect,UnityEngine.GUIContent,System.Int32,System.Boolean)"
+  },
+  {
+    "rid": 508,
+    "type": "GUIStyle",
+    "name": "Internal_GetCursorFlashOffset",
+    "signature": "System.Single UnityEngine.GUIStyle::Internal_GetCursorFlashOffset()"
+  },
+  {
+    "rid": 509,
+    "type": "GUIStyle",
+    "name": "INTERNAL_CALL_Internal_GetCursorFlashOffset",
+    "signature": "System.Single UnityEngine.GUIStyle::INTERNAL_CALL_Internal_GetCursorFlashOffset()"
+  },
+  {
+    "rid": 510,
+    "type": "GUIStyle",
+    "name": "Internal_DrawWithTextSelection",
+    "signature": "System.Void UnityEngine.GUIStyle::Internal_DrawWithTextSelection(System.IntPtr,UnityEngine.Rect,System.String,UnityEngine.Texture,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Int32,System.Int32,UnityEngine.Color,UnityEngine.Color)"
+  },
+  {
+    "rid": 511,
+    "type": "GUIStyle",
+    "name": "INTERNAL_CALL_Internal_DrawWithTextSelection",
+    "signature": "System.Void UnityEngine.GUIStyle::INTERNAL_CALL_Internal_DrawWithTextSelection(System.IntPtr,UnityEngine.Rect\u0026,System.String,UnityEngine.Texture,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Int32,System.Int32,UnityEngine.Color\u0026,UnityEngine.Color\u0026)"
+  },
+  {
+    "rid": 512,
+    "type": "GUIStyle",
+    "name": "DrawWithTextSelection",
+    "signature": "System.Void UnityEngine.GUIStyle::DrawWithTextSelection(UnityEngine.Rect,UnityEngine.GUIContent,System.Int32,System.Int32,System.Int32)"
+  },
+  {
+    "rid": 513,
+    "type": "GUIStyle",
+    "name": "SetDefaultFont",
+    "signature": "System.Void UnityEngine.GUIStyle::SetDefaultFont(UnityEngine.Font)"
+  },
+  {
+    "rid": 514,
+    "type": "GUIStyle",
+    "name": "INTERNAL_CALL_SetDefaultFont",
+    "signature": "System.Void UnityEngine.GUIStyle::INTERNAL_CALL_SetDefaultFont(UnityEngine.Font)"
+  },
+  {
+    "rid": 515,
+    "type": "GUIStyle",
+    "name": "get_none",
+    "signature": "UnityEngine.GUIStyle UnityEngine.GUIStyle::get_none()"
+  },
+  {
+    "rid": 516,
+    "type": "GUIStyle",
+    "name": "GetCursorPixelPosition",
+    "signature": "UnityEngine.Vector2 UnityEngine.GUIStyle::GetCursorPixelPosition(UnityEngine.Rect,UnityEngine.GUIContent,System.Int32)"
+  },
+  {
+    "rid": 517,
+    "type": "GUIStyle",
+    "name": "Internal_GetCursorPixelPosition",
+    "signature": "System.Void UnityEngine.GUIStyle::Internal_GetCursorPixelPosition(System.IntPtr,UnityEngine.Rect,System.String,UnityEngine.Texture,System.Int32,UnityEngine.Vector2\u0026)"
+  },
+  {
+    "rid": 518,
+    "type": "GUIStyle",
+    "name": "INTERNAL_CALL_Internal_GetCursorPixelPosition",
+    "signature": "System.Void UnityEngine.GUIStyle::INTERNAL_CALL_Internal_GetCursorPixelPosition(System.IntPtr,UnityEngine.Rect\u0026,System.String,UnityEngine.Texture,System.Int32,UnityEngine.Vector2\u0026)"
+  },
+  {
+    "rid": 519,
+    "type": "GUIStyle",
+    "name": "GetCursorStringIndex",
+    "signature": "System.Int32 UnityEngine.GUIStyle::GetCursorStringIndex(UnityEngine.Rect,UnityEngine.GUIContent,UnityEngine.Vector2)"
+  },
+  {
+    "rid": 520,
+    "type": "GUIStyle",
+    "name": "Internal_GetCursorStringIndex",
+    "signature": "System.Int32 UnityEngine.GUIStyle::Internal_GetCursorStringIndex(System.IntPtr,UnityEngine.Rect,System.String,UnityEngine.Texture,UnityEngine.Vector2)"
+  },
+  {
+    "rid": 521,
+    "type": "GUIStyle",
+    "name": "INTERNAL_CALL_Internal_GetCursorStringIndex",
+    "signature": "System.Int32 UnityEngine.GUIStyle::INTERNAL_CALL_Internal_GetCursorStringIndex(System.IntPtr,UnityEngine.Rect\u0026,System.String,UnityEngine.Texture,UnityEngine.Vector2\u0026)"
+  },
+  {
+    "rid": 522,
+    "type": "GUIStyle",
+    "name": "ToString",
+    "signature": "System.String UnityEngine.GUIStyle::ToString()"
+  },
+  {
+    "rid": 523,
+    "type": "GUIStyleState",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.GUIStyleState::.ctor()"
+  },
+  {
+    "rid": 524,
+    "type": "GUIStyleState",
+    "name": "get_background",
+    "signature": "UnityEngine.Texture2D UnityEngine.GUIStyleState::get_background()"
+  },
+  {
+    "rid": 525,
+    "type": "GUIStyleState",
+    "name": "set_background",
+    "signature": "System.Void UnityEngine.GUIStyleState::set_background(UnityEngine.Texture2D)"
+  },
+  {
+    "rid": 526,
+    "type": "GUIStyleState",
+    "name": "get_textColor",
+    "signature": "UnityEngine.Color UnityEngine.GUIStyleState::get_textColor()"
+  },
+  {
+    "rid": 527,
+    "type": "GUIStyleState",
+    "name": "set_textColor",
+    "signature": "System.Void UnityEngine.GUIStyleState::set_textColor(UnityEngine.Color)"
+  },
+  {
+    "rid": 528,
+    "type": "GUIText",
+    "name": "set_text",
+    "signature": "System.Void UnityEngine.GUIText::set_text(System.String)"
+  },
+  {
+    "rid": 529,
+    "type": "GUITexture",
+    "name": "get_color",
+    "signature": "UnityEngine.Color UnityEngine.GUITexture::get_color()"
+  },
+  {
+    "rid": 530,
+    "type": "GUITexture",
+    "name": "set_color",
+    "signature": "System.Void UnityEngine.GUITexture::set_color(UnityEngine.Color)"
+  },
+  {
+    "rid": 531,
+    "type": "GUITexture",
+    "name": "get_texture",
+    "signature": "UnityEngine.Texture UnityEngine.GUITexture::get_texture()"
+  },
+  {
+    "rid": 532,
+    "type": "GUITexture",
+    "name": "set_texture",
+    "signature": "System.Void UnityEngine.GUITexture::set_texture(UnityEngine.Texture)"
+  },
+  {
+    "rid": 533,
+    "type": "GUITexture",
+    "name": "get_pixelInset",
+    "signature": "UnityEngine.Rect UnityEngine.GUITexture::get_pixelInset()"
+  },
+  {
+    "rid": 534,
+    "type": "GUITexture",
+    "name": "set_pixelInset",
+    "signature": "System.Void UnityEngine.GUITexture::set_pixelInset(UnityEngine.Rect)"
+  },
+  {
+    "rid": 535,
+    "type": "GUIUtility",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.GUIUtility::.ctor()"
+  },
+  {
+    "rid": 536,
+    "type": "GUIUtility",
+    "name": ".cctor",
+    "signature": "System.Void UnityEngine.GUIUtility::.cctor()"
+  },
+  {
+    "rid": 537,
+    "type": "GUIUtility",
+    "name": "MoveKeyboardFocus",
+    "signature": "System.Void UnityEngine.GUIUtility::MoveKeyboardFocus(System.String)"
+  },
+  {
+    "rid": 538,
+    "type": "GUIUtility",
+    "name": "SetNextKeyboardFocusName",
+    "signature": "System.Void UnityEngine.GUIUtility::SetNextKeyboardFocusName(System.String)"
+  },
+  {
+    "rid": 539,
+    "type": "GUIUtility",
+    "name": "GetControlID",
+    "signature": "System.Int32 UnityEngine.GUIUtility::GetControlID(UnityEngine.FocusType)"
+  },
+  {
+    "rid": 540,
+    "type": "GUIUtility",
+    "name": "GetControlID",
+    "signature": "System.Int32 UnityEngine.GUIUtility::GetControlID(System.Int32,UnityEngine.FocusType)"
+  },
+  {
+    "rid": 541,
+    "type": "GUIUtility",
+    "name": "GetControlID",
+    "signature": "System.Int32 UnityEngine.GUIUtility::GetControlID(UnityEngine.GUIContent,UnityEngine.FocusType)"
+  },
+  {
+    "rid": 542,
+    "type": "GUIUtility",
+    "name": "GetStateObject",
+    "signature": "System.Object UnityEngine.GUIUtility::GetStateObject(System.Type,System.Int32)"
+  },
+  {
+    "rid": 543,
+    "type": "GUIUtility",
+    "name": "QueryStateObject",
+    "signature": "System.Object UnityEngine.GUIUtility::QueryStateObject(System.Type,System.Int32)"
+  },
+  {
+    "rid": 544,
+    "type": "GUIUtility",
+    "name": "SelectIDList",
+    "signature": "System.Void UnityEngine.GUIUtility::SelectIDList(System.Int32,System.Boolean,System.Boolean)"
+  },
+  {
+    "rid": 545,
+    "type": "GUIUtility",
+    "name": "get_hotControl",
+    "signature": "System.Int32 UnityEngine.GUIUtility::get_hotControl()"
+  },
+  {
+    "rid": 546,
+    "type": "GUIUtility",
+    "name": "set_hotControl",
+    "signature": "System.Void UnityEngine.GUIUtility::set_hotControl(System.Int32)"
+  },
+  {
+    "rid": 547,
+    "type": "GUIUtility",
+    "name": "get_keyboardControl",
+    "signature": "System.Int32 UnityEngine.GUIUtility::get_keyboardControl()"
+  },
+  {
+    "rid": 548,
+    "type": "GUIUtility",
+    "name": "set_keyboardControl",
+    "signature": "System.Void UnityEngine.GUIUtility::set_keyboardControl(System.Int32)"
+  },
+  {
+    "rid": 549,
+    "type": "GUIUtility",
+    "name": "SemiUseEvent",
+    "signature": "System.Void UnityEngine.GUIUtility::SemiUseEvent()"
+  },
+  {
+    "rid": 550,
+    "type": "GUIUtility",
+    "name": "ExitGUI",
+    "signature": "System.Void UnityEngine.GUIUtility::ExitGUI()"
+  },
+  {
+    "rid": 551,
+    "type": "GUIUtility",
+    "name": "SetDidGUIWindowsEatLastEvent",
+    "signature": "System.Void UnityEngine.GUIUtility::SetDidGUIWindowsEatLastEvent(System.Boolean)"
+  },
+  {
+    "rid": 552,
+    "type": "GUIUtility",
+    "name": "INTERNAL_CALL_SetDidGUIWindowsEatLastEvent",
+    "signature": "System.Void UnityEngine.GUIUtility::INTERNAL_CALL_SetDidGUIWindowsEatLastEvent(System.Boolean)"
+  },
+  {
+    "rid": 553,
+    "type": "GUIUtility",
+    "name": "get_systemCopyBuffer",
+    "signature": "System.String UnityEngine.GUIUtility::get_systemCopyBuffer()"
+  },
+  {
+    "rid": 554,
+    "type": "GUIUtility",
+    "name": "set_systemCopyBuffer",
+    "signature": "System.Void UnityEngine.GUIUtility::set_systemCopyBuffer(System.String)"
+  },
+  {
+    "rid": 555,
+    "type": "GUIUtility",
+    "name": "Internal_LoadSkin",
+    "signature": "UnityEngine.Object UnityEngine.GUIUtility::Internal_LoadSkin(System.Int32,System.Type)"
+  },
+  {
+    "rid": 556,
+    "type": "GUIUtility",
+    "name": "INTERNAL_CALL_Internal_LoadSkin",
+    "signature": "UnityEngine.Object UnityEngine.GUIUtility::INTERNAL_CALL_Internal_LoadSkin(System.Int32,System.Type)"
+  },
+  {
+    "rid": 557,
+    "type": "GUIUtility",
+    "name": "GetDefaultSkin",
+    "signature": "UnityEngine.GUISkin UnityEngine.GUIUtility::GetDefaultSkin()"
+  },
+  {
+    "rid": 558,
+    "type": "GUIUtility",
+    "name": "GetBuiltinSkin",
+    "signature": "UnityEngine.GUISkin UnityEngine.GUIUtility::GetBuiltinSkin(System.Int32)"
+  },
+  {
+    "rid": 559,
+    "type": "GUIUtility",
+    "name": "BeginGUI",
+    "signature": "System.Void UnityEngine.GUIUtility::BeginGUI(UnityEngine.Event,System.Int32,System.Int32,System.Int32)"
+  },
+  {
+    "rid": 560,
+    "type": "GUIUtility",
+    "name": "EndGUI",
+    "signature": "System.Void UnityEngine.GUIUtility::EndGUI(System.Int32,System.Int32)"
+  },
+  {
+    "rid": 561,
+    "type": "GUIUtility",
+    "name": "EndGUIFromException",
+    "signature": "System.Boolean UnityEngine.GUIUtility::EndGUIFromException(System.Exception)"
+  },
+  {
+    "rid": 562,
+    "type": "GUIUtility",
+    "name": "CheckOnGUI",
+    "signature": "System.Void UnityEngine.GUIUtility::CheckOnGUI()"
+  },
+  {
+    "rid": 563,
+    "type": "GUIUtility",
+    "name": "BeginKeyboard",
+    "signature": "System.Void UnityEngine.GUIUtility::BeginKeyboard()"
+  },
+  {
+    "rid": 564,
+    "type": "GUIUtility",
+    "name": "EndKeyboard",
+    "signature": "System.Void UnityEngine.GUIUtility::EndKeyboard()"
+  },
+  {
+    "rid": 565,
+    "type": "GUIUtility",
+    "name": "CycleKeyboardWithinCurrentList",
+    "signature": "System.Void UnityEngine.GUIUtility::CycleKeyboardWithinCurrentList()"
+  },
+  {
+    "rid": 566,
+    "type": "GUIUtility",
+    "name": "MoveKeyboardFocus",
+    "signature": "System.Void UnityEngine.GUIUtility::MoveKeyboardFocus(System.Int32,System.Boolean,System.Boolean)"
+  },
+  {
+    "rid": 567,
+    "type": "GUIUtility",
+    "name": "DecodeKeyboardControl",
+    "signature": "System.Boolean UnityEngine.GUIUtility::DecodeKeyboardControl(UnityEngine.FocusType)"
+  },
+  {
+    "rid": 568,
+    "type": "GUIUtility",
+    "name": "SetHasKeyboardControl",
+    "signature": "System.Void UnityEngine.GUIUtility::SetHasKeyboardControl(System.Boolean)"
+  },
+  {
+    "rid": 569,
+    "type": "GUIUtility",
+    "name": "INTERNAL_CALL_SetHasKeyboardControl",
+    "signature": "System.Void UnityEngine.GUIUtility::INTERNAL_CALL_SetHasKeyboardControl(System.Boolean)"
+  },
+  {
+    "rid": 570,
+    "type": "GUIUtility",
+    "name": "SetKeyboardDirection",
+    "signature": "System.Void UnityEngine.GUIUtility::SetKeyboardDirection(System.Int32)"
+  },
+  {
+    "rid": 571,
+    "type": "GUIUtility",
+    "name": "INTERNAL_CALL_SetKeyboardDirection",
+    "signature": "System.Void UnityEngine.GUIUtility::INTERNAL_CALL_SetKeyboardDirection(System.Int32)"
+  },
+  {
+    "rid": 572,
+    "type": "GUIUtility",
+    "name": "GetKeyboardDirection",
+    "signature": "System.Int32 UnityEngine.GUIUtility::GetKeyboardDirection()"
+  },
+  {
+    "rid": 573,
+    "type": "GUIUtility",
+    "name": "INTERNAL_CALL_GetKeyboardDirection",
+    "signature": "System.Int32 UnityEngine.GUIUtility::INTERNAL_CALL_GetKeyboardDirection()"
+  },
+  {
+    "rid": 574,
+    "type": "GUIUtility",
+    "name": "CurrentScriptHasKeyboardFocus",
+    "signature": "System.Boolean UnityEngine.GUIUtility::CurrentScriptHasKeyboardFocus()"
+  },
+  {
+    "rid": 575,
+    "type": "GUIUtility",
+    "name": "INTERNAL_CALL_CurrentScriptHasKeyboardFocus",
+    "signature": "System.Boolean UnityEngine.GUIUtility::INTERNAL_CALL_CurrentScriptHasKeyboardFocus()"
+  },
+  {
+    "rid": 576,
+    "type": "GUIUtility",
+    "name": "GetMouseUsed",
+    "signature": "System.Boolean UnityEngine.GUIUtility::GetMouseUsed()"
+  },
+  {
+    "rid": 577,
+    "type": "GUIUtility",
+    "name": "INTERNAL_CALL_GetMouseUsed",
+    "signature": "System.Boolean UnityEngine.GUIUtility::INTERNAL_CALL_GetMouseUsed()"
+  },
+  {
+    "rid": 578,
+    "type": "GUIUtility",
+    "name": "SetMouseUsed",
+    "signature": "System.Void UnityEngine.GUIUtility::SetMouseUsed(System.Boolean)"
+  },
+  {
+    "rid": 579,
+    "type": "GUIUtility",
+    "name": "INTERNAL_CALL_SetMouseUsed",
+    "signature": "System.Void UnityEngine.GUIUtility::INTERNAL_CALL_SetMouseUsed(System.Boolean)"
+  },
+  {
+    "rid": 580,
+    "type": "GUIUtility",
+    "name": "get_mouseUsed",
+    "signature": "System.Boolean UnityEngine.GUIUtility::get_mouseUsed()"
+  },
+  {
+    "rid": 581,
+    "type": "GUIUtility",
+    "name": "set_mouseUsed",
+    "signature": "System.Void UnityEngine.GUIUtility::set_mouseUsed(System.Boolean)"
+  },
+  {
+    "rid": 582,
+    "type": "GUIUtility",
+    "name": "SetKeyboardScriptInstanceID",
+    "signature": "System.Void UnityEngine.GUIUtility::SetKeyboardScriptInstanceID(System.Int32)"
+  },
+  {
+    "rid": 583,
+    "type": "GUIUtility",
+    "name": "INTERNAL_CALL_SetKeyboardScriptInstanceID",
+    "signature": "System.Void UnityEngine.GUIUtility::INTERNAL_CALL_SetKeyboardScriptInstanceID(System.Int32)"
+  },
+  {
+    "rid": 584,
+    "type": "GUIUtility",
+    "name": "GetCurrentScriptInstanceID",
+    "signature": "System.Int32 UnityEngine.GUIUtility::GetCurrentScriptInstanceID()"
+  },
+  {
+    "rid": 585,
+    "type": "GUIUtility",
+    "name": "GUIToScreenPoint",
+    "signature": "UnityEngine.Vector2 UnityEngine.GUIUtility::GUIToScreenPoint(UnityEngine.Vector2)"
+  },
+  {
+    "rid": 586,
+    "type": "GUIUtility",
+    "name": "ScreenToGUIPoint",
+    "signature": "UnityEngine.Vector2 UnityEngine.GUIUtility::ScreenToGUIPoint(UnityEngine.Vector2)"
+  },
+  {
+    "rid": 587,
+    "type": "GUIUtility",
+    "name": "RotateAroundPivot",
+    "signature": "System.Void UnityEngine.GUIUtility::RotateAroundPivot(System.Single,UnityEngine.Vector2)"
+  },
+  {
+    "rid": 588,
+    "type": "GUIUtility",
+    "name": "ScaleAroundPivot",
+    "signature": "System.Void UnityEngine.GUIUtility::ScaleAroundPivot(UnityEngine.Vector2,UnityEngine.Vector2)"
+  },
+  {
+    "rid": 599,
+    "type": "HideInInspector",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.HideInInspector::.ctor()"
+  },
+  {
+    "rid": 600,
+    "type": "IKeyboardControl",
+    "name": "GotFocus",
+    "signature": "System.Void UnityEngine.IKeyboardControl::GotFocus()"
+  },
+  {
+    "rid": 601,
+    "type": "IKeyboardControl",
+    "name": "LostFocus",
+    "signature": "System.Void UnityEngine.IKeyboardControl::LostFocus()"
+  },
+  {
+    "rid": 602,
+    "type": "Input",
+    "name": "GetButtonDown",
+    "signature": "System.Boolean UnityEngine.Input::GetButtonDown(System.String)"
+  },
+  {
+    "rid": 603,
+    "type": "Input",
+    "name": "INTERNAL_CALL_GetButtonDown",
+    "signature": "System.Boolean UnityEngine.Input::INTERNAL_CALL_GetButtonDown(System.String)"
+  },
+  {
+    "rid": 604,
+    "type": "iPhoneAccelerationEvent",
+    "name": "get_acceleration",
+    "signature": "UnityEngine.Vector3 UnityEngine.iPhoneAccelerationEvent::get_acceleration()"
+  },
+  {
+    "rid": 605,
+    "type": "iPhoneAccelerationEvent",
+    "name": "get_deltaTime",
+    "signature": "System.Single UnityEngine.iPhoneAccelerationEvent::get_deltaTime()"
+  },
+  {
+    "rid": 606,
+    "type": "iPhoneInput",
+    "name": "get_accelerationEvents",
+    "signature": "UnityEngine.iPhoneAccelerationEvent[] UnityEngine.iPhoneInput::get_accelerationEvents()"
+  },
+  {
+    "rid": 607,
+    "type": "iPhoneInput",
+    "name": "get_touches",
+    "signature": "UnityEngine.iPhoneTouch[] UnityEngine.iPhoneInput::get_touches()"
+  },
+  {
+    "rid": 608,
+    "type": "iPhoneInput",
+    "name": "GetTouch",
+    "signature": "UnityEngine.iPhoneTouch UnityEngine.iPhoneInput::GetTouch(System.Int32)"
+  },
+  {
+    "rid": 609,
+    "type": "iPhoneInput",
+    "name": "INTERNAL_CALL_GetTouch",
+    "signature": "UnityEngine.iPhoneTouch UnityEngine.iPhoneInput::INTERNAL_CALL_GetTouch(System.Int32)"
+  },
+  {
+    "rid": 610,
+    "type": "iPhoneInput",
+    "name": "get_touchCount",
+    "signature": "System.Int32 UnityEngine.iPhoneInput::get_touchCount()"
+  },
+  {
+    "rid": 611,
+    "type": "iPhoneInput",
+    "name": "GetAccelerationEvent",
+    "signature": "UnityEngine.iPhoneAccelerationEvent UnityEngine.iPhoneInput::GetAccelerationEvent(System.Int32)"
+  },
+  {
+    "rid": 612,
+    "type": "iPhoneInput",
+    "name": "INTERNAL_CALL_GetAccelerationEvent",
+    "signature": "UnityEngine.iPhoneAccelerationEvent UnityEngine.iPhoneInput::INTERNAL_CALL_GetAccelerationEvent(System.Int32)"
+  },
+  {
+    "rid": 613,
+    "type": "iPhoneInput",
+    "name": "get_accelerationEventCount",
+    "signature": "System.Int32 UnityEngine.iPhoneInput::get_accelerationEventCount()"
+  },
+  {
+    "rid": 614,
+    "type": "iPhoneInput",
+    "name": "get_acceleration",
+    "signature": "UnityEngine.Vector3 UnityEngine.iPhoneInput::get_acceleration()"
+  },
+  {
+    "rid": 615,
+    "type": "iPhoneInput",
+    "name": "get_orientation",
+    "signature": "UnityEngine.iPhoneOrientation UnityEngine.iPhoneInput::get_orientation()"
+  },
+  {
+    "rid": 616,
+    "type": "iPhoneKeyboard",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.iPhoneKeyboard::.ctor(System.String,UnityEngine.iPhoneKeyboardType,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.String)"
+  },
+  {
+    "rid": 617,
+    "type": "iPhoneKeyboard",
+    "name": "Destroy",
+    "signature": "System.Void UnityEngine.iPhoneKeyboard::Destroy()"
+  },
+  {
+    "rid": 618,
+    "type": "iPhoneKeyboard",
+    "name": "INTERNAL_CALL_Destroy",
+    "signature": "System.Void UnityEngine.iPhoneKeyboard::INTERNAL_CALL_Destroy(UnityEngine.iPhoneKeyboard)"
+  },
+  {
+    "rid": 619,
+    "type": "iPhoneKeyboard",
+    "name": "Finalize",
+    "signature": "System.Void UnityEngine.iPhoneKeyboard::Finalize()"
+  },
+  {
+    "rid": 620,
+    "type": "iPhoneKeyboard",
+    "name": "Open",
+    "signature": "UnityEngine.iPhoneKeyboard UnityEngine.iPhoneKeyboard::Open(System.String,UnityEngine.iPhoneKeyboardType,System.Boolean,System.Boolean,System.Boolean)"
+  },
+  {
+    "rid": 621,
+    "type": "iPhoneKeyboard",
+    "name": "Open",
+    "signature": "UnityEngine.iPhoneKeyboard UnityEngine.iPhoneKeyboard::Open(System.String,UnityEngine.iPhoneKeyboardType)"
+  },
+  {
+    "rid": 622,
+    "type": "iPhoneKeyboard",
+    "name": "Open",
+    "signature": "UnityEngine.iPhoneKeyboard UnityEngine.iPhoneKeyboard::Open(System.String,UnityEngine.iPhoneKeyboardType,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.String)"
+  },
+  {
+    "rid": 623,
+    "type": "iPhoneKeyboard",
+    "name": "get_text",
+    "signature": "System.String UnityEngine.iPhoneKeyboard::get_text()"
+  },
+  {
+    "rid": 624,
+    "type": "iPhoneKeyboard",
+    "name": "get_active",
+    "signature": "System.Boolean UnityEngine.iPhoneKeyboard::get_active()"
+  },
+  {
+    "rid": 625,
+    "type": "iPhoneKeyboard",
+    "name": "get_done",
+    "signature": "System.Boolean UnityEngine.iPhoneKeyboard::get_done()"
+  },
+  {
+    "rid": 626,
+    "type": "iPhoneKeyboard",
+    "name": "set_autorotateToPortraitUpsideDown",
+    "signature": "System.Void UnityEngine.iPhoneKeyboard::set_autorotateToPortraitUpsideDown(System.Boolean)"
+  },
+  {
+    "rid": 627,
+    "type": "iPhoneKeyboard",
+    "name": "set_autorotateToLandscapeLeft",
+    "signature": "System.Void UnityEngine.iPhoneKeyboard::set_autorotateToLandscapeLeft(System.Boolean)"
+  },
+  {
+    "rid": 628,
+    "type": "iPhoneKeyboard",
+    "name": "set_autorotateToLandscapeRight",
+    "signature": "System.Void UnityEngine.iPhoneKeyboard::set_autorotateToLandscapeRight(System.Boolean)"
+  },
+  {
+    "rid": 629,
+    "type": "iPhoneSettings",
+    "name": "set_screenOrientation",
+    "signature": "System.Void UnityEngine.iPhoneSettings::set_screenOrientation(UnityEngine.iPhoneScreenOrientation)"
+  },
+  {
+    "rid": 630,
+    "type": "iPhoneTouch",
+    "name": "get_fingerId",
+    "signature": "System.Int32 UnityEngine.iPhoneTouch::get_fingerId()"
+  },
+  {
+    "rid": 631,
+    "type": "iPhoneTouch",
+    "name": "get_position",
+    "signature": "UnityEngine.Vector2 UnityEngine.iPhoneTouch::get_position()"
+  },
+  {
+    "rid": 632,
+    "type": "iPhoneTouch",
+    "name": "get_deltaPosition",
+    "signature": "UnityEngine.Vector2 UnityEngine.iPhoneTouch::get_deltaPosition()"
+  },
+  {
+    "rid": 633,
+    "type": "iPhoneTouch",
+    "name": "get_deltaTime",
+    "signature": "System.Single UnityEngine.iPhoneTouch::get_deltaTime()"
+  },
+  {
+    "rid": 634,
+    "type": "iPhoneTouch",
+    "name": "get_tapCount",
+    "signature": "System.Int32 UnityEngine.iPhoneTouch::get_tapCount()"
+  },
+  {
+    "rid": 635,
+    "type": "iPhoneTouch",
+    "name": "get_phase",
+    "signature": "UnityEngine.iPhoneTouchPhase UnityEngine.iPhoneTouch::get_phase()"
+  },
+  {
+    "rid": 636,
+    "type": "Material",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.Material::.ctor(System.String)"
+  },
+  {
+    "rid": 637,
+    "type": "Material",
+    "name": "get_shader",
+    "signature": "UnityEngine.Shader UnityEngine.Material::get_shader()"
+  },
+  {
+    "rid": 638,
+    "type": "Material",
+    "name": "set_shader",
+    "signature": "System.Void UnityEngine.Material::set_shader(UnityEngine.Shader)"
+  },
+  {
+    "rid": 639,
+    "type": "Material",
+    "name": "set_mainTexture",
+    "signature": "System.Void UnityEngine.Material::set_mainTexture(UnityEngine.Texture)"
+  },
+  {
+    "rid": 640,
+    "type": "Material",
+    "name": "SetColor",
+    "signature": "System.Void UnityEngine.Material::SetColor(System.String,UnityEngine.Color)"
+  },
+  {
+    "rid": 641,
+    "type": "Material",
+    "name": "INTERNAL_CALL_SetColor",
+    "signature": "System.Void UnityEngine.Material::INTERNAL_CALL_SetColor(UnityEngine.Material,System.String,UnityEngine.Color\u0026)"
+  },
+  {
+    "rid": 642,
+    "type": "Material",
+    "name": "SetTexture",
+    "signature": "System.Void UnityEngine.Material::SetTexture(System.String,UnityEngine.Texture)"
+  },
+  {
+    "rid": 643,
+    "type": "Material",
+    "name": "INTERNAL_CALL_SetTexture",
+    "signature": "System.Void UnityEngine.Material::INTERNAL_CALL_SetTexture(UnityEngine.Material,System.String,UnityEngine.Texture)"
+  },
+  {
+    "rid": 644,
+    "type": "Material",
+    "name": "Internal_CreateWithString",
+    "signature": "System.Void UnityEngine.Material::Internal_CreateWithString(UnityEngine.Material,System.String)"
+  },
+  {
+    "rid": 645,
+    "type": "Material",
+    "name": "INTERNAL_CALL_Internal_CreateWithString",
+    "signature": "System.Void UnityEngine.Material::INTERNAL_CALL_Internal_CreateWithString(UnityEngine.Material,System.String)"
+  },
+  {
+    "rid": 646,
+    "type": "Mathf",
+    "name": "Sin",
+    "signature": "System.Single UnityEngine.Mathf::Sin(System.Single)"
+  },
+  {
+    "rid": 647,
+    "type": "Mathf",
+    "name": "Cos",
+    "signature": "System.Single UnityEngine.Mathf::Cos(System.Single)"
+  },
+  {
+    "rid": 648,
+    "type": "Mathf",
+    "name": "Acos",
+    "signature": "System.Single UnityEngine.Mathf::Acos(System.Single)"
+  },
+  {
+    "rid": 649,
+    "type": "Mathf",
+    "name": "Sqrt",
+    "signature": "System.Single UnityEngine.Mathf::Sqrt(System.Single)"
+  },
+  {
+    "rid": 650,
+    "type": "Mathf",
+    "name": "Abs",
+    "signature": "System.Single UnityEngine.Mathf::Abs(System.Single)"
+  },
+  {
+    "rid": 651,
+    "type": "Mathf",
+    "name": "Min",
+    "signature": "System.Single UnityEngine.Mathf::Min(System.Single,System.Single)"
+  },
+  {
+    "rid": 652,
+    "type": "Mathf",
+    "name": "Min",
+    "signature": "System.Int32 UnityEngine.Mathf::Min(System.Int32,System.Int32)"
+  },
+  {
+    "rid": 653,
+    "type": "Mathf",
+    "name": "Max",
+    "signature": "System.Single UnityEngine.Mathf::Max(System.Single,System.Single)"
+  },
+  {
+    "rid": 654,
+    "type": "Mathf",
+    "name": "Max",
+    "signature": "System.Int32 UnityEngine.Mathf::Max(System.Int32,System.Int32)"
+  },
+  {
+    "rid": 655,
+    "type": "Mathf",
+    "name": "Pow",
+    "signature": "System.Single UnityEngine.Mathf::Pow(System.Single,System.Single)"
+  },
+  {
+    "rid": 656,
+    "type": "Mathf",
+    "name": "Floor",
+    "signature": "System.Single UnityEngine.Mathf::Floor(System.Single)"
+  },
+  {
+    "rid": 657,
+    "type": "Mathf",
+    "name": "Round",
+    "signature": "System.Single UnityEngine.Mathf::Round(System.Single)"
+  },
+  {
+    "rid": 658,
+    "type": "Mathf",
+    "name": "Sign",
+    "signature": "System.Single UnityEngine.Mathf::Sign(System.Single)"
+  },
+  {
+    "rid": 659,
+    "type": "Mathf",
+    "name": "Clamp",
+    "signature": "System.Single UnityEngine.Mathf::Clamp(System.Single,System.Single,System.Single)"
+  },
+  {
+    "rid": 660,
+    "type": "Mathf",
+    "name": "Clamp01",
+    "signature": "System.Single UnityEngine.Mathf::Clamp01(System.Single)"
+  },
+  {
+    "rid": 661,
+    "type": "Mathf",
+    "name": "Lerp",
+    "signature": "System.Single UnityEngine.Mathf::Lerp(System.Single,System.Single,System.Single)"
+  },
+  {
+    "rid": 662,
+    "type": "Mathf",
+    "name": "LerpAngle",
+    "signature": "System.Single UnityEngine.Mathf::LerpAngle(System.Single,System.Single,System.Single)"
+  },
+  {
+    "rid": 663,
+    "type": "Mathf",
+    "name": "SmoothStep",
+    "signature": "System.Single UnityEngine.Mathf::SmoothStep(System.Single,System.Single,System.Single)"
+  },
+  {
+    "rid": 664,
+    "type": "Mathf",
+    "name": "Approximately",
+    "signature": "System.Boolean UnityEngine.Mathf::Approximately(System.Single,System.Single)"
+  },
+  {
+    "rid": 665,
+    "type": "Mathf",
+    "name": "SmoothDamp",
+    "signature": "System.Single UnityEngine.Mathf::SmoothDamp(System.Single,System.Single,System.Single\u0026,System.Single)"
+  },
+  {
+    "rid": 666,
+    "type": "Mathf",
+    "name": "SmoothDamp",
+    "signature": "System.Single UnityEngine.Mathf::SmoothDamp(System.Single,System.Single,System.Single\u0026,System.Single,System.Single,System.Single)"
+  },
+  {
+    "rid": 667,
+    "type": "Mathf",
+    "name": "SmoothDampAngle",
+    "signature": "System.Single UnityEngine.Mathf::SmoothDampAngle(System.Single,System.Single,System.Single\u0026,System.Single)"
+  },
+  {
+    "rid": 668,
+    "type": "Mathf",
+    "name": "SmoothDampAngle",
+    "signature": "System.Single UnityEngine.Mathf::SmoothDampAngle(System.Single,System.Single,System.Single\u0026,System.Single,System.Single,System.Single)"
+  },
+  {
+    "rid": 669,
+    "type": "Mathf",
+    "name": "Repeat",
+    "signature": "System.Single UnityEngine.Mathf::Repeat(System.Single,System.Single)"
+  },
+  {
+    "rid": 670,
+    "type": "Mathf",
+    "name": "DeltaAngle",
+    "signature": "System.Single UnityEngine.Mathf::DeltaAngle(System.Single,System.Single)"
+  },
+  {
+    "rid": 671,
+    "type": "Matrix4x4",
+    "name": "get_Item",
+    "signature": "System.Single UnityEngine.Matrix4x4::get_Item(System.Int32)"
+  },
+  {
+    "rid": 672,
+    "type": "Matrix4x4",
+    "name": "set_Item",
+    "signature": "System.Void UnityEngine.Matrix4x4::set_Item(System.Int32,System.Single)"
+  },
+  {
+    "rid": 673,
+    "type": "Matrix4x4",
+    "name": "Inverse",
+    "signature": "UnityEngine.Matrix4x4 UnityEngine.Matrix4x4::Inverse(UnityEngine.Matrix4x4)"
+  },
+  {
+    "rid": 674,
+    "type": "Matrix4x4",
+    "name": "INTERNAL_CALL_Inverse",
+    "signature": "UnityEngine.Matrix4x4 UnityEngine.Matrix4x4::INTERNAL_CALL_Inverse(UnityEngine.Matrix4x4\u0026)"
+  },
+  {
+    "rid": 675,
+    "type": "Matrix4x4",
+    "name": "get_inverse",
+    "signature": "UnityEngine.Matrix4x4 UnityEngine.Matrix4x4::get_inverse()"
+  },
+  {
+    "rid": 676,
+    "type": "Matrix4x4",
+    "name": "MultiplyPoint",
+    "signature": "UnityEngine.Vector3 UnityEngine.Matrix4x4::MultiplyPoint(UnityEngine.Vector3)"
+  },
+  {
+    "rid": 677,
+    "type": "Matrix4x4",
+    "name": "MultiplyVector",
+    "signature": "UnityEngine.Vector3 UnityEngine.Matrix4x4::MultiplyVector(UnityEngine.Vector3)"
+  },
+  {
+    "rid": 678,
+    "type": "Matrix4x4",
+    "name": "get_identity",
+    "signature": "UnityEngine.Matrix4x4 UnityEngine.Matrix4x4::get_identity()"
+  },
+  {
+    "rid": 679,
+    "type": "Matrix4x4",
+    "name": "SetTRS",
+    "signature": "System.Void UnityEngine.Matrix4x4::SetTRS(UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.Vector3)"
+  },
+  {
+    "rid": 680,
+    "type": "Matrix4x4",
+    "name": "TRS",
+    "signature": "UnityEngine.Matrix4x4 UnityEngine.Matrix4x4::TRS(UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.Vector3)"
+  },
+  {
+    "rid": 681,
+    "type": "Matrix4x4",
+    "name": "INTERNAL_CALL_TRS",
+    "signature": "UnityEngine.Matrix4x4 UnityEngine.Matrix4x4::INTERNAL_CALL_TRS(UnityEngine.Vector3\u0026,UnityEngine.Quaternion\u0026,UnityEngine.Vector3\u0026)"
+  },
+  {
+    "rid": 682,
+    "type": "Matrix4x4",
+    "name": "ToString",
+    "signature": "System.String UnityEngine.Matrix4x4::ToString()"
+  },
+  {
+    "rid": 683,
+    "type": "Matrix4x4",
+    "name": "op_Multiply",
+    "signature": "UnityEngine.Matrix4x4 UnityEngine.Matrix4x4::op_Multiply(UnityEngine.Matrix4x4,UnityEngine.Matrix4x4)"
+  },
+  {
+    "rid": 684,
+    "type": "Matrix4x4",
+    "name": "op_Multiply",
+    "signature": "UnityEngine.Vector4 UnityEngine.Matrix4x4::op_Multiply(UnityEngine.Matrix4x4,UnityEngine.Vector4)"
+  },
+  {
+    "rid": 685,
+    "type": "Mesh",
+    "name": "Clear",
+    "signature": "System.Void UnityEngine.Mesh::Clear()"
+  },
+  {
+    "rid": 686,
+    "type": "Mesh",
+    "name": "INTERNAL_CALL_Clear",
+    "signature": "System.Void UnityEngine.Mesh::INTERNAL_CALL_Clear(UnityEngine.Mesh)"
+  },
+  {
+    "rid": 687,
+    "type": "Mesh",
+    "name": "get_vertices",
+    "signature": "UnityEngine.Vector3[] UnityEngine.Mesh::get_vertices()"
+  },
+  {
+    "rid": 688,
+    "type": "Mesh",
+    "name": "set_vertices",
+    "signature": "System.Void UnityEngine.Mesh::set_vertices(UnityEngine.Vector3[])"
+  },
+  {
+    "rid": 689,
+    "type": "Mesh",
+    "name": "get_uv",
+    "signature": "UnityEngine.Vector2[] UnityEngine.Mesh::get_uv()"
+  },
+  {
+    "rid": 690,
+    "type": "Mesh",
+    "name": "set_uv",
+    "signature": "System.Void UnityEngine.Mesh::set_uv(UnityEngine.Vector2[])"
+  },
+  {
+    "rid": 691,
+    "type": "Mesh",
+    "name": "get_colors",
+    "signature": "UnityEngine.Color[] UnityEngine.Mesh::get_colors()"
+  },
+  {
+    "rid": 692,
+    "type": "Mesh",
+    "name": "set_colors",
+    "signature": "System.Void UnityEngine.Mesh::set_colors(UnityEngine.Color[])"
+  },
+  {
+    "rid": 693,
+    "type": "Mesh",
+    "name": "get_triangles",
+    "signature": "System.Int32[] UnityEngine.Mesh::get_triangles()"
+  },
+  {
+    "rid": 694,
+    "type": "Mesh",
+    "name": "set_triangles",
+    "signature": "System.Void UnityEngine.Mesh::set_triangles(System.Int32[])"
+  },
+  {
+    "rid": 695,
+    "type": "MeshFilter",
+    "name": "get_mesh",
+    "signature": "UnityEngine.Mesh UnityEngine.MeshFilter::get_mesh()"
+  },
+  {
+    "rid": 696,
+    "type": "MonoBehaviour",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.MonoBehaviour::.ctor()"
+  },
+  {
+    "rid": 697,
+    "type": "NetworkPlayer",
+    "name": "GetHashCode",
+    "signature": "System.Int32 UnityEngine.NetworkPlayer::GetHashCode()"
+  },
+  {
+    "rid": 698,
+    "type": "NetworkPlayer",
+    "name": "Equals",
+    "signature": "System.Boolean UnityEngine.NetworkPlayer::Equals(System.Object)"
+  },
+  {
+    "rid": 699,
+    "type": "NetworkPlayer",
+    "name": "ToString",
+    "signature": "System.String UnityEngine.NetworkPlayer::ToString()"
+  },
+  {
+    "rid": 700,
+    "type": "NetworkViewID",
+    "name": "Internal_GetString",
+    "signature": "System.String UnityEngine.NetworkViewID::Internal_GetString(UnityEngine.NetworkViewID)"
+  },
+  {
+    "rid": 701,
+    "type": "NetworkViewID",
+    "name": "INTERNAL_CALL_Internal_GetString",
+    "signature": "System.String UnityEngine.NetworkViewID::INTERNAL_CALL_Internal_GetString(UnityEngine.NetworkViewID\u0026)"
+  },
+  {
+    "rid": 702,
+    "type": "NetworkViewID",
+    "name": "Internal_Compare",
+    "signature": "System.Boolean UnityEngine.NetworkViewID::Internal_Compare(UnityEngine.NetworkViewID,UnityEngine.NetworkViewID)"
+  },
+  {
+    "rid": 703,
+    "type": "NetworkViewID",
+    "name": "INTERNAL_CALL_Internal_Compare",
+    "signature": "System.Boolean UnityEngine.NetworkViewID::INTERNAL_CALL_Internal_Compare(UnityEngine.NetworkViewID\u0026,UnityEngine.NetworkViewID\u0026)"
+  },
+  {
+    "rid": 704,
+    "type": "NetworkViewID",
+    "name": "GetHashCode",
+    "signature": "System.Int32 UnityEngine.NetworkViewID::GetHashCode()"
+  },
+  {
+    "rid": 705,
+    "type": "NetworkViewID",
+    "name": "Equals",
+    "signature": "System.Boolean UnityEngine.NetworkViewID::Equals(System.Object)"
+  },
+  {
+    "rid": 706,
+    "type": "NetworkViewID",
+    "name": "ToString",
+    "signature": "System.String UnityEngine.NetworkViewID::ToString()"
+  },
+  {
+    "rid": 707,
+    "type": "Object",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.Object::.ctor()"
+  },
+  {
+    "rid": 708,
+    "type": "Object",
+    "name": "Equals",
+    "signature": "System.Boolean UnityEngine.Object::Equals(System.Object)"
+  },
+  {
+    "rid": 709,
+    "type": "Object",
+    "name": "GetHashCode",
+    "signature": "System.Int32 UnityEngine.Object::GetHashCode()"
+  },
+  {
+    "rid": 710,
+    "type": "Object",
+    "name": "CompareBaseObjects",
+    "signature": "System.Boolean UnityEngine.Object::CompareBaseObjects(UnityEngine.Object,UnityEngine.Object)"
+  },
+  {
+    "rid": 711,
+    "type": "Object",
+    "name": "INTERNAL_CALL_CompareBaseObjects",
+    "signature": "System.Boolean UnityEngine.Object::INTERNAL_CALL_CompareBaseObjects(UnityEngine.Object,UnityEngine.Object)"
+  },
+  {
+    "rid": 712,
+    "type": "Object",
+    "name": "Destroy",
+    "signature": "System.Void UnityEngine.Object::Destroy(UnityEngine.Object)"
+  },
+  {
+    "rid": 713,
+    "type": "Object",
+    "name": "INTERNAL_CALL_Destroy",
+    "signature": "System.Void UnityEngine.Object::INTERNAL_CALL_Destroy(UnityEngine.Object,System.Single)"
+  },
+  {
+    "rid": 714,
+    "type": "Object",
+    "name": "FindObjectsOfType",
+    "signature": "UnityEngine.Object[] UnityEngine.Object::FindObjectsOfType(System.Type)"
+  },
+  {
+    "rid": 715,
+    "type": "Object",
+    "name": "INTERNAL_CALL_FindObjectsOfType",
+    "signature": "UnityEngine.Object[] UnityEngine.Object::INTERNAL_CALL_FindObjectsOfType(System.Type)"
+  },
+  {
+    "rid": 716,
+    "type": "Object",
+    "name": "get_name",
+    "signature": "System.String UnityEngine.Object::get_name()"
+  },
+  {
+    "rid": 717,
+    "type": "Object",
+    "name": "set_hideFlags",
+    "signature": "System.Void UnityEngine.Object::set_hideFlags(UnityEngine.HideFlags)"
+  },
+  {
+    "rid": 718,
+    "type": "Object",
+    "name": "op_Implicit",
+    "signature": "System.Boolean UnityEngine.Object::op_Implicit(UnityEngine.Object)"
+  },
+  {
+    "rid": 719,
+    "type": "Object",
+    "name": "op_Equality",
+    "signature": "System.Boolean UnityEngine.Object::op_Equality(UnityEngine.Object,UnityEngine.Object)"
+  },
+  {
+    "rid": 720,
+    "type": "Object",
+    "name": "op_Inequality",
+    "signature": "System.Boolean UnityEngine.Object::op_Inequality(UnityEngine.Object,UnityEngine.Object)"
+  },
+  {
+    "rid": 721,
+    "type": "ParticleEmitter",
+    "name": "Emit",
+    "signature": "System.Void UnityEngine.ParticleEmitter::Emit(System.Int32)"
+  },
+  {
+    "rid": 722,
+    "type": "ParticleEmitter",
+    "name": "Emit2",
+    "signature": "System.Void UnityEngine.ParticleEmitter::Emit2(System.Int32)"
+  },
+  {
+    "rid": 723,
+    "type": "ParticleEmitter",
+    "name": "INTERNAL_CALL_Emit2",
+    "signature": "System.Void UnityEngine.ParticleEmitter::INTERNAL_CALL_Emit2(UnityEngine.ParticleEmitter,System.Int32)"
+  },
+  {
+    "rid": 724,
+    "type": "Physics",
+    "name": "get_gravity",
+    "signature": "UnityEngine.Vector3 UnityEngine.Physics::get_gravity()"
+  },
+  {
+    "rid": 725,
+    "type": "Physics",
+    "name": "Internal_Raycast",
+    "signature": "System.Boolean UnityEngine.Physics::Internal_Raycast(UnityEngine.Vector3,UnityEngine.Vector3,UnityEngine.RaycastHit\u0026,System.Single,System.Int32)"
+  },
+  {
+    "rid": 726,
+    "type": "Physics",
+    "name": "INTERNAL_CALL_Internal_Raycast",
+    "signature": "System.Boolean UnityEngine.Physics::INTERNAL_CALL_Internal_Raycast(UnityEngine.Vector3\u0026,UnityEngine.Vector3\u0026,UnityEngine.RaycastHit\u0026,System.Single,System.Int32)"
+  },
+  {
+    "rid": 727,
+    "type": "Physics",
+    "name": "Raycast",
+    "signature": "System.Boolean UnityEngine.Physics::Raycast(UnityEngine.Vector3,UnityEngine.Vector3,UnityEngine.RaycastHit\u0026,System.Single,System.Int32)"
+  },
+  {
+    "rid": 728,
+    "type": "Physics",
+    "name": "Raycast",
+    "signature": "System.Boolean UnityEngine.Physics::Raycast(UnityEngine.Ray,UnityEngine.RaycastHit\u0026)"
+  },
+  {
+    "rid": 729,
+    "type": "Physics",
+    "name": "Raycast",
+    "signature": "System.Boolean UnityEngine.Physics::Raycast(UnityEngine.Ray,UnityEngine.RaycastHit\u0026,System.Single,System.Int32)"
+  },
+  {
+    "rid": 730,
+    "type": "Physics",
+    "name": "Linecast",
+    "signature": "System.Boolean UnityEngine.Physics::Linecast(UnityEngine.Vector3,UnityEngine.Vector3,UnityEngine.RaycastHit\u0026,System.Int32)"
+  },
+  {
+    "rid": 731,
+    "type": "Ping",
+    "name": "DestroyPing",
+    "signature": "System.Void UnityEngine.Ping::DestroyPing()"
+  },
+  {
+    "rid": 732,
+    "type": "Ping",
+    "name": "INTERNAL_CALL_DestroyPing",
+    "signature": "System.Void UnityEngine.Ping::INTERNAL_CALL_DestroyPing(UnityEngine.Ping)"
+  },
+  {
+    "rid": 733,
+    "type": "Ping",
+    "name": "Finalize",
+    "signature": "System.Void UnityEngine.Ping::Finalize()"
+  },
+  {
+    "rid": 734,
+    "type": "Plane",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.Plane::.ctor(UnityEngine.Vector3,UnityEngine.Vector3)"
+  },
+  {
+    "rid": 735,
+    "type": "Plane",
+    "name": "get_normal",
+    "signature": "UnityEngine.Vector3 UnityEngine.Plane::get_normal()"
+  },
+  {
+    "rid": 736,
+    "type": "Plane",
+    "name": "get_distance",
+    "signature": "System.Single UnityEngine.Plane::get_distance()"
+  },
+  {
+    "rid": 737,
+    "type": "Plane",
+    "name": "Raycast",
+    "signature": "System.Boolean UnityEngine.Plane::Raycast(UnityEngine.Ray,System.Single\u0026)"
+  },
+  {
+    "rid": 738,
+    "type": "PlayerPrefs",
+    "name": "SetInt",
+    "signature": "System.Void UnityEngine.PlayerPrefs::SetInt(System.String,System.Int32)"
+  },
+  {
+    "rid": 739,
+    "type": "PlayerPrefs",
+    "name": "TrySetInt",
+    "signature": "System.Boolean UnityEngine.PlayerPrefs::TrySetInt(System.String,System.Int32)"
+  },
+  {
+    "rid": 740,
+    "type": "PlayerPrefs",
+    "name": "INTERNAL_CALL_TrySetInt",
+    "signature": "System.Boolean UnityEngine.PlayerPrefs::INTERNAL_CALL_TrySetInt(System.String,System.Int32)"
+  },
+  {
+    "rid": 741,
+    "type": "PlayerPrefs",
+    "name": "GetInt",
+    "signature": "System.Int32 UnityEngine.PlayerPrefs::GetInt(System.String)"
+  },
+  {
+    "rid": 742,
+    "type": "PlayerPrefs",
+    "name": "INTERNAL_CALL_GetInt",
+    "signature": "System.Int32 UnityEngine.PlayerPrefs::INTERNAL_CALL_GetInt(System.String,System.Int32)"
+  },
+  {
+    "rid": 743,
+    "type": "PlayerPrefs",
+    "name": "SetFloat",
+    "signature": "System.Void UnityEngine.PlayerPrefs::SetFloat(System.String,System.Single)"
+  },
+  {
+    "rid": 744,
+    "type": "PlayerPrefs",
+    "name": "TrySetFloat",
+    "signature": "System.Boolean UnityEngine.PlayerPrefs::TrySetFloat(System.String,System.Single)"
+  },
+  {
+    "rid": 745,
+    "type": "PlayerPrefs",
+    "name": "INTERNAL_CALL_TrySetFloat",
+    "signature": "System.Boolean UnityEngine.PlayerPrefs::INTERNAL_CALL_TrySetFloat(System.String,System.Single)"
+  },
+  {
+    "rid": 746,
+    "type": "PlayerPrefs",
+    "name": "GetFloat",
+    "signature": "System.Single UnityEngine.PlayerPrefs::GetFloat(System.String)"
+  },
+  {
+    "rid": 747,
+    "type": "PlayerPrefs",
+    "name": "INTERNAL_CALL_GetFloat",
+    "signature": "System.Single UnityEngine.PlayerPrefs::INTERNAL_CALL_GetFloat(System.String,System.Single)"
+  },
+  {
+    "rid": 748,
+    "type": "PlayerPrefs",
+    "name": "SetString",
+    "signature": "System.Void UnityEngine.PlayerPrefs::SetString(System.String,System.String)"
+  },
+  {
+    "rid": 749,
+    "type": "PlayerPrefs",
+    "name": "TrySetSetString",
+    "signature": "System.Boolean UnityEngine.PlayerPrefs::TrySetSetString(System.String,System.String)"
+  },
+  {
+    "rid": 750,
+    "type": "PlayerPrefs",
+    "name": "INTERNAL_CALL_TrySetSetString",
+    "signature": "System.Boolean UnityEngine.PlayerPrefs::INTERNAL_CALL_TrySetSetString(System.String,System.String)"
+  },
+  {
+    "rid": 751,
+    "type": "PlayerPrefs",
+    "name": "GetString",
+    "signature": "System.String UnityEngine.PlayerPrefs::GetString(System.String)"
+  },
+  {
+    "rid": 752,
+    "type": "PlayerPrefs",
+    "name": "INTERNAL_CALL_GetString",
+    "signature": "System.String UnityEngine.PlayerPrefs::INTERNAL_CALL_GetString(System.String,System.String)"
+  },
+  {
+    "rid": 753,
+    "type": "PlayerPrefs",
+    "name": "HasKey",
+    "signature": "System.Boolean UnityEngine.PlayerPrefs::HasKey(System.String)"
+  },
+  {
+    "rid": 754,
+    "type": "PlayerPrefs",
+    "name": "INTERNAL_CALL_HasKey",
+    "signature": "System.Boolean UnityEngine.PlayerPrefs::INTERNAL_CALL_HasKey(System.String)"
+  },
+  {
+    "rid": 755,
+    "type": "PlayerPrefs",
+    "name": "DeleteKey",
+    "signature": "System.Void UnityEngine.PlayerPrefs::DeleteKey(System.String)"
+  },
+  {
+    "rid": 756,
+    "type": "PlayerPrefs",
+    "name": "INTERNAL_CALL_DeleteKey",
+    "signature": "System.Void UnityEngine.PlayerPrefs::INTERNAL_CALL_DeleteKey(System.String)"
+  },
+  {
+    "rid": 757,
+    "type": "PlayerPrefsException",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.PlayerPrefsException::.ctor(System.String)"
+  },
+  {
+    "rid": 758,
+    "type": "Quaternion",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.Quaternion::.ctor(System.Single,System.Single,System.Single,System.Single)"
+  },
+  {
+    "rid": 759,
+    "type": "Quaternion",
+    "name": "get_identity",
+    "signature": "UnityEngine.Quaternion UnityEngine.Quaternion::get_identity()"
+  },
+  {
+    "rid": 760,
+    "type": "Quaternion",
+    "name": "Dot",
+    "signature": "System.Single UnityEngine.Quaternion::Dot(UnityEngine.Quaternion,UnityEngine.Quaternion)"
+  },
+  {
+    "rid": 761,
+    "type": "Quaternion",
+    "name": "AngleAxis",
+    "signature": "UnityEngine.Quaternion UnityEngine.Quaternion::AngleAxis(System.Single,UnityEngine.Vector3)"
+  },
+  {
+    "rid": 762,
+    "type": "Quaternion",
+    "name": "INTERNAL_CALL_AngleAxis",
+    "signature": "UnityEngine.Quaternion UnityEngine.Quaternion::INTERNAL_CALL_AngleAxis(System.Single,UnityEngine.Vector3\u0026)"
+  },
+  {
+    "rid": 763,
+    "type": "Quaternion",
+    "name": "LookRotation",
+    "signature": "UnityEngine.Quaternion UnityEngine.Quaternion::LookRotation(UnityEngine.Vector3)"
+  },
+  {
+    "rid": 764,
+    "type": "Quaternion",
+    "name": "INTERNAL_CALL_LookRotation",
+    "signature": "UnityEngine.Quaternion UnityEngine.Quaternion::INTERNAL_CALL_LookRotation(UnityEngine.Vector3\u0026,UnityEngine.Vector3\u0026)"
+  },
+  {
+    "rid": 765,
+    "type": "Quaternion",
+    "name": "Slerp",
+    "signature": "UnityEngine.Quaternion UnityEngine.Quaternion::Slerp(UnityEngine.Quaternion,UnityEngine.Quaternion,System.Single)"
+  },
+  {
+    "rid": 766,
+    "type": "Quaternion",
+    "name": "INTERNAL_CALL_Slerp",
+    "signature": "UnityEngine.Quaternion UnityEngine.Quaternion::INTERNAL_CALL_Slerp(UnityEngine.Quaternion\u0026,UnityEngine.Quaternion\u0026,System.Single)"
+  },
+  {
+    "rid": 767,
+    "type": "Quaternion",
+    "name": "Inverse",
+    "signature": "UnityEngine.Quaternion UnityEngine.Quaternion::Inverse(UnityEngine.Quaternion)"
+  },
+  {
+    "rid": 768,
+    "type": "Quaternion",
+    "name": "INTERNAL_CALL_Inverse",
+    "signature": "UnityEngine.Quaternion UnityEngine.Quaternion::INTERNAL_CALL_Inverse(UnityEngine.Quaternion\u0026)"
+  },
+  {
+    "rid": 769,
+    "type": "Quaternion",
+    "name": "ToString",
+    "signature": "System.String UnityEngine.Quaternion::ToString()"
+  },
+  {
+    "rid": 770,
+    "type": "Quaternion",
+    "name": "Angle",
+    "signature": "System.Single UnityEngine.Quaternion::Angle(UnityEngine.Quaternion,UnityEngine.Quaternion)"
+  },
+  {
+    "rid": 771,
+    "type": "Quaternion",
+    "name": "get_eulerAngles",
+    "signature": "UnityEngine.Vector3 UnityEngine.Quaternion::get_eulerAngles()"
+  },
+  {
+    "rid": 772,
+    "type": "Quaternion",
+    "name": "Euler",
+    "signature": "UnityEngine.Quaternion UnityEngine.Quaternion::Euler(System.Single,System.Single,System.Single)"
+  },
+  {
+    "rid": 773,
+    "type": "Quaternion",
+    "name": "Euler",
+    "signature": "UnityEngine.Quaternion UnityEngine.Quaternion::Euler(UnityEngine.Vector3)"
+  },
+  {
+    "rid": 774,
+    "type": "Quaternion",
+    "name": "Internal_ToEulerRad",
+    "signature": "UnityEngine.Vector3 UnityEngine.Quaternion::Internal_ToEulerRad(UnityEngine.Quaternion)"
+  },
+  {
+    "rid": 775,
+    "type": "Quaternion",
+    "name": "INTERNAL_CALL_Internal_ToEulerRad",
+    "signature": "UnityEngine.Vector3 UnityEngine.Quaternion::INTERNAL_CALL_Internal_ToEulerRad(UnityEngine.Quaternion\u0026)"
+  },
+  {
+    "rid": 776,
+    "type": "Quaternion",
+    "name": "Internal_FromEulerRad",
+    "signature": "UnityEngine.Quaternion UnityEngine.Quaternion::Internal_FromEulerRad(UnityEngine.Vector3)"
+  },
+  {
+    "rid": 777,
+    "type": "Quaternion",
+    "name": "INTERNAL_CALL_Internal_FromEulerRad",
+    "signature": "UnityEngine.Quaternion UnityEngine.Quaternion::INTERNAL_CALL_Internal_FromEulerRad(UnityEngine.Vector3\u0026)"
+  },
+  {
+    "rid": 778,
+    "type": "Quaternion",
+    "name": "GetHashCode",
+    "signature": "System.Int32 UnityEngine.Quaternion::GetHashCode()"
+  },
+  {
+    "rid": 779,
+    "type": "Quaternion",
+    "name": "Equals",
+    "signature": "System.Boolean UnityEngine.Quaternion::Equals(System.Object)"
+  },
+  {
+    "rid": 780,
+    "type": "Quaternion",
+    "name": "op_Multiply",
+    "signature": "UnityEngine.Quaternion UnityEngine.Quaternion::op_Multiply(UnityEngine.Quaternion,UnityEngine.Quaternion)"
+  },
+  {
+    "rid": 781,
+    "type": "Quaternion",
+    "name": "op_Multiply",
+    "signature": "UnityEngine.Vector3 UnityEngine.Quaternion::op_Multiply(UnityEngine.Quaternion,UnityEngine.Vector3)"
+  },
+  {
+    "rid": 782,
+    "type": "Random",
+    "name": "get_value",
+    "signature": "System.Single UnityEngine.Random::get_value()"
+  },
+  {
+    "rid": 783,
+    "type": "Ray",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.Ray::.ctor(UnityEngine.Vector3,UnityEngine.Vector3)"
+  },
+  {
+    "rid": 784,
+    "type": "Ray",
+    "name": "get_origin",
+    "signature": "UnityEngine.Vector3 UnityEngine.Ray::get_origin()"
+  },
+  {
+    "rid": 785,
+    "type": "Ray",
+    "name": "get_direction",
+    "signature": "UnityEngine.Vector3 UnityEngine.Ray::get_direction()"
+  },
+  {
+    "rid": 786,
+    "type": "Ray",
+    "name": "ToString",
+    "signature": "System.String UnityEngine.Ray::ToString()"
+  },
+  {
+    "rid": 787,
+    "type": "RaycastHit",
+    "name": "get_point",
+    "signature": "UnityEngine.Vector3 UnityEngine.RaycastHit::get_point()"
+  },
+  {
+    "rid": 788,
+    "type": "Rect",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.Rect::.ctor(System.Single,System.Single,System.Single,System.Single)"
+  },
+  {
+    "rid": 789,
+    "type": "Rect",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.Rect::.ctor(UnityEngine.Rect)"
+  },
+  {
+    "rid": 790,
+    "type": "Rect",
+    "name": "get_x",
+    "signature": "System.Single UnityEngine.Rect::get_x()"
+  },
+  {
+    "rid": 791,
+    "type": "Rect",
+    "name": "set_x",
+    "signature": "System.Void UnityEngine.Rect::set_x(System.Single)"
+  },
+  {
+    "rid": 792,
+    "type": "Rect",
+    "name": "get_y",
+    "signature": "System.Single UnityEngine.Rect::get_y()"
+  },
+  {
+    "rid": 793,
+    "type": "Rect",
+    "name": "set_y",
+    "signature": "System.Void UnityEngine.Rect::set_y(System.Single)"
+  },
+  {
+    "rid": 794,
+    "type": "Rect",
+    "name": "get_width",
+    "signature": "System.Single UnityEngine.Rect::get_width()"
+  },
+  {
+    "rid": 795,
+    "type": "Rect",
+    "name": "set_width",
+    "signature": "System.Void UnityEngine.Rect::set_width(System.Single)"
+  },
+  {
+    "rid": 796,
+    "type": "Rect",
+    "name": "get_height",
+    "signature": "System.Single UnityEngine.Rect::get_height()"
+  },
+  {
+    "rid": 797,
+    "type": "Rect",
+    "name": "set_height",
+    "signature": "System.Void UnityEngine.Rect::set_height(System.Single)"
+  },
+  {
+    "rid": 798,
+    "type": "Rect",
+    "name": "get_xMin",
+    "signature": "System.Single UnityEngine.Rect::get_xMin()"
+  },
+  {
+    "rid": 799,
+    "type": "Rect",
+    "name": "set_xMin",
+    "signature": "System.Void UnityEngine.Rect::set_xMin(System.Single)"
+  },
+  {
+    "rid": 800,
+    "type": "Rect",
+    "name": "get_yMin",
+    "signature": "System.Single UnityEngine.Rect::get_yMin()"
+  },
+  {
+    "rid": 801,
+    "type": "Rect",
+    "name": "set_yMin",
+    "signature": "System.Void UnityEngine.Rect::set_yMin(System.Single)"
+  },
+  {
+    "rid": 802,
+    "type": "Rect",
+    "name": "get_xMax",
+    "signature": "System.Single UnityEngine.Rect::get_xMax()"
+  },
+  {
+    "rid": 803,
+    "type": "Rect",
+    "name": "set_xMax",
+    "signature": "System.Void UnityEngine.Rect::set_xMax(System.Single)"
+  },
+  {
+    "rid": 804,
+    "type": "Rect",
+    "name": "get_yMax",
+    "signature": "System.Single UnityEngine.Rect::get_yMax()"
+  },
+  {
+    "rid": 805,
+    "type": "Rect",
+    "name": "set_yMax",
+    "signature": "System.Void UnityEngine.Rect::set_yMax(System.Single)"
+  },
+  {
+    "rid": 806,
+    "type": "Rect",
+    "name": "ToString",
+    "signature": "System.String UnityEngine.Rect::ToString()"
+  },
+  {
+    "rid": 807,
+    "type": "Rect",
+    "name": "Contains",
+    "signature": "System.Boolean UnityEngine.Rect::Contains(UnityEngine.Vector2)"
+  },
+  {
+    "rid": 808,
+    "type": "Rect",
+    "name": "GetHashCode",
+    "signature": "System.Int32 UnityEngine.Rect::GetHashCode()"
+  },
+  {
+    "rid": 809,
+    "type": "Rect",
+    "name": "Equals",
+    "signature": "System.Boolean UnityEngine.Rect::Equals(System.Object)"
+  },
+  {
+    "rid": 810,
+    "type": "Rect",
+    "name": "op_Inequality",
+    "signature": "System.Boolean UnityEngine.Rect::op_Inequality(UnityEngine.Rect,UnityEngine.Rect)"
+  },
+  {
+    "rid": 811,
+    "type": "RectOffset",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.RectOffset::.ctor()"
+  },
+  {
+    "rid": 812,
+    "type": "RectOffset",
+    "name": "get_left",
+    "signature": "System.Int32 UnityEngine.RectOffset::get_left()"
+  },
+  {
+    "rid": 813,
+    "type": "RectOffset",
+    "name": "set_left",
+    "signature": "System.Void UnityEngine.RectOffset::set_left(System.Int32)"
+  },
+  {
+    "rid": 814,
+    "type": "RectOffset",
+    "name": "get_right",
+    "signature": "System.Int32 UnityEngine.RectOffset::get_right()"
+  },
+  {
+    "rid": 815,
+    "type": "RectOffset",
+    "name": "set_right",
+    "signature": "System.Void UnityEngine.RectOffset::set_right(System.Int32)"
+  },
+  {
+    "rid": 816,
+    "type": "RectOffset",
+    "name": "get_top",
+    "signature": "System.Int32 UnityEngine.RectOffset::get_top()"
+  },
+  {
+    "rid": 817,
+    "type": "RectOffset",
+    "name": "set_top",
+    "signature": "System.Void UnityEngine.RectOffset::set_top(System.Int32)"
+  },
+  {
+    "rid": 818,
+    "type": "RectOffset",
+    "name": "get_bottom",
+    "signature": "System.Int32 UnityEngine.RectOffset::get_bottom()"
+  },
+  {
+    "rid": 819,
+    "type": "RectOffset",
+    "name": "set_bottom",
+    "signature": "System.Void UnityEngine.RectOffset::set_bottom(System.Int32)"
+  },
+  {
+    "rid": 820,
+    "type": "RectOffset",
+    "name": "get_horizontal",
+    "signature": "System.Int32 UnityEngine.RectOffset::get_horizontal()"
+  },
+  {
+    "rid": 821,
+    "type": "RectOffset",
+    "name": "get_vertical",
+    "signature": "System.Int32 UnityEngine.RectOffset::get_vertical()"
+  },
+  {
+    "rid": 822,
+    "type": "RectOffset",
+    "name": "Add",
+    "signature": "UnityEngine.Rect UnityEngine.RectOffset::Add(UnityEngine.Rect)"
+  },
+  {
+    "rid": 823,
+    "type": "RefCounted",
+    "name": "Internal_ReleaseRefCounted",
+    "signature": "System.Void UnityEngine.RefCounted::Internal_ReleaseRefCounted()"
+  },
+  {
+    "rid": 824,
+    "type": "RefCounted",
+    "name": "INTERNAL_CALL_Internal_ReleaseRefCounted",
+    "signature": "System.Void UnityEngine.RefCounted::INTERNAL_CALL_Internal_ReleaseRefCounted(UnityEngine.RefCounted)"
+  },
+  {
+    "rid": 825,
+    "type": "RefCounted",
+    "name": "Finalize",
+    "signature": "System.Void UnityEngine.RefCounted::Finalize()"
+  },
+  {
+    "rid": 826,
+    "type": "RefCounted",
+    "name": "Equals",
+    "signature": "System.Boolean UnityEngine.RefCounted::Equals(System.Object)"
+  },
+  {
+    "rid": 827,
+    "type": "RefCounted",
+    "name": "GetHashCode",
+    "signature": "System.Int32 UnityEngine.RefCounted::GetHashCode()"
+  },
+  {
+    "rid": 828,
+    "type": "RefCounted",
+    "name": "op_Equality",
+    "signature": "System.Boolean UnityEngine.RefCounted::op_Equality(UnityEngine.RefCounted,UnityEngine.RefCounted)"
+  },
+  {
+    "rid": 829,
+    "type": "Renderer",
+    "name": "set_enabled",
+    "signature": "System.Void UnityEngine.Renderer::set_enabled(System.Boolean)"
+  },
+  {
+    "rid": 830,
+    "type": "Renderer",
+    "name": "get_material",
+    "signature": "UnityEngine.Material UnityEngine.Renderer::get_material()"
+  },
+  {
+    "rid": 831,
+    "type": "Renderer",
+    "name": "get_bounds",
+    "signature": "UnityEngine.Bounds UnityEngine.Renderer::get_bounds()"
+  },
+  {
+    "rid": 832,
+    "type": "RenderTexture",
+    "name": "Internal_GetWidth",
+    "signature": "System.Int32 UnityEngine.RenderTexture::Internal_GetWidth(UnityEngine.RenderTexture)"
+  },
+  {
+    "rid": 833,
+    "type": "RenderTexture",
+    "name": "INTERNAL_CALL_Internal_GetWidth",
+    "signature": "System.Int32 UnityEngine.RenderTexture::INTERNAL_CALL_Internal_GetWidth(UnityEngine.RenderTexture)"
+  },
+  {
+    "rid": 834,
+    "type": "RenderTexture",
+    "name": "Internal_SetWidth",
+    "signature": "System.Void UnityEngine.RenderTexture::Internal_SetWidth(UnityEngine.RenderTexture,System.Int32)"
+  },
+  {
+    "rid": 835,
+    "type": "RenderTexture",
+    "name": "INTERNAL_CALL_Internal_SetWidth",
+    "signature": "System.Void UnityEngine.RenderTexture::INTERNAL_CALL_Internal_SetWidth(UnityEngine.RenderTexture,System.Int32)"
+  },
+  {
+    "rid": 836,
+    "type": "RenderTexture",
+    "name": "Internal_GetHeight",
+    "signature": "System.Int32 UnityEngine.RenderTexture::Internal_GetHeight(UnityEngine.RenderTexture)"
+  },
+  {
+    "rid": 837,
+    "type": "RenderTexture",
+    "name": "INTERNAL_CALL_Internal_GetHeight",
+    "signature": "System.Int32 UnityEngine.RenderTexture::INTERNAL_CALL_Internal_GetHeight(UnityEngine.RenderTexture)"
+  },
+  {
+    "rid": 838,
+    "type": "RenderTexture",
+    "name": "Internal_SetHeight",
+    "signature": "System.Void UnityEngine.RenderTexture::Internal_SetHeight(UnityEngine.RenderTexture,System.Int32)"
+  },
+  {
+    "rid": 839,
+    "type": "RenderTexture",
+    "name": "INTERNAL_CALL_Internal_SetHeight",
+    "signature": "System.Void UnityEngine.RenderTexture::INTERNAL_CALL_Internal_SetHeight(UnityEngine.RenderTexture,System.Int32)"
+  },
+  {
+    "rid": 840,
+    "type": "RenderTexture",
+    "name": "get_width",
+    "signature": "System.Int32 UnityEngine.RenderTexture::get_width()"
+  },
+  {
+    "rid": 841,
+    "type": "RenderTexture",
+    "name": "set_width",
+    "signature": "System.Void UnityEngine.RenderTexture::set_width(System.Int32)"
+  },
+  {
+    "rid": 842,
+    "type": "RenderTexture",
+    "name": "get_height",
+    "signature": "System.Int32 UnityEngine.RenderTexture::get_height()"
+  },
+  {
+    "rid": 843,
+    "type": "RenderTexture",
+    "name": "set_height",
+    "signature": "System.Void UnityEngine.RenderTexture::set_height(System.Int32)"
+  },
+  {
+    "rid": 844,
+    "type": "RequireComponent",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.RequireComponent::.ctor(System.Type)"
+  },
+  {
+    "rid": 845,
+    "type": "Resources",
+    "name": "GetBuiltinResource",
+    "signature": "UnityEngine.Object UnityEngine.Resources::GetBuiltinResource(System.Type,System.String,UnityEngine.HideFlags)"
+  },
+  {
+    "rid": 846,
+    "type": "Resources",
+    "name": "INTERNAL_CALL_GetBuiltinResource",
+    "signature": "UnityEngine.Object UnityEngine.Resources::INTERNAL_CALL_GetBuiltinResource(System.Type,System.String,UnityEngine.HideFlags)"
+  },
+  {
+    "rid": 847,
+    "type": "Rigidbody",
+    "name": "get_velocity",
+    "signature": "UnityEngine.Vector3 UnityEngine.Rigidbody::get_velocity()"
+  },
+  {
+    "rid": 848,
+    "type": "Rigidbody",
+    "name": "set_velocity",
+    "signature": "System.Void UnityEngine.Rigidbody::set_velocity(UnityEngine.Vector3)"
+  },
+  {
+    "rid": 849,
+    "type": "Rigidbody",
+    "name": "get_angularVelocity",
+    "signature": "UnityEngine.Vector3 UnityEngine.Rigidbody::get_angularVelocity()"
+  },
+  {
+    "rid": 850,
+    "type": "Rigidbody",
+    "name": "set_angularVelocity",
+    "signature": "System.Void UnityEngine.Rigidbody::set_angularVelocity(UnityEngine.Vector3)"
+  },
+  {
+    "rid": 851,
+    "type": "Rigidbody",
+    "name": "get_mass",
+    "signature": "System.Single UnityEngine.Rigidbody::get_mass()"
+  },
+  {
+    "rid": 852,
+    "type": "Rigidbody",
+    "name": "set_isKinematic",
+    "signature": "System.Void UnityEngine.Rigidbody::set_isKinematic(System.Boolean)"
+  },
+  {
+    "rid": 853,
+    "type": "Rigidbody",
+    "name": "set_freezeRotation",
+    "signature": "System.Void UnityEngine.Rigidbody::set_freezeRotation(System.Boolean)"
+  },
+  {
+    "rid": 854,
+    "type": "Rigidbody",
+    "name": "AddForce",
+    "signature": "System.Void UnityEngine.Rigidbody::AddForce(UnityEngine.Vector3)"
+  },
+  {
+    "rid": 855,
+    "type": "Rigidbody",
+    "name": "INTERNAL_CALL_AddForce",
+    "signature": "System.Void UnityEngine.Rigidbody::INTERNAL_CALL_AddForce(UnityEngine.Rigidbody,UnityEngine.Vector3\u0026,UnityEngine.ForceMode)"
+  },
+  {
+    "rid": 856,
+    "type": "Rigidbody",
+    "name": "AddTorque",
+    "signature": "System.Void UnityEngine.Rigidbody::AddTorque(UnityEngine.Vector3)"
+  },
+  {
+    "rid": 857,
+    "type": "Rigidbody",
+    "name": "INTERNAL_CALL_AddTorque",
+    "signature": "System.Void UnityEngine.Rigidbody::INTERNAL_CALL_AddTorque(UnityEngine.Rigidbody,UnityEngine.Vector3\u0026,UnityEngine.ForceMode)"
+  },
+  {
+    "rid": 858,
+    "type": "Rigidbody",
+    "name": "get_position",
+    "signature": "UnityEngine.Vector3 UnityEngine.Rigidbody::get_position()"
+  },
+  {
+    "rid": 859,
+    "type": "Rigidbody",
+    "name": "set_position",
+    "signature": "System.Void UnityEngine.Rigidbody::set_position(UnityEngine.Vector3)"
+  },
+  {
+    "rid": 860,
+    "type": "Rigidbody",
+    "name": "get_rotation",
+    "signature": "UnityEngine.Quaternion UnityEngine.Rigidbody::get_rotation()"
+  },
+  {
+    "rid": 861,
+    "type": "Rigidbody",
+    "name": "set_rotation",
+    "signature": "System.Void UnityEngine.Rigidbody::set_rotation(UnityEngine.Quaternion)"
+  },
+  {
+    "rid": 862,
+    "type": "Rigidbody",
+    "name": "MovePosition",
+    "signature": "System.Void UnityEngine.Rigidbody::MovePosition(UnityEngine.Vector3)"
+  },
+  {
+    "rid": 863,
+    "type": "Rigidbody",
+    "name": "INTERNAL_CALL_MovePosition",
+    "signature": "System.Void UnityEngine.Rigidbody::INTERNAL_CALL_MovePosition(UnityEngine.Rigidbody,UnityEngine.Vector3\u0026)"
+  },
+  {
+    "rid": 864,
+    "type": "Rigidbody",
+    "name": "MoveRotation",
+    "signature": "System.Void UnityEngine.Rigidbody::MoveRotation(UnityEngine.Quaternion)"
+  },
+  {
+    "rid": 865,
+    "type": "Rigidbody",
+    "name": "INTERNAL_CALL_MoveRotation",
+    "signature": "System.Void UnityEngine.Rigidbody::INTERNAL_CALL_MoveRotation(UnityEngine.Rigidbody,UnityEngine.Quaternion\u0026)"
+  },
+  {
+    "rid": 866,
+    "type": "Rigidbody",
+    "name": "IsSleeping",
+    "signature": "System.Boolean UnityEngine.Rigidbody::IsSleeping()"
+  },
+  {
+    "rid": 867,
+    "type": "Rigidbody",
+    "name": "INTERNAL_CALL_IsSleeping",
+    "signature": "System.Boolean UnityEngine.Rigidbody::INTERNAL_CALL_IsSleeping(UnityEngine.Rigidbody)"
+  },
+  {
+    "rid": 868,
+    "type": "Rigidbody",
+    "name": "WakeUp",
+    "signature": "System.Void UnityEngine.Rigidbody::WakeUp()"
+  },
+  {
+    "rid": 869,
+    "type": "Rigidbody",
+    "name": "INTERNAL_CALL_WakeUp",
+    "signature": "System.Void UnityEngine.Rigidbody::INTERNAL_CALL_WakeUp(UnityEngine.Rigidbody)"
+  },
+  {
+    "rid": 870,
+    "type": "Screen",
+    "name": "get_width",
+    "signature": "System.Int32 UnityEngine.Screen::get_width()"
+  },
+  {
+    "rid": 871,
+    "type": "Screen",
+    "name": "get_height",
+    "signature": "System.Int32 UnityEngine.Screen::get_height()"
+  },
+  {
+    "rid": 872,
+    "type": "ScriptableObject",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.ScriptableObject::.ctor()"
+  },
+  {
+    "rid": 873,
+    "type": "SerializePrivateVariables",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.SerializePrivateVariables::.ctor()"
+  },
+  {
+    "rid": 874,
+    "type": "SetupCoroutine",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.SetupCoroutine::.ctor()"
+  },
+  {
+    "rid": 875,
+    "type": "SetupCoroutine",
+    "name": "InvokeMember",
+    "signature": "System.Object UnityEngine.SetupCoroutine::InvokeMember(System.Object,System.String,System.Object)"
+  },
+  {
+    "rid": 876,
+    "type": "SetupCoroutine",
+    "name": "InvokeStatic",
+    "signature": "System.Object UnityEngine.SetupCoroutine::InvokeStatic(System.Type,System.String,System.Object)"
+  },
+  {
+    "rid": 877,
+    "type": "Shader",
+    "name": "Find",
+    "signature": "UnityEngine.Shader UnityEngine.Shader::Find(System.String)"
+  },
+  {
+    "rid": 878,
+    "type": "Shader",
+    "name": "INTERNAL_CALL_Find",
+    "signature": "UnityEngine.Shader UnityEngine.Shader::INTERNAL_CALL_Find(System.String)"
+  },
+  {
+    "rid": 879,
+    "type": "StackTraceUtility",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.StackTraceUtility::.ctor()"
+  },
+  {
+    "rid": 880,
+    "type": "StackTraceUtility",
+    "name": ".cctor",
+    "signature": "System.Void UnityEngine.StackTraceUtility::.cctor()"
+  },
+  {
+    "rid": 881,
+    "type": "StackTraceUtility",
+    "name": "SetProjectFolder",
+    "signature": "System.Void UnityEngine.StackTraceUtility::SetProjectFolder(System.String)"
+  },
+  {
+    "rid": 882,
+    "type": "StackTraceUtility",
+    "name": "ExtractStackTrace",
+    "signature": "System.String UnityEngine.StackTraceUtility::ExtractStackTrace()"
+  },
+  {
+    "rid": 883,
+    "type": "StackTraceUtility",
+    "name": "IsSystemStacktraceType",
+    "signature": "System.Boolean UnityEngine.StackTraceUtility::IsSystemStacktraceType(System.Object)"
+  },
+  {
+    "rid": 884,
+    "type": "StackTraceUtility",
+    "name": "ExtractStringFromException",
+    "signature": "System.String UnityEngine.StackTraceUtility::ExtractStringFromException(System.Exception)"
+  },
+  {
+    "rid": 885,
+    "type": "StackTraceUtility",
+    "name": "NicifyStacktrace",
+    "signature": "System.Text.StringBuilder UnityEngine.StackTraceUtility::NicifyStacktrace(System.String)"
+  },
+  {
+    "rid": 886,
+    "type": "StackTraceUtility",
+    "name": "ProcessSplitCleanup",
+    "signature": "System.Text.StringBuilder UnityEngine.StackTraceUtility::ProcessSplitCleanup(System.Collections.ArrayList)"
+  },
+  {
+    "rid": 887,
+    "type": "StackTraceUtility",
+    "name": "ExtractFormattedStackTrace",
+    "signature": "System.Text.StringBuilder UnityEngine.StackTraceUtility::ExtractFormattedStackTrace(System.Diagnostics.StackTrace)"
+  },
+  {
+    "rid": 888,
+    "type": "Terrain",
+    "name": ".cctor",
+    "signature": "System.Void UnityEngine.Terrain::.cctor()"
+  },
+  {
+    "rid": 889,
+    "type": "TextAsset",
+    "name": "get_text",
+    "signature": "System.String UnityEngine.TextAsset::get_text()"
+  },
+  {
+    "rid": 890,
+    "type": "TextAsset",
+    "name": "ToString",
+    "signature": "System.String UnityEngine.TextAsset::ToString()"
+  },
+  {
+    "rid": 891,
+    "type": "TextEditor",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.TextEditor::.ctor()"
+  },
+  {
+    "rid": 892,
+    "type": "TextEditor",
+    "name": "ClearCursorPos",
+    "signature": "System.Void UnityEngine.TextEditor::ClearCursorPos()"
+  },
+  {
+    "rid": 893,
+    "type": "TextEditor",
+    "name": "GotFocus",
+    "signature": "System.Void UnityEngine.TextEditor::GotFocus()"
+  },
+  {
+    "rid": 894,
+    "type": "TextEditor",
+    "name": "LostFocus",
+    "signature": "System.Void UnityEngine.TextEditor::LostFocus()"
+  },
+  {
+    "rid": 895,
+    "type": "TextEditor",
+    "name": "GrabGraphicalCursorPos",
+    "signature": "System.Void UnityEngine.TextEditor::GrabGraphicalCursorPos()"
+  },
+  {
+    "rid": 896,
+    "type": "TextEditor",
+    "name": "HandleKeyEvent",
+    "signature": "System.Boolean UnityEngine.TextEditor::HandleKeyEvent(UnityEngine.Event)"
+  },
+  {
+    "rid": 897,
+    "type": "TextEditor",
+    "name": "Delete",
+    "signature": "System.Boolean UnityEngine.TextEditor::Delete()"
+  },
+  {
+    "rid": 898,
+    "type": "TextEditor",
+    "name": "Backspace",
+    "signature": "System.Boolean UnityEngine.TextEditor::Backspace()"
+  },
+  {
+    "rid": 899,
+    "type": "TextEditor",
+    "name": "SelectAll",
+    "signature": "System.Void UnityEngine.TextEditor::SelectAll()"
+  },
+  {
+    "rid": 900,
+    "type": "TextEditor",
+    "name": "SelectNone",
+    "signature": "System.Void UnityEngine.TextEditor::SelectNone()"
+  },
+  {
+    "rid": 901,
+    "type": "TextEditor",
+    "name": "get_hasSelection",
+    "signature": "System.Boolean UnityEngine.TextEditor::get_hasSelection()"
+  },
+  {
+    "rid": 902,
+    "type": "TextEditor",
+    "name": "DeleteSelection",
+    "signature": "System.Boolean UnityEngine.TextEditor::DeleteSelection()"
+  },
+  {
+    "rid": 903,
+    "type": "TextEditor",
+    "name": "ReplaceSelection",
+    "signature": "System.Void UnityEngine.TextEditor::ReplaceSelection(System.String)"
+  },
+  {
+    "rid": 904,
+    "type": "TextEditor",
+    "name": "Insert",
+    "signature": "System.Void UnityEngine.TextEditor::Insert(System.Char)"
+  },
+  {
+    "rid": 905,
+    "type": "TextEditor",
+    "name": "MoveRight",
+    "signature": "System.Void UnityEngine.TextEditor::MoveRight()"
+  },
+  {
+    "rid": 906,
+    "type": "TextEditor",
+    "name": "MoveLeft",
+    "signature": "System.Void UnityEngine.TextEditor::MoveLeft()"
+  },
+  {
+    "rid": 907,
+    "type": "TextEditor",
+    "name": "MoveUp",
+    "signature": "System.Void UnityEngine.TextEditor::MoveUp()"
+  },
+  {
+    "rid": 908,
+    "type": "TextEditor",
+    "name": "MoveDown",
+    "signature": "System.Void UnityEngine.TextEditor::MoveDown()"
+  },
+  {
+    "rid": 909,
+    "type": "TextEditor",
+    "name": "MoveLineStart",
+    "signature": "System.Void UnityEngine.TextEditor::MoveLineStart()"
+  },
+  {
+    "rid": 910,
+    "type": "TextEditor",
+    "name": "MoveLineEnd",
+    "signature": "System.Void UnityEngine.TextEditor::MoveLineEnd()"
+  },
+  {
+    "rid": 911,
+    "type": "TextEditor",
+    "name": "MoveGraphicalLineStart",
+    "signature": "System.Void UnityEngine.TextEditor::MoveGraphicalLineStart()"
+  },
+  {
+    "rid": 912,
+    "type": "TextEditor",
+    "name": "MoveGraphicalLineEnd",
+    "signature": "System.Void UnityEngine.TextEditor::MoveGraphicalLineEnd()"
+  },
+  {
+    "rid": 913,
+    "type": "TextEditor",
+    "name": "MoveTextStart",
+    "signature": "System.Void UnityEngine.TextEditor::MoveTextStart()"
+  },
+  {
+    "rid": 914,
+    "type": "TextEditor",
+    "name": "MoveTextEnd",
+    "signature": "System.Void UnityEngine.TextEditor::MoveTextEnd()"
+  },
+  {
+    "rid": 915,
+    "type": "TextEditor",
+    "name": "MoveParagraphForward",
+    "signature": "System.Void UnityEngine.TextEditor::MoveParagraphForward()"
+  },
+  {
+    "rid": 916,
+    "type": "TextEditor",
+    "name": "MoveParagraphBackward",
+    "signature": "System.Void UnityEngine.TextEditor::MoveParagraphBackward()"
+  },
+  {
+    "rid": 917,
+    "type": "TextEditor",
+    "name": "MoveCursorToPosition",
+    "signature": "System.Void UnityEngine.TextEditor::MoveCursorToPosition(UnityEngine.Vector2)"
+  },
+  {
+    "rid": 918,
+    "type": "TextEditor",
+    "name": "SelectToPosition",
+    "signature": "System.Void UnityEngine.TextEditor::SelectToPosition(UnityEngine.Vector2)"
+  },
+  {
+    "rid": 919,
+    "type": "TextEditor",
+    "name": "SelectLeft",
+    "signature": "System.Void UnityEngine.TextEditor::SelectLeft()"
+  },
+  {
+    "rid": 920,
+    "type": "TextEditor",
+    "name": "SelectRight",
+    "signature": "System.Void UnityEngine.TextEditor::SelectRight()"
+  },
+  {
+    "rid": 921,
+    "type": "TextEditor",
+    "name": "SelectUp",
+    "signature": "System.Void UnityEngine.TextEditor::SelectUp()"
+  },
+  {
+    "rid": 922,
+    "type": "TextEditor",
+    "name": "SelectDown",
+    "signature": "System.Void UnityEngine.TextEditor::SelectDown()"
+  },
+  {
+    "rid": 923,
+    "type": "TextEditor",
+    "name": "SelectTextEnd",
+    "signature": "System.Void UnityEngine.TextEditor::SelectTextEnd()"
+  },
+  {
+    "rid": 924,
+    "type": "TextEditor",
+    "name": "SelectTextStart",
+    "signature": "System.Void UnityEngine.TextEditor::SelectTextStart()"
+  },
+  {
+    "rid": 925,
+    "type": "TextEditor",
+    "name": "GetGraphicalLineStart",
+    "signature": "System.Int32 UnityEngine.TextEditor::GetGraphicalLineStart(System.Int32)"
+  },
+  {
+    "rid": 926,
+    "type": "TextEditor",
+    "name": "GetGraphicalLineEnd",
+    "signature": "System.Int32 UnityEngine.TextEditor::GetGraphicalLineEnd(System.Int32)"
+  },
+  {
+    "rid": 927,
+    "type": "TextEditor",
+    "name": "FindNextSeperator",
+    "signature": "System.Int32 UnityEngine.TextEditor::FindNextSeperator(System.Int32)"
+  },
+  {
+    "rid": 928,
+    "type": "TextEditor",
+    "name": "isLetterLikeChar",
+    "signature": "System.Boolean UnityEngine.TextEditor::isLetterLikeChar(System.Char)"
+  },
+  {
+    "rid": 929,
+    "type": "TextEditor",
+    "name": "FindPrevSeperator",
+    "signature": "System.Int32 UnityEngine.TextEditor::FindPrevSeperator(System.Int32)"
+  },
+  {
+    "rid": 930,
+    "type": "TextEditor",
+    "name": "MoveWordRight",
+    "signature": "System.Void UnityEngine.TextEditor::MoveWordRight()"
+  },
+  {
+    "rid": 931,
+    "type": "TextEditor",
+    "name": "MoveToStartOfNextWord",
+    "signature": "System.Void UnityEngine.TextEditor::MoveToStartOfNextWord()"
+  },
+  {
+    "rid": 932,
+    "type": "TextEditor",
+    "name": "MoveToEndOfPreviousWord",
+    "signature": "System.Void UnityEngine.TextEditor::MoveToEndOfPreviousWord()"
+  },
+  {
+    "rid": 933,
+    "type": "TextEditor",
+    "name": "SelectToStartOfNextWord",
+    "signature": "System.Void UnityEngine.TextEditor::SelectToStartOfNextWord()"
+  },
+  {
+    "rid": 934,
+    "type": "TextEditor",
+    "name": "SelectToEndOfPreviousWord",
+    "signature": "System.Void UnityEngine.TextEditor::SelectToEndOfPreviousWord()"
+  },
+  {
+    "rid": 935,
+    "type": "TextEditor",
+    "name": "ClassifyChar",
+    "signature": "UnityEngine.TextEditor/CharacterType UnityEngine.TextEditor::ClassifyChar(System.Char)"
+  },
+  {
+    "rid": 936,
+    "type": "TextEditor",
+    "name": "FindStartOfNextWord",
+    "signature": "System.Int32 UnityEngine.TextEditor::FindStartOfNextWord(System.Int32)"
+  },
+  {
+    "rid": 937,
+    "type": "TextEditor",
+    "name": "FindEndOfPreviousWord",
+    "signature": "System.Int32 UnityEngine.TextEditor::FindEndOfPreviousWord(System.Int32)"
+  },
+  {
+    "rid": 938,
+    "type": "TextEditor",
+    "name": "MoveWordLeft",
+    "signature": "System.Void UnityEngine.TextEditor::MoveWordLeft()"
+  },
+  {
+    "rid": 939,
+    "type": "TextEditor",
+    "name": "SelectWordRight",
+    "signature": "System.Void UnityEngine.TextEditor::SelectWordRight()"
+  },
+  {
+    "rid": 940,
+    "type": "TextEditor",
+    "name": "SelectWordLeft",
+    "signature": "System.Void UnityEngine.TextEditor::SelectWordLeft()"
+  },
+  {
+    "rid": 941,
+    "type": "TextEditor",
+    "name": "ExpandSelectGraphicalLineStart",
+    "signature": "System.Void UnityEngine.TextEditor::ExpandSelectGraphicalLineStart()"
+  },
+  {
+    "rid": 942,
+    "type": "TextEditor",
+    "name": "ExpandSelectGraphicalLineEnd",
+    "signature": "System.Void UnityEngine.TextEditor::ExpandSelectGraphicalLineEnd()"
+  },
+  {
+    "rid": 943,
+    "type": "TextEditor",
+    "name": "SelectGraphicalLineStart",
+    "signature": "System.Void UnityEngine.TextEditor::SelectGraphicalLineStart()"
+  },
+  {
+    "rid": 944,
+    "type": "TextEditor",
+    "name": "SelectGraphicalLineEnd",
+    "signature": "System.Void UnityEngine.TextEditor::SelectGraphicalLineEnd()"
+  },
+  {
+    "rid": 945,
+    "type": "TextEditor",
+    "name": "SelectParagraphForward",
+    "signature": "System.Void UnityEngine.TextEditor::SelectParagraphForward()"
+  },
+  {
+    "rid": 946,
+    "type": "TextEditor",
+    "name": "SelectParagraphBackward",
+    "signature": "System.Void UnityEngine.TextEditor::SelectParagraphBackward()"
+  },
+  {
+    "rid": 947,
+    "type": "TextEditor",
+    "name": "SelectCurrentWord",
+    "signature": "System.Void UnityEngine.TextEditor::SelectCurrentWord()"
+  },
+  {
+    "rid": 948,
+    "type": "TextEditor",
+    "name": "FindEndOfClassification",
+    "signature": "System.Int32 UnityEngine.TextEditor::FindEndOfClassification(System.Int32,System.Int32)"
+  },
+  {
+    "rid": 949,
+    "type": "TextEditor",
+    "name": "SelectCurrentParagraph",
+    "signature": "System.Void UnityEngine.TextEditor::SelectCurrentParagraph()"
+  },
+  {
+    "rid": 950,
+    "type": "TextEditor",
+    "name": "DrawCursor",
+    "signature": "System.Void UnityEngine.TextEditor::DrawCursor()"
+  },
+  {
+    "rid": 951,
+    "type": "TextEditor",
+    "name": "PerformOperation",
+    "signature": "System.Boolean UnityEngine.TextEditor::PerformOperation(UnityEngine.TextEditor/TextEditOp)"
+  },
+  {
+    "rid": 952,
+    "type": "TextEditor",
+    "name": "SaveBackup",
+    "signature": "System.Void UnityEngine.TextEditor::SaveBackup()"
+  },
+  {
+    "rid": 953,
+    "type": "TextEditor",
+    "name": "Undo",
+    "signature": "System.Void UnityEngine.TextEditor::Undo()"
+  },
+  {
+    "rid": 954,
+    "type": "TextEditor",
+    "name": "Cut",
+    "signature": "System.Boolean UnityEngine.TextEditor::Cut()"
+  },
+  {
+    "rid": 955,
+    "type": "TextEditor",
+    "name": "Copy",
+    "signature": "System.Void UnityEngine.TextEditor::Copy()"
+  },
+  {
+    "rid": 956,
+    "type": "TextEditor",
+    "name": "Paste",
+    "signature": "System.Boolean UnityEngine.TextEditor::Paste()"
+  },
+  {
+    "rid": 957,
+    "type": "TextEditor",
+    "name": "MapKey",
+    "signature": "System.Void UnityEngine.TextEditor::MapKey(System.String,UnityEngine.TextEditor/TextEditOp)"
+  },
+  {
+    "rid": 958,
+    "type": "TextEditor",
+    "name": "InitKeyActions",
+    "signature": "System.Void UnityEngine.TextEditor::InitKeyActions()"
+  },
+  {
+    "rid": 959,
+    "type": "TextEditor",
+    "name": "ClampPos",
+    "signature": "System.Void UnityEngine.TextEditor::ClampPos()"
+  },
+  {
+    "rid": 960,
+    "type": "Texture",
+    "name": "Internal_GetWidth",
+    "signature": "System.Int32 UnityEngine.Texture::Internal_GetWidth(UnityEngine.Texture)"
+  },
+  {
+    "rid": 961,
+    "type": "Texture",
+    "name": "INTERNAL_CALL_Internal_GetWidth",
+    "signature": "System.Int32 UnityEngine.Texture::INTERNAL_CALL_Internal_GetWidth(UnityEngine.Texture)"
+  },
+  {
+    "rid": 962,
+    "type": "Texture",
+    "name": "Internal_GetHeight",
+    "signature": "System.Int32 UnityEngine.Texture::Internal_GetHeight(UnityEngine.Texture)"
+  },
+  {
+    "rid": 963,
+    "type": "Texture",
+    "name": "INTERNAL_CALL_Internal_GetHeight",
+    "signature": "System.Int32 UnityEngine.Texture::INTERNAL_CALL_Internal_GetHeight(UnityEngine.Texture)"
+  },
+  {
+    "rid": 964,
+    "type": "Texture",
+    "name": "get_width",
+    "signature": "System.Int32 UnityEngine.Texture::get_width()"
+  },
+  {
+    "rid": 965,
+    "type": "Texture",
+    "name": "set_width",
+    "signature": "System.Void UnityEngine.Texture::set_width(System.Int32)"
+  },
+  {
+    "rid": 966,
+    "type": "Texture",
+    "name": "get_height",
+    "signature": "System.Int32 UnityEngine.Texture::get_height()"
+  },
+  {
+    "rid": 967,
+    "type": "Texture",
+    "name": "set_height",
+    "signature": "System.Void UnityEngine.Texture::set_height(System.Int32)"
+  },
+  {
+    "rid": 968,
+    "type": "Time",
+    "name": "get_time",
+    "signature": "System.Single UnityEngine.Time::get_time()"
+  },
+  {
+    "rid": 969,
+    "type": "Time",
+    "name": "get_deltaTime",
+    "signature": "System.Single UnityEngine.Time::get_deltaTime()"
+  },
+  {
+    "rid": 970,
+    "type": "Time",
+    "name": "get_frameCount",
+    "signature": "System.Int32 UnityEngine.Time::get_frameCount()"
+  },
+  {
+    "rid": 971,
+    "type": "Time",
+    "name": "get_realtimeSinceStartup",
+    "signature": "System.Single UnityEngine.Time::get_realtimeSinceStartup()"
+  },
+  {
+    "rid": 972,
+    "type": "Transform",
+    "name": "get_position",
+    "signature": "UnityEngine.Vector3 UnityEngine.Transform::get_position()"
+  },
+  {
+    "rid": 973,
+    "type": "Transform",
+    "name": "set_position",
+    "signature": "System.Void UnityEngine.Transform::set_position(UnityEngine.Vector3)"
+  },
+  {
+    "rid": 974,
+    "type": "Transform",
+    "name": "get_localPosition",
+    "signature": "UnityEngine.Vector3 UnityEngine.Transform::get_localPosition()"
+  },
+  {
+    "rid": 975,
+    "type": "Transform",
+    "name": "set_localPosition",
+    "signature": "System.Void UnityEngine.Transform::set_localPosition(UnityEngine.Vector3)"
+  },
+  {
+    "rid": 976,
+    "type": "Transform",
+    "name": "get_eulerAngles",
+    "signature": "UnityEngine.Vector3 UnityEngine.Transform::get_eulerAngles()"
+  },
+  {
+    "rid": 977,
+    "type": "Transform",
+    "name": "set_eulerAngles",
+    "signature": "System.Void UnityEngine.Transform::set_eulerAngles(UnityEngine.Vector3)"
+  },
+  {
+    "rid": 978,
+    "type": "Transform",
+    "name": "get_localEulerAngles",
+    "signature": "UnityEngine.Vector3 UnityEngine.Transform::get_localEulerAngles()"
+  },
+  {
+    "rid": 979,
+    "type": "Transform",
+    "name": "set_localEulerAngles",
+    "signature": "System.Void UnityEngine.Transform::set_localEulerAngles(UnityEngine.Vector3)"
+  },
+  {
+    "rid": 980,
+    "type": "Transform",
+    "name": "get_forward",
+    "signature": "UnityEngine.Vector3 UnityEngine.Transform::get_forward()"
+  },
+  {
+    "rid": 981,
+    "type": "Transform",
+    "name": "set_forward",
+    "signature": "System.Void UnityEngine.Transform::set_forward(UnityEngine.Vector3)"
+  },
+  {
+    "rid": 982,
+    "type": "Transform",
+    "name": "get_rotation",
+    "signature": "UnityEngine.Quaternion UnityEngine.Transform::get_rotation()"
+  },
+  {
+    "rid": 983,
+    "type": "Transform",
+    "name": "set_rotation",
+    "signature": "System.Void UnityEngine.Transform::set_rotation(UnityEngine.Quaternion)"
+  },
+  {
+    "rid": 984,
+    "type": "Transform",
+    "name": "get_localRotation",
+    "signature": "UnityEngine.Quaternion UnityEngine.Transform::get_localRotation()"
+  },
+  {
+    "rid": 985,
+    "type": "Transform",
+    "name": "set_localRotation",
+    "signature": "System.Void UnityEngine.Transform::set_localRotation(UnityEngine.Quaternion)"
+  },
+  {
+    "rid": 986,
+    "type": "Transform",
+    "name": "get_localScale",
+    "signature": "UnityEngine.Vector3 UnityEngine.Transform::get_localScale()"
+  },
+  {
+    "rid": 987,
+    "type": "Transform",
+    "name": "set_localScale",
+    "signature": "System.Void UnityEngine.Transform::set_localScale(UnityEngine.Vector3)"
+  },
+  {
+    "rid": 988,
+    "type": "Transform",
+    "name": "get_parent",
+    "signature": "UnityEngine.Transform UnityEngine.Transform::get_parent()"
+  },
+  {
+    "rid": 989,
+    "type": "Transform",
+    "name": "Rotate",
+    "signature": "System.Void UnityEngine.Transform::Rotate(UnityEngine.Vector3,UnityEngine.Space)"
+  },
+  {
+    "rid": 990,
+    "type": "Transform",
+    "name": "Rotate",
+    "signature": "System.Void UnityEngine.Transform::Rotate(System.Single,System.Single,System.Single)"
+  },
+  {
+    "rid": 991,
+    "type": "Transform",
+    "name": "Rotate",
+    "signature": "System.Void UnityEngine.Transform::Rotate(System.Single,System.Single,System.Single,UnityEngine.Space)"
+  },
+  {
+    "rid": 992,
+    "type": "Transform",
+    "name": "LookAt",
+    "signature": "System.Void UnityEngine.Transform::LookAt(UnityEngine.Transform)"
+  },
+  {
+    "rid": 993,
+    "type": "Transform",
+    "name": "LookAt",
+    "signature": "System.Void UnityEngine.Transform::LookAt(UnityEngine.Transform,UnityEngine.Vector3)"
+  },
+  {
+    "rid": 994,
+    "type": "Transform",
+    "name": "LookAt",
+    "signature": "System.Void UnityEngine.Transform::LookAt(UnityEngine.Vector3,UnityEngine.Vector3)"
+  },
+  {
+    "rid": 995,
+    "type": "Transform",
+    "name": "LookAt",
+    "signature": "System.Void UnityEngine.Transform::LookAt(UnityEngine.Vector3)"
+  },
+  {
+    "rid": 996,
+    "type": "Transform",
+    "name": "INTERNAL_CALL_LookAt",
+    "signature": "System.Void UnityEngine.Transform::INTERNAL_CALL_LookAt(UnityEngine.Transform,UnityEngine.Vector3\u0026,UnityEngine.Vector3\u0026)"
+  },
+  {
+    "rid": 997,
+    "type": "Transform",
+    "name": "TransformDirection",
+    "signature": "UnityEngine.Vector3 UnityEngine.Transform::TransformDirection(UnityEngine.Vector3)"
+  },
+  {
+    "rid": 998,
+    "type": "Transform",
+    "name": "INTERNAL_CALL_TransformDirection",
+    "signature": "UnityEngine.Vector3 UnityEngine.Transform::INTERNAL_CALL_TransformDirection(UnityEngine.Transform,UnityEngine.Vector3\u0026)"
+  },
+  {
+    "rid": 999,
+    "type": "Transform",
+    "name": "InverseTransformDirection",
+    "signature": "UnityEngine.Vector3 UnityEngine.Transform::InverseTransformDirection(UnityEngine.Vector3)"
+  },
+  {
+    "rid": 1000,
+    "type": "Transform",
+    "name": "INTERNAL_CALL_InverseTransformDirection",
+    "signature": "UnityEngine.Vector3 UnityEngine.Transform::INTERNAL_CALL_InverseTransformDirection(UnityEngine.Transform,UnityEngine.Vector3\u0026)"
+  },
+  {
+    "rid": 1001,
+    "type": "Transform",
+    "name": "TransformPoint",
+    "signature": "UnityEngine.Vector3 UnityEngine.Transform::TransformPoint(UnityEngine.Vector3)"
+  },
+  {
+    "rid": 1002,
+    "type": "Transform",
+    "name": "INTERNAL_CALL_TransformPoint",
+    "signature": "UnityEngine.Vector3 UnityEngine.Transform::INTERNAL_CALL_TransformPoint(UnityEngine.Transform,UnityEngine.Vector3\u0026)"
+  },
+  {
+    "rid": 1003,
+    "type": "Transform",
+    "name": "get_childCount",
+    "signature": "System.Int32 UnityEngine.Transform::get_childCount()"
+  },
+  {
+    "rid": 1004,
+    "type": "Transform",
+    "name": "GetEnumerator",
+    "signature": "System.Collections.IEnumerator UnityEngine.Transform::GetEnumerator()"
+  },
+  {
+    "rid": 1005,
+    "type": "Transform",
+    "name": "GetChild",
+    "signature": "UnityEngine.Transform UnityEngine.Transform::GetChild(System.Int32)"
+  },
+  {
+    "rid": 1006,
+    "type": "Transform",
+    "name": "INTERNAL_CALL_GetChild",
+    "signature": "UnityEngine.Transform UnityEngine.Transform::INTERNAL_CALL_GetChild(UnityEngine.Transform,System.Int32)"
+  },
+  {
+    "rid": 1011,
+    "type": "TreeInstance",
+    "name": "CompareTo",
+    "signature": "System.Int32 UnityEngine.TreeInstance::CompareTo(System.Object)"
+  },
+  {
+    "rid": 1012,
+    "type": "UnityException",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.UnityException::.ctor()"
+  },
+  {
+    "rid": 1013,
+    "type": "UnityException",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.UnityException::.ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)"
+  },
+  {
+    "rid": 1014,
+    "type": "Vector2",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.Vector2::.ctor(System.Single,System.Single)"
+  },
+  {
+    "rid": 1015,
+    "type": "Vector2",
+    "name": "ToString",
+    "signature": "System.String UnityEngine.Vector2::ToString()"
+  },
+  {
+    "rid": 1016,
+    "type": "Vector2",
+    "name": "GetHashCode",
+    "signature": "System.Int32 UnityEngine.Vector2::GetHashCode()"
+  },
+  {
+    "rid": 1017,
+    "type": "Vector2",
+    "name": "Equals",
+    "signature": "System.Boolean UnityEngine.Vector2::Equals(System.Object)"
+  },
+  {
+    "rid": 1018,
+    "type": "Vector2",
+    "name": "Dot",
+    "signature": "System.Single UnityEngine.Vector2::Dot(UnityEngine.Vector2,UnityEngine.Vector2)"
+  },
+  {
+    "rid": 1019,
+    "type": "Vector2",
+    "name": "get_magnitude",
+    "signature": "System.Single UnityEngine.Vector2::get_magnitude()"
+  },
+  {
+    "rid": 1020,
+    "type": "Vector2",
+    "name": "get_sqrMagnitude",
+    "signature": "System.Single UnityEngine.Vector2::get_sqrMagnitude()"
+  },
+  {
+    "rid": 1021,
+    "type": "Vector2",
+    "name": "SqrMagnitude",
+    "signature": "System.Single UnityEngine.Vector2::SqrMagnitude(UnityEngine.Vector2)"
+  },
+  {
+    "rid": 1022,
+    "type": "Vector2",
+    "name": "get_zero",
+    "signature": "UnityEngine.Vector2 UnityEngine.Vector2::get_zero()"
+  },
+  {
+    "rid": 1023,
+    "type": "Vector2",
+    "name": "op_Addition",
+    "signature": "UnityEngine.Vector2 UnityEngine.Vector2::op_Addition(UnityEngine.Vector2,UnityEngine.Vector2)"
+  },
+  {
+    "rid": 1024,
+    "type": "Vector2",
+    "name": "op_Subtraction",
+    "signature": "UnityEngine.Vector2 UnityEngine.Vector2::op_Subtraction(UnityEngine.Vector2,UnityEngine.Vector2)"
+  },
+  {
+    "rid": 1025,
+    "type": "Vector2",
+    "name": "op_UnaryNegation",
+    "signature": "UnityEngine.Vector2 UnityEngine.Vector2::op_UnaryNegation(UnityEngine.Vector2)"
+  },
+  {
+    "rid": 1026,
+    "type": "Vector2",
+    "name": "op_Multiply",
+    "signature": "UnityEngine.Vector2 UnityEngine.Vector2::op_Multiply(UnityEngine.Vector2,System.Single)"
+  },
+  {
+    "rid": 1027,
+    "type": "Vector2",
+    "name": "op_Division",
+    "signature": "UnityEngine.Vector2 UnityEngine.Vector2::op_Division(UnityEngine.Vector2,System.Single)"
+  },
+  {
+    "rid": 1028,
+    "type": "Vector2",
+    "name": "op_Implicit",
+    "signature": "UnityEngine.Vector2 UnityEngine.Vector2::op_Implicit(UnityEngine.Vector3)"
+  },
+  {
+    "rid": 1029,
+    "type": "Vector2",
+    "name": "op_Implicit",
+    "signature": "UnityEngine.Vector3 UnityEngine.Vector2::op_Implicit(UnityEngine.Vector2)"
+  },
+  {
+    "rid": 1030,
+    "type": "Vector2",
+    "name": "op_Equality",
+    "signature": "System.Boolean UnityEngine.Vector2::op_Equality(UnityEngine.Vector2,UnityEngine.Vector2)"
+  },
+  {
+    "rid": 1031,
+    "type": "Vector3",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.Vector3::.ctor(System.Single,System.Single,System.Single)"
+  },
+  {
+    "rid": 1032,
+    "type": "Vector3",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.Vector3::.ctor(System.Single,System.Single)"
+  },
+  {
+    "rid": 1033,
+    "type": "Vector3",
+    "name": "get_Item",
+    "signature": "System.Single UnityEngine.Vector3::get_Item(System.Int32)"
+  },
+  {
+    "rid": 1034,
+    "type": "Vector3",
+    "name": "set_Item",
+    "signature": "System.Void UnityEngine.Vector3::set_Item(System.Int32,System.Single)"
+  },
+  {
+    "rid": 1035,
+    "type": "Vector3",
+    "name": "Cross",
+    "signature": "UnityEngine.Vector3 UnityEngine.Vector3::Cross(UnityEngine.Vector3,UnityEngine.Vector3)"
+  },
+  {
+    "rid": 1036,
+    "type": "Vector3",
+    "name": "GetHashCode",
+    "signature": "System.Int32 UnityEngine.Vector3::GetHashCode()"
+  },
+  {
+    "rid": 1037,
+    "type": "Vector3",
+    "name": "Equals",
+    "signature": "System.Boolean UnityEngine.Vector3::Equals(System.Object)"
+  },
+  {
+    "rid": 1038,
+    "type": "Vector3",
+    "name": "Normalize",
+    "signature": "UnityEngine.Vector3 UnityEngine.Vector3::Normalize(UnityEngine.Vector3)"
+  },
+  {
+    "rid": 1039,
+    "type": "Vector3",
+    "name": "Normalize",
+    "signature": "System.Void UnityEngine.Vector3::Normalize()"
+  },
+  {
+    "rid": 1040,
+    "type": "Vector3",
+    "name": "get_normalized",
+    "signature": "UnityEngine.Vector3 UnityEngine.Vector3::get_normalized()"
+  },
+  {
+    "rid": 1041,
+    "type": "Vector3",
+    "name": "ToString",
+    "signature": "System.String UnityEngine.Vector3::ToString()"
+  },
+  {
+    "rid": 1042,
+    "type": "Vector3",
+    "name": "Dot",
+    "signature": "System.Single UnityEngine.Vector3::Dot(UnityEngine.Vector3,UnityEngine.Vector3)"
+  },
+  {
+    "rid": 1043,
+    "type": "Vector3",
+    "name": "Magnitude",
+    "signature": "System.Single UnityEngine.Vector3::Magnitude(UnityEngine.Vector3)"
+  },
+  {
+    "rid": 1044,
+    "type": "Vector3",
+    "name": "get_magnitude",
+    "signature": "System.Single UnityEngine.Vector3::get_magnitude()"
+  },
+  {
+    "rid": 1045,
+    "type": "Vector3",
+    "name": "get_sqrMagnitude",
+    "signature": "System.Single UnityEngine.Vector3::get_sqrMagnitude()"
+  },
+  {
+    "rid": 1046,
+    "type": "Vector3",
+    "name": "get_zero",
+    "signature": "UnityEngine.Vector3 UnityEngine.Vector3::get_zero()"
+  },
+  {
+    "rid": 1047,
+    "type": "Vector3",
+    "name": "get_one",
+    "signature": "UnityEngine.Vector3 UnityEngine.Vector3::get_one()"
+  },
+  {
+    "rid": 1048,
+    "type": "Vector3",
+    "name": "get_forward",
+    "signature": "UnityEngine.Vector3 UnityEngine.Vector3::get_forward()"
+  },
+  {
+    "rid": 1049,
+    "type": "Vector3",
+    "name": "get_up",
+    "signature": "UnityEngine.Vector3 UnityEngine.Vector3::get_up()"
+  },
+  {
+    "rid": 1050,
+    "type": "Vector3",
+    "name": "get_right",
+    "signature": "UnityEngine.Vector3 UnityEngine.Vector3::get_right()"
+  },
+  {
+    "rid": 1051,
+    "type": "Vector3",
+    "name": "op_Addition",
+    "signature": "UnityEngine.Vector3 UnityEngine.Vector3::op_Addition(UnityEngine.Vector3,UnityEngine.Vector3)"
+  },
+  {
+    "rid": 1052,
+    "type": "Vector3",
+    "name": "op_Subtraction",
+    "signature": "UnityEngine.Vector3 UnityEngine.Vector3::op_Subtraction(UnityEngine.Vector3,UnityEngine.Vector3)"
+  },
+  {
+    "rid": 1053,
+    "type": "Vector3",
+    "name": "op_UnaryNegation",
+    "signature": "UnityEngine.Vector3 UnityEngine.Vector3::op_UnaryNegation(UnityEngine.Vector3)"
+  },
+  {
+    "rid": 1054,
+    "type": "Vector3",
+    "name": "op_Multiply",
+    "signature": "UnityEngine.Vector3 UnityEngine.Vector3::op_Multiply(UnityEngine.Vector3,System.Single)"
+  },
+  {
+    "rid": 1055,
+    "type": "Vector3",
+    "name": "op_Multiply",
+    "signature": "UnityEngine.Vector3 UnityEngine.Vector3::op_Multiply(System.Single,UnityEngine.Vector3)"
+  },
+  {
+    "rid": 1056,
+    "type": "Vector3",
+    "name": "op_Division",
+    "signature": "UnityEngine.Vector3 UnityEngine.Vector3::op_Division(UnityEngine.Vector3,System.Single)"
+  },
+  {
+    "rid": 1057,
+    "type": "Vector4",
+    "name": ".ctor",
+    "signature": "System.Void UnityEngine.Vector4::.ctor(System.Single,System.Single,System.Single,System.Single)"
+  },
+  {
+    "rid": 1058,
+    "type": "Vector4",
+    "name": "GetHashCode",
+    "signature": "System.Int32 UnityEngine.Vector4::GetHashCode()"
+  },
+  {
+    "rid": 1059,
+    "type": "Vector4",
+    "name": "Equals",
+    "signature": "System.Boolean UnityEngine.Vector4::Equals(System.Object)"
+  },
+  {
+    "rid": 1060,
+    "type": "Vector4",
+    "name": "ToString",
+    "signature": "System.String UnityEngine.Vector4::ToString()"
+  },
+  {
+    "rid": 1061,
+    "type": "Vector4",
+    "name": "Dot",
+    "signature": "System.Single UnityEngine.Vector4::Dot(UnityEngine.Vector4,UnityEngine.Vector4)"
+  },
+  {
+    "rid": 1062,
+    "type": "Vector4",
+    "name": "op_Multiply",
+    "signature": "UnityEngine.Vector4 UnityEngine.Vector4::op_Multiply(UnityEngine.Vector4,System.Single)"
+  },
+  {
+    "rid": 1063,
+    "type": "Vector4",
+    "name": "op_Implicit",
+    "signature": "UnityEngine.Vector4 UnityEngine.Vector4::op_Implicit(UnityEngine.Vector3)"
+  },
+  {
+    "rid": 1064,
+    "type": "WWW",
+    "name": "Dispose",
+    "signature": "System.Void UnityEngine.WWW::Dispose()"
+  },
+  {
+    "rid": 1065,
+    "type": "WWW",
+    "name": "DestroyWWW",
+    "signature": "System.Void UnityEngine.WWW::DestroyWWW()"
+  },
+  {
+    "rid": 1066,
+    "type": "WWW",
+    "name": "INTERNAL_CALL_DestroyWWW",
+    "signature": "System.Void UnityEngine.WWW::INTERNAL_CALL_DestroyWWW(UnityEngine.WWW)"
+  },
+  {
+    "rid": 1067,
+    "type": "WWW",
+    "name": "Finalize",
+    "signature": "System.Void UnityEngine.WWW::Finalize()"
+  }
+]

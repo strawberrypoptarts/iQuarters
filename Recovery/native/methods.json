@@ -1,0 +1,4328 @@
+[
+  {
+    "rid": 1,
+    "type": "AnnouncerScript",
+    "name": ".ctor",
+    "signature": "System.Void AnnouncerScript::.ctor()",
+    "address": 2302976
+  },
+  {
+    "rid": 2,
+    "type": "AnnouncerScript",
+    "name": ".cctor",
+    "signature": "System.Void AnnouncerScript::.cctor()",
+    "address": 2303028
+  },
+  {
+    "rid": 3,
+    "type": "AnnouncerScript",
+    "name": "Update",
+    "signature": "System.Void AnnouncerScript::Update()",
+    "address": 2303184
+  },
+  {
+    "rid": 4,
+    "type": "AnnouncerScript",
+    "name": "Main",
+    "signature": "System.Void AnnouncerScript::Main()",
+    "address": 2303884
+  },
+  {
+    "rid": 5,
+    "type": "BirdScript",
+    "name": ".ctor",
+    "signature": "System.Void BirdScript::.ctor()",
+    "address": 2303928
+  },
+  {
+    "rid": 6,
+    "type": "BirdScript",
+    "name": ".cctor",
+    "signature": "System.Void BirdScript::.cctor()",
+    "address": 2304172
+  },
+  {
+    "rid": 7,
+    "type": "BirdScript",
+    "name": "Start",
+    "signature": "System.Void BirdScript::Start()",
+    "address": 2304328
+  },
+  {
+    "rid": 8,
+    "type": "BirdScript",
+    "name": "OnDisable",
+    "signature": "System.Void BirdScript::OnDisable()",
+    "address": 2304504
+  },
+  {
+    "rid": 9,
+    "type": "BirdScript",
+    "name": "AnimationPresent",
+    "signature": "System.Boolean BirdScript::AnimationPresent()",
+    "address": 2304572
+  },
+  {
+    "rid": 10,
+    "type": "BirdScript",
+    "name": "RewindAnim",
+    "signature": "System.Void BirdScript::RewindAnim()",
+    "address": 2304612
+  },
+  {
+    "rid": 11,
+    "type": "BirdScript",
+    "name": "ChecktoRewindAnim",
+    "signature": "System.Void BirdScript::ChecktoRewindAnim()",
+    "address": 2304648
+  },
+  {
+    "rid": 12,
+    "type": "BirdScript",
+    "name": "SaveAnimationData",
+    "signature": "System.Void BirdScript::SaveAnimationData()",
+    "address": 2304684
+  },
+  {
+    "rid": 13,
+    "type": "BirdScript",
+    "name": "LoadAnimationData",
+    "signature": "System.Void BirdScript::LoadAnimationData()",
+    "address": 2304720
+  },
+  {
+    "rid": 14,
+    "type": "BirdScript",
+    "name": "FixedUpdate",
+    "signature": "System.Void BirdScript::FixedUpdate()",
+    "address": 2304756
+  },
+  {
+    "rid": 15,
+    "type": "BirdScript",
+    "name": "Main",
+    "signature": "System.Void BirdScript::Main()",
+    "address": 2306740
+  },
+  {
+    "rid": 16,
+    "type": "ButtonDownScript",
+    "name": ".ctor",
+    "signature": "System.Void ButtonDownScript::.ctor()",
+    "address": 2306784
+  },
+  {
+    "rid": 17,
+    "type": "ButtonDownScript",
+    "name": ".cctor",
+    "signature": "System.Void ButtonDownScript::.cctor()",
+    "address": 2306836
+  },
+  {
+    "rid": 18,
+    "type": "ButtonDownScript",
+    "name": "Update",
+    "signature": "System.Void ButtonDownScript::Update()",
+    "address": 2306896
+  },
+  {
+    "rid": 19,
+    "type": "ButtonDownScript",
+    "name": "Main",
+    "signature": "System.Void ButtonDownScript::Main()",
+    "address": 2307044
+  },
+  {
+    "rid": 20,
+    "type": "CellPhoneScript",
+    "name": ".ctor",
+    "signature": "System.Void CellPhoneScript::.ctor()",
+    "address": 2307088
+  },
+  {
+    "rid": 21,
+    "type": "CellPhoneScript",
+    "name": "OnCollisionEnter",
+    "signature": "System.Void CellPhoneScript::OnCollisionEnter(UnityEngine.Collision)",
+    "address": 2307232
+  },
+  {
+    "rid": 22,
+    "type": "CellPhoneScript",
+    "name": "Main",
+    "signature": "System.Void CellPhoneScript::Main()",
+    "address": 2308616
+  },
+  {
+    "rid": 23,
+    "type": "ChipBounceBounceScript",
+    "name": ".ctor",
+    "signature": "System.Void ChipBounceBounceScript::.ctor()",
+    "address": 2308660
+  },
+  {
+    "rid": 24,
+    "type": "ChipBounceBounceScript",
+    "name": ".cctor",
+    "signature": "System.Void ChipBounceBounceScript::.cctor()",
+    "address": 2308808
+  },
+  {
+    "rid": 25,
+    "type": "ChipBounceBounceScript",
+    "name": "MoveChipInit",
+    "signature": "System.Void ChipBounceBounceScript::MoveChipInit()",
+    "address": 2308996
+  },
+  {
+    "rid": 26,
+    "type": "ChipBounceBounceScript",
+    "name": "MoveChip",
+    "signature": "System.Void ChipBounceBounceScript::MoveChip()",
+    "address": 2309468
+  },
+  {
+    "rid": 27,
+    "type": "ChipBounceBounceScript",
+    "name": "Update",
+    "signature": "System.Void ChipBounceBounceScript::Update()",
+    "address": 2310696
+  },
+  {
+    "rid": 28,
+    "type": "ChipBounceBounceScript",
+    "name": "TriggerBounceToChipStack",
+    "signature": "System.Void ChipBounceBounceScript::TriggerBounceToChipStack()",
+    "address": 2310868
+  },
+  {
+    "rid": 29,
+    "type": "ChipBounceBounceScript",
+    "name": "ResetVariables",
+    "signature": "System.Void ChipBounceBounceScript::ResetVariables()",
+    "address": 2311112
+  },
+  {
+    "rid": 30,
+    "type": "ChipBounceBounceScript",
+    "name": "Start",
+    "signature": "System.Void ChipBounceBounceScript::Start()",
+    "address": 2311268
+  },
+  {
+    "rid": 31,
+    "type": "ChipBounceBounceScript",
+    "name": "Main",
+    "signature": "System.Void ChipBounceBounceScript::Main()",
+    "address": 2311368
+  },
+  {
+    "rid": 32,
+    "type": "ChipBounceScript",
+    "name": ".ctor",
+    "signature": "System.Void ChipBounceScript::.ctor()",
+    "address": 2311412
+  },
+  {
+    "rid": 33,
+    "type": "ChipBounceScript",
+    "name": ".cctor",
+    "signature": "System.Void ChipBounceScript::.cctor()",
+    "address": 2311464
+  },
+  {
+    "rid": 34,
+    "type": "ChipBounceScript",
+    "name": "Update",
+    "signature": "System.Void ChipBounceScript::Update()",
+    "address": 2311548
+  },
+  {
+    "rid": 35,
+    "type": "ChipBounceScript",
+    "name": "Start",
+    "signature": "System.Void ChipBounceScript::Start()",
+    "address": 2311756
+  },
+  {
+    "rid": 36,
+    "type": "ChipBounceScript",
+    "name": "SetCurTexture",
+    "signature": "System.Void ChipBounceScript::SetCurTexture(System.Int32)",
+    "address": 2311884
+  },
+  {
+    "rid": 37,
+    "type": "ChipBounceScript",
+    "name": "Main",
+    "signature": "System.Void ChipBounceScript::Main()",
+    "address": 2312476
+  },
+  {
+    "rid": 38,
+    "type": "ChipRackupScript",
+    "name": ".ctor",
+    "signature": "System.Void ChipRackupScript::.ctor()",
+    "address": 2312520
+  },
+  {
+    "rid": 39,
+    "type": "ChipRackupScript",
+    "name": ".cctor",
+    "signature": "System.Void ChipRackupScript::.cctor()",
+    "address": 2312828
+  },
+  {
+    "rid": 40,
+    "type": "ChipRackupScript",
+    "name": "MoveChipInit",
+    "signature": "System.Void ChipRackupScript::MoveChipInit()",
+    "address": 2313016
+  },
+  {
+    "rid": 41,
+    "type": "ChipRackupScript",
+    "name": "MoveChip",
+    "signature": "System.Void ChipRackupScript::MoveChip()",
+    "address": 2314088
+  },
+  {
+    "rid": 42,
+    "type": "ChipRackupScript",
+    "name": "Update",
+    "signature": "System.Void ChipRackupScript::Update()",
+    "address": 2317368
+  },
+  {
+    "rid": 43,
+    "type": "ChipRackupScript",
+    "name": "ResetVariables",
+    "signature": "System.Void ChipRackupScript::ResetVariables()",
+    "address": 2317540
+  },
+  {
+    "rid": 44,
+    "type": "ChipRackupScript",
+    "name": "Start",
+    "signature": "System.Void ChipRackupScript::Start()",
+    "address": 2317652
+  },
+  {
+    "rid": 45,
+    "type": "ChipRackupScript",
+    "name": "TriggerRackup",
+    "signature": "System.Void ChipRackupScript::TriggerRackup()",
+    "address": 2317720
+  },
+  {
+    "rid": 46,
+    "type": "ChipRackupScript",
+    "name": "SetRicochetScore",
+    "signature": "System.Void ChipRackupScript::SetRicochetScore(System.Int32)",
+    "address": 2317796
+  },
+  {
+    "rid": 47,
+    "type": "ChipRackupScript",
+    "name": "Main",
+    "signature": "System.Void ChipRackupScript::Main()",
+    "address": 2318424
+  },
+  {
+    "rid": 48,
+    "type": "ChipRackupTextScript",
+    "name": ".ctor",
+    "signature": "System.Void ChipRackupTextScript::.ctor()",
+    "address": 2318468
+  },
+  {
+    "rid": 49,
+    "type": "ChipRackupTextScript",
+    "name": "Update",
+    "signature": "System.Void ChipRackupTextScript::Update()",
+    "address": 2318520
+  },
+  {
+    "rid": 50,
+    "type": "ChipRackupTextScript",
+    "name": "Main",
+    "signature": "System.Void ChipRackupTextScript::Main()",
+    "address": 2318564
+  },
+  {
+    "rid": 51,
+    "type": "ChipRicochetBounce00Script",
+    "name": ".ctor",
+    "signature": "System.Void ChipRicochetBounce00Script::.ctor()",
+    "address": 2318608
+  },
+  {
+    "rid": 52,
+    "type": "ChipRicochetBounce00Script",
+    "name": ".cctor",
+    "signature": "System.Void ChipRicochetBounce00Script::.cctor()",
+    "address": 2318756
+  },
+  {
+    "rid": 53,
+    "type": "ChipRicochetBounce00Script",
+    "name": "MoveChipInit",
+    "signature": "System.Void ChipRicochetBounce00Script::MoveChipInit()",
+    "address": 2318944
+  },
+  {
+    "rid": 54,
+    "type": "ChipRicochetBounce00Script",
+    "name": "MoveChip",
+    "signature": "System.Void ChipRicochetBounce00Script::MoveChip()",
+    "address": 2319360
+  },
+  {
+    "rid": 55,
+    "type": "ChipRicochetBounce00Script",
+    "name": "Update",
+    "signature": "System.Void ChipRicochetBounce00Script::Update()",
+    "address": 2320588
+  },
+  {
+    "rid": 56,
+    "type": "ChipRicochetBounce00Script",
+    "name": "TriggerBounceToChipStack",
+    "signature": "System.Void ChipRicochetBounce00Script::TriggerBounceToChipStack()",
+    "address": 2320760
+  },
+  {
+    "rid": 57,
+    "type": "ChipRicochetBounce00Script",
+    "name": "ResetVariables",
+    "signature": "System.Void ChipRicochetBounce00Script::ResetVariables()",
+    "address": 2321004
+  },
+  {
+    "rid": 58,
+    "type": "ChipRicochetBounce00Script",
+    "name": "Start",
+    "signature": "System.Void ChipRicochetBounce00Script::Start()",
+    "address": 2321160
+  },
+  {
+    "rid": 59,
+    "type": "ChipRicochetBounce00Script",
+    "name": "Main",
+    "signature": "System.Void ChipRicochetBounce00Script::Main()",
+    "address": 2321260
+  },
+  {
+    "rid": 60,
+    "type": "ChipRicochetScript",
+    "name": ".ctor",
+    "signature": "System.Void ChipRicochetScript::.ctor()",
+    "address": 2321304
+  },
+  {
+    "rid": 61,
+    "type": "ChipRicochetScript",
+    "name": ".cctor",
+    "signature": "System.Void ChipRicochetScript::.cctor()",
+    "address": 2321356
+  },
+  {
+    "rid": 62,
+    "type": "ChipRicochetScript",
+    "name": "Update",
+    "signature": "System.Void ChipRicochetScript::Update()",
+    "address": 2321440
+  },
+  {
+    "rid": 63,
+    "type": "ChipRicochetScript",
+    "name": "Start",
+    "signature": "System.Void ChipRicochetScript::Start()",
+    "address": 2321648
+  },
+  {
+    "rid": 64,
+    "type": "ChipRicochetScript",
+    "name": "SetCurTexture",
+    "signature": "System.Void ChipRicochetScript::SetCurTexture(System.Int32)",
+    "address": 2321776
+  },
+  {
+    "rid": 65,
+    "type": "ChipRicochetScript",
+    "name": "Main",
+    "signature": "System.Void ChipRicochetScript::Main()",
+    "address": 2322368
+  },
+  {
+    "rid": 66,
+    "type": "CoinsLeftController",
+    "name": ".ctor",
+    "signature": "System.Void CoinsLeftController::.ctor()",
+    "address": 2322412
+  },
+  {
+    "rid": 67,
+    "type": "CoinsLeftController",
+    "name": ".cctor",
+    "signature": "System.Void CoinsLeftController::.cctor()",
+    "address": 2322464
+  },
+  {
+    "rid": 68,
+    "type": "CoinsLeftController",
+    "name": "TriggerCoinsLeft",
+    "signature": "System.Void CoinsLeftController::TriggerCoinsLeft(System.Int32)",
+    "address": 2322572
+  },
+  {
+    "rid": 69,
+    "type": "CoinsLeftController",
+    "name": "Update",
+    "signature": "System.Void CoinsLeftController::Update()",
+    "address": 2322664
+  },
+  {
+    "rid": 70,
+    "type": "CoinsLeftController",
+    "name": "Main",
+    "signature": "System.Void CoinsLeftController::Main()",
+    "address": 2323148
+  },
+  {
+    "rid": 71,
+    "type": "CrowdScript",
+    "name": ".ctor",
+    "signature": "System.Void CrowdScript::.ctor()",
+    "address": 2323192
+  },
+  {
+    "rid": 72,
+    "type": "CrowdScript",
+    "name": ".cctor",
+    "signature": "System.Void CrowdScript::.cctor()",
+    "address": 2323244
+  },
+  {
+    "rid": 73,
+    "type": "CrowdScript",
+    "name": "ApplauseSound",
+    "signature": "System.Void CrowdScript::ApplauseSound(System.Int32)",
+    "address": 2323304
+  },
+  {
+    "rid": 74,
+    "type": "CrowdScript",
+    "name": "FixedUpdate",
+    "signature": "System.Void CrowdScript::FixedUpdate()",
+    "address": 2323756
+  },
+  {
+    "rid": 75,
+    "type": "CrowdScript",
+    "name": "Main",
+    "signature": "System.Void CrowdScript::Main()",
+    "address": 2323908
+  },
+  {
+    "rid": 76,
+    "type": "lightray",
+    "name": ".ctor",
+    "signature": "System.Void lightray::.ctor()",
+    "address": 2323952
+  },
+  {
+    "rid": 77,
+    "type": "lightray",
+    "name": ".cctor",
+    "signature": "System.Void lightray::.cctor()",
+    "address": 2324028
+  },
+  {
+    "rid": 78,
+    "type": "lightray",
+    "name": "TintMesh",
+    "signature": "System.Void lightray::TintMesh(UnityEngine.MeshFilter)",
+    "address": 2324088
+  },
+  {
+    "rid": 79,
+    "type": "lightray",
+    "name": "PositionOffScreen",
+    "signature": "System.Void lightray::PositionOffScreen()",
+    "address": 2324580
+  },
+  {
+    "rid": 80,
+    "type": "lightray",
+    "name": "Start",
+    "signature": "System.Void lightray::Start()",
+    "address": 2324820
+  },
+  {
+    "rid": 81,
+    "type": "lightray",
+    "name": "Update",
+    "signature": "System.Void lightray::Update()",
+    "address": 2324908
+  },
+  {
+    "rid": 82,
+    "type": "lightray",
+    "name": "Main",
+    "signature": "System.Void lightray::Main()",
+    "address": 2326536
+  },
+  {
+    "rid": 83,
+    "type": "GameOver",
+    "name": ".ctor",
+    "signature": "System.Void GameOver::.ctor()",
+    "address": 2326580
+  },
+  {
+    "rid": 84,
+    "type": "GameOver",
+    "name": ".cctor",
+    "signature": "System.Void GameOver::.cctor()",
+    "address": 2326676
+  },
+  {
+    "rid": 85,
+    "type": "GameOver",
+    "name": "Start",
+    "signature": "System.Void GameOver::Start()",
+    "address": 2326784
+  },
+  {
+    "rid": 86,
+    "type": "GameOver",
+    "name": "Update",
+    "signature": "System.Void GameOver::Update()",
+    "address": 2326828
+  },
+  {
+    "rid": 87,
+    "type": "GameOver",
+    "name": "Main",
+    "signature": "System.Void GameOver::Main()",
+    "address": 2327212
+  },
+  {
+    "rid": 88,
+    "type": "RoundComplete",
+    "name": ".ctor",
+    "signature": "System.Void RoundComplete::.ctor()",
+    "address": 2327256
+  },
+  {
+    "rid": 89,
+    "type": "RoundComplete",
+    "name": ".cctor",
+    "signature": "System.Void RoundComplete::.cctor()",
+    "address": 2327352
+  },
+  {
+    "rid": 90,
+    "type": "RoundComplete",
+    "name": "Start",
+    "signature": "System.Void RoundComplete::Start()",
+    "address": 2327484
+  },
+  {
+    "rid": 91,
+    "type": "RoundComplete",
+    "name": "playAnimation",
+    "signature": "System.Void RoundComplete::playAnimation(System.Int32)",
+    "address": 2327528
+  },
+  {
+    "rid": 92,
+    "type": "RoundComplete",
+    "name": "HandleTextures",
+    "signature": "System.Void RoundComplete::HandleTextures(System.Int32)",
+    "address": 2328660
+  },
+  {
+    "rid": 93,
+    "type": "RoundComplete",
+    "name": "DisableAllDigitRenders",
+    "signature": "System.Void RoundComplete::DisableAllDigitRenders()",
+    "address": 2329728
+  },
+  {
+    "rid": 94,
+    "type": "RoundComplete",
+    "name": "Update",
+    "signature": "System.Void RoundComplete::Update()",
+    "address": 2329908
+  },
+  {
+    "rid": 95,
+    "type": "RoundComplete",
+    "name": "Main",
+    "signature": "System.Void RoundComplete::Main()",
+    "address": 2330332
+  },
+  {
+    "rid": 96,
+    "type": "Streak",
+    "name": ".ctor",
+    "signature": "System.Void Streak::.ctor()",
+    "address": 2330376
+  },
+  {
+    "rid": 97,
+    "type": "Streak",
+    "name": ".cctor",
+    "signature": "System.Void Streak::.cctor()",
+    "address": 2330428
+  },
+  {
+    "rid": 98,
+    "type": "Streak",
+    "name": "Trigger",
+    "signature": "System.Void Streak::Trigger(System.Int32)",
+    "address": 2330600
+  },
+  {
+    "rid": 99,
+    "type": "Streak",
+    "name": "Update",
+    "signature": "System.Void Streak::Update()",
+    "address": 2330708
+  },
+  {
+    "rid": 100,
+    "type": "Streak",
+    "name": "HandleTextures",
+    "signature": "System.Void Streak::HandleTextures(System.Int32)",
+    "address": 2331192
+  },
+  {
+    "rid": 101,
+    "type": "Streak",
+    "name": "DisableAllDigitRenders",
+    "signature": "System.Void Streak::DisableAllDigitRenders()",
+    "address": 2331964
+  },
+  {
+    "rid": 102,
+    "type": "Streak",
+    "name": "Main",
+    "signature": "System.Void Streak::Main()",
+    "address": 2332164
+  },
+  {
+    "rid": 103,
+    "type": "PracticeGreatScore",
+    "name": ".ctor",
+    "signature": "System.Void PracticeGreatScore::.ctor()",
+    "address": 2332208
+  },
+  {
+    "rid": 104,
+    "type": "PracticeGreatScore",
+    "name": ".cctor",
+    "signature": "System.Void PracticeGreatScore::.cctor()",
+    "address": 2332304
+  },
+  {
+    "rid": 105,
+    "type": "PracticeGreatScore",
+    "name": "Start",
+    "signature": "System.Void PracticeGreatScore::Start()",
+    "address": 2332388
+  },
+  {
+    "rid": 106,
+    "type": "PracticeGreatScore",
+    "name": "HandleGreatScoreTextures",
+    "signature": "System.Void PracticeGreatScore::HandleGreatScoreTextures(System.Int32)",
+    "address": 2332432
+  },
+  {
+    "rid": 107,
+    "type": "PracticeGreatScore",
+    "name": "Update",
+    "signature": "System.Void PracticeGreatScore::Update()",
+    "address": 2333860
+  },
+  {
+    "rid": 108,
+    "type": "PracticeGreatScore",
+    "name": "Main",
+    "signature": "System.Void PracticeGreatScore::Main()",
+    "address": 2334148
+  },
+  {
+    "rid": 109,
+    "type": "SecretRound",
+    "name": ".ctor",
+    "signature": "System.Void SecretRound::.ctor()",
+    "address": 2334192
+  },
+  {
+    "rid": 110,
+    "type": "SecretRound",
+    "name": ".cctor",
+    "signature": "System.Void SecretRound::.cctor()",
+    "address": 2334268
+  },
+  {
+    "rid": 111,
+    "type": "SecretRound",
+    "name": "Start",
+    "signature": "System.Void SecretRound::Start()",
+    "address": 2334352
+  },
+  {
+    "rid": 112,
+    "type": "SecretRound",
+    "name": "Update",
+    "signature": "System.Void SecretRound::Update()",
+    "address": 2334488
+  },
+  {
+    "rid": 113,
+    "type": "SecretRound",
+    "name": "Main",
+    "signature": "System.Void SecretRound::Main()",
+    "address": 2334988
+  },
+  {
+    "rid": 114,
+    "type": "About",
+    "name": ".ctor",
+    "signature": "System.Void About::.ctor()",
+    "address": 2335032
+  },
+  {
+    "rid": 115,
+    "type": "About",
+    "name": ".cctor",
+    "signature": "System.Void About::.cctor()",
+    "address": 2335176
+  },
+  {
+    "rid": 116,
+    "type": "About",
+    "name": "Start",
+    "signature": "System.Void About::Start()",
+    "address": 2335308
+  },
+  {
+    "rid": 117,
+    "type": "About",
+    "name": "Update",
+    "signature": "System.Void About::Update()",
+    "address": 2336000
+  },
+  {
+    "rid": 118,
+    "type": "About",
+    "name": "OnGUI",
+    "signature": "System.Void About::OnGUI()",
+    "address": 2336712
+  },
+  {
+    "rid": 119,
+    "type": "About",
+    "name": "DrawAboutText",
+    "signature": "System.Void About::DrawAboutText()",
+    "address": 2337112
+  },
+  {
+    "rid": 120,
+    "type": "About",
+    "name": "Main",
+    "signature": "System.Void About::Main()",
+    "address": 2339712
+  },
+  {
+    "rid": 121,
+    "type": "AreYouSure",
+    "name": ".ctor",
+    "signature": "System.Void AreYouSure::.ctor()",
+    "address": 2339756
+  },
+  {
+    "rid": 122,
+    "type": "AreYouSure",
+    "name": ".cctor",
+    "signature": "System.Void AreYouSure::.cctor()",
+    "address": 2339856
+  },
+  {
+    "rid": 123,
+    "type": "AreYouSure",
+    "name": "TriggerAreYouSureMessage",
+    "signature": "System.Void AreYouSure::TriggerAreYouSureMessage()",
+    "address": 2340028
+  },
+  {
+    "rid": 124,
+    "type": "AreYouSure",
+    "name": "Start",
+    "signature": "System.Void AreYouSure::Start()",
+    "address": 2340128
+  },
+  {
+    "rid": 125,
+    "type": "AreYouSure",
+    "name": "CheckButtons",
+    "signature": "System.Void AreYouSure::CheckButtons()",
+    "address": 2340172
+  },
+  {
+    "rid": 126,
+    "type": "AreYouSure",
+    "name": "OnGUI",
+    "signature": "System.Void AreYouSure::OnGUI()",
+    "address": 2341020
+  },
+  {
+    "rid": 127,
+    "type": "AreYouSure",
+    "name": "Main",
+    "signature": "System.Void AreYouSure::Main()",
+    "address": 2341404
+  },
+  {
+    "rid": 128,
+    "type": "mainmenu",
+    "name": ".ctor",
+    "signature": "System.Void mainmenu::.ctor()",
+    "address": 2341448
+  },
+  {
+    "rid": 129,
+    "type": "mainmenu",
+    "name": ".cctor",
+    "signature": "System.Void mainmenu::.cctor()",
+    "address": 2341724
+  },
+  {
+    "rid": 130,
+    "type": "mainmenu",
+    "name": "isPracticeLocked",
+    "signature": "System.Boolean mainmenu::isPracticeLocked()",
+    "address": 2342580
+  },
+  {
+    "rid": 131,
+    "type": "mainmenu",
+    "name": "SetPracticeTexture",
+    "signature": "System.Void mainmenu::SetPracticeTexture()",
+    "address": 2342688
+  },
+  {
+    "rid": 132,
+    "type": "mainmenu",
+    "name": "Start",
+    "signature": "System.Void mainmenu::Start()",
+    "address": 2342796
+  },
+  {
+    "rid": 133,
+    "type": "mainmenu",
+    "name": "DeleteLastGame",
+    "signature": "System.Void mainmenu::DeleteLastGame()",
+    "address": 2343380
+  },
+  {
+    "rid": 134,
+    "type": "mainmenu",
+    "name": "DoesLastGameExist",
+    "signature": "System.Boolean mainmenu::DoesLastGameExist()",
+    "address": 2344532
+  },
+  {
+    "rid": 135,
+    "type": "mainmenu",
+    "name": "LoadLastGame",
+    "signature": "System.Void mainmenu::LoadLastGame()",
+    "address": 2346084
+  },
+  {
+    "rid": 136,
+    "type": "mainmenu",
+    "name": "SaveLastGame",
+    "signature": "System.Void mainmenu::SaveLastGame()",
+    "address": 2347672
+  },
+  {
+    "rid": 137,
+    "type": "mainmenu",
+    "name": "PlayClickSound",
+    "signature": "System.Void mainmenu::PlayClickSound()",
+    "address": 2349212
+  },
+  {
+    "rid": 138,
+    "type": "mainmenu",
+    "name": "PlayIntroSound",
+    "signature": "System.Void mainmenu::PlayIntroSound()",
+    "address": 2349312
+  },
+  {
+    "rid": 139,
+    "type": "mainmenu",
+    "name": "DisplayGameScoreRecords",
+    "signature": "System.Void mainmenu::DisplayGameScoreRecords()",
+    "address": 2349412
+  },
+  {
+    "rid": 140,
+    "type": "mainmenu",
+    "name": "DisplayRoundScoreRecords",
+    "signature": "System.Void mainmenu::DisplayRoundScoreRecords()",
+    "address": 2351060
+  },
+  {
+    "rid": 141,
+    "type": "mainmenu",
+    "name": "CheckforBgndScale",
+    "signature": "System.Void mainmenu::CheckforBgndScale()",
+    "address": 2352500
+  },
+  {
+    "rid": 142,
+    "type": "mainmenu",
+    "name": "OnGUI",
+    "signature": "System.Void mainmenu::OnGUI()",
+    "address": 2352860
+  },
+  {
+    "rid": 143,
+    "type": "mainmenu",
+    "name": "DisplayMainLogo",
+    "signature": "System.Void mainmenu::DisplayMainLogo(System.Boolean)",
+    "address": 2363160
+  },
+  {
+    "rid": 144,
+    "type": "mainmenu",
+    "name": "DisplayLoadingMessage",
+    "signature": "System.Void mainmenu::DisplayLoadingMessage()",
+    "address": 2363304
+  },
+  {
+    "rid": 145,
+    "type": "mainmenu",
+    "name": "GameTypeNextState",
+    "signature": "System.Void mainmenu::GameTypeNextState(System.Int32)",
+    "address": 2363668
+  },
+  {
+    "rid": 146,
+    "type": "mainmenu",
+    "name": "LevelLoad",
+    "signature": "System.Void mainmenu::LevelLoad()",
+    "address": 2363888
+  },
+  {
+    "rid": 147,
+    "type": "mainmenu",
+    "name": "Main",
+    "signature": "System.Void mainmenu::Main()",
+    "address": 2363952
+  },
+  {
+    "rid": 148,
+    "type": "BackClearButtons",
+    "name": ".ctor",
+    "signature": "System.Void BackClearButtons::.ctor()",
+    "address": 2363996
+  },
+  {
+    "rid": 149,
+    "type": "BackClearButtons",
+    "name": ".cctor",
+    "signature": "System.Void BackClearButtons::.cctor()",
+    "address": 2364096
+  },
+  {
+    "rid": 150,
+    "type": "BackClearButtons",
+    "name": "Start",
+    "signature": "System.Void BackClearButtons::Start()",
+    "address": 2364204
+  },
+  {
+    "rid": 151,
+    "type": "BackClearButtons",
+    "name": "Update",
+    "signature": "System.Void BackClearButtons::Update()",
+    "address": 2364928
+  },
+  {
+    "rid": 152,
+    "type": "BackClearButtons",
+    "name": "OnGUI",
+    "signature": "System.Void BackClearButtons::OnGUI()",
+    "address": 2365604
+  },
+  {
+    "rid": 153,
+    "type": "BackClearButtons",
+    "name": "Main",
+    "signature": "System.Void BackClearButtons::Main()",
+    "address": 2365676
+  },
+  {
+    "rid": 154,
+    "type": "GameHighScreen",
+    "name": ".ctor",
+    "signature": "System.Void GameHighScreen::.ctor()",
+    "address": 2365720
+  },
+  {
+    "rid": 155,
+    "type": "GameHighScreen",
+    "name": ".cctor",
+    "signature": "System.Void GameHighScreen::.cctor()",
+    "address": 2365812
+  },
+  {
+    "rid": 156,
+    "type": "GameHighScreen",
+    "name": "Start",
+    "signature": "System.Void GameHighScreen::Start()",
+    "address": 2365920
+  },
+  {
+    "rid": 157,
+    "type": "GameHighScreen",
+    "name": "DisplayOddFinger",
+    "signature": "System.Void GameHighScreen::DisplayOddFinger(System.Boolean)",
+    "address": 2366524
+  },
+  {
+    "rid": 158,
+    "type": "GameHighScreen",
+    "name": "Update",
+    "signature": "System.Void GameHighScreen::Update()",
+    "address": 2366620
+  },
+  {
+    "rid": 159,
+    "type": "GameHighScreen",
+    "name": "OnGUI",
+    "signature": "System.Void GameHighScreen::OnGUI()",
+    "address": 2367188
+  },
+  {
+    "rid": 160,
+    "type": "GameHighScreen",
+    "name": "Main",
+    "signature": "System.Void GameHighScreen::Main()",
+    "address": 2367260
+  },
+  {
+    "rid": 161,
+    "type": "GameOrRoundButtons",
+    "name": ".ctor",
+    "signature": "System.Void GameOrRoundButtons::.ctor()",
+    "address": 2367304
+  },
+  {
+    "rid": 162,
+    "type": "GameOrRoundButtons",
+    "name": ".cctor",
+    "signature": "System.Void GameOrRoundButtons::.cctor()",
+    "address": 2367412
+  },
+  {
+    "rid": 163,
+    "type": "GameOrRoundButtons",
+    "name": "Start",
+    "signature": "System.Void GameOrRoundButtons::Start()",
+    "address": 2367568
+  },
+  {
+    "rid": 164,
+    "type": "GameOrRoundButtons",
+    "name": "Update",
+    "signature": "System.Void GameOrRoundButtons::Update()",
+    "address": 2368340
+  },
+  {
+    "rid": 165,
+    "type": "GameOrRoundButtons",
+    "name": "OnGUI",
+    "signature": "System.Void GameOrRoundButtons::OnGUI()",
+    "address": 2369200
+  },
+  {
+    "rid": 166,
+    "type": "GameOrRoundButtons",
+    "name": "HandleButtonTextures",
+    "signature": "System.Void GameOrRoundButtons::HandleButtonTextures()",
+    "address": 2369272
+  },
+  {
+    "rid": 167,
+    "type": "GameOrRoundButtons",
+    "name": "Main",
+    "signature": "System.Void GameOrRoundButtons::Main()",
+    "address": 2369540
+  },
+  {
+    "rid": 168,
+    "type": "Logo",
+    "name": ".ctor",
+    "signature": "System.Void Logo::.ctor()",
+    "address": 2369584
+  },
+  {
+    "rid": 169,
+    "type": "Logo",
+    "name": ".cctor",
+    "signature": "System.Void Logo::.cctor()",
+    "address": 2369676
+  },
+  {
+    "rid": 170,
+    "type": "Logo",
+    "name": "Start",
+    "signature": "System.Void Logo::Start()",
+    "address": 2369784
+  },
+  {
+    "rid": 171,
+    "type": "Logo",
+    "name": "Update",
+    "signature": "System.Void Logo::Update()",
+    "address": 2370320
+  },
+  {
+    "rid": 172,
+    "type": "Logo",
+    "name": "OnGUI",
+    "signature": "System.Void Logo::OnGUI()",
+    "address": 2370856
+  },
+  {
+    "rid": 173,
+    "type": "Logo",
+    "name": "Main",
+    "signature": "System.Void Logo::Main()",
+    "address": 2370928
+  },
+  {
+    "rid": 174,
+    "type": "RoundHighScreen",
+    "name": ".ctor",
+    "signature": "System.Void RoundHighScreen::.ctor()",
+    "address": 2370972
+  },
+  {
+    "rid": 175,
+    "type": "RoundHighScreen",
+    "name": ".cctor",
+    "signature": "System.Void RoundHighScreen::.cctor()",
+    "address": 2371064
+  },
+  {
+    "rid": 176,
+    "type": "RoundHighScreen",
+    "name": "Start",
+    "signature": "System.Void RoundHighScreen::Start()",
+    "address": 2371172
+  },
+  {
+    "rid": 177,
+    "type": "RoundHighScreen",
+    "name": "Update",
+    "signature": "System.Void RoundHighScreen::Update()",
+    "address": 2371876
+  },
+  {
+    "rid": 178,
+    "type": "RoundHighScreen",
+    "name": "OnGUI",
+    "signature": "System.Void RoundHighScreen::OnGUI()",
+    "address": 2372412
+  },
+  {
+    "rid": 179,
+    "type": "RoundHighScreen",
+    "name": "Main",
+    "signature": "System.Void RoundHighScreen::Main()",
+    "address": 2372484
+  },
+  {
+    "rid": 180,
+    "type": "PlayerInfoClass",
+    "name": ".ctor",
+    "signature": "System.Void PlayerInfoClass::.ctor()",
+    "address": 2372528
+  },
+  {
+    "rid": 181,
+    "type": "GameManagerScript",
+    "name": ".ctor",
+    "signature": "System.Void GameManagerScript::.ctor()",
+    "address": 2372680
+  },
+  {
+    "rid": 182,
+    "type": "GameManagerScript",
+    "name": ".cctor",
+    "signature": "System.Void GameManagerScript::.cctor()",
+    "address": 2372744
+  },
+  {
+    "rid": 183,
+    "type": "GameManagerScript",
+    "name": "Start",
+    "signature": "System.Void GameManagerScript::Start()",
+    "address": 2374176
+  },
+  {
+    "rid": 184,
+    "type": "GameManagerScript",
+    "name": "is_iPad",
+    "signature": "System.Boolean GameManagerScript::is_iPad()",
+    "address": 2374672
+  },
+  {
+    "rid": 185,
+    "type": "GameManagerScript",
+    "name": "StoreSecretRoundUnlockCode",
+    "signature": "System.Void GameManagerScript::StoreSecretRoundUnlockCode(System.Int32)",
+    "address": 2374760
+  },
+  {
+    "rid": 186,
+    "type": "GameManagerScript",
+    "name": "ResetUserSecretCodes",
+    "signature": "System.Void GameManagerScript::ResetUserSecretCodes()",
+    "address": 2375740
+  },
+  {
+    "rid": 187,
+    "type": "GameManagerScript",
+    "name": "IsLastActivePlayer",
+    "signature": "System.Boolean GameManagerScript::IsLastActivePlayer(System.Int32)",
+    "address": 2375964
+  },
+  {
+    "rid": 188,
+    "type": "GameManagerScript",
+    "name": "ResetShotAngleToDefault",
+    "signature": "System.Void GameManagerScript::ResetShotAngleToDefault()",
+    "address": 2376392
+  },
+  {
+    "rid": 189,
+    "type": "GameManagerScript",
+    "name": "GetCurrentRoundScore",
+    "signature": "System.Int32 GameManagerScript::GetCurrentRoundScore()",
+    "address": 2376476
+  },
+  {
+    "rid": 190,
+    "type": "GameManagerScript",
+    "name": "SetCurrentRoundScore",
+    "signature": "System.Int32 GameManagerScript::SetCurrentRoundScore(System.Int32)",
+    "address": 2376804
+  },
+  {
+    "rid": 191,
+    "type": "GameManagerScript",
+    "name": "UpdateCurRicochet",
+    "signature": "System.Int32 GameManagerScript::UpdateCurRicochet(System.Int32)",
+    "address": 2377144
+  },
+  {
+    "rid": 192,
+    "type": "GameManagerScript",
+    "name": "AddRoundScore",
+    "signature": "System.Void GameManagerScript::AddRoundScore(System.Int32)",
+    "address": 2377516
+  },
+  {
+    "rid": 193,
+    "type": "GameManagerScript",
+    "name": "AddScore",
+    "signature": "System.Void GameManagerScript::AddScore(System.Int32)",
+    "address": 2377596
+  },
+  {
+    "rid": 194,
+    "type": "GameManagerScript",
+    "name": "IncrementCurrentStreak",
+    "signature": "System.Void GameManagerScript::IncrementCurrentStreak()",
+    "address": 2377704
+  },
+  {
+    "rid": 195,
+    "type": "GameManagerScript",
+    "name": "SetCurrentStreak",
+    "signature": "System.Void GameManagerScript::SetCurrentStreak(System.Int32)",
+    "address": 2377796
+  },
+  {
+    "rid": 196,
+    "type": "GameManagerScript",
+    "name": "ClearAllScores",
+    "signature": "System.Void GameManagerScript::ClearAllScores()",
+    "address": 2377952
+  },
+  {
+    "rid": 197,
+    "type": "GameManagerScript",
+    "name": "ResetGameManagerVars",
+    "signature": "System.Void GameManagerScript::ResetGameManagerVars()",
+    "address": 2378004
+  },
+  {
+    "rid": 198,
+    "type": "GameManagerScript",
+    "name": "UpdateRound",
+    "signature": "System.Void GameManagerScript::UpdateRound()",
+    "address": 2378140
+  },
+  {
+    "rid": 199,
+    "type": "GameManagerScript",
+    "name": "GetNextCurrentPlayer",
+    "signature": "System.Boolean GameManagerScript::GetNextCurrentPlayer()",
+    "address": 2378592
+  },
+  {
+    "rid": 200,
+    "type": "GameManagerScript",
+    "name": "UpdateShotCount",
+    "signature": "System.Int32 GameManagerScript::UpdateShotCount(System.Int32)",
+    "address": 2379324
+  },
+  {
+    "rid": 201,
+    "type": "GameManagerScript",
+    "name": "ClearAllGameOverFlags",
+    "signature": "System.Void GameManagerScript::ClearAllGameOverFlags()",
+    "address": 2380320
+  },
+  {
+    "rid": 202,
+    "type": "GameManagerScript",
+    "name": "SetCurrentGameOverFlag",
+    "signature": "System.Int32 GameManagerScript::SetCurrentGameOverFlag(System.Boolean)",
+    "address": 2380564
+  },
+  {
+    "rid": 203,
+    "type": "GameManagerScript",
+    "name": "AllPlayersGameOver",
+    "signature": "System.Boolean GameManagerScript::AllPlayersGameOver()",
+    "address": 2380904
+  },
+  {
+    "rid": 204,
+    "type": "GameManagerScript",
+    "name": "ClearAllPlayedThisRoundFlags",
+    "signature": "System.Void GameManagerScript::ClearAllPlayedThisRoundFlags()",
+    "address": 2381264
+  },
+  {
+    "rid": 205,
+    "type": "GameManagerScript",
+    "name": "SetCurrentPlayedThisRound",
+    "signature": "System.Int32 GameManagerScript::SetCurrentPlayedThisRound(System.Boolean)",
+    "address": 2381508
+  },
+  {
+    "rid": 206,
+    "type": "GameManagerScript",
+    "name": "GetCurrentPlayedThisRound",
+    "signature": "System.Boolean GameManagerScript::GetCurrentPlayedThisRound()",
+    "address": 2381848
+  },
+  {
+    "rid": 207,
+    "type": "GameManagerScript",
+    "name": "GetPlayedThisRound",
+    "signature": "System.Boolean GameManagerScript::GetPlayedThisRound(System.Int32)",
+    "address": 2382184
+  },
+  {
+    "rid": 208,
+    "type": "GameManagerScript",
+    "name": "SetAllShotsLeft",
+    "signature": "System.Void GameManagerScript::SetAllShotsLeft(System.Int32)",
+    "address": 2382456
+  },
+  {
+    "rid": 209,
+    "type": "GameManagerScript",
+    "name": "AllPlayersOutOfShots",
+    "signature": "System.Boolean GameManagerScript::AllPlayersOutOfShots()",
+    "address": 2382696
+  },
+  {
+    "rid": 210,
+    "type": "GameManagerScript",
+    "name": "SetCurrentInputType",
+    "signature": "System.Int32 GameManagerScript::SetCurrentInputType(System.Int32)",
+    "address": 2383068
+  },
+  {
+    "rid": 211,
+    "type": "GameManagerScript",
+    "name": "GetCurrentInputType",
+    "signature": "System.Int32 GameManagerScript::GetCurrentInputType()",
+    "address": 2383472
+  },
+  {
+    "rid": 212,
+    "type": "GameManagerScript",
+    "name": "SetCurrentShotsLeft",
+    "signature": "System.Int32 GameManagerScript::SetCurrentShotsLeft(System.Int32)",
+    "address": 2383800
+  },
+  {
+    "rid": 213,
+    "type": "GameManagerScript",
+    "name": "GetCurrentShotsLeft",
+    "signature": "System.Int32 GameManagerScript::GetCurrentShotsLeft(System.Int32)",
+    "address": 2384140
+  },
+  {
+    "rid": 214,
+    "type": "GameManagerScript",
+    "name": "GetPlayerShotsLeft",
+    "signature": "System.Int32 GameManagerScript::GetPlayerShotsLeft(System.Int32)",
+    "address": 2384404
+  },
+  {
+    "rid": 215,
+    "type": "GameManagerScript",
+    "name": "DecrementCurrentShotsLeft",
+    "signature": "System.Int32 GameManagerScript::DecrementCurrentShotsLeft()",
+    "address": 2384668
+  },
+  {
+    "rid": 216,
+    "type": "GameManagerScript",
+    "name": "GetCurrentShotsLeft",
+    "signature": "System.Int32 GameManagerScript::GetCurrentShotsLeft()",
+    "address": 2385068
+  },
+  {
+    "rid": 217,
+    "type": "GameManagerScript",
+    "name": "ClearScores",
+    "signature": "System.Void GameManagerScript::ClearScores()",
+    "address": 2385396
+  },
+  {
+    "rid": 218,
+    "type": "GameManagerScript",
+    "name": "AddPlayerScore",
+    "signature": "System.Int32 GameManagerScript::AddPlayerScore(System.Int32,System.Int32)",
+    "address": 2385640
+  },
+  {
+    "rid": 219,
+    "type": "GameManagerScript",
+    "name": "SetCurrentScore",
+    "signature": "System.Int32 GameManagerScript::SetCurrentScore(System.Int32)",
+    "address": 2385936
+  },
+  {
+    "rid": 220,
+    "type": "GameManagerScript",
+    "name": "GetCurrentScore",
+    "signature": "System.Int32 GameManagerScript::GetCurrentScore()",
+    "address": 2386276
+  },
+  {
+    "rid": 221,
+    "type": "GameManagerScript",
+    "name": "GetPlayerScore",
+    "signature": "System.Int32 GameManagerScript::GetPlayerScore(System.Int32)",
+    "address": 2386604
+  },
+  {
+    "rid": 222,
+    "type": "GameManagerScript",
+    "name": "ClearRoundStreaks",
+    "signature": "System.Void GameManagerScript::ClearRoundStreaks()",
+    "address": 2386868
+  },
+  {
+    "rid": 223,
+    "type": "GameManagerScript",
+    "name": "SetCurrentRoundStreak",
+    "signature": "System.Int32 GameManagerScript::SetCurrentRoundStreak(System.Int32)",
+    "address": 2387112
+  },
+  {
+    "rid": 224,
+    "type": "GameManagerScript",
+    "name": "GetPlayerMaxStreak",
+    "signature": "System.Int32 GameManagerScript::GetPlayerMaxStreak(System.Int32)",
+    "address": 2387452
+  },
+  {
+    "rid": 225,
+    "type": "GameManagerScript",
+    "name": "GetPlayerMaxRicochet",
+    "signature": "System.Int32 GameManagerScript::GetPlayerMaxRicochet(System.Int32)",
+    "address": 2387716
+  },
+  {
+    "rid": 226,
+    "type": "GameManagerScript",
+    "name": "GetCurrentRoundStreak",
+    "signature": "System.Int32 GameManagerScript::GetCurrentRoundStreak()",
+    "address": 2387980
+  },
+  {
+    "rid": 227,
+    "type": "GameManagerScript",
+    "name": "SetCurrentTotalStreak",
+    "signature": "System.Int32 GameManagerScript::SetCurrentTotalStreak(System.Int32)",
+    "address": 2388308
+  },
+  {
+    "rid": 228,
+    "type": "GameManagerScript",
+    "name": "ClearTotalStreaks",
+    "signature": "System.Void GameManagerScript::ClearTotalStreaks()",
+    "address": 2388676
+  },
+  {
+    "rid": 229,
+    "type": "GameManagerScript",
+    "name": "GetCurrentTotalStreak",
+    "signature": "System.Int32 GameManagerScript::GetCurrentTotalStreak()",
+    "address": 2388960
+  },
+  {
+    "rid": 230,
+    "type": "GameManagerScript",
+    "name": "SetName",
+    "signature": "System.Boolean GameManagerScript::SetName(System.String,System.Int32)",
+    "address": 2389288
+  },
+  {
+    "rid": 231,
+    "type": "GameManagerScript",
+    "name": "GetName",
+    "signature": "System.String GameManagerScript::GetName(System.Int32)",
+    "address": 2389572
+  },
+  {
+    "rid": 232,
+    "type": "GameManagerScript",
+    "name": "GetNameEnteredFlag",
+    "signature": "System.Boolean GameManagerScript::GetNameEnteredFlag(System.Int32)",
+    "address": 2389848
+  },
+  {
+    "rid": 233,
+    "type": "GameManagerScript",
+    "name": "SetNameEnteredFlag",
+    "signature": "System.Boolean GameManagerScript::SetNameEnteredFlag(System.Int32)",
+    "address": 2390120
+  },
+  {
+    "rid": 234,
+    "type": "GameManagerScript",
+    "name": "ResetPlayerData",
+    "signature": "System.Void GameManagerScript::ResetPlayerData()",
+    "address": 2390400
+  },
+  {
+    "rid": 235,
+    "type": "GameManagerScript",
+    "name": "Awake",
+    "signature": "System.Void GameManagerScript::Awake()",
+    "address": 2390608
+  },
+  {
+    "rid": 236,
+    "type": "GameManagerScript",
+    "name": "OnApplicationQuit",
+    "signature": "System.Void GameManagerScript::OnApplicationQuit()",
+    "address": 2390840
+  },
+  {
+    "rid": 237,
+    "type": "GameManagerScript",
+    "name": "GetiPadRect",
+    "signature": "UnityEngine.Rect GameManagerScript::GetiPadRect(UnityEngine.Rect,System.Boolean)",
+    "address": 2390884
+  },
+  {
+    "rid": 238,
+    "type": "GameManagerScript",
+    "name": "GetiPhoneRect",
+    "signature": "UnityEngine.Rect GameManagerScript::GetiPhoneRect(UnityEngine.Rect,System.Boolean)",
+    "address": 2392096
+  },
+  {
+    "rid": 239,
+    "type": "GameManagerScript",
+    "name": "Main",
+    "signature": "System.Void GameManagerScript::Main()",
+    "address": 2393308
+  },
+  {
+    "rid": 240,
+    "type": "HiScorePracticeScript",
+    "name": ".ctor",
+    "signature": "System.Void HiScorePracticeScript::.ctor()",
+    "address": 2393352
+  },
+  {
+    "rid": 241,
+    "type": "HiScorePracticeScript",
+    "name": ".cctor",
+    "signature": "System.Void HiScorePracticeScript::.cctor()",
+    "address": 2393416
+  },
+  {
+    "rid": 242,
+    "type": "HiScorePracticeScript",
+    "name": "Awake",
+    "signature": "System.Void HiScorePracticeScript::Awake()",
+    "address": 2393604
+  },
+  {
+    "rid": 243,
+    "type": "HiScorePracticeScript",
+    "name": "GetArray",
+    "signature": "System.Collections.ArrayList HiScorePracticeScript::GetArray()",
+    "address": 2393692
+  },
+  {
+    "rid": 244,
+    "type": "HiScorePracticeScript",
+    "name": "AddPracticeHiScore",
+    "signature": "System.Boolean HiScorePracticeScript::AddPracticeHiScore(System.Int32,System.Single,System.String)",
+    "address": 2393748
+  },
+  {
+    "rid": 245,
+    "type": "HiScorePracticeScript",
+    "name": "SaveEntries",
+    "signature": "System.Void HiScorePracticeScript::SaveEntries()",
+    "address": 2394160
+  },
+  {
+    "rid": 246,
+    "type": "HiScorePracticeScript",
+    "name": "LoadEntries",
+    "signature": "System.Void HiScorePracticeScript::LoadEntries()",
+    "address": 2394580
+  },
+  {
+    "rid": 247,
+    "type": "HiScorePracticeScript",
+    "name": "GetName",
+    "signature": "System.String HiScorePracticeScript::GetName(System.Int32)",
+    "address": 2395032
+  },
+  {
+    "rid": 248,
+    "type": "HiScorePracticeScript",
+    "name": "GetScore",
+    "signature": "System.Int32 HiScorePracticeScript::GetScore(System.Int32)",
+    "address": 2395344
+  },
+  {
+    "rid": 249,
+    "type": "HiScorePracticeScript",
+    "name": "WipeoutPrefs",
+    "signature": "System.Void HiScorePracticeScript::WipeoutPrefs()",
+    "address": 2395704
+  },
+  {
+    "rid": 250,
+    "type": "HiScorePracticeScript",
+    "name": "Main",
+    "signature": "System.Void HiScorePracticeScript::Main()",
+    "address": 2396240
+  },
+  {
+    "rid": 251,
+    "type": "HiScoreRoundScript",
+    "name": ".ctor",
+    "signature": "System.Void HiScoreRoundScript::.ctor()",
+    "address": 2396284
+  },
+  {
+    "rid": 252,
+    "type": "HiScoreRoundScript",
+    "name": ".cctor",
+    "signature": "System.Void HiScoreRoundScript::.cctor()",
+    "address": 2396348
+  },
+  {
+    "rid": 253,
+    "type": "HiScoreRoundScript",
+    "name": "Awake",
+    "signature": "System.Void HiScoreRoundScript::Awake()",
+    "address": 2396536
+  },
+  {
+    "rid": 254,
+    "type": "HiScoreRoundScript",
+    "name": "GetArray",
+    "signature": "System.Collections.ArrayList HiScoreRoundScript::GetArray()",
+    "address": 2396624
+  },
+  {
+    "rid": 255,
+    "type": "HiScoreRoundScript",
+    "name": "AddRoundHiScore",
+    "signature": "System.Boolean HiScoreRoundScript::AddRoundHiScore(System.Int32,System.Single,System.String)",
+    "address": 2396680
+  },
+  {
+    "rid": 256,
+    "type": "HiScoreRoundScript",
+    "name": "SaveEntries",
+    "signature": "System.Void HiScoreRoundScript::SaveEntries()",
+    "address": 2397080
+  },
+  {
+    "rid": 257,
+    "type": "HiScoreRoundScript",
+    "name": "LoadEntries",
+    "signature": "System.Void HiScoreRoundScript::LoadEntries()",
+    "address": 2397500
+  },
+  {
+    "rid": 258,
+    "type": "HiScoreRoundScript",
+    "name": "GetName",
+    "signature": "System.String HiScoreRoundScript::GetName(System.Int32)",
+    "address": 2397952
+  },
+  {
+    "rid": 259,
+    "type": "HiScoreRoundScript",
+    "name": "GetScore",
+    "signature": "System.Int32 HiScoreRoundScript::GetScore(System.Int32)",
+    "address": 2398264
+  },
+  {
+    "rid": 260,
+    "type": "HiScoreRoundScript",
+    "name": "WipeoutPrefs",
+    "signature": "System.Void HiScoreRoundScript::WipeoutPrefs()",
+    "address": 2398624
+  },
+  {
+    "rid": 261,
+    "type": "HiScoreRoundScript",
+    "name": "Main",
+    "signature": "System.Void HiScoreRoundScript::Main()",
+    "address": 2399160
+  },
+  {
+    "rid": 262,
+    "type": "Entry",
+    "name": ".ctor",
+    "signature": "System.Void Entry::.ctor()",
+    "address": 2399204
+  },
+  {
+    "rid": 263,
+    "type": "HiScoreScript",
+    "name": ".ctor",
+    "signature": "System.Void HiScoreScript::.ctor()",
+    "address": 2399300
+  },
+  {
+    "rid": 264,
+    "type": "HiScoreScript",
+    "name": ".cctor",
+    "signature": "System.Void HiScoreScript::.cctor()",
+    "address": 2399388
+  },
+  {
+    "rid": 265,
+    "type": "HiScoreScript",
+    "name": "GetArray",
+    "signature": "System.Collections.ArrayList HiScoreScript::GetArray()",
+    "address": 2399716
+  },
+  {
+    "rid": 266,
+    "type": "HiScoreScript",
+    "name": "SetPrefStringPrefix",
+    "signature": "System.Void HiScoreScript::SetPrefStringPrefix(System.Int32)",
+    "address": 2399772
+  },
+  {
+    "rid": 267,
+    "type": "HiScoreScript",
+    "name": "Awake",
+    "signature": "System.Void HiScoreScript::Awake()",
+    "address": 2400084
+  },
+  {
+    "rid": 268,
+    "type": "HiScoreScript",
+    "name": "LoadEntries",
+    "signature": "System.Void HiScoreScript::LoadEntries(System.Int32)",
+    "address": 2400156
+  },
+  {
+    "rid": 269,
+    "type": "HiScoreScript",
+    "name": "SaveEntries",
+    "signature": "System.Void HiScoreScript::SaveEntries()",
+    "address": 2400880
+  },
+  {
+    "rid": 270,
+    "type": "HiScoreScript",
+    "name": "SetHiScoreName",
+    "signature": "System.Void HiScoreScript::SetHiScoreName(System.Int32,System.String)",
+    "address": 2401432
+  },
+  {
+    "rid": 271,
+    "type": "HiScoreScript",
+    "name": "GetHighScorePosition",
+    "signature": "System.Int32 HiScoreScript::GetHighScorePosition(System.Single)",
+    "address": 2401828
+  },
+  {
+    "rid": 272,
+    "type": "HiScoreScript",
+    "name": "InsertHiScore",
+    "signature": "System.Int32 HiScoreScript::InsertHiScore(System.Single,System.String)",
+    "address": 2402264
+  },
+  {
+    "rid": 273,
+    "type": "HiScoreScript",
+    "name": "LoadLocks",
+    "signature": "System.Void HiScoreScript::LoadLocks()",
+    "address": 2403004
+  },
+  {
+    "rid": 274,
+    "type": "HiScoreScript",
+    "name": "UpdateLockedRoundIndex",
+    "signature": "System.Void HiScoreScript::UpdateLockedRoundIndex(System.Int32)",
+    "address": 2403152
+  },
+  {
+    "rid": 275,
+    "type": "HiScoreScript",
+    "name": "WipeoutPrefs",
+    "signature": "System.Void HiScoreScript::WipeoutPrefs()",
+    "address": 2403332
+  },
+  {
+    "rid": 276,
+    "type": "HiScoreScript",
+    "name": "WipeoutAllPrefs",
+    "signature": "System.Void HiScoreScript::WipeoutAllPrefs()",
+    "address": 2403752
+  },
+  {
+    "rid": 277,
+    "type": "HiScoreScript",
+    "name": "Main",
+    "signature": "System.Void HiScoreScript::Main()",
+    "address": 2403940
+  },
+  {
+    "rid": 278,
+    "type": "InGameHiScore",
+    "name": ".ctor",
+    "signature": "System.Void InGameHiScore::.ctor()",
+    "address": 2403984
+  },
+  {
+    "rid": 279,
+    "type": "InGameHiScore",
+    "name": ".cctor",
+    "signature": "System.Void InGameHiScore::.cctor()",
+    "address": 2404100
+  },
+  {
+    "rid": 280,
+    "type": "InGameHiScore",
+    "name": "Start",
+    "signature": "System.Void InGameHiScore::Start()",
+    "address": 2404184
+  },
+  {
+    "rid": 281,
+    "type": "InGameHiScore",
+    "name": "ScoresText",
+    "signature": "System.Void InGameHiScore::ScoresText()",
+    "address": 2404228
+  },
+  {
+    "rid": 282,
+    "type": "InGameHiScore",
+    "name": "OnGUI",
+    "signature": "System.Void InGameHiScore::OnGUI()",
+    "address": 2407468
+  },
+  {
+    "rid": 283,
+    "type": "InGameHiScore",
+    "name": "Update",
+    "signature": "System.Void InGameHiScore::Update()",
+    "address": 2408020
+  },
+  {
+    "rid": 284,
+    "type": "InGameHiScore",
+    "name": "Main",
+    "signature": "System.Void InGameHiScore::Main()",
+    "address": 2408712
+  },
+  {
+    "rid": 285,
+    "type": "IntroCamScript",
+    "name": ".ctor",
+    "signature": "System.Void IntroCamScript::.ctor()",
+    "address": 2408756
+  },
+  {
+    "rid": 286,
+    "type": "IntroCamScript",
+    "name": "LateUpdate",
+    "signature": "System.Void IntroCamScript::LateUpdate()",
+    "address": 2408904
+  },
+  {
+    "rid": 287,
+    "type": "IntroCamScript",
+    "name": "Main",
+    "signature": "System.Void IntroCamScript::Main()",
+    "address": 2410192
+  },
+  {
+    "rid": 288,
+    "type": "LauncherScript",
+    "name": ".ctor",
+    "signature": "System.Void LauncherScript::.ctor()",
+    "address": 2410236
+  },
+  {
+    "rid": 289,
+    "type": "LauncherScript",
+    "name": "OnCollisionEnter",
+    "signature": "System.Void LauncherScript::OnCollisionEnter(UnityEngine.Collision)",
+    "address": 2410460
+  },
+  {
+    "rid": 290,
+    "type": "LauncherScript",
+    "name": "Start",
+    "signature": "System.Void LauncherScript::Start()",
+    "address": 2411836
+  },
+  {
+    "rid": 291,
+    "type": "LauncherScript",
+    "name": "Update",
+    "signature": "System.Void LauncherScript::Update()",
+    "address": 2411892
+  },
+  {
+    "rid": 292,
+    "type": "LauncherScript",
+    "name": "Main",
+    "signature": "System.Void LauncherScript::Main()",
+    "address": 2412872
+  },
+  {
+    "rid": 293,
+    "type": "LazySusanGlassShadow",
+    "name": ".ctor",
+    "signature": "System.Void LazySusanGlassShadow::.ctor()",
+    "address": 2412916
+  },
+  {
+    "rid": 294,
+    "type": "LazySusanGlassShadow",
+    "name": "Update",
+    "signature": "System.Void LazySusanGlassShadow::Update()",
+    "address": 2412968
+  },
+  {
+    "rid": 295,
+    "type": "LazySusanGlassShadow",
+    "name": "IsLazySusanActive",
+    "signature": "System.Boolean LazySusanGlassShadow::IsLazySusanActive()",
+    "address": 2414784
+  },
+  {
+    "rid": 296,
+    "type": "LazySusanGlassShadow",
+    "name": "Main",
+    "signature": "System.Void LazySusanGlassShadow::Main()",
+    "address": 2414884
+  },
+  {
+    "rid": 297,
+    "type": "LighterScript",
+    "name": ".ctor",
+    "signature": "System.Void LighterScript::.ctor()",
+    "address": 2414928
+  },
+  {
+    "rid": 298,
+    "type": "LighterScript",
+    "name": "OnCollisionEnter",
+    "signature": "System.Void LighterScript::OnCollisionEnter(UnityEngine.Collision)",
+    "address": 2415084
+  },
+  {
+    "rid": 299,
+    "type": "LighterScript",
+    "name": "Start",
+    "signature": "System.Void LighterScript::Start()",
+    "address": 2416476
+  },
+  {
+    "rid": 300,
+    "type": "LighterScript",
+    "name": "Update",
+    "signature": "System.Void LighterScript::Update()",
+    "address": 2416532
+  },
+  {
+    "rid": 301,
+    "type": "LighterScript",
+    "name": "Main",
+    "signature": "System.Void LighterScript::Main()",
+    "address": 2417512
+  },
+  {
+    "rid": 302,
+    "type": "MainCameraScript",
+    "name": ".ctor",
+    "signature": "System.Void MainCameraScript::.ctor()",
+    "address": 2417556
+  },
+  {
+    "rid": 303,
+    "type": "MainCameraScript",
+    "name": "Start",
+    "signature": "System.Void MainCameraScript::Start()",
+    "address": 2417688
+  },
+  {
+    "rid": 304,
+    "type": "MainCameraScript",
+    "name": "LateUpdate",
+    "signature": "System.Void MainCameraScript::LateUpdate()",
+    "address": 2417876
+  },
+  {
+    "rid": 305,
+    "type": "MainCameraScript",
+    "name": "Main",
+    "signature": "System.Void MainCameraScript::Main()",
+    "address": 2420104
+  },
+  {
+    "rid": 306,
+    "type": "NewtonsCradleScript",
+    "name": ".ctor",
+    "signature": "System.Void NewtonsCradleScript::.ctor()",
+    "address": 2420148
+  },
+  {
+    "rid": 307,
+    "type": "NewtonsCradleScript",
+    "name": "Start",
+    "signature": "System.Void NewtonsCradleScript::Start()",
+    "address": 2420404
+  },
+  {
+    "rid": 308,
+    "type": "NewtonsCradleScript",
+    "name": "FixedUpdate",
+    "signature": "System.Void NewtonsCradleScript::FixedUpdate()",
+    "address": 2420692
+  },
+  {
+    "rid": 309,
+    "type": "NewtonsCradleScript",
+    "name": "OnCollisionEnter",
+    "signature": "System.Void NewtonsCradleScript::OnCollisionEnter(UnityEngine.Collision)",
+    "address": 2421520
+  },
+  {
+    "rid": 310,
+    "type": "NewtonsCradleScript",
+    "name": "Main",
+    "signature": "System.Void NewtonsCradleScript::Main()",
+    "address": 2422828
+  },
+  {
+    "rid": 311,
+    "type": "ColliderInfoClass",
+    "name": ".ctor",
+    "signature": "System.Void ColliderInfoClass::.ctor()",
+    "address": 2422872
+  },
+  {
+    "rid": 312,
+    "type": "ColliderGameObjectClass",
+    "name": ".ctor",
+    "signature": "System.Void ColliderGameObjectClass::.ctor()",
+    "address": 2422952
+  },
+  {
+    "rid": 313,
+    "type": "QuarterTrigger",
+    "name": ".ctor",
+    "signature": "System.Void QuarterTrigger::.ctor()",
+    "address": 2423032
+  },
+  {
+    "rid": 314,
+    "type": "QuarterTrigger",
+    "name": ".cctor",
+    "signature": "System.Void QuarterTrigger::.cctor()",
+    "address": 2425172
+  },
+  {
+    "rid": 315,
+    "type": "QuarterTrigger",
+    "name": "InitQuarterData",
+    "signature": "System.Void QuarterTrigger::InitQuarterData()",
+    "address": 2426492
+  },
+  {
+    "rid": 316,
+    "type": "QuarterTrigger",
+    "name": "ResetQuarterData",
+    "signature": "System.Void QuarterTrigger::ResetQuarterData()",
+    "address": 2426692
+  },
+  {
+    "rid": 317,
+    "type": "QuarterTrigger",
+    "name": "AddQuarterData",
+    "signature": "System.Void QuarterTrigger::AddQuarterData(System.Int32)",
+    "address": 2426748
+  },
+  {
+    "rid": 318,
+    "type": "QuarterTrigger",
+    "name": "RestoreQuarterData",
+    "signature": "System.Void QuarterTrigger::RestoreQuarterData(System.Int32)",
+    "address": 2427436
+  },
+  {
+    "rid": 319,
+    "type": "QuarterTrigger",
+    "name": "LoadMutePref",
+    "signature": "System.Void QuarterTrigger::LoadMutePref()",
+    "address": 2428248
+  },
+  {
+    "rid": 320,
+    "type": "QuarterTrigger",
+    "name": "DisplayQuarterAndShadow",
+    "signature": "System.Void QuarterTrigger::DisplayQuarterAndShadow(System.Boolean)",
+    "address": 2428432
+  },
+  {
+    "rid": 321,
+    "type": "QuarterTrigger",
+    "name": "SaveMutePref",
+    "signature": "System.Void QuarterTrigger::SaveMutePref()",
+    "address": 2428604
+  },
+  {
+    "rid": 322,
+    "type": "QuarterTrigger",
+    "name": "LoadPlayerNamesFromPrefs",
+    "signature": "System.Void QuarterTrigger::LoadPlayerNamesFromPrefs()",
+    "address": 2428732
+  },
+  {
+    "rid": 323,
+    "type": "QuarterTrigger",
+    "name": "SavePlayerNameToPrefs",
+    "signature": "System.Void QuarterTrigger::SavePlayerNameToPrefs(System.String,System.Int32)",
+    "address": 2429032
+  },
+  {
+    "rid": 324,
+    "type": "QuarterTrigger",
+    "name": "DisplayBackDrop",
+    "signature": "System.Void QuarterTrigger::DisplayBackDrop(System.Boolean)",
+    "address": 2429264
+  },
+  {
+    "rid": 325,
+    "type": "QuarterTrigger",
+    "name": "Start",
+    "signature": "System.Void QuarterTrigger::Start()",
+    "address": 2429372
+  },
+  {
+    "rid": 326,
+    "type": "QuarterTrigger",
+    "name": "ResetQuarter",
+    "signature": "System.Void QuarterTrigger::ResetQuarter()",
+    "address": 2430652
+  },
+  {
+    "rid": 327,
+    "type": "QuarterTrigger",
+    "name": "ComputeQuarterVel",
+    "signature": "System.Void QuarterTrigger::ComputeQuarterVel()",
+    "address": 2432472
+  },
+  {
+    "rid": 328,
+    "type": "QuarterTrigger",
+    "name": "CheckQuarterVel",
+    "signature": "System.Boolean QuarterTrigger::CheckQuarterVel()",
+    "address": 2432696
+  },
+  {
+    "rid": 329,
+    "type": "QuarterTrigger",
+    "name": "GlassEmitterFlash",
+    "signature": "System.Void QuarterTrigger::GlassEmitterFlash(UnityEngine.Vector3)",
+    "address": 2432796
+  },
+  {
+    "rid": 330,
+    "type": "QuarterTrigger",
+    "name": "AddCollisionToList",
+    "signature": "System.Void QuarterTrigger::AddCollisionToList(UnityEngine.Collision)",
+    "address": 2432920
+  },
+  {
+    "rid": 331,
+    "type": "QuarterTrigger",
+    "name": "OnCollisionEnter",
+    "signature": "System.Void QuarterTrigger::OnCollisionEnter(UnityEngine.Collision)",
+    "address": 2433364
+  },
+  {
+    "rid": 332,
+    "type": "QuarterTrigger",
+    "name": "OnCollisionStay",
+    "signature": "System.Void QuarterTrigger::OnCollisionStay(UnityEngine.Collision)",
+    "address": 2433428
+  },
+  {
+    "rid": 333,
+    "type": "QuarterTrigger",
+    "name": "fUpdate",
+    "signature": "System.Void QuarterTrigger::fUpdate()",
+    "address": 2433712
+  },
+  {
+    "rid": 334,
+    "type": "QuarterTrigger",
+    "name": "AddtoShotTime",
+    "signature": "System.Void QuarterTrigger::AddtoShotTime(System.Single)",
+    "address": 2436376
+  },
+  {
+    "rid": 335,
+    "type": "QuarterTrigger",
+    "name": "isInGlass",
+    "signature": "System.Int32 QuarterTrigger::isInGlass()",
+    "address": 2436480
+  },
+  {
+    "rid": 336,
+    "type": "QuarterTrigger",
+    "name": "SetSelectLevelState",
+    "signature": "System.Void QuarterTrigger::SetSelectLevelState()",
+    "address": 2436824
+  },
+  {
+    "rid": 337,
+    "type": "QuarterTrigger",
+    "name": "SetRoundDisplayState",
+    "signature": "System.Void QuarterTrigger::SetRoundDisplayState()",
+    "address": 2437292
+  },
+  {
+    "rid": 338,
+    "type": "QuarterTrigger",
+    "name": "SetBounceFlyCountState",
+    "signature": "System.Void QuarterTrigger::SetBounceFlyCountState(System.Int32)",
+    "address": 2437420
+  },
+  {
+    "rid": 339,
+    "type": "QuarterTrigger",
+    "name": "SetShotResultState",
+    "signature": "System.Void QuarterTrigger::SetShotResultState(System.Boolean)",
+    "address": 2437696
+  },
+  {
+    "rid": 340,
+    "type": "QuarterTrigger",
+    "name": "SetRackupState",
+    "signature": "System.Void QuarterTrigger::SetRackupState(System.Boolean)",
+    "address": 2437888
+  },
+  {
+    "rid": 341,
+    "type": "QuarterTrigger",
+    "name": "SetShotOverState",
+    "signature": "System.Void QuarterTrigger::SetShotOverState()",
+    "address": 2438200
+  },
+  {
+    "rid": 342,
+    "type": "QuarterTrigger",
+    "name": "SetGameOverState",
+    "signature": "System.Void QuarterTrigger::SetGameOverState()",
+    "address": 2438332
+  },
+  {
+    "rid": 343,
+    "type": "QuarterTrigger",
+    "name": "ExitInputNameState",
+    "signature": "System.Void QuarterTrigger::ExitInputNameState()",
+    "address": 2438516
+  },
+  {
+    "rid": 344,
+    "type": "QuarterTrigger",
+    "name": "SetInputNameState",
+    "signature": "System.Void QuarterTrigger::SetInputNameState()",
+    "address": 2438572
+  },
+  {
+    "rid": 345,
+    "type": "QuarterTrigger",
+    "name": "SetHiScoresTableState",
+    "signature": "System.Void QuarterTrigger::SetHiScoresTableState()",
+    "address": 2438664
+  },
+  {
+    "rid": 346,
+    "type": "QuarterTrigger",
+    "name": "StateRoundDisplayRules",
+    "signature": "System.Boolean QuarterTrigger::StateRoundDisplayRules()",
+    "address": 2438848
+  },
+  {
+    "rid": 347,
+    "type": "QuarterTrigger",
+    "name": "ResetAndExitLevel",
+    "signature": "System.Void QuarterTrigger::ResetAndExitLevel()",
+    "address": 2438964
+  },
+  {
+    "rid": 348,
+    "type": "QuarterTrigger",
+    "name": "ProcessTouchforAngle",
+    "signature": "System.Void QuarterTrigger::ProcessTouchforAngle()",
+    "address": 2439052
+  },
+  {
+    "rid": 349,
+    "type": "QuarterTrigger",
+    "name": "ProcessTouchforAngleDeprecated",
+    "signature": "System.Void QuarterTrigger::ProcessTouchforAngleDeprecated()",
+    "address": 2440148
+  },
+  {
+    "rid": 350,
+    "type": "QuarterTrigger",
+    "name": "SetPlayerRoundFinishedPracticeOutofShots",
+    "signature": "System.Void QuarterTrigger::SetPlayerRoundFinishedPracticeOutofShots(System.Int32,System.Int32)",
+    "address": 2441528
+  },
+  {
+    "rid": 351,
+    "type": "QuarterTrigger",
+    "name": "SetPlayerRoundFinishedState",
+    "signature": "System.Void QuarterTrigger::SetPlayerRoundFinishedState(System.Int32,System.Int32)",
+    "address": 2441712
+  },
+  {
+    "rid": 352,
+    "type": "QuarterTrigger",
+    "name": "SetGameOverExciterState",
+    "signature": "System.Void QuarterTrigger::SetGameOverExciterState()",
+    "address": 2443104
+  },
+  {
+    "rid": 353,
+    "type": "QuarterTrigger",
+    "name": "ExitShotOverState",
+    "signature": "System.Void QuarterTrigger::ExitShotOverState(System.Boolean)",
+    "address": 2445384
+  },
+  {
+    "rid": 354,
+    "type": "QuarterTrigger",
+    "name": "CheckForAngleReminder",
+    "signature": "System.Void QuarterTrigger::CheckForAngleReminder()",
+    "address": 2445596
+  },
+  {
+    "rid": 355,
+    "type": "QuarterTrigger",
+    "name": "FixedUpdate",
+    "signature": "System.Void QuarterTrigger::FixedUpdate()",
+    "address": 2446056
+  },
+  {
+    "rid": 356,
+    "type": "QuarterTrigger",
+    "name": "RestoreFromReplay",
+    "signature": "System.Void QuarterTrigger::RestoreFromReplay()",
+    "address": 2462904
+  },
+  {
+    "rid": 357,
+    "type": "QuarterTrigger",
+    "name": "gameOverExciterRules",
+    "signature": "System.Void QuarterTrigger::gameOverExciterRules()",
+    "address": 2463236
+  },
+  {
+    "rid": 358,
+    "type": "QuarterTrigger",
+    "name": "GetPlayerName",
+    "signature": "System.String QuarterTrigger::GetPlayerName(System.Int32)",
+    "address": 2463352
+  },
+  {
+    "rid": 359,
+    "type": "QuarterTrigger",
+    "name": "DisableAllCams",
+    "signature": "System.Void QuarterTrigger::DisableAllCams()",
+    "address": 2463508
+  },
+  {
+    "rid": 360,
+    "type": "QuarterTrigger",
+    "name": "GetValidReplayCamera",
+    "signature": "System.Int32 QuarterTrigger::GetValidReplayCamera(System.Int32)",
+    "address": 2463652
+  },
+  {
+    "rid": 361,
+    "type": "QuarterTrigger",
+    "name": "toggleCamera",
+    "signature": "System.Void QuarterTrigger::toggleCamera(System.Int32)",
+    "address": 2464204
+  },
+  {
+    "rid": 362,
+    "type": "QuarterTrigger",
+    "name": "SetGlassShadow",
+    "signature": "System.Void QuarterTrigger::SetGlassShadow(UnityEngine.GameObject,System.Int32,System.Single)",
+    "address": 2464708
+  },
+  {
+    "rid": 363,
+    "type": "QuarterTrigger",
+    "name": "SetGlasses",
+    "signature": "System.Void QuarterTrigger::SetGlasses()",
+    "address": 2466292
+  },
+  {
+    "rid": 364,
+    "type": "QuarterTrigger",
+    "name": "ResetColliderInfo",
+    "signature": "System.Void QuarterTrigger::ResetColliderInfo()",
+    "address": 2472252
+  },
+  {
+    "rid": 365,
+    "type": "QuarterTrigger",
+    "name": "ResetColliderSoundArray",
+    "signature": "System.Void QuarterTrigger::ResetColliderSoundArray()",
+    "address": 2472512
+  },
+  {
+    "rid": 366,
+    "type": "QuarterTrigger",
+    "name": "AddColliderSound",
+    "signature": "System.Void QuarterTrigger::AddColliderSound(UnityEngine.Collider)",
+    "address": 2472772
+  },
+  {
+    "rid": 367,
+    "type": "QuarterTrigger",
+    "name": "PlayColliderSound",
+    "signature": "System.Void QuarterTrigger::PlayColliderSound()",
+    "address": 2472880
+  },
+  {
+    "rid": 368,
+    "type": "QuarterTrigger",
+    "name": "AddColliderToList",
+    "signature": "System.Void QuarterTrigger::AddColliderToList(UnityEngine.Collider)",
+    "address": 2474796
+  },
+  {
+    "rid": 369,
+    "type": "QuarterTrigger",
+    "name": "ResetColliderGameObjectInfo",
+    "signature": "System.Void QuarterTrigger::ResetColliderGameObjectInfo()",
+    "address": 2475584
+  },
+  {
+    "rid": 370,
+    "type": "QuarterTrigger",
+    "name": "AddColliderToGameObjectList",
+    "signature": "System.Void QuarterTrigger::AddColliderToGameObjectList(UnityEngine.GameObject,System.Single)",
+    "address": 2475768
+  },
+  {
+    "rid": 371,
+    "type": "QuarterTrigger",
+    "name": "BuildCollisionChain",
+    "signature": "System.Void QuarterTrigger::BuildCollisionChain()",
+    "address": 2476056
+  },
+  {
+    "rid": 372,
+    "type": "QuarterTrigger",
+    "name": "TurnBuzzingSoundOff",
+    "signature": "System.Void QuarterTrigger::TurnBuzzingSoundOff()",
+    "address": 2477644
+  },
+  {
+    "rid": 373,
+    "type": "QuarterTrigger",
+    "name": "Main",
+    "signature": "System.Void QuarterTrigger::Main()",
+    "address": 2477976
+  },
+  {
+    "rid": 374,
+    "type": "ReplayCameraScript",
+    "name": ".ctor",
+    "signature": "System.Void ReplayCameraScript::.ctor()",
+    "address": 2478020
+  },
+  {
+    "rid": 375,
+    "type": "ReplayCameraScript",
+    "name": "LateUpdate",
+    "signature": "System.Void ReplayCameraScript::LateUpdate()",
+    "address": 2478104
+  },
+  {
+    "rid": 376,
+    "type": "ReplayCameraScript",
+    "name": "Start",
+    "signature": "System.Void ReplayCameraScript::Start()",
+    "address": 2478544
+  },
+  {
+    "rid": 377,
+    "type": "ReplayCameraScript",
+    "name": "Main",
+    "signature": "System.Void ReplayCameraScript::Main()",
+    "address": 2478676
+  },
+  {
+    "rid": 378,
+    "type": "ReplayController",
+    "name": ".ctor",
+    "signature": "System.Void ReplayController::.ctor()",
+    "address": 2478720
+  },
+  {
+    "rid": 379,
+    "type": "ReplayController",
+    "name": ".cctor",
+    "signature": "System.Void ReplayController::.cctor()",
+    "address": 2478784
+  },
+  {
+    "rid": 380,
+    "type": "ReplayController",
+    "name": "InitReplayData",
+    "signature": "System.Void ReplayController::InitReplayData()",
+    "address": 2479600
+  },
+  {
+    "rid": 381,
+    "type": "ReplayController",
+    "name": "LoadAllReplays",
+    "signature": "System.Void ReplayController::LoadAllReplays()",
+    "address": 2481528
+  },
+  {
+    "rid": 382,
+    "type": "ReplayController",
+    "name": "ClearAllReplays",
+    "signature": "System.Void ReplayController::ClearAllReplays()",
+    "address": 2483440
+  },
+  {
+    "rid": 383,
+    "type": "ReplayController",
+    "name": "SaveReplay",
+    "signature": "System.Void ReplayController::SaveReplay(System.Int32)",
+    "address": 2485288
+  },
+  {
+    "rid": 384,
+    "type": "ReplayController",
+    "name": "GetReplayNameString",
+    "signature": "System.String ReplayController::GetReplayNameString(System.Int32)",
+    "address": 2487664
+  },
+  {
+    "rid": 385,
+    "type": "ReplayController",
+    "name": "GetReplayRoundString",
+    "signature": "System.String ReplayController::GetReplayRoundString(System.Int32)",
+    "address": 2488200
+  },
+  {
+    "rid": 386,
+    "type": "ReplayController",
+    "name": "GetReplayDateString",
+    "signature": "System.String ReplayController::GetReplayDateString(System.Int32)",
+    "address": 2489036
+  },
+  {
+    "rid": 387,
+    "type": "ReplayController",
+    "name": "GetReplayRoundNumber",
+    "signature": "System.Int32 ReplayController::GetReplayRoundNumber(System.Int32)",
+    "address": 2489872
+  },
+  {
+    "rid": 388,
+    "type": "ReplayController",
+    "name": "Start",
+    "signature": "System.Void ReplayController::Start()",
+    "address": 2490164
+  },
+  {
+    "rid": 389,
+    "type": "ReplayController",
+    "name": "SetShotParameters",
+    "signature": "System.Void ReplayController::SetShotParameters(System.Single,System.Single,System.Single,System.Single)",
+    "address": 2490632
+  },
+  {
+    "rid": 390,
+    "type": "ReplayController",
+    "name": "GetMaxSlots",
+    "signature": "System.Int32 ReplayController::GetMaxSlots()",
+    "address": 2490920
+  },
+  {
+    "rid": 391,
+    "type": "ReplayController",
+    "name": "IsSlotUsed",
+    "signature": "System.Boolean ReplayController::IsSlotUsed(System.Int32)",
+    "address": 2490976
+  },
+  {
+    "rid": 392,
+    "type": "ReplayController",
+    "name": "GetSavedReplaysRound",
+    "signature": "System.Int32 ReplayController::GetSavedReplaysRound(System.Int32)",
+    "address": 2491212
+  },
+  {
+    "rid": 393,
+    "type": "ReplayController",
+    "name": "GetNumSavedSlots",
+    "signature": "System.Int32 ReplayController::GetNumSavedSlots()",
+    "address": 2491428
+  },
+  {
+    "rid": 394,
+    "type": "ReplayController",
+    "name": "IsReplayDataValid",
+    "signature": "System.Boolean ReplayController::IsReplayDataValid()",
+    "address": 2491656
+  },
+  {
+    "rid": 395,
+    "type": "ReplayController",
+    "name": "RequestReplay",
+    "signature": "System.Boolean ReplayController::RequestReplay()",
+    "address": 2491712
+  },
+  {
+    "rid": 396,
+    "type": "ReplayController",
+    "name": "RequestHallOfFameReplay",
+    "signature": "System.Boolean ReplayController::RequestHallOfFameReplay(System.Int32)",
+    "address": 2491852
+  },
+  {
+    "rid": 397,
+    "type": "ReplayController",
+    "name": "SaveAnimationData",
+    "signature": "System.Void ReplayController::SaveAnimationData(System.Int32,System.Single,System.Single,System.Single)",
+    "address": 2492152
+  },
+  {
+    "rid": 398,
+    "type": "ReplayController",
+    "name": "SaveShotTick",
+    "signature": "System.Void ReplayController::SaveShotTick(System.Int32)",
+    "address": 2492304
+  },
+  {
+    "rid": 399,
+    "type": "ReplayController",
+    "name": "RestoreShotTick",
+    "signature": "System.Int32 ReplayController::RestoreShotTick()",
+    "address": 2492496
+  },
+  {
+    "rid": 400,
+    "type": "ReplayController",
+    "name": "storeReplayData",
+    "signature": "System.Void ReplayController::storeReplayData(System.Int32)",
+    "address": 2492552
+  },
+  {
+    "rid": 401,
+    "type": "ReplayController",
+    "name": "RestoreReplayData",
+    "signature": "System.Void ReplayController::RestoreReplayData(System.Int32)",
+    "address": 2493684
+  },
+  {
+    "rid": 402,
+    "type": "ReplayController",
+    "name": "TriggerSlideIn",
+    "signature": "System.Void ReplayController::TriggerSlideIn()",
+    "address": 2494716
+  },
+  {
+    "rid": 403,
+    "type": "ReplayController",
+    "name": "OnGUI",
+    "signature": "System.Void ReplayController::OnGUI()",
+    "address": 2494856
+  },
+  {
+    "rid": 404,
+    "type": "ReplayController",
+    "name": "Main",
+    "signature": "System.Void ReplayController::Main()",
+    "address": 2496180
+  },
+  {
+    "rid": 405,
+    "type": "SaveGameScript",
+    "name": ".ctor",
+    "signature": "System.Void SaveGameScript::.ctor()",
+    "address": 2496224
+  },
+  {
+    "rid": 406,
+    "type": "SaveGameScript",
+    "name": "OnGUI",
+    "signature": "System.Void SaveGameScript::OnGUI()",
+    "address": 2496276
+  },
+  {
+    "rid": 407,
+    "type": "SaveGameScript",
+    "name": "Update",
+    "signature": "System.Void SaveGameScript::Update()",
+    "address": 2496320
+  },
+  {
+    "rid": 408,
+    "type": "SaveGameScript",
+    "name": "Main",
+    "signature": "System.Void SaveGameScript::Main()",
+    "address": 2496364
+  },
+  {
+    "rid": 409,
+    "type": "ShadowQuarterScript",
+    "name": ".ctor",
+    "signature": "System.Void ShadowQuarterScript::.ctor()",
+    "address": 2496408
+  },
+  {
+    "rid": 410,
+    "type": "ShadowQuarterScript",
+    "name": "Update",
+    "signature": "System.Void ShadowQuarterScript::Update()",
+    "address": 2496656
+  },
+  {
+    "rid": 411,
+    "type": "ShadowQuarterScript",
+    "name": "Main",
+    "signature": "System.Void ShadowQuarterScript::Main()",
+    "address": 2500304
+  },
+  {
+    "rid": 412,
+    "type": "SpotlightScript",
+    "name": ".ctor",
+    "signature": "System.Void SpotlightScript::.ctor()",
+    "address": 2500348
+  },
+  {
+    "rid": 413,
+    "type": "SpotlightScript",
+    "name": "LateUpdate",
+    "signature": "System.Void SpotlightScript::LateUpdate()",
+    "address": 2500432
+  },
+  {
+    "rid": 414,
+    "type": "SpotlightScript",
+    "name": "Start",
+    "signature": "System.Void SpotlightScript::Start()",
+    "address": 2500876
+  },
+  {
+    "rid": 415,
+    "type": "SpotlightScript",
+    "name": "Main",
+    "signature": "System.Void SpotlightScript::Main()",
+    "address": 2500920
+  },
+  {
+    "rid": 416,
+    "type": "StatsScreen",
+    "name": ".ctor",
+    "signature": "System.Void StatsScreen::.ctor()",
+    "address": 2500964
+  },
+  {
+    "rid": 417,
+    "type": "StatsScreen",
+    "name": ".cctor",
+    "signature": "System.Void StatsScreen::.cctor()",
+    "address": 2501096
+  },
+  {
+    "rid": 418,
+    "type": "StatsScreen",
+    "name": "Start",
+    "signature": "System.Void StatsScreen::Start()",
+    "address": 2501180
+  },
+  {
+    "rid": 419,
+    "type": "StatsScreen",
+    "name": "StatsText",
+    "signature": "System.Void StatsScreen::StatsText()",
+    "address": 2501248
+  },
+  {
+    "rid": 420,
+    "type": "StatsScreen",
+    "name": "OnGUI",
+    "signature": "System.Void StatsScreen::OnGUI()",
+    "address": 2503676
+  },
+  {
+    "rid": 421,
+    "type": "StatsScreen",
+    "name": "DisplayFingers",
+    "signature": "System.Void StatsScreen::DisplayFingers(System.Boolean)",
+    "address": 2504884
+  },
+  {
+    "rid": 422,
+    "type": "StatsScreen",
+    "name": "Update",
+    "signature": "System.Void StatsScreen::Update()",
+    "address": 2505904
+  },
+  {
+    "rid": 423,
+    "type": "StatsScreen",
+    "name": "Main",
+    "signature": "System.Void StatsScreen::Main()",
+    "address": 2506492
+  },
+  {
+    "rid": 424,
+    "type": "AngleAdjustScript",
+    "name": ".ctor",
+    "signature": "System.Void AngleAdjustScript::.ctor()",
+    "address": 2506536
+  },
+  {
+    "rid": 425,
+    "type": "AngleAdjustScript",
+    "name": "Start",
+    "signature": "System.Void AngleAdjustScript::Start()",
+    "address": 2506740
+  },
+  {
+    "rid": 426,
+    "type": "AngleAdjustScript",
+    "name": "Update",
+    "signature": "System.Void AngleAdjustScript::Update()",
+    "address": 2506936
+  },
+  {
+    "rid": 427,
+    "type": "AngleAdjustScript",
+    "name": "OnGUI",
+    "signature": "System.Void AngleAdjustScript::OnGUI()",
+    "address": 2508052
+  },
+  {
+    "rid": 428,
+    "type": "AngleAdjustScript",
+    "name": "Main",
+    "signature": "System.Void AngleAdjustScript::Main()",
+    "address": 2509204
+  },
+  {
+    "rid": 429,
+    "type": "CoinsLeft",
+    "name": ".ctor",
+    "signature": "System.Void CoinsLeft::.ctor()",
+    "address": 2509248
+  },
+  {
+    "rid": 430,
+    "type": "CoinsLeft",
+    "name": ".cctor",
+    "signature": "System.Void CoinsLeft::.cctor()",
+    "address": 2509300
+  },
+  {
+    "rid": 431,
+    "type": "CoinsLeft",
+    "name": "Start",
+    "signature": "System.Void CoinsLeft::Start()",
+    "address": 2509772
+  },
+  {
+    "rid": 432,
+    "type": "CoinsLeft",
+    "name": "Update",
+    "signature": "System.Void CoinsLeft::Update()",
+    "address": 2510524
+  },
+  {
+    "rid": 433,
+    "type": "CoinsLeft",
+    "name": "OnGUI",
+    "signature": "System.Void CoinsLeft::OnGUI()",
+    "address": 2513300
+  },
+  {
+    "rid": 434,
+    "type": "CoinsLeft",
+    "name": "HandleCoinsLeftTextures",
+    "signature": "System.Void CoinsLeft::HandleCoinsLeftTextures(System.Int32)",
+    "address": 2513444
+  },
+  {
+    "rid": 435,
+    "type": "CoinsLeft",
+    "name": "TriggerAnim",
+    "signature": "System.Void CoinsLeft::TriggerAnim(System.Int32)",
+    "address": 2513872
+  },
+  {
+    "rid": 436,
+    "type": "CoinsLeft",
+    "name": "IsDonePlaying",
+    "signature": "System.Boolean CoinsLeft::IsDonePlaying()",
+    "address": 2514152
+  },
+  {
+    "rid": 437,
+    "type": "CoinsLeft",
+    "name": "HandleTextures",
+    "signature": "System.Void CoinsLeft::HandleTextures(System.Int32)",
+    "address": 2514276
+  },
+  {
+    "rid": 438,
+    "type": "CoinsLeft",
+    "name": "DisableAllDigitRenders",
+    "signature": "System.Void CoinsLeft::DisableAllDigitRenders()",
+    "address": 2515744
+  },
+  {
+    "rid": 439,
+    "type": "CoinsLeft",
+    "name": "Main",
+    "signature": "System.Void CoinsLeft::Main()",
+    "address": 2515924
+  },
+  {
+    "rid": 440,
+    "type": "qstack",
+    "name": ".ctor",
+    "signature": "System.Void qstack::.ctor()",
+    "address": 2515968
+  },
+  {
+    "rid": 441,
+    "type": "qstack",
+    "name": "Start",
+    "signature": "System.Void qstack::Start()",
+    "address": 2516020
+  },
+  {
+    "rid": 442,
+    "type": "qstack",
+    "name": "Update",
+    "signature": "System.Void qstack::Update()",
+    "address": 2516128
+  },
+  {
+    "rid": 443,
+    "type": "qstack",
+    "name": "Main",
+    "signature": "System.Void qstack::Main()",
+    "address": 2516172
+  },
+  {
+    "rid": 444,
+    "type": "InGameAngleIcon",
+    "name": ".ctor",
+    "signature": "System.Void InGameAngleIcon::.ctor()",
+    "address": 2516216
+  },
+  {
+    "rid": 445,
+    "type": "InGameAngleIcon",
+    "name": ".cctor",
+    "signature": "System.Void InGameAngleIcon::.cctor()",
+    "address": 2516548
+  },
+  {
+    "rid": 446,
+    "type": "InGameAngleIcon",
+    "name": "Start",
+    "signature": "System.Void InGameAngleIcon::Start()",
+    "address": 2516680
+  },
+  {
+    "rid": 447,
+    "type": "InGameAngleIcon",
+    "name": "Update",
+    "signature": "System.Void InGameAngleIcon::Update()",
+    "address": 2521332
+  },
+  {
+    "rid": 448,
+    "type": "InGameAngleIcon",
+    "name": "DisplayDoneButton",
+    "signature": "System.Void InGameAngleIcon::DisplayDoneButton(System.Boolean)",
+    "address": 2524692
+  },
+  {
+    "rid": 449,
+    "type": "InGameAngleIcon",
+    "name": "OnGUI",
+    "signature": "System.Void InGameAngleIcon::OnGUI()",
+    "address": 2524820
+  },
+  {
+    "rid": 450,
+    "type": "InGameAngleIcon",
+    "name": "HandleTextures",
+    "signature": "System.Void InGameAngleIcon::HandleTextures(System.Int32)",
+    "address": 2526580
+  },
+  {
+    "rid": 451,
+    "type": "InGameAngleIcon",
+    "name": "Main",
+    "signature": "System.Void InGameAngleIcon::Main()",
+    "address": 2526808
+  },
+  {
+    "rid": 452,
+    "type": "ReplayExciter",
+    "name": ".ctor",
+    "signature": "System.Void ReplayExciter::.ctor()",
+    "address": 2526852
+  },
+  {
+    "rid": 453,
+    "type": "ReplayExciter",
+    "name": ".cctor",
+    "signature": "System.Void ReplayExciter::.cctor()",
+    "address": 2526904
+  },
+  {
+    "rid": 454,
+    "type": "ReplayExciter",
+    "name": "TriggerOn",
+    "signature": "System.Void ReplayExciter::TriggerOn(System.Boolean)",
+    "address": 2527100
+  },
+  {
+    "rid": 455,
+    "type": "ReplayExciter",
+    "name": "TriggerOff",
+    "signature": "System.Void ReplayExciter::TriggerOff()",
+    "address": 2527428
+  },
+  {
+    "rid": 456,
+    "type": "ReplayExciter",
+    "name": "Update",
+    "signature": "System.Void ReplayExciter::Update()",
+    "address": 2527588
+  },
+  {
+    "rid": 457,
+    "type": "ReplayExciter",
+    "name": "OnGUI",
+    "signature": "System.Void ReplayExciter::OnGUI()",
+    "address": 2528232
+  },
+  {
+    "rid": 458,
+    "type": "ReplayExciter",
+    "name": "Main",
+    "signature": "System.Void ReplayExciter::Main()",
+    "address": 2528276
+  },
+  {
+    "rid": 459,
+    "type": "PauseButtonScript",
+    "name": ".ctor",
+    "signature": "System.Void PauseButtonScript::.ctor()",
+    "address": 2528320
+  },
+  {
+    "rid": 460,
+    "type": "PauseButtonScript",
+    "name": "Awake",
+    "signature": "System.Void PauseButtonScript::Awake()",
+    "address": 2528416
+  },
+  {
+    "rid": 461,
+    "type": "PauseButtonScript",
+    "name": "Start",
+    "signature": "System.Void PauseButtonScript::Start()",
+    "address": 2528496
+  },
+  {
+    "rid": 462,
+    "type": "PauseButtonScript",
+    "name": "OnGUI",
+    "signature": "System.Void PauseButtonScript::OnGUI()",
+    "address": 2530412
+  },
+  {
+    "rid": 463,
+    "type": "PauseButtonScript",
+    "name": "CheckToDisableHOFButton",
+    "signature": "System.Void PauseButtonScript::CheckToDisableHOFButton()",
+    "address": 2531332
+  },
+  {
+    "rid": 464,
+    "type": "PauseButtonScript",
+    "name": "Main",
+    "signature": "System.Void PauseButtonScript::Main()",
+    "address": 2531376
+  },
+  {
+    "rid": 465,
+    "type": "PauseMenu",
+    "name": ".ctor",
+    "signature": "System.Void PauseMenu::.ctor()",
+    "address": 2531420
+  },
+  {
+    "rid": 466,
+    "type": "PauseMenu",
+    "name": ".cctor",
+    "signature": "System.Void PauseMenu::.cctor()",
+    "address": 2531636
+  },
+  {
+    "rid": 467,
+    "type": "PauseMenu",
+    "name": "Start",
+    "signature": "System.Void PauseMenu::Start()",
+    "address": 2531744
+  },
+  {
+    "rid": 468,
+    "type": "PauseMenu",
+    "name": "HandleButtonMaterials",
+    "signature": "System.Void PauseMenu::HandleButtonMaterials()",
+    "address": 2532116
+  },
+  {
+    "rid": 469,
+    "type": "PauseMenu",
+    "name": "isFlickShot",
+    "signature": "System.Boolean PauseMenu::isFlickShot()",
+    "address": 2532288
+  },
+  {
+    "rid": 470,
+    "type": "PauseMenu",
+    "name": "DrawHelpText",
+    "signature": "System.Void PauseMenu::DrawHelpText()",
+    "address": 2532400
+  },
+  {
+    "rid": 471,
+    "type": "PauseMenu",
+    "name": "HandleHelpScreen",
+    "signature": "System.Void PauseMenu::HandleHelpScreen()",
+    "address": 2557340
+  },
+  {
+    "rid": 472,
+    "type": "PauseMenu",
+    "name": "HandlePauseMenu",
+    "signature": "System.Void PauseMenu::HandlePauseMenu()",
+    "address": 2557972
+  },
+  {
+    "rid": 473,
+    "type": "PauseMenu",
+    "name": "ReturnToGame",
+    "signature": "System.Void PauseMenu::ReturnToGame()",
+    "address": 2560436
+  },
+  {
+    "rid": 474,
+    "type": "PauseMenu",
+    "name": "PlayAnimatingObjects",
+    "signature": "System.Void PauseMenu::PlayAnimatingObjects(System.Boolean,System.Boolean)",
+    "address": 2560660
+  },
+  {
+    "rid": 475,
+    "type": "PauseMenu",
+    "name": "Update",
+    "signature": "System.Void PauseMenu::Update()",
+    "address": 2561116
+  },
+  {
+    "rid": 476,
+    "type": "PauseMenu",
+    "name": "HideHelpButton",
+    "signature": "System.Void PauseMenu::HideHelpButton()",
+    "address": 2562200
+  },
+  {
+    "rid": 477,
+    "type": "PauseMenu",
+    "name": "DisplayHelpButton",
+    "signature": "System.Void PauseMenu::DisplayHelpButton()",
+    "address": 2562436
+  },
+  {
+    "rid": 478,
+    "type": "PauseMenu",
+    "name": "DisplayHelpScreen",
+    "signature": "System.Void PauseMenu::DisplayHelpScreen()",
+    "address": 2562672
+  },
+  {
+    "rid": 479,
+    "type": "PauseMenu",
+    "name": "OnGUI",
+    "signature": "System.Void PauseMenu::OnGUI()",
+    "address": 2562908
+  },
+  {
+    "rid": 480,
+    "type": "PauseMenu",
+    "name": "Main",
+    "signature": "System.Void PauseMenu::Main()",
+    "address": 2563048
+  },
+  {
+    "rid": 481,
+    "type": "PowerX",
+    "name": ".ctor",
+    "signature": "System.Void PowerX::.ctor()",
+    "address": 2563092
+  },
+  {
+    "rid": 482,
+    "type": "PowerX",
+    "name": ".cctor",
+    "signature": "System.Void PowerX::.cctor()",
+    "address": 2563272
+  },
+  {
+    "rid": 483,
+    "type": "PowerX",
+    "name": "Start",
+    "signature": "System.Void PowerX::Start()",
+    "address": 2563380
+  },
+  {
+    "rid": 484,
+    "type": "PowerX",
+    "name": "DisplayPowerUp",
+    "signature": "System.Void PowerX::DisplayPowerUp(System.Int32)",
+    "address": 2563516
+  },
+  {
+    "rid": 485,
+    "type": "PowerX",
+    "name": "GetStartPosition",
+    "signature": "System.Void PowerX::GetStartPosition()",
+    "address": 2563608
+  },
+  {
+    "rid": 486,
+    "type": "PowerX",
+    "name": "SetTexture",
+    "signature": "System.Void PowerX::SetTexture(System.Int32)",
+    "address": 2563908
+  },
+  {
+    "rid": 487,
+    "type": "PowerX",
+    "name": "Update",
+    "signature": "System.Void PowerX::Update()",
+    "address": 2564160
+  },
+  {
+    "rid": 488,
+    "type": "PowerX",
+    "name": "Main",
+    "signature": "System.Void PowerX::Main()",
+    "address": 2565620
+  },
+  {
+    "rid": 489,
+    "type": "PracticeUI",
+    "name": ".ctor",
+    "signature": "System.Void PracticeUI::.ctor()",
+    "address": 2565664
+  },
+  {
+    "rid": 490,
+    "type": "PracticeUI",
+    "name": ".cctor",
+    "signature": "System.Void PracticeUI::.cctor()",
+    "address": 2565800
+  },
+  {
+    "rid": 491,
+    "type": "PracticeUI",
+    "name": "Start",
+    "signature": "System.Void PracticeUI::Start()",
+    "address": 2566028
+  },
+  {
+    "rid": 492,
+    "type": "PracticeUI",
+    "name": "Update",
+    "signature": "System.Void PracticeUI::Update()",
+    "address": 2566084
+  },
+  {
+    "rid": 493,
+    "type": "PracticeUI",
+    "name": "ChecktoTriggerLockAnimation",
+    "signature": "System.Void PracticeUI::ChecktoTriggerLockAnimation()",
+    "address": 2567184
+  },
+  {
+    "rid": 494,
+    "type": "PracticeUI",
+    "name": "IsGoButtonDisabled",
+    "signature": "System.Boolean PracticeUI::IsGoButtonDisabled()",
+    "address": 2567440
+  },
+  {
+    "rid": 495,
+    "type": "PracticeUI",
+    "name": "OnGUI",
+    "signature": "System.Void PracticeUI::OnGUI()",
+    "address": 2567580
+  },
+  {
+    "rid": 496,
+    "type": "PracticeUI",
+    "name": "Main",
+    "signature": "System.Void PracticeUI::Main()",
+    "address": 2570452
+  },
+  {
+    "rid": 497,
+    "type": "RoundIndicator",
+    "name": ".ctor",
+    "signature": "System.Void RoundIndicator::.ctor()",
+    "address": 2570496
+  },
+  {
+    "rid": 498,
+    "type": "RoundIndicator",
+    "name": ".cctor",
+    "signature": "System.Void RoundIndicator::.cctor()",
+    "address": 2570596
+  },
+  {
+    "rid": 499,
+    "type": "RoundIndicator",
+    "name": "Start",
+    "signature": "System.Void RoundIndicator::Start()",
+    "address": 2570704
+  },
+  {
+    "rid": 500,
+    "type": "RoundIndicator",
+    "name": "UpdateCurRoundNumberPosition",
+    "signature": "System.Void RoundIndicator::UpdateCurRoundNumberPosition()",
+    "address": 2573112
+  },
+  {
+    "rid": 501,
+    "type": "RoundIndicator",
+    "name": "UpdateCurRoundNumberRotation",
+    "signature": "System.Void RoundIndicator::UpdateCurRoundNumberRotation()",
+    "address": 2573520
+  },
+  {
+    "rid": 502,
+    "type": "RoundIndicator",
+    "name": "Update",
+    "signature": "System.Void RoundIndicator::Update()",
+    "address": 2574368
+  },
+  {
+    "rid": 503,
+    "type": "RoundIndicator",
+    "name": "Main",
+    "signature": "System.Void RoundIndicator::Main()",
+    "address": 2575816
+  },
+  {
+    "rid": 504,
+    "type": "SaveReplayButtons",
+    "name": ".ctor",
+    "signature": "System.Void SaveReplayButtons::.ctor()",
+    "address": 2575860
+  },
+  {
+    "rid": 505,
+    "type": "SaveReplayButtons",
+    "name": "Start",
+    "signature": "System.Void SaveReplayButtons::Start()",
+    "address": 2575912
+  },
+  {
+    "rid": 506,
+    "type": "SaveReplayButtons",
+    "name": "Update",
+    "signature": "System.Void SaveReplayButtons::Update()",
+    "address": 2576364
+  },
+  {
+    "rid": 507,
+    "type": "SaveReplayButtons",
+    "name": "Main",
+    "signature": "System.Void SaveReplayButtons::Main()",
+    "address": 2576408
+  },
+  {
+    "rid": 508,
+    "type": "ShotTypeHelper",
+    "name": ".ctor",
+    "signature": "System.Void ShotTypeHelper::.ctor()",
+    "address": 2576452
+  },
+  {
+    "rid": 509,
+    "type": "ShotTypeHelper",
+    "name": ".cctor",
+    "signature": "System.Void ShotTypeHelper::.cctor()",
+    "address": 2576528
+  },
+  {
+    "rid": 510,
+    "type": "ShotTypeHelper",
+    "name": "isFlickShot",
+    "signature": "System.Boolean ShotTypeHelper::isFlickShot()",
+    "address": 2576588
+  },
+  {
+    "rid": 511,
+    "type": "ShotTypeHelper",
+    "name": "Update",
+    "signature": "System.Void ShotTypeHelper::Update()",
+    "address": 2576700
+  },
+  {
+    "rid": 512,
+    "type": "ShotTypeHelper",
+    "name": "Main",
+    "signature": "System.Void ShotTypeHelper::Main()",
+    "address": 2577004
+  },
+  {
+    "rid": 513,
+    "type": "CoinHolder",
+    "name": ".ctor",
+    "signature": "System.Void CoinHolder::.ctor()",
+    "address": 2577048
+  },
+  {
+    "rid": 514,
+    "type": "CoinHolder",
+    "name": ".cctor",
+    "signature": "System.Void CoinHolder::.cctor()",
+    "address": 2577544
+  },
+  {
+    "rid": 515,
+    "type": "CoinHolder",
+    "name": "Start",
+    "signature": "System.Void CoinHolder::Start()",
+    "address": 2577916
+  },
+  {
+    "rid": 516,
+    "type": "CoinHolder",
+    "name": "DisplayDigit",
+    "signature": "System.Void CoinHolder::DisplayDigit(UnityEngine.Mesh,UnityEngine.Vector3[],UnityEngine.Vector2[],System.Int32[],System.Int32)",
+    "address": 2588256
+  },
+  {
+    "rid": 517,
+    "type": "CoinHolder",
+    "name": "HandleTextures",
+    "signature": "System.Void CoinHolder::HandleTextures(System.Int32,System.Int32)",
+    "address": 2589084
+  },
+  {
+    "rid": 518,
+    "type": "CoinHolder",
+    "name": "DisplayQuarters",
+    "signature": "System.Void CoinHolder::DisplayQuarters(System.Int32)",
+    "address": 2590208
+  },
+  {
+    "rid": 519,
+    "type": "CoinHolder",
+    "name": "QuarterFlyIn",
+    "signature": "System.Void CoinHolder::QuarterFlyIn(System.Int32)",
+    "address": 2590516
+  },
+  {
+    "rid": 520,
+    "type": "CoinHolder",
+    "name": "Update",
+    "signature": "System.Void CoinHolder::Update()",
+    "address": 2590896
+  },
+  {
+    "rid": 521,
+    "type": "CoinHolder",
+    "name": "TriggerCoinIn",
+    "signature": "System.Void CoinHolder::TriggerCoinIn(System.Int32)",
+    "address": 2595536
+  },
+  {
+    "rid": 522,
+    "type": "CoinHolder",
+    "name": "Main",
+    "signature": "System.Void CoinHolder::Main()",
+    "address": 2595860
+  },
+  {
+    "rid": 523,
+    "type": "Help",
+    "name": ".ctor",
+    "signature": "System.Void Help::.ctor()",
+    "address": 2595904
+  },
+  {
+    "rid": 524,
+    "type": "Help",
+    "name": "Start",
+    "signature": "System.Void Help::Start()",
+    "address": 2595956
+  },
+  {
+    "rid": 525,
+    "type": "Help",
+    "name": "Main",
+    "signature": "System.Void Help::Main()",
+    "address": 2596348
+  },
+  {
+    "rid": 526,
+    "type": "UIPlayer",
+    "name": ".ctor",
+    "signature": "System.Void UIPlayer::.ctor()",
+    "address": 2596392
+  },
+  {
+    "rid": 527,
+    "type": "UIPlayer",
+    "name": ".cctor",
+    "signature": "System.Void UIPlayer::.cctor()",
+    "address": 2596444
+  },
+  {
+    "rid": 528,
+    "type": "UIPlayer",
+    "name": "Update",
+    "signature": "System.Void UIPlayer::Update()",
+    "address": 2596552
+  },
+  {
+    "rid": 529,
+    "type": "UIPlayer",
+    "name": "Main",
+    "signature": "System.Void UIPlayer::Main()",
+    "address": 2597788
+  },
+  {
+    "rid": 530,
+    "type": "RicochetExciter",
+    "name": ".ctor",
+    "signature": "System.Void RicochetExciter::.ctor()",
+    "address": 2597832
+  },
+  {
+    "rid": 531,
+    "type": "RicochetExciter",
+    "name": ".cctor",
+    "signature": "System.Void RicochetExciter::.cctor()",
+    "address": 2597940
+  },
+  {
+    "rid": 532,
+    "type": "RicochetExciter",
+    "name": "Start",
+    "signature": "System.Void RicochetExciter::Start()",
+    "address": 2598072
+  },
+  {
+    "rid": 533,
+    "type": "RicochetExciter",
+    "name": "DisableInstantReplayExciter",
+    "signature": "System.Void RicochetExciter::DisableInstantReplayExciter()",
+    "address": 2598584
+  },
+  {
+    "rid": 534,
+    "type": "RicochetExciter",
+    "name": "Update",
+    "signature": "System.Void RicochetExciter::Update()",
+    "address": 2598680
+  },
+  {
+    "rid": 535,
+    "type": "RicochetExciter",
+    "name": "OnGUI",
+    "signature": "System.Void RicochetExciter::OnGUI()",
+    "address": 2600756
+  },
+  {
+    "rid": 536,
+    "type": "RicochetExciter",
+    "name": "Main",
+    "signature": "System.Void RicochetExciter::Main()",
+    "address": 2601380
+  },
+  {
+    "rid": 537,
+    "type": "CameraRelativeControl",
+    "name": ".ctor",
+    "signature": "System.Void CameraRelativeControl::.ctor()",
+    "address": 2601424
+  },
+  {
+    "rid": 538,
+    "type": "CameraRelativeControl",
+    "name": "Start",
+    "signature": "System.Void CameraRelativeControl::Start()",
+    "address": 2601688
+  },
+  {
+    "rid": 539,
+    "type": "CameraRelativeControl",
+    "name": "FaceMovementDirection",
+    "signature": "System.Void CameraRelativeControl::FaceMovementDirection()",
+    "address": 2602044
+  },
+  {
+    "rid": 540,
+    "type": "CameraRelativeControl",
+    "name": "OnEndGame",
+    "signature": "System.Void CameraRelativeControl::OnEndGame()",
+    "address": 2602268
+  },
+  {
+    "rid": 541,
+    "type": "CameraRelativeControl",
+    "name": "Update",
+    "signature": "System.Void CameraRelativeControl::Update()",
+    "address": 2602360
+  },
+  {
+    "rid": 542,
+    "type": "CameraRelativeControl",
+    "name": "Main",
+    "signature": "System.Void CameraRelativeControl::Main()",
+    "address": 2604128
+  },
+  {
+    "rid": 543,
+    "type": "FirstPersonControl",
+    "name": ".ctor",
+    "signature": "System.Void FirstPersonControl::.ctor()",
+    "address": 2604172
+  },
+  {
+    "rid": 544,
+    "type": "FirstPersonControl",
+    "name": "Start",
+    "signature": "System.Void FirstPersonControl::Start()",
+    "address": 2604556
+  },
+  {
+    "rid": 545,
+    "type": "FirstPersonControl",
+    "name": "OnEndGame",
+    "signature": "System.Void FirstPersonControl::OnEndGame()",
+    "address": 2604912
+  },
+  {
+    "rid": 546,
+    "type": "FirstPersonControl",
+    "name": "Update",
+    "signature": "System.Void FirstPersonControl::Update()",
+    "address": 2605020
+  },
+  {
+    "rid": 547,
+    "type": "FirstPersonControl",
+    "name": "Main",
+    "signature": "System.Void FirstPersonControl::Main()",
+    "address": 2607660
+  },
+  {
+    "rid": 548,
+    "type": "FollowTransform",
+    "name": ".ctor",
+    "signature": "System.Void FollowTransform::.ctor()",
+    "address": 2607704
+  },
+  {
+    "rid": 549,
+    "type": "FollowTransform",
+    "name": "Start",
+    "signature": "System.Void FollowTransform::Start()",
+    "address": 2607768
+  },
+  {
+    "rid": 550,
+    "type": "FollowTransform",
+    "name": "Update",
+    "signature": "System.Void FollowTransform::Update()",
+    "address": 2607828
+  },
+  {
+    "rid": 551,
+    "type": "FollowTransform",
+    "name": "Main",
+    "signature": "System.Void FollowTransform::Main()",
+    "address": 2607996
+  },
+  {
+    "rid": 552,
+    "type": "Boundary",
+    "name": ".ctor",
+    "signature": "System.Void Boundary::.ctor()",
+    "address": 2608040
+  },
+  {
+    "rid": 553,
+    "type": "Joystick",
+    "name": ".ctor",
+    "signature": "System.Void Joystick::.ctor()",
+    "address": 2608352
+  },
+  {
+    "rid": 554,
+    "type": "Joystick",
+    "name": ".cctor",
+    "signature": "System.Void Joystick::.cctor()",
+    "address": 2608612
+  },
+  {
+    "rid": 555,
+    "type": "Joystick",
+    "name": "Start",
+    "signature": "System.Void Joystick::Start()",
+    "address": 2608712
+  },
+  {
+    "rid": 556,
+    "type": "Joystick",
+    "name": "Disable",
+    "signature": "System.Void Joystick::Disable()",
+    "address": 2609492
+  },
+  {
+    "rid": 557,
+    "type": "Joystick",
+    "name": "ResetJoystick",
+    "signature": "System.Void Joystick::ResetJoystick()",
+    "address": 2609588
+  },
+  {
+    "rid": 558,
+    "type": "Joystick",
+    "name": "IsFingerDown",
+    "signature": "System.Boolean Joystick::IsFingerDown()",
+    "address": 2610292
+  },
+  {
+    "rid": 559,
+    "type": "Joystick",
+    "name": "LatchedFinger",
+    "signature": "System.Void Joystick::LatchedFinger(System.Int32)",
+    "address": 2610372
+  },
+  {
+    "rid": 560,
+    "type": "Joystick",
+    "name": "Update",
+    "signature": "System.Void Joystick::Update()",
+    "address": 2610460
+  },
+  {
+    "rid": 561,
+    "type": "Joystick",
+    "name": "Main",
+    "signature": "System.Void Joystick::Main()",
+    "address": 2614156
+  },
+  {
+    "rid": 562,
+    "type": "ObliqueNear",
+    "name": ".ctor",
+    "signature": "System.Void ObliqueNear::.ctor()",
+    "address": 2614200
+  },
+  {
+    "rid": 563,
+    "type": "ObliqueNear",
+    "name": "CalculateObliqueMatrix",
+    "signature": "UnityEngine.Matrix4x4 ObliqueNear::CalculateObliqueMatrix(UnityEngine.Matrix4x4,UnityEngine.Vector4)",
+    "address": 2614252
+  },
+  {
+    "rid": 564,
+    "type": "ObliqueNear",
+    "name": "OnPreCull",
+    "signature": "System.Void ObliqueNear::OnPreCull()",
+    "address": 2615304
+  },
+  {
+    "rid": 565,
+    "type": "ObliqueNear",
+    "name": "Main",
+    "signature": "System.Void ObliqueNear::Main()",
+    "address": 2616108
+  },
+  {
+    "rid": 566,
+    "type": "PlayerRelativeControl",
+    "name": ".ctor",
+    "signature": "System.Void PlayerRelativeControl::.ctor()",
+    "address": 2616152
+  },
+  {
+    "rid": 567,
+    "type": "PlayerRelativeControl",
+    "name": "Start",
+    "signature": "System.Void PlayerRelativeControl::Start()",
+    "address": 2616456
+  },
+  {
+    "rid": 568,
+    "type": "PlayerRelativeControl",
+    "name": "OnEndGame",
+    "signature": "System.Void PlayerRelativeControl::OnEndGame()",
+    "address": 2616812
+  },
+  {
+    "rid": 569,
+    "type": "PlayerRelativeControl",
+    "name": "Update",
+    "signature": "System.Void PlayerRelativeControl::Update()",
+    "address": 2616904
+  },
+  {
+    "rid": 570,
+    "type": "PlayerRelativeControl",
+    "name": "Main",
+    "signature": "System.Void PlayerRelativeControl::Main()",
+    "address": 2619200
+  },
+  {
+    "rid": 571,
+    "type": "RollABall",
+    "name": ".ctor",
+    "signature": "System.Void RollABall::.ctor()",
+    "address": 2619244
+  },
+  {
+    "rid": 572,
+    "type": "RollABall",
+    "name": "Start",
+    "signature": "System.Void RollABall::Start()",
+    "address": 2619336
+  },
+  {
+    "rid": 573,
+    "type": "RollABall",
+    "name": "Update",
+    "signature": "System.Void RollABall::Update()",
+    "address": 2619600
+  },
+  {
+    "rid": 574,
+    "type": "RollABall",
+    "name": "LateUpdate",
+    "signature": "System.Void RollABall::LateUpdate()",
+    "address": 2619932
+  },
+  {
+    "rid": 575,
+    "type": "RollABall",
+    "name": "Main",
+    "signature": "System.Void RollABall::Main()",
+    "address": 2620472
+  },
+  {
+    "rid": 576,
+    "type": "RotationConstraint",
+    "name": ".ctor",
+    "signature": "System.Void RotationConstraint::.ctor()",
+    "address": 2620516
+  },
+  {
+    "rid": 577,
+    "type": "RotationConstraint",
+    "name": "Start",
+    "signature": "System.Void RotationConstraint::Start()",
+    "address": 2620568
+  },
+  {
+    "rid": 578,
+    "type": "RotationConstraint",
+    "name": "LateUpdate",
+    "signature": "System.Void RotationConstraint::LateUpdate()",
+    "address": 2621216
+  },
+  {
+    "rid": 579,
+    "type": "RotationConstraint",
+    "name": "Main",
+    "signature": "System.Void RotationConstraint::Main()",
+    "address": 2622100
+  },
+  {
+    "rid": 580,
+    "type": "SidescrollControl",
+    "name": ".ctor",
+    "signature": "System.Void SidescrollControl::.ctor()",
+    "address": 2622144
+  },
+  {
+    "rid": 581,
+    "type": "SidescrollControl",
+    "name": "Start",
+    "signature": "System.Void SidescrollControl::Start()",
+    "address": 2622300
+  },
+  {
+    "rid": 582,
+    "type": "SidescrollControl",
+    "name": "OnEndGame",
+    "signature": "System.Void SidescrollControl::OnEndGame()",
+    "address": 2622656
+  },
+  {
+    "rid": 583,
+    "type": "SidescrollControl",
+    "name": "Update",
+    "signature": "System.Void SidescrollControl::Update()",
+    "address": 2622748
+  },
+  {
+    "rid": 584,
+    "type": "SidescrollControl",
+    "name": "Main",
+    "signature": "System.Void SidescrollControl::Main()",
+    "address": 2623744
+  },
+  {
+    "rid": 585,
+    "type": "SmoothFollow2D",
+    "name": ".ctor",
+    "signature": "System.Void SmoothFollow2D::.ctor()",
+    "address": 2623788
+  },
+  {
+    "rid": 586,
+    "type": "SmoothFollow2D",
+    "name": "Start",
+    "signature": "System.Void SmoothFollow2D::Start()",
+    "address": 2623868
+  },
+  {
+    "rid": 587,
+    "type": "SmoothFollow2D",
+    "name": "Update",
+    "signature": "System.Void SmoothFollow2D::Update()",
+    "address": 2623928
+  },
+  {
+    "rid": 588,
+    "type": "SmoothFollow2D",
+    "name": "Main",
+    "signature": "System.Void SmoothFollow2D::Main()",
+    "address": 2624680
+  },
+  {
+    "rid": 589,
+    "type": "TapControl",
+    "name": ".ctor",
+    "signature": "System.Void TapControl::.ctor()",
+    "address": 2624724
+  },
+  {
+    "rid": 590,
+    "type": "TapControl",
+    "name": "Start",
+    "signature": "System.Void TapControl::Start()",
+    "address": 2624972
+  },
+  {
+    "rid": 591,
+    "type": "TapControl",
+    "name": "OnEndGame",
+    "signature": "System.Void TapControl::OnEndGame()",
+    "address": 2625380
+  },
+  {
+    "rid": 592,
+    "type": "TapControl",
+    "name": "FaceMovementDirection",
+    "signature": "System.Void TapControl::FaceMovementDirection()",
+    "address": 2625440
+  },
+  {
+    "rid": 593,
+    "type": "TapControl",
+    "name": "CameraControl",
+    "signature": "System.Void TapControl::CameraControl(UnityEngine.iPhoneTouch,UnityEngine.iPhoneTouch)",
+    "address": 2625664
+  },
+  {
+    "rid": 594,
+    "type": "TapControl",
+    "name": "CharacterControl",
+    "signature": "System.Void TapControl::CharacterControl()",
+    "address": 2627488
+  },
+  {
+    "rid": 595,
+    "type": "TapControl",
+    "name": "ResetControlState",
+    "signature": "System.Void TapControl::ResetControlState()",
+    "address": 2629340
+  },
+  {
+    "rid": 596,
+    "type": "TapControl",
+    "name": "Update",
+    "signature": "System.Void TapControl::Update()",
+    "address": 2629456
+  },
+  {
+    "rid": 597,
+    "type": "TapControl",
+    "name": "LateUpdate",
+    "signature": "System.Void TapControl::LateUpdate()",
+    "address": 2632544
+  },
+  {
+    "rid": 598,
+    "type": "TapControl",
+    "name": "Main",
+    "signature": "System.Void TapControl::Main()",
+    "address": 2632896
+  },
+  {
+    "rid": 599,
+    "type": "ZoomCamera",
+    "name": ".ctor",
+    "signature": "System.Void ZoomCamera::.ctor()",
+    "address": 2632940
+  },
+  {
+    "rid": 600,
+    "type": "ZoomCamera",
+    "name": "Start",
+    "signature": "System.Void ZoomCamera::Start()",
+    "address": 2633072
+  },
+  {
+    "rid": 601,
+    "type": "ZoomCamera",
+    "name": "Update",
+    "signature": "System.Void ZoomCamera::Update()",
+    "address": 2633196
+  },
+  {
+    "rid": 602,
+    "type": "ZoomCamera",
+    "name": "Main",
+    "signature": "System.Void ZoomCamera::Main()",
+    "address": 2634548
+  },
+  {
+    "rid": 603,
+    "type": "RenderWater",
+    "name": ".ctor",
+    "signature": "System.Void RenderWater::.ctor()",
+    "address": 2634592
+  },
+  {
+    "rid": 604,
+    "type": "RenderWater",
+    "name": "Start",
+    "signature": "System.Void RenderWater::Start()",
+    "address": 2634644
+  },
+  {
+    "rid": 605,
+    "type": "RenderWater",
+    "name": "OnPreCull",
+    "signature": "System.Void RenderWater::OnPreCull()",
+    "address": 2634708
+  },
+  {
+    "rid": 606,
+    "type": "RenderWater",
+    "name": "Main",
+    "signature": "System.Void RenderWater::Main()",
+    "address": 2637788
+  },
+  {
+    "rid": 607,
+    "type": "iPhoneWater",
+    "name": ".ctor",
+    "signature": "System.Void iPhoneWater::.ctor()",
+    "address": 2637832
+  },
+  {
+    "rid": 608,
+    "type": "iPhoneWater",
+    "name": "Awake",
+    "signature": "System.Void iPhoneWater::Awake()",
+    "address": 2637884
+  },
+  {
+    "rid": 609,
+    "type": "iPhoneWater",
+    "name": "Main",
+    "signature": "System.Void iPhoneWater::Main()",
+    "address": 2639136
+  },
+  {
+    "rid": 610,
+    "type": "GlassScaleController",
+    "name": ".ctor",
+    "signature": "System.Void GlassScaleController::.ctor()",
+    "address": 2639180
+  },
+  {
+    "rid": 611,
+    "type": "GlassScaleController",
+    "name": ".cctor",
+    "signature": "System.Void GlassScaleController::.cctor()",
+    "address": 2639344
+  },
+  {
+    "rid": 612,
+    "type": "GlassScaleController",
+    "name": "Start",
+    "signature": "System.Void GlassScaleController::Start()",
+    "address": 2639428
+  },
+  {
+    "rid": 613,
+    "type": "GlassScaleController",
+    "name": "Update",
+    "signature": "System.Void GlassScaleController::Update()",
+    "address": 2639724
+  },
+  {
+    "rid": 614,
+    "type": "GlassScaleController",
+    "name": "Main",
+    "signature": "System.Void GlassScaleController::Main()",
+    "address": 2641160
+  },
+  {
+    "rid": 615,
+    "type": "spotdirScript",
+    "name": ".ctor",
+    "signature": "System.Void spotdirScript::.ctor()",
+    "address": 2641204
+  },
+  {
+    "rid": 616,
+    "type": "spotdirScript",
+    "name": "LateUpdate",
+    "signature": "System.Void spotdirScript::LateUpdate()",
+    "address": 2641288
+  },
+  {
+    "rid": 617,
+    "type": "spotdirScript",
+    "name": "Start",
+    "signature": "System.Void spotdirScript::Start()",
+    "address": 2641728
+  },
+  {
+    "rid": 618,
+    "type": "spotdirScript",
+    "name": "Main",
+    "signature": "System.Void spotdirScript::Main()",
+    "address": 2641860
+  }
+]

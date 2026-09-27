@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net10.0-ios27.0</TargetFramework>
+    <OutputType>Exe</OutputType>
+    <ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
+    <ApplicationVersion>11</ApplicationVersion>
+    <!-- Preserve native runtime symbols: also makes device startup failures diagnosable. -->
+    <MtouchNoSymbolStrip>true</MtouchNoSymbolStrip>
+    <!-- Installed Xcode 27 requires the matching preview bindings. -->
+    <NoWarn>$(NoWarn);XCODE_27_0_PREVIEW</NoWarn>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>true</ImplicitUsings>
+    <SupportedOSPlatformVersion>15.0</SupportedOSPlatformVersion>
+
+    <!--
+      Enable full trimming in Release mode.
+      To learn more, see: https://learn.microsoft.com/dotnet/core/deploying/trimming/trimming-options#trimming-granularity
+    -->
+    <TrimMode Condition="'$(Configuration)' == 'Release'">full</TrimMode>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- Keep AOT trampolines in the signed executable; avoid remapped executable pages. -->
+    <_AotArguments Include="nopagetrampolines" />
+    <BundleResource Include="../../Recovery/converted/presentation.json" LogicalName="RecoveredAssets/presentation.json" />
+    <BundleResource Include="../../Recovery/converted/frontend.json" LogicalName="RecoveredAssets/frontend.json" />
+    <BundleResource Include="../../Recovery/converted/animations/*.json" LogicalName="RecoveredAssets/animations/%(Filename)%(Extension)" />
+    <ProjectReference Include="../Core/IQuarters.Core.csproj" />
+    <BundleResource Include="../../Recovery/converted/lighting.json" LogicalName="RecoveredAssets/lighting.json" />
+    <BundleResource Include="../../Recovery/converted/physics.json" LogicalName="RecoveredAssets/physics.json" />
+    <BundleResource Include="../../Recovery/converted/collision.json" LogicalName="RecoveredAssets/collision.json" />
+    <BundleResource Include="../../Recovery/converted/audio/*" LogicalName="RecoveredAssets/audio/%(Filename)%(Extension)" />
+    <BundleResource Include="../../Recovery/converted/scene.json" LogicalName="RecoveredAssets/scene.json" />
+    <BundleResource Include="../../Recovery/converted/meshes/*.json" LogicalName="RecoveredAssets/meshes/%(Filename)%(Extension)" />
+    <BundleResource Include="../../Recovery/converted/textures/*.png" LogicalName="RecoveredAssets/textures/%(Filename)%(Extension)" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1 @@
+<Project Sdk="Microsoft.NET.Sdk"><PropertyGroup><TargetFramework>net10.0</TargetFramework><OutputType>Exe</OutputType><ImplicitUsings>enable</ImplicitUsings></PropertyGroup><ItemGroup><Reference Include="Mono.Cecil"><HintPath>../../../.dotnet/packs/Microsoft.iOS.Sdk.net10.0_27.0/27.0.10539-xcode27.0/tools/msbuild/net10.0/Mono.Cecil.dll</HintPath></Reference></ItemGroup></Project>

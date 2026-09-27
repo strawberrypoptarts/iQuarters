@@ -1,0 +1,464 @@
+{
+  "ipa": "com.itsgames.iQuarters-iOS3.0-(Clutch-2.0.4).ipa",
+  "sha256": "7fc0b51bee8b1e7e9d733331a977d9bdbbab4e7a96bf93e3bffcbf4a5af2c64d",
+  "files": [
+    {
+      "path": "iTunesArtwork",
+      "size": 92501,
+      "sha256": "ad09ee5c24740d1c25442030293f4cbbb19fd525b4600d19b7f8b202b0c1dcf1"
+    },
+    {
+      "path": "Payload/iQuarters.app/CodeResources",
+      "size": 2266,
+      "sha256": "8b0b621110536f607c9afa3dc18d207df3a8c1c62f0ef2a62144ccdb43f3f7a4"
+    },
+    {
+      "path": "Payload/iQuarters.app/Data/Assembly - UnityScript.dll",
+      "size": 71168,
+      "sha256": "18338cbac817eade63bf32aeca769ba99dc8fb16fb61fa857fc380b32f3c97f8"
+    },
+    {
+      "path": "Payload/iQuarters.app/Data/Boo.Lang.dll",
+      "size": 32256,
+      "sha256": "f15225ccf019e7daff45bec175450d24871e92f013ef9531d0abc8643653c57f"
+    },
+    {
+      "path": "Payload/iQuarters.app/Data/UnityEngine.dll",
+      "size": 87040,
+      "sha256": "4cfcf000d90f11eef1a261ea68c4436edf10bb223a4f83dc639f7b7c5b717385"
+    },
+    {
+      "path": "Payload/iQuarters.app/Data/UnityScript.Lang.dll",
+      "size": 4608,
+      "sha256": "6c8cc8a959bc3cee6b773dbff046dd564d64b7f5d4f59a0f7613ea163dc63703"
+    },
+    {
+      "path": "Payload/iQuarters.app/Data/level0",
+      "size": 213571,
+      "sha256": "95fd6af9f4547d761f72fe4b4a18536b46b5f3f39542088a8ab5842b53478188"
+    },
+    {
+      "path": "Payload/iQuarters.app/Data/mainData",
+      "size": 34299,
+      "sha256": "37341625fcecb651ecf61b0b5b47d3668dcbdd9bdf62d0b2e2545e6cf25840ba"
+    },
+    {
+      "path": "Payload/iQuarters.app/Data/mono/1.0/machine.config",
+      "size": 33,
+      "sha256": "b1a6275de8669da24873ea46402bbd53eb3701f4f6d9cb6815b744d9870643ff"
+    },
+    {
+      "path": "Payload/iQuarters.app/Data/mscorlib.dll",
+      "size": 794624,
+      "sha256": "a4e0fce98ab3fcd26386f6088c1cbf50e337c231324160d34accd8a5fcacd2b0"
+    },
+    {
+      "path": "Payload/iQuarters.app/Data/sharedassets0.assets",
+      "size": 2525527,
+      "sha256": "99e96ae6f928185e100e316e7c24e27bb2fed0267cd30f619463f52179a0d42c"
+    },
+    {
+      "path": "Payload/iQuarters.app/Data/sharedassets1.assets",
+      "size": 12183473,
+      "sha256": "02921a237ac2e0254c77d5d76677a689918be3c2bc0255b324345b64925ce5c8"
+    },
+    {
+      "path": "Payload/iQuarters.app/Data/unity default resources",
+      "size": 1844987,
+      "sha256": "e0510130bc77d1eb682439e4926a9af5d69628b400668de5f10d69dde6492e28"
+    },
+    {
+      "path": "Payload/iQuarters.app/Default-Landscape.png",
+      "size": 4399,
+      "sha256": "e269361ae7185486f9900204e8bc8b23abc4f4d5cfaf63fa4791a9139e6ef692"
+    },
+    {
+      "path": "Payload/iQuarters.app/Default-Portrait.png",
+      "size": 227431,
+      "sha256": "d6e3c61cb25ae152ecbb03e2d14a4af21fe50ab016c619da208e38954513043c"
+    },
+    {
+      "path": "Payload/iQuarters.app/Default.png",
+      "size": 86527,
+      "sha256": "cec1bba5234930f3d06edb4a7a67a91fb20986df4936793c1010216da54594cc"
+    },
+    {
+      "path": "Payload/iQuarters.app/Icon-iPad.png",
+      "size": 14187,
+      "sha256": "b688cd261c456cca8aef18a7fb7394f3284b40c82cc69522e699996b28447fd3"
+    },
+    {
+      "path": "Payload/iQuarters.app/Icon.png",
+      "size": 9368,
+      "sha256": "78fc75350055aeac5f9c0cbfc831637093540e5b8bdc7898cbb6563cb1a21a14"
+    },
+    {
+      "path": "Payload/iQuarters.app/Info.plist",
+      "size": 997,
+      "sha256": "e3263d47cb55374cbf533846680076d774b22979ecebbc7a17707753cba67ca9"
+    },
+    {
+      "path": "Payload/iQuarters.app/MainWindow.nib",
+      "size": 1336,
+      "sha256": "0d407153112d136d5c365f8da18f857914b267faf9112e4f8f1e6b482b327f80"
+    },
+    {
+      "path": "Payload/iQuarters.app/PkgInfo",
+      "size": 8,
+      "sha256": "82502191c9484b04d685374f9879a0066069c49b8acae7a04b01d38d07e8eca0"
+    },
+    {
+      "path": "Payload/iQuarters.app/ResourceRules.plist",
+      "size": 250,
+      "sha256": "0d4f495e70f48028090dc7c917cee2a01137543b9a731f7d367a1acbdb05e307"
+    },
+    {
+      "path": "Payload/iQuarters.app/_CodeSignature/CodeResources",
+      "size": 2266,
+      "sha256": "8b0b621110536f607c9afa3dc18d207df3a8c1c62f0ef2a62144ccdb43f3f7a4"
+    },
+    {
+      "path": "Payload/iQuarters.app/iQuarters",
+      "size": 15658240,
+      "sha256": "4ace5169ba59ff78d90c744dc574e0734a0034a73a6a0210cd0130abf23d5ffe"
+    }
+  ],
+  "scripts": [
+    {
+      "path": "Assets/Scripts/About.cs",
+      "sha256": "1d6ad27d4fdb22ba787f9f1f88a6c8a33804bb9576c7c90acd46c1954b5d2fb9"
+    },
+    {
+      "path": "Assets/Scripts/AngleAdjustScript.cs",
+      "sha256": "c2f5cd1f693a5fe32ae58586ce16f82d4d04678d507b062671833f44d4391905"
+    },
+    {
+      "path": "Assets/Scripts/AnnouncerScript.cs",
+      "sha256": "81f28eb75e7965aba27598f479d5a840c415fc7e6588e6fef96a136f80d751e6"
+    },
+    {
+      "path": "Assets/Scripts/AreYouSure.cs",
+      "sha256": "6f627ca824c4780420dfc6f624889ad2d7303ebf5d0e0526ff555f40e3778e43"
+    },
+    {
+      "path": "Assets/Scripts/BackClearButtons.cs",
+      "sha256": "6854bd5f6153dda853fa70cc3c7ba03709e10eb268cc56594660eacce40f8a90"
+    },
+    {
+      "path": "Assets/Scripts/BirdScript.cs",
+      "sha256": "dd3cd3638705b112bbbd0545eb226f45fc677b0a7e00dffcaf36b33fb317aa80"
+    },
+    {
+      "path": "Assets/Scripts/Boundary.cs",
+      "sha256": "da4e9bea95e315116377dfde68ecd750c17c3d50c6fabeb3737515bbd998e335"
+    },
+    {
+      "path": "Assets/Scripts/ButtonDownScript.cs",
+      "sha256": "df4aa1360bbb1e2bbacd18ee7b1f4be25721f5d1f552945eeb0289378966c1ef"
+    },
+    {
+      "path": "Assets/Scripts/CameraRelativeControl.cs",
+      "sha256": "047c9a32440d82e16e02cc4314bcc9c80088191def0c5f532420984a49cff29a"
+    },
+    {
+      "path": "Assets/Scripts/CellPhoneScript.cs",
+      "sha256": "5fdbc150c12e76e7561e9089bb0d403bf369f7eadb0cdbcc748ee0699d31407f"
+    },
+    {
+      "path": "Assets/Scripts/ChipBounceBounceScript.cs",
+      "sha256": "31d48a89472868a1b63ed3bcfa730cedb01d0e34963a520d96c100a7fcc2bf15"
+    },
+    {
+      "path": "Assets/Scripts/ChipBounceScript.cs",
+      "sha256": "5046b277ec0dab8823a60b01a8675fbb1c30f5ebca40723aab3fad1cd1b45d76"
+    },
+    {
+      "path": "Assets/Scripts/ChipRackupScript.cs",
+      "sha256": "360554505c92645f893c967c6158604560ca4229e439f0f36c50e41d74a34851"
+    },
+    {
+      "path": "Assets/Scripts/ChipRackupTextScript.cs",
+      "sha256": "4e0b9ad33e43c9572e9b46f36acafd764e129893e07230f8e3fa77fd0c2f570b"
+    },
+    {
+      "path": "Assets/Scripts/ChipRicochetBounce00Script.cs",
+      "sha256": "b9a3f1c32d9fb7d597795151e6661b8b2b89465a7c908ab7c88cc905453abaa1"
+    },
+    {
+      "path": "Assets/Scripts/ChipRicochetScript.cs",
+      "sha256": "7ad0368c73d8d5970c672864684793ee2077b1a9df9cd8ac208db4668beb979d"
+    },
+    {
+      "path": "Assets/Scripts/CoinHolder.cs",
+      "sha256": "e590a0eefdb2386da22c8caea672e60518802339bfee13846de0115afa6f98a1"
+    },
+    {
+      "path": "Assets/Scripts/CoinsLeft.cs",
+      "sha256": "42680f0bdc7bc3d71d1389552bccf69d91ee6ec26471f9e6a5451abe98e9abdf"
+    },
+    {
+      "path": "Assets/Scripts/CoinsLeftController.cs",
+      "sha256": "ebdd20323ab2553228d975070e1d156cf4cc1ba3f4109dae52fb73550a3042c6"
+    },
+    {
+      "path": "Assets/Scripts/ColliderGameObjectClass.cs",
+      "sha256": "20abb59c23c0cae33060459a51d13b9d5f05582503f1ff01aa14ed8dafd77efd"
+    },
+    {
+      "path": "Assets/Scripts/ColliderInfoClass.cs",
+      "sha256": "64b96654998ef70234b57f34aa8fda68c85f73692011eb2430d5353548994368"
+    },
+    {
+      "path": "Assets/Scripts/ConstraintAxis.cs",
+      "sha256": "b3f83dc7b2177b537d89d933a3324684814d9453d2b2fdf0d5c45890f20b00a9"
+    },
+    {
+      "path": "Assets/Scripts/ControlState.cs",
+      "sha256": "8c8145c8d41ed7dedf52ceaeb9656fdd59b7cbb521e64753278051d1971c31d1"
+    },
+    {
+      "path": "Assets/Scripts/CrowdScript.cs",
+      "sha256": "28317f01b05262443b16fe0df10452c3a5d60704ed1357007725ad9bc04f8fa5"
+    },
+    {
+      "path": "Assets/Scripts/Entry.cs",
+      "sha256": "655ad1358a2dc6d90443ce9055409ed7e77f74ab2968924dd6fe818b93632f59"
+    },
+    {
+      "path": "Assets/Scripts/FirstPersonControl.cs",
+      "sha256": "40b173bbb4b25a434f76ab36d8d6ca1cd1ba56d5ebc874f6417bebef26ff8cfe"
+    },
+    {
+      "path": "Assets/Scripts/FollowTransform.cs",
+      "sha256": "a52b2e53aeb8b0971ba0bccde97b4fba1811e075c026bd454dbb0b87cd3f9d6b"
+    },
+    {
+      "path": "Assets/Scripts/GameHighScreen.cs",
+      "sha256": "129acdf274681516e32c7da1f3a6c9e3f060e54c534837c1d6d02934dcbe7c4a"
+    },
+    {
+      "path": "Assets/Scripts/GameManagerScript.cs",
+      "sha256": "4b6f09b99931688a473f9f40385b3f2506c6b9e5b2f579dd7926220c4acbdb11"
+    },
+    {
+      "path": "Assets/Scripts/GameOrRoundButtons.cs",
+      "sha256": "223b054a5bc4ee107a2369b20abc1ee8754288dcf5225d693312349948c738dd"
+    },
+    {
+      "path": "Assets/Scripts/GameOver.cs",
+      "sha256": "1aeb7ac7a18d29a59accc8a3631df4310ad592dc0aaa3e9aadc6b7babc428bea"
+    },
+    {
+      "path": "Assets/Scripts/GlassScaleController.cs",
+      "sha256": "fee22a96bbadf2e9348defa576caf6d80c2b83b7c01a88b173699aeb6d07162b"
+    },
+    {
+      "path": "Assets/Scripts/Help.cs",
+      "sha256": "7fe4c1f8fe67275d61fc2eb756bd140f1c0bffca46493130e8a44941602c025b"
+    },
+    {
+      "path": "Assets/Scripts/HiScorePracticeScript.cs",
+      "sha256": "e559e55e2f34ff240c38d81f42c367aae13293b6a87121deb8ab45d57848ddb6"
+    },
+    {
+      "path": "Assets/Scripts/HiScoreRoundScript.cs",
+      "sha256": "45b6fc36d2c727a6f6365c621c310f5e23d586d06636799622c43b19762b4bce"
+    },
+    {
+      "path": "Assets/Scripts/HiScoreScript.cs",
+      "sha256": "b7db9e5d5fb65ee8b652bce42dd7a10bcde1536eb63a0d25ccd75318a3aa2cbe"
+    },
+    {
+      "path": "Assets/Scripts/InGameAngleIcon.cs",
+      "sha256": "cc5966b692e59864fb7bf01c8e4e1b5c2e6a29186e58c3fb9e989659cc8e0a51"
+    },
+    {
+      "path": "Assets/Scripts/InGameHiScore.cs",
+      "sha256": "c03a51ab913768cd94f34e3a63b7284979c0b61d55bf2e8ecf19c10e3e34c557"
+    },
+    {
+      "path": "Assets/Scripts/IntroCamScript.cs",
+      "sha256": "310d96c748d673f79acfc54ab5551f2a6306247f7021e6d0d60de7b479ebd37a"
+    },
+    {
+      "path": "Assets/Scripts/Joystick.cs",
+      "sha256": "64478ef27160e45edc8fbc639ef53a036442189c87d73c3ae1c737e435b8439f"
+    },
+    {
+      "path": "Assets/Scripts/LauncherScript.cs",
+      "sha256": "7b0d48089645403f2d605506ac311bea4a5c717a016c797b3497e47ee9324281"
+    },
+    {
+      "path": "Assets/Scripts/LazySusanGlassShadow.cs",
+      "sha256": "b5535d418337210ab92713057a3978e7457f778aa9d5ac74b5c1b4e2e04073af"
+    },
+    {
+      "path": "Assets/Scripts/LighterScript.cs",
+      "sha256": "960ee7853926485f7568784168f64584967f60450d233bd6455303306807ead4"
+    },
+    {
+      "path": "Assets/Scripts/Logo.cs",
+      "sha256": "5ada1783510b22364d83611f7a5c77d5bcfaba14cdfda01a77f168d3e2346ceb"
+    },
+    {
+      "path": "Assets/Scripts/MainCameraScript.cs",
+      "sha256": "6baee8d5f69fa86d715ac2c0dc60dd3034f63bbddc8de6916ae9723b5b849084"
+    },
+    {
+      "path": "Assets/Scripts/NewtonsCradleScript.cs",
+      "sha256": "53c13b71219c4798440f0c496b6e8255786d909e1ff4f7c6be8096f6a6911ccb"
+    },
+    {
+      "path": "Assets/Scripts/ObliqueNear.cs",
+      "sha256": "1318fc0f8d5e2d88731400e7dd2aa0b06308cdc15924cb1232e59e77c5df001e"
+    },
+    {
+      "path": "Assets/Scripts/PauseButtonScript.cs",
+      "sha256": "bff456a6e946b97404019952ddff5b960faeea36a95365c58dacaf91f9faed51"
+    },
+    {
+      "path": "Assets/Scripts/PauseMenu.cs",
+      "sha256": "d37f05c5f0895412783e13efa80e6e6542dabaadfc0d762dd9bf6b2692c7dbb0"
+    },
+    {
+      "path": "Assets/Scripts/PlayerInfoClass.cs",
+      "sha256": "337958656dfb472101eb6a2ead50002619ee8686a311365d9ff5f9b9c6d22ac9"
+    },
+    {
+      "path": "Assets/Scripts/PlayerRelativeControl.cs",
+      "sha256": "477fb776ec7728ce1dc866e524baa30cae4c22fbdf73cf6c2a7ada34520f4125"
+    },
+    {
+      "path": "Assets/Scripts/PowerX.cs",
+      "sha256": "e901290f52b597935ce84dc2d8b8b2e819258da132edd1a7477c6dc74eff52ad"
+    },
+    {
+      "path": "Assets/Scripts/PracticeGreatScore.cs",
+      "sha256": "f8335e3e9554b6ab2f017ded20be9b1cc8759c466a8beed0426c8c92cea69b9e"
+    },
+    {
+      "path": "Assets/Scripts/PracticeUI.cs",
+      "sha256": "c3d3896ed8675967484bb53b187d9a6d540f4a2e3fb0b8d2f564ae2e30bfbf55"
+    },
+    {
+      "path": "Assets/Scripts/Properties/AssemblyInfo.cs",
+      "sha256": "163dc6c723e8f95b47a6e9d6b189b14eb245e18d9746045f2612da6b48b62fe9"
+    },
+    {
+      "path": "Assets/Scripts/QuarterTrigger.cs",
+      "sha256": "d17a8d106fbfc86e5f36a488d254e1c89bbca63ff48a1a6eadff4012f4308851"
+    },
+    {
+      "path": "Assets/Scripts/RenderWater.cs",
+      "sha256": "19d69831bfdea392fbb6297a99acada6a8456e66505d9f2926366e65ecacadb3"
+    },
+    {
+      "path": "Assets/Scripts/ReplayCameraScript.cs",
+      "sha256": "d5cc3fc76cdf42bc63cf384863b82dd5b4fc5471346c95b6ffe59d2af8508f22"
+    },
+    {
+      "path": "Assets/Scripts/ReplayController.cs",
+      "sha256": "7cf84854e96c79659aa22aedac31f32eb0021fccfa17d926a2e17ae9a50f88f6"
+    },
+    {
+      "path": "Assets/Scripts/ReplayExciter.cs",
+      "sha256": "2da02226ecc63fcdf40ccec8bac4bae954686311e3178dceebb08ae52c5160de"
+    },
+    {
+      "path": "Assets/Scripts/RicochetExciter.cs",
+      "sha256": "e33298c663546531693204107829b851687b11c8020b7fe300b015d6532d74cb"
+    },
+    {
+      "path": "Assets/Scripts/RollABall.cs",
+      "sha256": "96eff27e6ab9f41d23a4cd46feed8404cb9fc828ecd43e402f5152a79dd75093"
+    },
+    {
+      "path": "Assets/Scripts/RotationConstraint.cs",
+      "sha256": "f65e70084816e7884b52458ba03ff6f50a544d22f912ef5aa969e11ac8f9dc86"
+    },
+    {
+      "path": "Assets/Scripts/RoundComplete.cs",
+      "sha256": "e2194a3bed89d341df2967d583310a3064496e1df0a0a12b451a4e1209504f65"
+    },
+    {
+      "path": "Assets/Scripts/RoundHighScreen.cs",
+      "sha256": "f3e0bab90cc3ffa3f9423fbcfd8a878722c18b37a3c4512371ad80228f55ef50"
+    },
+    {
+      "path": "Assets/Scripts/RoundIndicator.cs",
+      "sha256": "898c82baa919149c572ac73b13b7eaed3da79e7c25b0590395ac47ea89abfbf0"
+    },
+    {
+      "path": "Assets/Scripts/SaveGameScript.cs",
+      "sha256": "be55272f5f081388d3d00e342003bf8988b62e95d12dddd005d19edae4080b22"
+    },
+    {
+      "path": "Assets/Scripts/SaveReplayButtons.cs",
+      "sha256": "eb05196a97a4f7e2dafa4f899862872b0032abed020a4ec2ac091b305f878d65"
+    },
+    {
+      "path": "Assets/Scripts/SecretRound.cs",
+      "sha256": "d08d360bbdcdf659a20284513a1023c35199f0e718a94e4a40eb175d36ad683b"
+    },
+    {
+      "path": "Assets/Scripts/ShadowQuarterScript.cs",
+      "sha256": "5ef4e29cd2c33bf964f0ab8fb37f7a1728764a261149994f8e901b1669fd66b0"
+    },
+    {
+      "path": "Assets/Scripts/ShotTypeHelper.cs",
+      "sha256": "7c2595036f0a75793ee9536a27b26c5353493d830727b314062f2cb9aad9b441"
+    },
+    {
+      "path": "Assets/Scripts/SidescrollControl.cs",
+      "sha256": "8953a45a66bdde180f285fae04d337e243cb68f98dd3c46517d61152ae82f904"
+    },
+    {
+      "path": "Assets/Scripts/SmoothFollow2D.cs",
+      "sha256": "819ecd2a2bb41f99f4343c09102ef329a34718b01e4184d2012a0518905355e6"
+    },
+    {
+      "path": "Assets/Scripts/SpotlightScript.cs",
+      "sha256": "8f50504c890d887d3ebcb1fa5063f141b8dad4dec73bc0b5405c0a5c288ae8fa"
+    },
+    {
+      "path": "Assets/Scripts/StatsScreen.cs",
+      "sha256": "9df4f6f9fc2506bfd14e5860419537af99c2ab521c29db8191060cceeb70d9b0"
+    },
+    {
+      "path": "Assets/Scripts/Streak.cs",
+      "sha256": "0c143e536e40bcb2b63d0482ba0b109c78cbe8264e2dbc1f62c3de6754e5fdf0"
+    },
+    {
+      "path": "Assets/Scripts/TapControl.cs",
+      "sha256": "13b5e3e02c64cb4b33a6485847fc31c91949bab10253eeb7970540615181263c"
+    },
+    {
+      "path": "Assets/Scripts/UIPlayer.cs",
+      "sha256": "4df7842d51ee82c67338a01a052099f7b8c430e2bd4864ace910f8722c5faf9f"
+    },
+    {
+      "path": "Assets/Scripts/ZoomCamera.cs",
+      "sha256": "448ba89fb6d38b90367e00ea59824f4ddd298f13d4a54498c8666f386200df0e"
+    },
+    {
+      "path": "Assets/Scripts/iPhoneWater.cs",
+      "sha256": "399c0ddc7815a488c18ef42767415f41be2e0a0401da7defdfb8bdda83726102"
+    },
+    {
+      "path": "Assets/Scripts/lightray.cs",
+      "sha256": "beda1164507fc5a20c9ff5b825720a62e74f359314ee675db972de071ebe79be"
+    },
+    {
+      "path": "Assets/Scripts/mainmenu.cs",
+      "sha256": "f2600dbe3259c5420a6038856f56837d4fc3a586c4355ff2dac499ef196d67ea"
+    },
+    {
+      "path": "Assets/Scripts/qstack.cs",
+      "sha256": "71e60fae7f99d8c227a24ac21c5a2dfc98fdba50f87eccff1efe6ff99f0df7d0"
+    },
+    {
+      "path": "Assets/Scripts/spotdirScript.cs",
+      "sha256": "6bff108675401f4b75f19af3c0874dd7f32d8526cfdb5e393fd4173b6b574cfe"
+    }
+  ]
+}
