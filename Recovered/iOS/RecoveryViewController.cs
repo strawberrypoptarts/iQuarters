@@ -25,12 +25,7 @@ public sealed partial class GameViewController : UIViewController
     string pauseResumeState="play",state="busy",hitSound="";int round,lastContacts,replayFrame;float delay;float angle {get=>session.shotAngle;set=>session.shotAngle=value;}bool angleInput,shake,transition;CGPoint lastTouch,angleTouch;readonly TimedFlickGesture flick=new();double lastTouchTimestamp;bool adjustingAngle;
     public GameViewController(GameSession session,bool selectRound){this.session=session;selectAtStart=selectRound;}
     bool prepared;
-#if BROWSER
-    public async Task PrepareAsync(){ await Task.Yield(); Prepare(); }
-    void Prepare(){
-#else
     public Task PrepareAsync()=>Task.Run(()=>{
-#endif
         // No views are created here. Scene graphs are private until this task completes.
         using var pool=new NSAutoreleasePool();
         var assets=new LegacyAssetCache();
@@ -52,20 +47,13 @@ public sealed partial class GameViewController : UIViewController
         using var sounds=JsonDocument.Parse(File.ReadAllText(LegacyScene.Resource("audio/manifest.json")));hitSound=sounds.RootElement.EnumerateArray().First(v=>v.GetProperty("name").GetString()=="coin_table_hit1").GetProperty("file").GetString()!;
         presentation=assets.Read("presentation.json");
         audio=new GameAudio();prepared=true;
-#if BROWSER
-    }
-#else
     });
-#endif
     public async Task PrepareRenderingAsync(){var ready=await Task.WhenAll(display.PrepareAsync([game.Scene]),overlay.PrepareAsync([ui.Scene]));if(ready.Any(ok=>!ok))throw new InvalidOperationException("Scene resources could not be prepared.");}
     public void ReleasePreparedResources(){
         frameLoop?.Dispose();frameLoop=null;motion.StopAccelerometerUpdates();
         if(background!=null){NSNotificationCenter.DefaultCenter.RemoveObserver(background);background=null;}
         if(foreground!=null){NSNotificationCenter.DefaultCenter.RemoveObserver(foreground);foreground=null;}
         audio?.Dispose();audio=null;
-#if BROWSER
-        WebBridge.ReleaseScenes(game?.Scene,ui?.Scene);
-#endif
     }
     public override bool CanBecomeFirstResponder=>true;
     public override bool PrefersStatusBarHidden()=>true;

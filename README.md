@@ -6,11 +6,9 @@ Flick a quarter, bounce it across the table, and land it in a glass. This projec
 
 ## Play in your browser
 
-[**Play iQuarters on GitHub Pages**](https://strawberrypoptarts.github.io/iQuarters/)
+[**Play iQuarters on GitHub Pages**](https://strawberrypoptarts.github.io/iQuarters-web/)
 
-The web version shares the C# gameplay, physics, menus, scoring, replay, and animation code with the iOS app. It uses WebAssembly and a WebGL 1 renderer, with mouse/touch controls and browser-local saves. Wide screens use a centered portrait playfield. [Web build and compatibility notes](Recovered/Web/README.md).
-
-The browser renderer is a new port; exact visual parity and broad physical-device compatibility remain under verification.
+The standalone browser version lives in [**iQuarters-web**](https://github.com/strawberrypoptarts/iQuarters-web), with its own C# gameplay and presentation source, recovered assets, tests, and build workflow. It uses WebAssembly and WebGL 1. This repository contains the native iOS app.
 
 ## Version 1.0
 

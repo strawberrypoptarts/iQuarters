@@ -1,8 +1,8 @@
-name: Publish web game
+name: Redirect web game
 on:
   push:
     branches: [main]
-    paths: ['Recovered/**', 'Recovery/converted/**', 'Recovery/tools/package_web.py', '.github/workflows/pages.yml']
+    paths: ['web-redirect/**', '.github/workflows/pages.yml']
   workflow_dispatch:
 permissions:
   contents: read
@@ -16,17 +16,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-dotnet@v4
-        with:
-          dotnet-version: '10.0.401'
-      - run: dotnet workload install wasm-tools
-      - run: dotnet run --project Recovered/Verification -c Release
-      - run: dotnet publish Recovered/Web -c Release -p:UseSharedCompilation=false
-      - run: python3 Recovery/tools/package_web.py
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: dist/web
+          path: web-redirect
   deploy:
     needs: build
     runs-on: ubuntu-latest
