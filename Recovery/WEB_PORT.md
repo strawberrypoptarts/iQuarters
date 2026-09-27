@@ -36,6 +36,6 @@ The two shared-source conditional changes select a browser geometry handle and p
 
 ## Checks and limits
 
-The complete 76-check native C# suite passes with recovered collider fixtures. iOS shared source still compiles with zero warnings/errors. Browser verification is available at `?verify=1` and executes the 61 focused checks in WebAssembly (the exhaustive collider sweep runs natively). A normal launch does not run tests.
+The complete 76-check native C# suite passes with recovered collider fixtures. iOS shared source still compiles with zero warnings/errors. Browser verification is available at `?verify=1` and executes the 61 focused checks in WebAssembly (the exhaustive collider sweep runs natively). All 61 focused checks passed in the desktop browser WebAssembly runtime. A normal launch does not run tests.
 
 Menus and gameplay have been inspected in the desktop browser. This does not establish performance or compatibility on physical iPhones, iPads, or Android devices, nor pixel-identical SceneKit/WebGL lighting. The original reconstruction's documented fidelity gaps remain applicable.

@@ -63,6 +63,9 @@ public sealed partial class GameViewController : UIViewController
         if(background!=null){NSNotificationCenter.DefaultCenter.RemoveObserver(background);background=null;}
         if(foreground!=null){NSNotificationCenter.DefaultCenter.RemoveObserver(foreground);foreground=null;}
         audio?.Dispose();audio=null;
+#if BROWSER
+        WebBridge.ReleaseScenes(game?.Scene,ui?.Scene);
+#endif
     }
     public override bool CanBecomeFirstResponder=>true;
     public override bool PrefersStatusBarHidden()=>true;

@@ -16,6 +16,8 @@ public static partial class WebBridge {
  [JSImport("storage.remove","host")]internal static partial void Remove(string key);
  [JSImport("prompt","host")]internal static partial string Prompt(string message,string value);
  [JSImport("alert","host")]internal static partial void Alert(string message);
+ [JSImport("releaseScenes","host")]internal static partial void ReleaseGraphics(string ids);
+ internal static void ReleaseScenes(params SCNScene?[] scenes){var ids=new List<int>();foreach(var scene in scenes){if(scene==null)continue;ids.Add(scene.RootNode.WebId);void Drop(SCNNode node){foreach(var child in node.ChildNodes)Drop(child);SCNNode.All.Remove(node.WebId);sent.Remove(node.WebId);}Drop(scene.RootNode);}ReleaseGraphics(string.Join(',',ids));}
  static readonly Dictionary<int,NodeStamp> sent=[];
  readonly record struct NodeStamp(int Parent,string? Name,bool Hidden,float Alpha,System.Numerics.Vector3 Position,System.Numerics.Quaternion Rotation,System.Numerics.Vector3 Scale,string? Mesh,int Materials,bool Ortho,double Half,double Fov,double Near,double Far);
  [JSExport]public static void InstallAsset(string path,string contents){path="/RecoveredAssets/"+path;Directory.CreateDirectory(Path.GetDirectoryName(path)!);File.WriteAllText(path,contents);}
