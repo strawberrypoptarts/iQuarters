@@ -53,6 +53,9 @@ public sealed partial class LegacyScene
         foreach(var item in root.GetProperty("nodes").EnumerateArray()) {
             int id=item.GetProperty("id").GetInt32();Records[id]=item;
             var node=new SCNNode {Name=item.GetProperty("name").GetString(),Hidden=!item.GetProperty("active").GetBoolean()};Nodes[id]=node;if(recoveredLighting)node.CategoryBitMask=(nuint)(1u<<item.GetProperty("layer").GetInt32());
+#if BROWSER
+            node.SourceId=id;
+#endif
             if(Included(item)&&item.TryGetProperty("mesh",out var mesh)&&mesh.ValueKind==JsonValueKind.String) {
                 string key=mesh.GetString()!;
                 if(!meshes.TryGetValue(key,out var g)&&File.Exists(Resource("meshes/"+key+".json")))meshes[key]=g=LoadMesh(key,assets.Read("meshes/"+key+".json"));
@@ -80,11 +83,22 @@ public sealed partial class LegacyScene
         }
         roots=World.ChildNodes;
         foreach(var (owner,map) in bindings)foreach(var key in map.Values)foreach(var curve in clips[key].GetProperty("curves").EnumerateArray()){
-            SCNNode? target=Nodes[owner];foreach(var part in curve.GetProperty("path").GetString()!.Split('/',StringSplitOptions.RemoveEmptyEntries)){target=target?.ChildNodes.FirstOrDefault(n=>n.Name==part);if(target==null)break;}
+            SCNNode? target=ResolveCurveNode(owner,curve.GetProperty("path").GetString()!);
             if(target!=null)AnimatedNodes.Add(target);
         }
     }
     public SCNNode? Find(string name)=>Nodes.Values.FirstOrDefault(n=>n.Name==name);
+    SCNNode? ResolveCurveNode(int owner,string path)
+    {
+        SCNNode? node=Nodes[owner];bool first=true;
+        foreach(var part in path.Split('/',StringSplitOptions.RemoveEmptyEntries)){
+            if(first&&part==node?.Name){first=false;continue;}
+            first=false;
+            node=node?.ChildNodes.FirstOrDefault(n=>n.Name==part);
+            if(node==null)break;
+        }
+        return node;
+    }
     public int Id(string name)=>Nodes.First(p=>p.Value.Name==name).Key;
     public void HideRoots(){foreach(var n in roots)n.Hidden=true;}
     public static void Activate(SCNNode node){node.Hidden=false;foreach(var c in node.ChildNodes)Activate(c);}
@@ -99,6 +113,8 @@ public sealed partial class LegacyScene
         if(!bindings.TryGetValue(owner,out var b)||!b.TryGetValue(name,out var key)){complete?.Invoke();return;}
         playing.RemoveAll(p=>p.Owner==owner);playing.Add(new Playback {Owner=owner,Clip=clips[key],Time=start,End=end,Complete=complete});Apply(owner,clips[key],start);
     }
+    public bool IsPlaying(int owner)=>playing.Any(p=>p.Owner==owner);
+    public float Duration(int owner,string name)=>bindings.TryGetValue(owner,out var b)&&b.TryGetValue(name,out var key)?clips[key].GetProperty("duration").GetSingle():0;
     public void Sample(int owner,string name,float time)
     {
         if(bindings.TryGetValue(owner,out var b)&&b.TryGetValue(name,out var key))Apply(owner,clips[key],time);
@@ -126,8 +142,7 @@ public sealed partial class LegacyScene
     void Apply(int owner,JsonElement clip,float time)
     {
         foreach(var c in clip.GetProperty("curves").EnumerateArray()) {
-            string path=c.GetProperty("path").GetString()!;var node=Nodes[owner];
-            foreach(var part in path.Split('/',StringSplitOptions.RemoveEmptyEntries)){node=node?.ChildNodes.FirstOrDefault(n=>n.Name==part);if(node==null)break;}
+            string path=c.GetProperty("path").GetString()!;var node=ResolveCurveNode(owner,path);
             if(node==null)continue;var value=Evaluate(c,time);if(value.Length==0)continue;
             switch(c.GetProperty("kind").GetString()) {
                 case "position":node.Position=new(value[0],value[1],value[2]);break;
@@ -151,6 +166,9 @@ public sealed partial class LegacyScene
     }
     static SCNGeometry LoadMesh(string key,JsonElement d)
     {
+#if BROWSER
+        return new SCNGeometry { MeshKey=key };
+#else
         int count=d.GetProperty("vertices").GetArrayLength();
         var sources=new List<SCNGeometrySource>{SCNGeometrySource.FromVertices(d.GetProperty("vertices").EnumerateArray().Select(Vector).ToArray())};
         if(d.GetProperty("normals").GetArrayLength()==count)sources.Add(SCNGeometrySource.FromNormals(d.GetProperty("normals").EnumerateArray().Select(Vector).ToArray()));
@@ -163,5 +181,6 @@ public sealed partial class LegacyScene
         }
         var elements=d.GetProperty("submeshes").EnumerateArray().Select(g=>{var ids=g.EnumerateArray().SelectMany(t=>t.EnumerateArray().Select(v=>v.GetInt32())).ToArray();var bytes=new byte[ids.Length*4];Buffer.BlockCopy(ids,0,bytes,0,bytes.Length);return SCNGeometryElement.FromData(NSData.FromArray(bytes),SCNGeometryPrimitiveType.Triangles,ids.Length/3,4);}).ToArray();
         return SCNGeometry.Create(sources.ToArray(),elements);
+#endif
     }
 }

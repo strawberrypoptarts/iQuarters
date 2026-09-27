@@ -22,6 +22,10 @@ public sealed partial class LegacyScene
                 EntryPointSurface=$"_surface.diffuse *= float4({C(glowTint[0].GetSingle()*2)}, {C(glowTint[1].GetSingle()*2)}, {C(glowTint[2].GetSingle()*2)}, {C(glowTint[3].GetSingle()*2)} * in.recoveredGlowAlpha);"
             };return;
         }
+        if(data.GetProperty("name").GetString()=="flash_00"){
+            material.LightingModelName=SCNLightingModel.Constant;material.BlendMode=SCNBlendMode.Add;
+            material.WritesToDepthBuffer=false;material.TransparencyMode=SCNTransparencyMode.AOne;return;
+        }
         bool vertexLit=shader.GetProperty("vertexLit").GetBoolean();
         material.LightingModelName=vertexLit?SCNLightingModel.Phong:SCNLightingModel.Lambert;
         material.LitPerPixel=!vertexLit;

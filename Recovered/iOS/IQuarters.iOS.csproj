@@ -3,7 +3,7 @@
     <TargetFramework>net10.0-ios27.0</TargetFramework>
     <OutputType>Exe</OutputType>
     <ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
-    <ApplicationVersion>11</ApplicationVersion>
+    <ApplicationVersion>12</ApplicationVersion>
     <!-- Preserve native runtime symbols: also makes device startup failures diagnosable. -->
     <MtouchNoSymbolStrip>true</MtouchNoSymbolStrip>
     <!-- Installed Xcode 27 requires the matching preview bindings. -->

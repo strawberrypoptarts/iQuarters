@@ -31,5 +31,6 @@ sealed class GameAudio : IDisposable
         if(!ready||!clips.TryGetValue(name,out var buffer))return;
         var player=players[channel];player.Volume=volume;player.ScheduleBuffer(buffer,null,AVAudioPlayerNodeBufferOptions.Interrupts,(Action?)null);
     }
+    public void Stop(int channel){players[channel].Stop();if(ready){if(OperatingSystem.IsIOSVersionAtLeast(27))players[channel].Play(out _);else players[channel].Play();}}
     public void Dispose(){foreach(var player in players)player.Stop();engine.Stop();foreach(var clip in clips.Values)clip.Dispose();foreach(var player in players)player.Dispose();engine.Dispose();}
 }
