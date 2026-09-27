@@ -53,6 +53,9 @@ public sealed partial class LegacyScene
         foreach(var item in root.GetProperty("nodes").EnumerateArray()) {
             int id=item.GetProperty("id").GetInt32();Records[id]=item;
             var node=new SCNNode {Name=item.GetProperty("name").GetString(),Hidden=!item.GetProperty("active").GetBoolean()};Nodes[id]=node;if(recoveredLighting)node.CategoryBitMask=(nuint)(1u<<item.GetProperty("layer").GetInt32());
+#if BROWSER
+            node.SourceId=id;
+#endif
             if(Included(item)&&item.TryGetProperty("mesh",out var mesh)&&mesh.ValueKind==JsonValueKind.String) {
                 string key=mesh.GetString()!;
                 if(!meshes.TryGetValue(key,out var g)&&File.Exists(Resource("meshes/"+key+".json")))meshes[key]=g=LoadMesh(key,assets.Read("meshes/"+key+".json"));
@@ -151,6 +154,9 @@ public sealed partial class LegacyScene
     }
     static SCNGeometry LoadMesh(string key,JsonElement d)
     {
+#if BROWSER
+        return new SCNGeometry { MeshKey=key };
+#else
         int count=d.GetProperty("vertices").GetArrayLength();
         var sources=new List<SCNGeometrySource>{SCNGeometrySource.FromVertices(d.GetProperty("vertices").EnumerateArray().Select(Vector).ToArray())};
         if(d.GetProperty("normals").GetArrayLength()==count)sources.Add(SCNGeometrySource.FromNormals(d.GetProperty("normals").EnumerateArray().Select(Vector).ToArray()));
@@ -163,5 +169,6 @@ public sealed partial class LegacyScene
         }
         var elements=d.GetProperty("submeshes").EnumerateArray().Select(g=>{var ids=g.EnumerateArray().SelectMany(t=>t.EnumerateArray().Select(v=>v.GetInt32())).ToArray();var bytes=new byte[ids.Length*4];Buffer.BlockCopy(ids,0,bytes,0,bytes.Length);return SCNGeometryElement.FromData(NSData.FromArray(bytes),SCNGeometryPrimitiveType.Triangles,ids.Length/3,4);}).ToArray();
         return SCNGeometry.Create(sources.ToArray(),elements);
+#endif
     }
 }
